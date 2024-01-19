@@ -1,0 +1,60 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+001,Auftrag erhalten,2024-01-01T08:00:00,Max Mustermann,50.00,Produkt A,100.00,Firma1,Lager A,Werk B
+001,Ware abholen,2024-01-01T09:30:00,Sarah Schmidt,30.00,Produkt A,100.00,Firma1,Werk B,Umschlagplatz 1
+002,Auftrag erhalten,2024-01-01T08:15:00,Lena Mueller,45.00,Produkt B,120.00,Firma2,Lager C,Werk D
+003,Auftrag erhalten,2024-01-01T08:30:00,Timo Wagner,60.00,Produkt C,80.00,Firma3,Lager D,Werk E
+002,Ware abholen,2024-01-01T09:45:00,Lisa Schulz,35.00,Produkt B,120.00,Firma2,Werk D,Umschlagplatz 2
+004,Auftrag erhalten,2024-01-01T08:45:00,Jan Becker,55.00,Produkt D,70.00,Firma4,Lager F,Werk G
+005,Auftrag erhalten,2024-01-01T09:00:00,Laura Fischer,70.00,Produkt E,150.00,Firma5,Lager G,Werk H
+003,Ware abholen,2024-01-01T10:00:00,Paul Zimmer,40.00,Produkt C,80.00,Firma3,Werk E,Umschlagplatz 3
+006,Auftrag erhalten,2024-01-01T09:15:00,Lisa Mueller,65.00,Produkt F,110.00,Firma6,Lager H,Werk I
+007,Auftrag erhalten,2024-01-01T09:30:00,Nico Schmidt,75.00,Produkt G,95.00,Firma7,Lager I,Werk J
+004,Ware abholen,2024-01-01T10:15:00,Emma Weber,50.00,Produkt D,70.00,Firma4,Werk G,Umschlagplatz 4
+008,Auftrag erhalten,2024-01-01T09:45:00,Leonie Richter,55.00,Produkt H,130.00,Firma8,Lager K,Werk L
+005,Ware abholen,2024-01-01T10:30:00,David Meyer,65.00,Produkt E,150.00,Firma5,Werk H,Umschlagplatz 5
+009,Auftrag erhalten,2024-01-01T10:00:00,Sophia Lang,45.00,Produkt I,90.00,Firma9,Lager M,Werk N
+010,Auftrag erhalten,2024-01-01T10:15:00,Luca Huber,70.00,Produkt J,75.00,Firma10,Lager O,Werk P
+006,Ware abholen,2024-01-01T10:45:00,Mia Schmitt,60.00,Produkt F,110.00,Firma6,Werk I,Umschlagplatz 6
+007,Ware abholen,2024-01-01T11:00:00,Jonas Richter,70.00,Produkt G,95.00,Firma7,Werk J,Umschlagplatz 7
+008,Ware abholen,2024-01-01T11:15:00,Emilia Wagner,60.00,Produkt H,130.00,Firma8,Werk L,Umschlagplatz 8
+009,Ware abholen,2024-01-01T11:30:00,Noah Becker,50.00,Produkt I,90.00,Firma9,Werk N,Umschlagplatz 9
+010,Ware abholen,2024-01-01T11:45:00,Hannah Meyer,55.00,Produkt J,75.00,Firma10,Werk P,Umschlagplatz 10
+011,Transport beginnen,2024-01-01T12:00:00,Mia Schmitt,65.00,Produkt K,110.00,Firma11,Lager Q,Werk R
+011,Transport beenden,2024-01-01T12:30:00,Jonas Richter,65.00,Produkt K,110.00,Firma11,Werk R,Umschlagplatz 11
+012,Transport beginnen,2024-01-01T12:15:00,Laura Fischer,70.00,Produkt L,140.00,Firma12,Lager S,Werk T
+013,Transport beginnen,2024-01-01T12:30:00,David Meyer,75.00,Produkt M,95.00,Firma13,Lager U,Werk V
+012,Transport beenden,2024-01-01T13:00:00,Emilia Wagner,75.00,Produkt L,140.00,Firma12,Werk T,Umschlagplatz 12
+014,Transport beginnen,2024-01-01T12:45:00,Noah Becker,60.00,Produkt N,75.00,Firma14,Lager W,Werk X
+015,Transport beginnen,2024-01-01T13:00:00,Hannah Meyer,70.00,Produkt O,120.00,Firma15,Lager Y,Werk Z
+013,Transport beenden,2024-01-01T13:15:00,Timo Wagner,70.00,Produkt M,95.00,Firma13,Werk V,Umschlagplatz 13
+016,Transport beginnen,2024-01-01T13:15:00,Sarah Schmidt,75.00,Produkt P,100.00,Firma16,Lager A,Werk B
+017,Transport beginnen,2024-01-01T13:30:00,Jan Becker,80.00,Produkt Q,110.00,Firma17,Lager C,Werk D
+014,Transport beenden,2024-01-01T13:45:00,Luca Huber,75.00,Produkt N,75.00,Firma14,Werk X,Umschlagplatz 14
+018,Transport beginnen,2024-01-01T13:45:00,Leonie Richter,80.00,Produkt R,130.00,Firma18,Lager E,Werk F
+015,Transport beenden,2024-01-01T14:00:00,Sophia Lang,75.00,Produkt O,120.00,Firma15,Werk Z,Umschlagplatz 15
+019,Transport beginnen,2024-01-01T14:00:00,Lisa Schulz,75.00,Produkt S,90.00,Firma19,Lager G,Werk H
+020,Transport beginnen,2024-01-01T14:15:00,Nico Schmidt,80.00,Produkt T,85.00,Firma20,Lager I,Werk J
+016,Transport beenden,2024-01-01T14:30:00,Paul Zimmer,70.00,Produkt P,100.00,Firma16,Werk B,Umschlagplatz 16
+017,Transport beenden,2024-01-01T14:45:00,Emma Weber,80.00,Produkt Q,110.00,Firma17,Werk D,Umschlagplatz 17
+018,Transport beenden,2024-01-01T15:00:00,Mia Schmitt,75.00,Produkt R,130.00,Firma18,Werk F,Umschlagplatz 18
+019,Transport beenden,2024-01-01T15:15:00,Jonas Richter,85.00,Produkt S,90.00,Firma19,Werk H,Umschlagplatz 19
+020,Transport beenden,2024-01-01T15:30:00,Laura Fischer,80.00,Produkt T,85.00,Firma20,Werk J,Umschlagplatz 20
+021,Produkt ins Lager legen,2024-01-01T16:00:00,Mia Schmitt,10.00,Produkt A,100.00,Firma1,Lager A,Lager A
+022,Produkt ins Lager legen,2024-01-01T16:15:00,Sarah Schmidt,12.00,Produkt B,120.00,Firma2,Lager C,Lager C
+021,Produkt aus Lager nehmen,2024-01-01T16:30:00,Lena Mueller,12.00,Produkt B,120.00,Firma2,Lager C,Lager C
+023,Produkt ins Lager legen,2024-01-01T16:45:00,Lisa Schulz,9.00,Produkt C,80.00,Firma3,Lager D,Lager D
+022,Produkt aus Lager nehmen,2024-01-01T17:00:00,Timo Wagner,9.00,Produkt C,80.00,Firma3,Lager D,Lager D
+024,Produkt ins Lager legen,2024-01-01T17:15:00,Jan Becker,8.00,Produkt D,70.00,Firma4,Lager F,Lager F
+023,Produkt aus Lager nehmen,2024-01-01T17:30:00,Emma Weber,8.00,Produkt D,70.00,Firma4,Lager F,Lager F
+025,Produkt ins Lager legen,2024-01-01T17:45:00,Laura Fischer,14.00,Produkt E,150.00,Firma5,Lager G,Lager G
+024,Produkt aus Lager nehmen,2024-01-01T18:00:00,David Meyer,14.00,Produkt E,150.00,Firma5,Lager G,Lager G
+026,Produkt ins Lager legen,2024-01-01T18:15:00,Paul Zimmer,11.00,Produkt F,110.00,Firma6,Lager H,Lager H
+025,Produkt aus Lager nehmen,2024-01-01T18:30:00,Lisa Mueller,11.00,Produkt F,110.00,Firma6,Lager H,Lager H
+027,Produkt ins Lager legen,2024-01-01T18:45:00,Nico Schmidt,9.00,Produkt G,95.00,Firma7,Lager I,Lager I
+026,Produkt aus Lager nehmen,2024-01-01T19:00:00,Jonas Richter,9.00,Produkt G,95.00,Firma7,Lager I,Lager I
+028,Produkt ins Lager legen,2024-01-01T19:15:00,Emilia Wagner,13.00,Produkt H,130.00,Firma8,Lager K,Lager K
+027,Produkt aus Lager nehmen,2024-01-01T19:30:00,Leonie Richter,13.00,Produkt H,130.00,Firma8,Lager K,Lager K
+029,Produkt ins Lager legen,2024-01-01T19:45:00,Sophia Lang,8.00,Produkt I,90.00,Firma9,Lager M,Lager M
+028,Produkt aus Lager nehmen,2024-01-01T20:00:00,Sophia Lang,8.00,Produkt I,90.00,Firma9,Lager M,Lager M
+030,Produkt ins Lager legen,2024-01-01T20:15:00,Luca Huber,7.00,Produkt J,75.00,Firma10,Lager O,Lager O
+029,Produkt aus Lager nehmen,2024-01-01T20:30:00,Luca Huber,7.00,Produkt J,75.00,Firma10,Lager O,Lager O

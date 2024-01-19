@@ -1,0 +1,1001 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+001,Produkt ins Lager legen,2024-01-01T08:00:00,Leonie Richter,94.00599292281413,Produkt I,90.0,Firma18,Lager J,Lager E
+002,Transport beenden,2024-01-01T08:15:00,Noah Becker,87.4578754744871,Produkt N,75.0,Firma17,Lager J,Lager B
+003,Ware abholen,2024-01-01T08:30:00,Leonie Richter,20.8862035237409,Produkt S,90.0,Firma8,Lager J,Lager E
+004,Ware abholen,2024-01-01T08:45:00,Timo Wagner,84.10585661996501,Produkt R,130.0,Firma1,Lager F,Lager D
+005,Auftrag erhalten,2024-01-01T09:00:00,Mia Schmitt,17.411473514253153,Produkt C,80.0,Firma10,Lager A,Lager C
+006,Produkt ins Lager legen,2024-01-01T09:15:00,Hannah Meyer,41.79181680000257,Produkt Q,110.0,Firma8,Lager E,Lager J
+007,Produkt aus Lager nehmen,2024-01-01T09:30:00,Luca Huber,22.83885681327653,Produkt B,120.0,Firma17,Lager G,Lager B
+008,Transport beginnen,2024-01-01T09:45:00,Jan Becker,24.694066816181692,Produkt O,120.0,Firma12,Lager G,Lager J
+009,Produkt ins Lager legen,2024-01-01T10:00:00,Lisa Mueller,75.58241732410883,Produkt L,140.0,Firma10,Lager H,Lager C
+010,Transport beginnen,2024-01-01T10:15:00,Timo Wagner,70.81098383213038,Produkt B,120.0,Firma14,Lager D,Lager I
+011,Transport beenden,2024-01-01T10:30:00,Emilia Wagner,9.063043316957355,Produkt A,100.0,Firma19,Lager A,Lager D
+012,Ware abholen,2024-01-01T10:45:00,Timo Wagner,16.606035656755516,Produkt E,150.0,Firma7,Lager B,Lager C
+013,Transport beenden,2024-01-01T11:00:00,Max Mustermann,78.85664778066588,Produkt O,120.0,Firma9,Lager F,Lager I
+014,Produkt ins Lager legen,2024-01-01T11:15:00,Jonas Richter,48.31012978235253,Produkt O,120.0,Firma16,Lager F,Lager C
+015,Auftrag erhalten,2024-01-01T11:30:00,Paul Zimmer,56.130544251012225,Produkt T,85.0,Firma10,Lager J,Lager J
+016,Transport beenden,2024-01-01T11:45:00,Laura Fischer,64.69113140305117,Produkt Q,110.0,Firma12,Lager G,Lager D
+017,Transport beginnen,2024-01-01T12:00:00,Lisa Schulz,51.80558224663934,Produkt F,110.0,Firma5,Lager B,Lager H
+018,Produkt aus Lager nehmen,2024-01-01T12:15:00,Paul Zimmer,48.86739756715058,Produkt O,120.0,Firma14,Lager B,Lager C
+019,Transport beenden,2024-01-01T12:30:00,Paul Zimmer,62.694450142280644,Produkt R,130.0,Firma8,Lager G,Lager H
+020,Produkt aus Lager nehmen,2024-01-01T12:45:00,Leonie Richter,87.63897342667748,Produkt I,90.0,Firma9,Lager I,Lager G
+021,Produkt ins Lager legen,2024-01-01T13:00:00,Luca Huber,38.10723314035176,Produkt R,130.0,Firma13,Lager I,Lager F
+022,Transport beginnen,2024-01-01T13:15:00,Noah Becker,17.34890210757036,Produkt P,100.0,Firma18,Lager C,Lager I
+023,Produkt ins Lager legen,2024-01-01T13:30:00,Paul Zimmer,69.29311110544641,Produkt P,100.0,Firma6,Lager H,Lager D
+024,Auftrag erhalten,2024-01-01T13:45:00,Jan Becker,9.556335775377455,Produkt C,80.0,Firma2,Lager D,Lager H
+025,Transport beenden,2024-01-01T14:00:00,Max Mustermann,40.096100145867545,Produkt K,110.0,Firma14,Lager C,Lager H
+026,Auftrag erhalten,2024-01-01T14:15:00,Nico Schmidt,10.8495782593766,Produkt M,95.0,Firma19,Lager J,Lager B
+027,Produkt aus Lager nehmen,2024-01-01T14:30:00,Paul Zimmer,70.25256454210118,Produkt F,110.0,Firma14,Lager G,Lager I
+028,Produkt aus Lager nehmen,2024-01-01T14:45:00,Jan Becker,38.53366886706126,Produkt K,110.0,Firma14,Lager D,Lager H
+029,Transport beginnen,2024-01-01T15:00:00,Sarah Schmidt,99.55583600158154,Produkt T,85.0,Firma15,Lager B,Lager B
+030,Transport beenden,2024-01-01T15:15:00,David Meyer,5.816957140978601,Produkt E,150.0,Firma13,Lager I,Lager C
+031,Auftrag erhalten,2024-01-01T15:30:00,Timo Wagner,43.70293761675819,Produkt B,120.0,Firma3,Lager G,Lager C
+032,Transport beginnen,2024-01-01T15:45:00,Emilia Wagner,26.395784671077198,Produkt L,140.0,Firma2,Lager F,Lager F
+033,Transport beginnen,2024-01-01T16:00:00,Timo Wagner,87.01064042309692,Produkt N,75.0,Firma16,Lager J,Lager I
+034,Produkt ins Lager legen,2024-01-01T16:15:00,Emilia Wagner,20.24222644262482,Produkt N,75.0,Firma1,Lager C,Lager C
+035,Ware abholen,2024-01-01T16:30:00,Sarah Schmidt,10.748793307773646,Produkt C,80.0,Firma16,Lager F,Lager F
+036,Ware abholen,2024-01-01T16:45:00,Mia Schmitt,57.50561196027985,Produkt L,140.0,Firma18,Lager C,Lager C
+037,Ware abholen,2024-01-01T17:00:00,Timo Wagner,96.26990572144726,Produkt J,75.0,Firma10,Lager C,Lager F
+038,Produkt ins Lager legen,2024-01-01T17:15:00,Nico Schmidt,88.0160966005414,Produkt N,75.0,Firma20,Lager E,Lager J
+039,Auftrag erhalten,2024-01-01T17:30:00,Mia Schmitt,73.73834103191693,Produkt G,95.0,Firma13,Lager E,Lager B
+040,Ware abholen,2024-01-01T17:45:00,Emilia Wagner,49.20278083405142,Produkt P,100.0,Firma1,Lager G,Lager H
+041,Produkt ins Lager legen,2024-01-01T18:00:00,Sophia Lang,46.868695994316354,Produkt S,90.0,Firma18,Lager J,Lager J
+042,Transport beginnen,2024-01-01T18:15:00,Emilia Wagner,39.41130466697698,Produkt A,100.0,Firma9,Lager E,Lager J
+043,Ware abholen,2024-01-01T18:30:00,Timo Wagner,89.10088563967034,Produkt O,120.0,Firma1,Lager D,Lager H
+044,Produkt aus Lager nehmen,2024-01-01T18:45:00,Jan Becker,53.133191137416105,Produkt R,130.0,Firma6,Lager H,Lager F
+045,Ware abholen,2024-01-01T19:00:00,Max Mustermann,42.65132902654788,Produkt O,120.0,Firma7,Lager F,Lager J
+046,Produkt ins Lager legen,2024-01-01T19:15:00,Lisa Mueller,70.61464724164824,Produkt B,120.0,Firma19,Lager B,Lager A
+047,Ware abholen,2024-01-01T19:30:00,Emma Weber,61.296374596558714,Produkt K,110.0,Firma3,Lager D,Lager G
+048,Transport beginnen,2024-01-01T19:45:00,Emma Weber,92.93029851838565,Produkt D,70.0,Firma4,Lager D,Lager J
+049,Ware abholen,2024-01-01T20:00:00,Mia Schmitt,79.90402616321026,Produkt R,130.0,Firma19,Lager A,Lager I
+050,Ware abholen,2024-01-01T20:15:00,Lisa Schulz,18.290066902337163,Produkt M,95.0,Firma7,Lager E,Lager D
+051,Produkt aus Lager nehmen,2024-01-01T20:30:00,Lena Mueller,48.0202403975254,Produkt N,75.0,Firma7,Lager F,Lager C
+052,Auftrag erhalten,2024-01-01T20:45:00,Mia Schmitt,76.75658715970185,Produkt R,130.0,Firma11,Lager J,Lager G
+053,Ware abholen,2024-01-01T21:00:00,Emilia Wagner,35.695453853837165,Produkt C,80.0,Firma19,Lager C,Lager D
+054,Ware abholen,2024-01-01T21:15:00,Hannah Meyer,47.068407048787,Produkt C,80.0,Firma17,Lager A,Lager B
+055,Transport beenden,2024-01-01T21:30:00,Noah Becker,39.02845784623283,Produkt A,100.0,Firma8,Lager C,Lager A
+056,Auftrag erhalten,2024-01-01T21:45:00,Timo Wagner,78.82368292190161,Produkt D,70.0,Firma9,Lager G,Lager A
+057,Transport beenden,2024-01-01T22:00:00,Laura Fischer,25.540279741821458,Produkt P,100.0,Firma5,Lager C,Lager A
+058,Produkt ins Lager legen,2024-01-01T22:15:00,Max Mustermann,20.957056066662425,Produkt D,70.0,Firma11,Lager A,Lager F
+059,Transport beenden,2024-01-01T22:30:00,Timo Wagner,80.19401644072727,Produkt C,80.0,Firma13,Lager E,Lager B
+060,Transport beginnen,2024-01-01T22:45:00,Emilia Wagner,45.84484570305436,Produkt A,100.0,Firma14,Lager H,Lager B
+061,Transport beginnen,2024-01-01T23:00:00,Paul Zimmer,96.20961188704794,Produkt N,75.0,Firma3,Lager G,Lager I
+062,Transport beenden,2024-01-01T23:15:00,Paul Zimmer,14.008162848170915,Produkt L,140.0,Firma20,Lager A,Lager D
+063,Transport beginnen,2024-01-01T23:30:00,Emma Weber,10.870325930078598,Produkt A,100.0,Firma7,Lager I,Lager G
+064,Produkt aus Lager nehmen,2024-01-01T23:45:00,Mia Schmitt,30.82613576767329,Produkt E,150.0,Firma10,Lager D,Lager D
+065,Ware abholen,2024-01-02T00:00:00,Noah Becker,56.98596487979752,Produkt O,120.0,Firma5,Lager F,Lager E
+066,Auftrag erhalten,2024-01-02T00:15:00,Emma Weber,11.329667315854808,Produkt S,90.0,Firma6,Lager I,Lager I
+067,Produkt aus Lager nehmen,2024-01-02T00:30:00,Paul Zimmer,98.96047547840483,Produkt F,110.0,Firma5,Lager D,Lager I
+068,Ware abholen,2024-01-02T00:45:00,Jonas Richter,99.10827630097765,Produkt M,95.0,Firma11,Lager I,Lager F
+069,Produkt aus Lager nehmen,2024-01-02T01:00:00,Lisa Schulz,96.25786509833303,Produkt E,150.0,Firma19,Lager F,Lager I
+070,Ware abholen,2024-01-02T01:15:00,Lena Mueller,43.23152988645594,Produkt Q,110.0,Firma15,Lager F,Lager F
+071,Produkt ins Lager legen,2024-01-02T01:30:00,Lisa Schulz,57.640753352411735,Produkt M,95.0,Firma8,Lager F,Lager I
+072,Transport beginnen,2024-01-02T01:45:00,Timo Wagner,17.296443302297057,Produkt P,100.0,Firma2,Lager D,Lager I
+073,Produkt ins Lager legen,2024-01-02T02:00:00,Timo Wagner,32.90165409994918,Produkt O,120.0,Firma5,Lager B,Lager C
+074,Produkt aus Lager nehmen,2024-01-02T02:15:00,Emma Weber,5.201872405098984,Produkt K,110.0,Firma5,Lager G,Lager B
+075,Produkt aus Lager nehmen,2024-01-02T02:30:00,David Meyer,25.512683987471398,Produkt A,100.0,Firma18,Lager E,Lager H
+076,Ware abholen,2024-01-02T02:45:00,Lisa Mueller,63.76118222235679,Produkt F,110.0,Firma8,Lager I,Lager I
+077,Transport beenden,2024-01-02T03:00:00,Laura Fischer,19.14191362042863,Produkt P,100.0,Firma14,Lager G,Lager D
+078,Ware abholen,2024-01-02T03:15:00,Lena Mueller,18.661652573478285,Produkt G,95.0,Firma18,Lager C,Lager G
+079,Auftrag erhalten,2024-01-02T03:30:00,Lena Mueller,15.066554457252547,Produkt H,130.0,Firma3,Lager C,Lager E
+080,Produkt aus Lager nehmen,2024-01-02T03:45:00,Laura Fischer,11.73319285335183,Produkt Q,110.0,Firma13,Lager D,Lager D
+081,Auftrag erhalten,2024-01-02T04:00:00,Lisa Mueller,23.475811831500437,Produkt H,130.0,Firma13,Lager A,Lager H
+082,Produkt ins Lager legen,2024-01-02T04:15:00,Hannah Meyer,23.035216847442236,Produkt T,85.0,Firma14,Lager D,Lager C
+083,Auftrag erhalten,2024-01-02T04:30:00,Leonie Richter,44.99024207719556,Produkt N,75.0,Firma18,Lager G,Lager C
+084,Produkt ins Lager legen,2024-01-02T04:45:00,Max Mustermann,48.36933883014461,Produkt D,70.0,Firma2,Lager F,Lager B
+085,Transport beginnen,2024-01-02T05:00:00,Lena Mueller,18.426817517846672,Produkt E,150.0,Firma4,Lager F,Lager A
+086,Produkt ins Lager legen,2024-01-02T05:15:00,Hannah Meyer,53.4584311311446,Produkt P,100.0,Firma10,Lager F,Lager I
+087,Auftrag erhalten,2024-01-02T05:30:00,Nico Schmidt,5.7307866424817195,Produkt G,95.0,Firma3,Lager D,Lager H
+088,Ware abholen,2024-01-02T05:45:00,Max Mustermann,80.33456905176396,Produkt B,120.0,Firma15,Lager A,Lager F
+089,Ware abholen,2024-01-02T06:00:00,Emma Weber,48.739992429502955,Produkt M,95.0,Firma16,Lager B,Lager I
+090,Transport beginnen,2024-01-02T06:15:00,Hannah Meyer,97.70312032908765,Produkt H,130.0,Firma11,Lager F,Lager J
+091,Transport beenden,2024-01-02T06:30:00,Emma Weber,65.40351739291972,Produkt G,95.0,Firma8,Lager F,Lager J
+092,Transport beenden,2024-01-02T06:45:00,Timo Wagner,13.321756680974175,Produkt G,95.0,Firma8,Lager F,Lager H
+093,Transport beenden,2024-01-02T07:00:00,Lisa Mueller,55.96332554263583,Produkt A,100.0,Firma1,Lager G,Lager A
+094,Transport beginnen,2024-01-02T07:15:00,Lisa Mueller,19.228667934246797,Produkt J,75.0,Firma5,Lager I,Lager D
+095,Ware abholen,2024-01-02T07:30:00,Lena Mueller,24.24834912593329,Produkt E,150.0,Firma20,Lager E,Lager H
+096,Produkt aus Lager nehmen,2024-01-02T07:45:00,Emma Weber,63.074677457710756,Produkt Q,110.0,Firma1,Lager H,Lager J
+097,Transport beenden,2024-01-02T08:00:00,Sophia Lang,15.240386674263513,Produkt I,90.0,Firma15,Lager G,Lager H
+098,Produkt ins Lager legen,2024-01-02T08:15:00,Lena Mueller,8.673423916662086,Produkt N,75.0,Firma8,Lager E,Lager G
+099,Ware abholen,2024-01-02T08:30:00,Paul Zimmer,58.644266191375834,Produkt H,130.0,Firma11,Lager J,Lager G
+100,Produkt aus Lager nehmen,2024-01-02T08:45:00,Leonie Richter,86.29916600473652,Produkt B,120.0,Firma5,Lager A,Lager F
+101,Produkt aus Lager nehmen,2024-01-02T09:00:00,Emma Weber,56.190465843320936,Produkt T,85.0,Firma7,Lager G,Lager B
+102,Ware abholen,2024-01-02T09:15:00,Hannah Meyer,17.08827196006696,Produkt F,110.0,Firma4,Lager A,Lager G
+103,Transport beginnen,2024-01-02T09:30:00,Emilia Wagner,35.94322946615637,Produkt O,120.0,Firma7,Lager H,Lager J
+104,Transport beenden,2024-01-02T09:45:00,Sophia Lang,44.33453680840383,Produkt C,80.0,Firma20,Lager F,Lager B
+105,Ware abholen,2024-01-02T10:00:00,Lisa Mueller,88.50902440312208,Produkt N,75.0,Firma8,Lager H,Lager F
+106,Produkt ins Lager legen,2024-01-02T10:15:00,Sophia Lang,54.38775738622141,Produkt M,95.0,Firma16,Lager B,Lager A
+107,Transport beenden,2024-01-02T10:30:00,Paul Zimmer,59.15637649435922,Produkt E,150.0,Firma3,Lager B,Lager D
+108,Transport beginnen,2024-01-02T10:45:00,Lisa Mueller,59.33000080493651,Produkt S,90.0,Firma20,Lager I,Lager I
+109,Produkt aus Lager nehmen,2024-01-02T11:00:00,Jan Becker,20.58325994782794,Produkt J,75.0,Firma1,Lager I,Lager I
+110,Transport beginnen,2024-01-02T11:15:00,Sophia Lang,14.409583551091114,Produkt K,110.0,Firma12,Lager F,Lager E
+111,Transport beginnen,2024-01-02T11:30:00,Lisa Mueller,94.45555427312112,Produkt G,95.0,Firma8,Lager G,Lager I
+112,Transport beginnen,2024-01-02T11:45:00,Nico Schmidt,27.269313171554746,Produkt F,110.0,Firma20,Lager F,Lager A
+113,Produkt aus Lager nehmen,2024-01-02T12:00:00,Noah Becker,22.849234918199322,Produkt D,70.0,Firma10,Lager G,Lager D
+114,Produkt ins Lager legen,2024-01-02T12:15:00,Laura Fischer,51.036340623609036,Produkt E,150.0,Firma3,Lager H,Lager J
+115,Produkt aus Lager nehmen,2024-01-02T12:30:00,David Meyer,92.82812779354663,Produkt K,110.0,Firma12,Lager D,Lager F
+116,Transport beginnen,2024-01-02T12:45:00,Sarah Schmidt,75.32151921871218,Produkt I,90.0,Firma19,Lager G,Lager A
+117,Transport beenden,2024-01-02T13:00:00,Luca Huber,28.230224631700466,Produkt D,70.0,Firma11,Lager F,Lager H
+118,Auftrag erhalten,2024-01-02T13:15:00,Lisa Schulz,46.13549182618925,Produkt T,85.0,Firma2,Lager E,Lager D
+119,Auftrag erhalten,2024-01-02T13:30:00,Nico Schmidt,64.30643086856804,Produkt M,95.0,Firma16,Lager C,Lager B
+120,Produkt ins Lager legen,2024-01-02T13:45:00,Mia Schmitt,86.20135218802514,Produkt M,95.0,Firma14,Lager J,Lager D
+121,Transport beenden,2024-01-02T14:00:00,Max Mustermann,31.597707872139473,Produkt M,95.0,Firma20,Lager E,Lager A
+122,Produkt aus Lager nehmen,2024-01-02T14:15:00,Jonas Richter,97.6139340775687,Produkt N,75.0,Firma6,Lager H,Lager D
+123,Ware abholen,2024-01-02T14:30:00,Emma Weber,21.94106829388537,Produkt F,110.0,Firma11,Lager I,Lager D
+124,Ware abholen,2024-01-02T14:45:00,David Meyer,97.74979227150145,Produkt G,95.0,Firma14,Lager A,Lager I
+125,Auftrag erhalten,2024-01-02T15:00:00,Sophia Lang,15.301026691433803,Produkt Q,110.0,Firma11,Lager E,Lager A
+126,Transport beenden,2024-01-02T15:15:00,Nico Schmidt,37.076306132754404,Produkt Q,110.0,Firma12,Lager E,Lager E
+127,Produkt ins Lager legen,2024-01-02T15:30:00,Sophia Lang,51.83580101386999,Produkt T,85.0,Firma15,Lager G,Lager D
+128,Auftrag erhalten,2024-01-02T15:45:00,Mia Schmitt,24.638936542568697,Produkt K,110.0,Firma9,Lager F,Lager G
+129,Transport beginnen,2024-01-02T16:00:00,Noah Becker,58.803677340566175,Produkt G,95.0,Firma4,Lager I,Lager E
+130,Ware abholen,2024-01-02T16:15:00,Luca Huber,66.72471847831714,Produkt P,100.0,Firma6,Lager F,Lager A
+131,Transport beginnen,2024-01-02T16:30:00,Emilia Wagner,86.23471136634643,Produkt J,75.0,Firma1,Lager E,Lager C
+132,Produkt aus Lager nehmen,2024-01-02T16:45:00,Sophia Lang,79.89869904979884,Produkt A,100.0,Firma14,Lager A,Lager A
+133,Produkt aus Lager nehmen,2024-01-02T17:00:00,Sarah Schmidt,99.79896355858187,Produkt G,95.0,Firma4,Lager D,Lager C
+134,Auftrag erhalten,2024-01-02T17:15:00,Noah Becker,94.11667107072012,Produkt R,130.0,Firma18,Lager D,Lager A
+135,Produkt ins Lager legen,2024-01-02T17:30:00,Sophia Lang,52.40847278086007,Produkt F,110.0,Firma4,Lager F,Lager H
+136,Transport beenden,2024-01-02T17:45:00,Paul Zimmer,43.473420884094836,Produkt G,95.0,Firma7,Lager I,Lager J
+137,Produkt aus Lager nehmen,2024-01-02T18:00:00,Paul Zimmer,23.24343887521862,Produkt Q,110.0,Firma8,Lager C,Lager B
+138,Auftrag erhalten,2024-01-02T18:15:00,Sarah Schmidt,14.772070416824896,Produkt E,150.0,Firma8,Lager J,Lager I
+139,Produkt ins Lager legen,2024-01-02T18:30:00,Hannah Meyer,72.08982043145032,Produkt J,75.0,Firma14,Lager A,Lager A
+140,Auftrag erhalten,2024-01-02T18:45:00,Emilia Wagner,51.93683599828518,Produkt N,75.0,Firma4,Lager J,Lager F
+141,Auftrag erhalten,2024-01-02T19:00:00,Lisa Schulz,61.81172313076218,Produkt R,130.0,Firma4,Lager A,Lager J
+142,Produkt aus Lager nehmen,2024-01-02T19:15:00,Jonas Richter,68.82042995291945,Produkt B,120.0,Firma2,Lager A,Lager F
+143,Produkt ins Lager legen,2024-01-02T19:30:00,Mia Schmitt,45.20717388976931,Produkt M,95.0,Firma12,Lager J,Lager F
+144,Produkt ins Lager legen,2024-01-02T19:45:00,Lisa Schulz,43.03365268058861,Produkt A,100.0,Firma16,Lager H,Lager F
+145,Transport beginnen,2024-01-02T20:00:00,Lena Mueller,19.123490470328342,Produkt N,75.0,Firma12,Lager G,Lager B
+146,Transport beenden,2024-01-02T20:15:00,Sophia Lang,48.867479511131705,Produkt S,90.0,Firma1,Lager E,Lager G
+147,Ware abholen,2024-01-02T20:30:00,David Meyer,78.91474740755817,Produkt M,95.0,Firma4,Lager G,Lager B
+148,Ware abholen,2024-01-02T20:45:00,Emilia Wagner,70.32322925166203,Produkt P,100.0,Firma14,Lager G,Lager D
+149,Produkt ins Lager legen,2024-01-02T21:00:00,Noah Becker,88.56695508974688,Produkt J,75.0,Firma20,Lager J,Lager B
+150,Produkt aus Lager nehmen,2024-01-02T21:15:00,David Meyer,47.99923400450286,Produkt I,90.0,Firma14,Lager G,Lager F
+151,Produkt ins Lager legen,2024-01-02T21:30:00,Lisa Schulz,94.58409106275373,Produkt G,95.0,Firma15,Lager C,Lager H
+152,Transport beginnen,2024-01-02T21:45:00,Noah Becker,32.51021398724,Produkt A,100.0,Firma19,Lager E,Lager I
+153,Produkt ins Lager legen,2024-01-02T22:00:00,Luca Huber,76.22960736802726,Produkt B,120.0,Firma18,Lager A,Lager C
+154,Ware abholen,2024-01-02T22:15:00,Paul Zimmer,99.56590188435256,Produkt D,70.0,Firma3,Lager B,Lager B
+155,Auftrag erhalten,2024-01-02T22:30:00,Mia Schmitt,41.117300511869296,Produkt C,80.0,Firma13,Lager F,Lager A
+156,Transport beginnen,2024-01-02T22:45:00,Emilia Wagner,89.41281219808604,Produkt B,120.0,Firma16,Lager E,Lager A
+157,Auftrag erhalten,2024-01-02T23:00:00,Timo Wagner,14.929933098973574,Produkt K,110.0,Firma1,Lager A,Lager I
+158,Transport beginnen,2024-01-02T23:15:00,Paul Zimmer,75.3434630303408,Produkt F,110.0,Firma11,Lager C,Lager C
+159,Produkt aus Lager nehmen,2024-01-02T23:30:00,Paul Zimmer,13.68840228038999,Produkt F,110.0,Firma16,Lager C,Lager A
+160,Ware abholen,2024-01-02T23:45:00,Nico Schmidt,30.916469163203764,Produkt G,95.0,Firma10,Lager E,Lager I
+161,Transport beenden,2024-01-03T00:00:00,Sophia Lang,95.85495701155739,Produkt M,95.0,Firma3,Lager C,Lager D
+162,Produkt aus Lager nehmen,2024-01-03T00:15:00,Hannah Meyer,91.34337442068285,Produkt P,100.0,Firma5,Lager D,Lager F
+163,Transport beginnen,2024-01-03T00:30:00,Sarah Schmidt,32.940609938111145,Produkt B,120.0,Firma18,Lager C,Lager G
+164,Auftrag erhalten,2024-01-03T00:45:00,Lisa Schulz,8.242775898870315,Produkt F,110.0,Firma12,Lager G,Lager H
+165,Ware abholen,2024-01-03T01:00:00,Emma Weber,32.757919287348614,Produkt G,95.0,Firma15,Lager H,Lager H
+166,Produkt ins Lager legen,2024-01-03T01:15:00,Hannah Meyer,82.40319091231729,Produkt K,110.0,Firma16,Lager G,Lager A
+167,Produkt aus Lager nehmen,2024-01-03T01:30:00,Max Mustermann,49.53231533499063,Produkt B,120.0,Firma2,Lager H,Lager E
+168,Auftrag erhalten,2024-01-03T01:45:00,David Meyer,10.133692653742305,Produkt P,100.0,Firma19,Lager D,Lager B
+169,Auftrag erhalten,2024-01-03T02:00:00,Lisa Mueller,53.830919410309534,Produkt P,100.0,Firma19,Lager J,Lager F
+170,Auftrag erhalten,2024-01-03T02:15:00,Lisa Schulz,22.637441970667922,Produkt R,130.0,Firma18,Lager C,Lager E
+171,Produkt ins Lager legen,2024-01-03T02:30:00,Lisa Mueller,85.20098895338346,Produkt L,140.0,Firma4,Lager D,Lager E
+172,Produkt ins Lager legen,2024-01-03T02:45:00,Mia Schmitt,52.64773816555488,Produkt Q,110.0,Firma1,Lager D,Lager B
+173,Produkt aus Lager nehmen,2024-01-03T03:00:00,Nico Schmidt,97.98249266489442,Produkt I,90.0,Firma18,Lager H,Lager H
+174,Transport beginnen,2024-01-03T03:15:00,Timo Wagner,32.25172016346539,Produkt S,90.0,Firma8,Lager I,Lager J
+175,Produkt aus Lager nehmen,2024-01-03T03:30:00,Luca Huber,36.93983604144513,Produkt Q,110.0,Firma10,Lager B,Lager J
+176,Produkt aus Lager nehmen,2024-01-03T03:45:00,Lisa Schulz,64.14901536278599,Produkt N,75.0,Firma15,Lager B,Lager F
+177,Transport beginnen,2024-01-03T04:00:00,Mia Schmitt,81.56987930740063,Produkt F,110.0,Firma9,Lager H,Lager H
+178,Transport beenden,2024-01-03T04:15:00,Lisa Schulz,96.79016114571313,Produkt D,70.0,Firma10,Lager J,Lager H
+179,Produkt aus Lager nehmen,2024-01-03T04:30:00,Timo Wagner,78.89858381604779,Produkt K,110.0,Firma13,Lager I,Lager I
+180,Transport beginnen,2024-01-03T04:45:00,Jonas Richter,49.14046309298942,Produkt K,110.0,Firma20,Lager H,Lager E
+181,Produkt aus Lager nehmen,2024-01-03T05:00:00,Noah Becker,23.590053268698938,Produkt I,90.0,Firma13,Lager H,Lager A
+182,Auftrag erhalten,2024-01-03T05:15:00,Jonas Richter,5.220565329256269,Produkt C,80.0,Firma7,Lager F,Lager C
+183,Ware abholen,2024-01-03T05:30:00,Sophia Lang,5.576102086467742,Produkt M,95.0,Firma16,Lager F,Lager A
+184,Transport beenden,2024-01-03T05:45:00,Hannah Meyer,31.307873753750023,Produkt T,85.0,Firma17,Lager H,Lager E
+185,Produkt aus Lager nehmen,2024-01-03T06:00:00,Hannah Meyer,90.70136597032662,Produkt E,150.0,Firma1,Lager F,Lager H
+186,Ware abholen,2024-01-03T06:15:00,Timo Wagner,37.22605810199187,Produkt G,95.0,Firma7,Lager A,Lager B
+187,Ware abholen,2024-01-03T06:30:00,Paul Zimmer,35.25761921813559,Produkt E,150.0,Firma7,Lager G,Lager H
+188,Transport beenden,2024-01-03T06:45:00,Laura Fischer,30.820471762105992,Produkt E,150.0,Firma19,Lager I,Lager A
+189,Transport beenden,2024-01-03T07:00:00,Laura Fischer,87.4703411684301,Produkt K,110.0,Firma19,Lager I,Lager A
+190,Transport beginnen,2024-01-03T07:15:00,Leonie Richter,5.2337276767121805,Produkt G,95.0,Firma17,Lager I,Lager I
+191,Auftrag erhalten,2024-01-03T07:30:00,Mia Schmitt,41.27540516265055,Produkt A,100.0,Firma6,Lager C,Lager I
+192,Produkt aus Lager nehmen,2024-01-03T07:45:00,Emilia Wagner,6.642200759446088,Produkt D,70.0,Firma10,Lager C,Lager C
+193,Produkt aus Lager nehmen,2024-01-03T08:00:00,Emma Weber,39.26667665614011,Produkt S,90.0,Firma6,Lager F,Lager F
+194,Produkt ins Lager legen,2024-01-03T08:15:00,Jonas Richter,17.695586515848017,Produkt N,75.0,Firma7,Lager E,Lager C
+195,Ware abholen,2024-01-03T08:30:00,Sophia Lang,21.765026309153424,Produkt T,85.0,Firma20,Lager I,Lager C
+196,Transport beginnen,2024-01-03T08:45:00,Emma Weber,52.20540504698242,Produkt L,140.0,Firma10,Lager G,Lager A
+197,Ware abholen,2024-01-03T09:00:00,Laura Fischer,47.25960983331952,Produkt O,120.0,Firma15,Lager C,Lager H
+198,Produkt ins Lager legen,2024-01-03T09:15:00,David Meyer,43.28015704855086,Produkt C,80.0,Firma2,Lager C,Lager E
+199,Transport beginnen,2024-01-03T09:30:00,Timo Wagner,81.20055165257932,Produkt N,75.0,Firma14,Lager H,Lager G
+200,Produkt aus Lager nehmen,2024-01-03T09:45:00,Lena Mueller,96.56515039597555,Produkt O,120.0,Firma4,Lager B,Lager I
+201,Produkt ins Lager legen,2024-01-03T10:00:00,Timo Wagner,82.54386722545053,Produkt A,100.0,Firma13,Lager F,Lager E
+202,Transport beenden,2024-01-03T10:15:00,David Meyer,50.15546537451784,Produkt M,95.0,Firma10,Lager A,Lager C
+203,Transport beginnen,2024-01-03T10:30:00,Lisa Mueller,6.922424182249575,Produkt T,85.0,Firma3,Lager E,Lager B
+204,Transport beenden,2024-01-03T10:45:00,Laura Fischer,27.366596907538312,Produkt S,90.0,Firma7,Lager E,Lager I
+205,Produkt aus Lager nehmen,2024-01-03T11:00:00,Lisa Schulz,80.70261333142257,Produkt B,120.0,Firma7,Lager F,Lager C
+206,Produkt aus Lager nehmen,2024-01-03T11:15:00,Mia Schmitt,65.8509541722976,Produkt H,130.0,Firma15,Lager E,Lager B
+207,Auftrag erhalten,2024-01-03T11:30:00,Mia Schmitt,96.8063275819426,Produkt A,100.0,Firma15,Lager H,Lager D
+208,Auftrag erhalten,2024-01-03T11:45:00,Lisa Mueller,99.34092746249682,Produkt S,90.0,Firma2,Lager D,Lager B
+209,Produkt aus Lager nehmen,2024-01-03T12:00:00,Hannah Meyer,12.031555188890533,Produkt M,95.0,Firma4,Lager G,Lager G
+210,Produkt ins Lager legen,2024-01-03T12:15:00,Mia Schmitt,93.02209721852111,Produkt P,100.0,Firma9,Lager E,Lager H
+211,Produkt ins Lager legen,2024-01-03T12:30:00,Lisa Schulz,11.12739412304432,Produkt Q,110.0,Firma10,Lager A,Lager H
+212,Ware abholen,2024-01-03T12:45:00,Emilia Wagner,66.3329606707685,Produkt O,120.0,Firma13,Lager D,Lager J
+213,Transport beginnen,2024-01-03T13:00:00,David Meyer,23.164687353302405,Produkt F,110.0,Firma12,Lager E,Lager C
+214,Auftrag erhalten,2024-01-03T13:15:00,Emma Weber,16.29226271706498,Produkt N,75.0,Firma5,Lager A,Lager B
+215,Produkt aus Lager nehmen,2024-01-03T13:30:00,Emilia Wagner,18.194047004266643,Produkt M,95.0,Firma7,Lager B,Lager G
+216,Produkt ins Lager legen,2024-01-03T13:45:00,Nico Schmidt,27.830711768763763,Produkt I,90.0,Firma5,Lager G,Lager A
+217,Auftrag erhalten,2024-01-03T14:00:00,Noah Becker,51.80478541056321,Produkt I,90.0,Firma5,Lager A,Lager I
+218,Transport beenden,2024-01-03T14:15:00,Paul Zimmer,94.23605770960103,Produkt R,130.0,Firma1,Lager E,Lager C
+219,Auftrag erhalten,2024-01-03T14:30:00,Jan Becker,95.16524497782785,Produkt J,75.0,Firma19,Lager B,Lager G
+220,Transport beenden,2024-01-03T14:45:00,Lisa Mueller,77.3129752275915,Produkt M,95.0,Firma9,Lager J,Lager B
+221,Transport beenden,2024-01-03T15:00:00,Hannah Meyer,46.23636114600929,Produkt O,120.0,Firma15,Lager B,Lager C
+222,Produkt aus Lager nehmen,2024-01-03T15:15:00,Timo Wagner,25.37870190228394,Produkt G,95.0,Firma17,Lager B,Lager H
+223,Produkt ins Lager legen,2024-01-03T15:30:00,Jan Becker,8.836656126271187,Produkt T,85.0,Firma16,Lager B,Lager I
+224,Auftrag erhalten,2024-01-03T15:45:00,Sarah Schmidt,79.56597443190557,Produkt D,70.0,Firma2,Lager G,Lager A
+225,Produkt ins Lager legen,2024-01-03T16:00:00,Sarah Schmidt,78.94892733939515,Produkt K,110.0,Firma17,Lager B,Lager E
+226,Produkt ins Lager legen,2024-01-03T16:15:00,Laura Fischer,52.62389344638204,Produkt R,130.0,Firma15,Lager A,Lager F
+227,Transport beginnen,2024-01-03T16:30:00,Sarah Schmidt,19.703895567271694,Produkt S,90.0,Firma7,Lager D,Lager D
+228,Auftrag erhalten,2024-01-03T16:45:00,Emilia Wagner,55.54640648255239,Produkt R,130.0,Firma19,Lager J,Lager J
+229,Ware abholen,2024-01-03T17:00:00,Max Mustermann,39.90994845676414,Produkt A,100.0,Firma19,Lager I,Lager I
+230,Transport beenden,2024-01-03T17:15:00,Timo Wagner,64.34474181734998,Produkt J,75.0,Firma8,Lager E,Lager J
+231,Auftrag erhalten,2024-01-03T17:30:00,Lisa Schulz,92.73107046917565,Produkt B,120.0,Firma1,Lager E,Lager E
+232,Produkt ins Lager legen,2024-01-03T17:45:00,Lisa Mueller,76.90379787884514,Produkt N,75.0,Firma8,Lager B,Lager A
+233,Produkt aus Lager nehmen,2024-01-03T18:00:00,Leonie Richter,71.17765540681111,Produkt I,90.0,Firma11,Lager H,Lager F
+234,Produkt aus Lager nehmen,2024-01-03T18:15:00,Emma Weber,55.90186797935863,Produkt N,75.0,Firma9,Lager A,Lager A
+235,Produkt ins Lager legen,2024-01-03T18:30:00,Emma Weber,26.469007285014705,Produkt T,85.0,Firma12,Lager J,Lager G
+236,Auftrag erhalten,2024-01-03T18:45:00,Lisa Mueller,50.1243462183451,Produkt E,150.0,Firma8,Lager C,Lager H
+237,Transport beenden,2024-01-03T19:00:00,Sophia Lang,21.67310503926173,Produkt E,150.0,Firma19,Lager B,Lager F
+238,Ware abholen,2024-01-03T19:15:00,Leonie Richter,32.75404109204082,Produkt C,80.0,Firma16,Lager F,Lager D
+239,Produkt ins Lager legen,2024-01-03T19:30:00,Luca Huber,7.642573264055468,Produkt G,95.0,Firma12,Lager E,Lager C
+240,Produkt aus Lager nehmen,2024-01-03T19:45:00,Lisa Schulz,22.962957212204422,Produkt L,140.0,Firma4,Lager D,Lager J
+241,Ware abholen,2024-01-03T20:00:00,Luca Huber,90.08764844759604,Produkt D,70.0,Firma3,Lager A,Lager C
+242,Produkt ins Lager legen,2024-01-03T20:15:00,Sarah Schmidt,77.66430326455708,Produkt O,120.0,Firma9,Lager A,Lager C
+243,Transport beenden,2024-01-03T20:30:00,David Meyer,8.41947075566246,Produkt N,75.0,Firma17,Lager E,Lager E
+244,Produkt aus Lager nehmen,2024-01-03T20:45:00,Nico Schmidt,43.46945855808639,Produkt Q,110.0,Firma12,Lager B,Lager A
+245,Ware abholen,2024-01-03T21:00:00,Sophia Lang,77.61428027756503,Produkt T,85.0,Firma12,Lager B,Lager A
+246,Produkt aus Lager nehmen,2024-01-03T21:15:00,Nico Schmidt,8.675545537193473,Produkt E,150.0,Firma12,Lager C,Lager B
+247,Transport beenden,2024-01-03T21:30:00,Emma Weber,22.118312543382835,Produkt S,90.0,Firma2,Lager A,Lager B
+248,Ware abholen,2024-01-03T21:45:00,Timo Wagner,57.03644129195779,Produkt G,95.0,Firma4,Lager E,Lager J
+249,Ware abholen,2024-01-03T22:00:00,Lisa Schulz,44.745608785375175,Produkt B,120.0,Firma1,Lager C,Lager A
+250,Ware abholen,2024-01-03T22:15:00,Sophia Lang,76.61852101914481,Produkt G,95.0,Firma15,Lager C,Lager E
+251,Transport beenden,2024-01-03T22:30:00,Sophia Lang,50.76769472761658,Produkt I,90.0,Firma18,Lager E,Lager I
+252,Produkt aus Lager nehmen,2024-01-03T22:45:00,Luca Huber,50.61617045811184,Produkt K,110.0,Firma1,Lager E,Lager C
+253,Ware abholen,2024-01-03T23:00:00,Noah Becker,96.475683197273,Produkt O,120.0,Firma16,Lager F,Lager E
+254,Auftrag erhalten,2024-01-03T23:15:00,Paul Zimmer,7.890115686905842,Produkt T,85.0,Firma12,Lager E,Lager H
+255,Produkt ins Lager legen,2024-01-03T23:30:00,Lena Mueller,41.23583049623719,Produkt D,70.0,Firma1,Lager I,Lager I
+256,Ware abholen,2024-01-03T23:45:00,Leonie Richter,46.98662480602223,Produkt J,75.0,Firma20,Lager G,Lager D
+257,Transport beenden,2024-01-04T00:00:00,Sophia Lang,90.88309541115275,Produkt E,150.0,Firma14,Lager I,Lager J
+258,Produkt aus Lager nehmen,2024-01-04T00:15:00,Laura Fischer,5.9055447090705675,Produkt C,80.0,Firma2,Lager H,Lager E
+259,Transport beginnen,2024-01-04T00:30:00,Sophia Lang,24.179337506287588,Produkt J,75.0,Firma11,Lager F,Lager I
+260,Transport beginnen,2024-01-04T00:45:00,Hannah Meyer,30.16705886920057,Produkt A,100.0,Firma6,Lager H,Lager E
+261,Transport beginnen,2024-01-04T01:00:00,Timo Wagner,60.68324791402667,Produkt G,95.0,Firma9,Lager C,Lager I
+262,Ware abholen,2024-01-04T01:15:00,Sarah Schmidt,93.5057393240017,Produkt I,90.0,Firma8,Lager F,Lager A
+263,Transport beenden,2024-01-04T01:30:00,Emma Weber,88.66023711583219,Produkt K,110.0,Firma11,Lager D,Lager G
+264,Ware abholen,2024-01-04T01:45:00,Emma Weber,19.627598001454643,Produkt B,120.0,Firma9,Lager A,Lager F
+265,Ware abholen,2024-01-04T02:00:00,Mia Schmitt,78.1215115345003,Produkt L,140.0,Firma3,Lager G,Lager D
+266,Produkt ins Lager legen,2024-01-04T02:15:00,Leonie Richter,66.38242386541137,Produkt H,130.0,Firma5,Lager G,Lager J
+267,Transport beginnen,2024-01-04T02:30:00,Lena Mueller,89.24151739420918,Produkt T,85.0,Firma14,Lager A,Lager E
+268,Produkt aus Lager nehmen,2024-01-04T02:45:00,David Meyer,58.20907121699974,Produkt H,130.0,Firma3,Lager D,Lager C
+269,Transport beginnen,2024-01-04T03:00:00,Lisa Mueller,87.34331677068968,Produkt H,130.0,Firma6,Lager B,Lager H
+270,Ware abholen,2024-01-04T03:15:00,Max Mustermann,15.563959686014037,Produkt O,120.0,Firma15,Lager F,Lager C
+271,Auftrag erhalten,2024-01-04T03:30:00,Emilia Wagner,57.69980681718124,Produkt O,120.0,Firma20,Lager E,Lager B
+272,Ware abholen,2024-01-04T03:45:00,Luca Huber,27.51783579891822,Produkt N,75.0,Firma19,Lager I,Lager J
+273,Transport beginnen,2024-01-04T04:00:00,Max Mustermann,42.37563538562861,Produkt E,150.0,Firma4,Lager I,Lager C
+274,Produkt ins Lager legen,2024-01-04T04:15:00,Lisa Schulz,99.8328286154849,Produkt F,110.0,Firma9,Lager G,Lager D
+275,Transport beenden,2024-01-04T04:30:00,Lena Mueller,29.399243735834194,Produkt M,95.0,Firma7,Lager E,Lager F
+276,Transport beenden,2024-01-04T04:45:00,Jan Becker,11.362566164091655,Produkt T,85.0,Firma6,Lager F,Lager F
+277,Ware abholen,2024-01-04T05:00:00,Timo Wagner,45.912400786099994,Produkt D,70.0,Firma15,Lager F,Lager J
+278,Ware abholen,2024-01-04T05:15:00,Mia Schmitt,48.74479810501432,Produkt B,120.0,Firma6,Lager E,Lager I
+279,Transport beginnen,2024-01-04T05:30:00,Timo Wagner,13.619401857148523,Produkt J,75.0,Firma2,Lager E,Lager I
+280,Produkt aus Lager nehmen,2024-01-04T05:45:00,Paul Zimmer,44.21659624492997,Produkt T,85.0,Firma14,Lager G,Lager A
+281,Produkt aus Lager nehmen,2024-01-04T06:00:00,Hannah Meyer,47.94300585735753,Produkt E,150.0,Firma6,Lager E,Lager C
+282,Ware abholen,2024-01-04T06:15:00,Lisa Schulz,25.41686860102357,Produkt M,95.0,Firma1,Lager G,Lager E
+283,Auftrag erhalten,2024-01-04T06:30:00,Paul Zimmer,61.84034160666694,Produkt B,120.0,Firma1,Lager I,Lager A
+284,Transport beenden,2024-01-04T06:45:00,Laura Fischer,7.316478824580526,Produkt R,130.0,Firma4,Lager I,Lager B
+285,Ware abholen,2024-01-04T07:00:00,David Meyer,21.543072543598278,Produkt M,95.0,Firma2,Lager A,Lager A
+286,Transport beenden,2024-01-04T07:15:00,Timo Wagner,82.06468766305241,Produkt H,130.0,Firma10,Lager I,Lager F
+287,Transport beginnen,2024-01-04T07:30:00,Lisa Mueller,71.92710150541981,Produkt A,100.0,Firma8,Lager J,Lager C
+288,Transport beenden,2024-01-04T07:45:00,Timo Wagner,52.556227011811885,Produkt J,75.0,Firma15,Lager G,Lager C
+289,Produkt ins Lager legen,2024-01-04T08:00:00,David Meyer,31.023725520616704,Produkt G,95.0,Firma2,Lager I,Lager D
+290,Produkt ins Lager legen,2024-01-04T08:15:00,David Meyer,79.40605004651354,Produkt D,70.0,Firma1,Lager G,Lager G
+291,Transport beenden,2024-01-04T08:30:00,Sarah Schmidt,68.85502690407884,Produkt T,85.0,Firma9,Lager C,Lager D
+292,Transport beenden,2024-01-04T08:45:00,Lisa Mueller,54.36729876181127,Produkt H,130.0,Firma12,Lager J,Lager E
+293,Ware abholen,2024-01-04T09:00:00,Sophia Lang,38.51094432371034,Produkt K,110.0,Firma11,Lager B,Lager E
+294,Transport beenden,2024-01-04T09:15:00,Timo Wagner,14.19659412083065,Produkt D,70.0,Firma9,Lager G,Lager F
+295,Auftrag erhalten,2024-01-04T09:30:00,Mia Schmitt,22.74159003255961,Produkt N,75.0,Firma6,Lager I,Lager G
+296,Produkt ins Lager legen,2024-01-04T09:45:00,Mia Schmitt,75.34627498079645,Produkt T,85.0,Firma17,Lager C,Lager G
+297,Transport beginnen,2024-01-04T10:00:00,Hannah Meyer,74.2074630098425,Produkt N,75.0,Firma4,Lager G,Lager E
+298,Ware abholen,2024-01-04T10:15:00,Sarah Schmidt,84.09027292439133,Produkt M,95.0,Firma14,Lager F,Lager F
+299,Ware abholen,2024-01-04T10:30:00,David Meyer,90.25220384601526,Produkt H,130.0,Firma8,Lager E,Lager B
+300,Auftrag erhalten,2024-01-04T10:45:00,Emilia Wagner,9.598110708744759,Produkt G,95.0,Firma11,Lager F,Lager H
+301,Ware abholen,2024-01-04T11:00:00,Hannah Meyer,37.04920765520714,Produkt Q,110.0,Firma1,Lager I,Lager C
+302,Auftrag erhalten,2024-01-04T11:15:00,Leonie Richter,57.46534575628765,Produkt Q,110.0,Firma11,Lager A,Lager I
+303,Transport beginnen,2024-01-04T11:30:00,Noah Becker,26.778116254860347,Produkt R,130.0,Firma15,Lager D,Lager G
+304,Produkt ins Lager legen,2024-01-04T11:45:00,Emma Weber,8.001470648026341,Produkt J,75.0,Firma13,Lager C,Lager B
+305,Ware abholen,2024-01-04T12:00:00,Jan Becker,84.30704906538195,Produkt K,110.0,Firma1,Lager J,Lager C
+306,Ware abholen,2024-01-04T12:15:00,Jan Becker,80.19907622816609,Produkt T,85.0,Firma4,Lager J,Lager E
+307,Produkt ins Lager legen,2024-01-04T12:30:00,David Meyer,61.70178372810769,Produkt T,85.0,Firma17,Lager C,Lager H
+308,Transport beginnen,2024-01-04T12:45:00,Lisa Schulz,7.002394734835778,Produkt C,80.0,Firma12,Lager B,Lager H
+309,Transport beginnen,2024-01-04T13:00:00,David Meyer,9.433869668186668,Produkt R,130.0,Firma19,Lager F,Lager H
+310,Produkt ins Lager legen,2024-01-04T13:15:00,Leonie Richter,58.461568035619436,Produkt F,110.0,Firma14,Lager C,Lager H
+311,Produkt aus Lager nehmen,2024-01-04T13:30:00,Jan Becker,94.89059500409422,Produkt A,100.0,Firma17,Lager C,Lager D
+312,Produkt aus Lager nehmen,2024-01-04T13:45:00,Emma Weber,67.74373002852468,Produkt C,80.0,Firma13,Lager F,Lager I
+313,Transport beenden,2024-01-04T14:00:00,Hannah Meyer,11.633430265883128,Produkt P,100.0,Firma18,Lager B,Lager C
+314,Ware abholen,2024-01-04T14:15:00,Laura Fischer,83.11873960072951,Produkt M,95.0,Firma5,Lager I,Lager E
+315,Transport beginnen,2024-01-04T14:30:00,Paul Zimmer,78.63591500578126,Produkt O,120.0,Firma2,Lager F,Lager F
+316,Transport beenden,2024-01-04T14:45:00,Nico Schmidt,85.80438332258701,Produkt M,95.0,Firma6,Lager J,Lager D
+317,Ware abholen,2024-01-04T15:00:00,Paul Zimmer,86.06940068853415,Produkt K,110.0,Firma10,Lager A,Lager C
+318,Transport beginnen,2024-01-04T15:15:00,Noah Becker,96.32427814647353,Produkt D,70.0,Firma1,Lager G,Lager C
+319,Ware abholen,2024-01-04T15:30:00,Hannah Meyer,95.97128203784173,Produkt N,75.0,Firma9,Lager G,Lager F
+320,Produkt ins Lager legen,2024-01-04T15:45:00,Nico Schmidt,15.319199527832698,Produkt O,120.0,Firma16,Lager J,Lager I
+321,Transport beginnen,2024-01-04T16:00:00,Max Mustermann,43.40933174032735,Produkt B,120.0,Firma15,Lager E,Lager E
+322,Produkt ins Lager legen,2024-01-04T16:15:00,Paul Zimmer,61.27731538575637,Produkt G,95.0,Firma8,Lager J,Lager J
+323,Auftrag erhalten,2024-01-04T16:30:00,Luca Huber,91.37943075931751,Produkt O,120.0,Firma1,Lager B,Lager B
+324,Ware abholen,2024-01-04T16:45:00,Nico Schmidt,15.729174448778666,Produkt E,150.0,Firma16,Lager C,Lager B
+325,Produkt ins Lager legen,2024-01-04T17:00:00,Lena Mueller,64.64784243069818,Produkt K,110.0,Firma1,Lager B,Lager F
+326,Produkt ins Lager legen,2024-01-04T17:15:00,Timo Wagner,51.752278939591726,Produkt M,95.0,Firma3,Lager G,Lager F
+327,Ware abholen,2024-01-04T17:30:00,Lisa Schulz,63.9550750113559,Produkt F,110.0,Firma3,Lager H,Lager J
+328,Transport beenden,2024-01-04T17:45:00,David Meyer,7.414289505568738,Produkt R,130.0,Firma5,Lager D,Lager G
+329,Ware abholen,2024-01-04T18:00:00,Luca Huber,5.500322369122627,Produkt N,75.0,Firma7,Lager G,Lager G
+330,Transport beginnen,2024-01-04T18:15:00,Leonie Richter,72.407547683303,Produkt K,110.0,Firma8,Lager B,Lager F
+331,Produkt aus Lager nehmen,2024-01-04T18:30:00,Sophia Lang,21.394315408715638,Produkt J,75.0,Firma12,Lager G,Lager C
+332,Produkt ins Lager legen,2024-01-04T18:45:00,Lena Mueller,73.78052200168577,Produkt P,100.0,Firma9,Lager E,Lager G
+333,Auftrag erhalten,2024-01-04T19:00:00,Lisa Schulz,54.12652161169687,Produkt J,75.0,Firma9,Lager D,Lager I
+334,Produkt aus Lager nehmen,2024-01-04T19:15:00,Hannah Meyer,73.00328022472706,Produkt D,70.0,Firma15,Lager D,Lager I
+335,Produkt ins Lager legen,2024-01-04T19:30:00,Timo Wagner,10.33489851525575,Produkt M,95.0,Firma15,Lager G,Lager G
+336,Ware abholen,2024-01-04T19:45:00,Lisa Mueller,58.90300959963667,Produkt J,75.0,Firma1,Lager B,Lager E
+337,Transport beenden,2024-01-04T20:00:00,Emma Weber,29.180473005646054,Produkt K,110.0,Firma1,Lager D,Lager G
+338,Ware abholen,2024-01-04T20:15:00,Lisa Schulz,43.89323852533808,Produkt K,110.0,Firma9,Lager F,Lager H
+339,Transport beenden,2024-01-04T20:30:00,Paul Zimmer,47.17785647241714,Produkt P,100.0,Firma3,Lager J,Lager C
+340,Auftrag erhalten,2024-01-04T20:45:00,Lisa Schulz,26.600210038573298,Produkt H,130.0,Firma2,Lager F,Lager H
+341,Transport beenden,2024-01-04T21:00:00,Leonie Richter,95.30068869694848,Produkt G,95.0,Firma12,Lager C,Lager D
+342,Transport beenden,2024-01-04T21:15:00,Leonie Richter,83.53950231299254,Produkt E,150.0,Firma4,Lager J,Lager J
+343,Produkt aus Lager nehmen,2024-01-04T21:30:00,Noah Becker,71.76358678884733,Produkt G,95.0,Firma12,Lager E,Lager H
+344,Produkt ins Lager legen,2024-01-04T21:45:00,Mia Schmitt,65.68151503666985,Produkt M,95.0,Firma18,Lager I,Lager A
+345,Transport beenden,2024-01-04T22:00:00,Emilia Wagner,78.82608894767861,Produkt O,120.0,Firma10,Lager E,Lager B
+346,Transport beenden,2024-01-04T22:15:00,Emma Weber,40.90306919394364,Produkt B,120.0,Firma8,Lager H,Lager I
+347,Produkt aus Lager nehmen,2024-01-04T22:30:00,Timo Wagner,18.810309207617102,Produkt J,75.0,Firma5,Lager D,Lager B
+348,Produkt aus Lager nehmen,2024-01-04T22:45:00,Timo Wagner,81.96136414533338,Produkt P,100.0,Firma19,Lager I,Lager I
+349,Transport beginnen,2024-01-04T23:00:00,Nico Schmidt,25.5415014808605,Produkt F,110.0,Firma5,Lager J,Lager H
+350,Produkt ins Lager legen,2024-01-04T23:15:00,Leonie Richter,83.50917089176367,Produkt Q,110.0,Firma14,Lager F,Lager A
+351,Auftrag erhalten,2024-01-04T23:30:00,Paul Zimmer,90.3755537568411,Produkt A,100.0,Firma16,Lager B,Lager D
+352,Auftrag erhalten,2024-01-04T23:45:00,Hannah Meyer,11.223839949020885,Produkt B,120.0,Firma20,Lager E,Lager F
+353,Produkt aus Lager nehmen,2024-01-05T00:00:00,Noah Becker,62.988330446801434,Produkt N,75.0,Firma14,Lager G,Lager D
+354,Produkt aus Lager nehmen,2024-01-05T00:15:00,Max Mustermann,76.33719471053494,Produkt T,85.0,Firma14,Lager F,Lager A
+355,Ware abholen,2024-01-05T00:30:00,Noah Becker,36.652536068981476,Produkt E,150.0,Firma20,Lager C,Lager J
+356,Produkt ins Lager legen,2024-01-05T00:45:00,Laura Fischer,45.94927447344454,Produkt P,100.0,Firma6,Lager H,Lager H
+357,Ware abholen,2024-01-05T01:00:00,David Meyer,82.8192958560826,Produkt G,95.0,Firma11,Lager G,Lager H
+358,Produkt aus Lager nehmen,2024-01-05T01:15:00,Jonas Richter,69.32549847486055,Produkt Q,110.0,Firma17,Lager I,Lager G
+359,Auftrag erhalten,2024-01-05T01:30:00,Hannah Meyer,87.78884208280189,Produkt I,90.0,Firma10,Lager C,Lager A
+360,Auftrag erhalten,2024-01-05T01:45:00,Mia Schmitt,88.61758091802437,Produkt E,150.0,Firma2,Lager I,Lager D
+361,Transport beginnen,2024-01-05T02:00:00,Max Mustermann,43.74988780468988,Produkt Q,110.0,Firma16,Lager J,Lager D
+362,Auftrag erhalten,2024-01-05T02:15:00,Leonie Richter,62.64409265306558,Produkt R,130.0,Firma6,Lager A,Lager E
+363,Transport beenden,2024-01-05T02:30:00,Lena Mueller,84.5695322159122,Produkt N,75.0,Firma2,Lager A,Lager A
+364,Auftrag erhalten,2024-01-05T02:45:00,Lena Mueller,44.28664212028182,Produkt G,95.0,Firma12,Lager C,Lager I
+365,Transport beginnen,2024-01-05T03:00:00,David Meyer,20.43232045135467,Produkt K,110.0,Firma12,Lager E,Lager G
+366,Auftrag erhalten,2024-01-05T03:15:00,Hannah Meyer,13.109530375546866,Produkt C,80.0,Firma11,Lager B,Lager B
+367,Transport beginnen,2024-01-05T03:30:00,Nico Schmidt,32.59052218678698,Produkt F,110.0,Firma6,Lager C,Lager A
+368,Ware abholen,2024-01-05T03:45:00,Max Mustermann,13.071953571117941,Produkt J,75.0,Firma14,Lager I,Lager A
+369,Produkt aus Lager nehmen,2024-01-05T04:00:00,Timo Wagner,82.17889645189275,Produkt L,140.0,Firma5,Lager H,Lager H
+370,Produkt ins Lager legen,2024-01-05T04:15:00,Emilia Wagner,33.040110092687435,Produkt D,70.0,Firma8,Lager C,Lager C
+371,Auftrag erhalten,2024-01-05T04:30:00,Emma Weber,46.33533147894939,Produkt N,75.0,Firma19,Lager B,Lager C
+372,Transport beenden,2024-01-05T04:45:00,Jonas Richter,76.48281390175842,Produkt T,85.0,Firma14,Lager H,Lager D
+373,Ware abholen,2024-01-05T05:00:00,Luca Huber,6.481553820029207,Produkt F,110.0,Firma19,Lager A,Lager B
+374,Ware abholen,2024-01-05T05:15:00,Hannah Meyer,85.02929922060416,Produkt I,90.0,Firma6,Lager H,Lager G
+375,Ware abholen,2024-01-05T05:30:00,Laura Fischer,68.99050462827208,Produkt P,100.0,Firma12,Lager G,Lager D
+376,Transport beenden,2024-01-05T05:45:00,Leonie Richter,44.359039571282295,Produkt G,95.0,Firma17,Lager E,Lager G
+377,Transport beenden,2024-01-05T06:00:00,Jan Becker,66.27424496691876,Produkt F,110.0,Firma7,Lager G,Lager E
+378,Transport beginnen,2024-01-05T06:15:00,Noah Becker,66.99532043425994,Produkt E,150.0,Firma17,Lager B,Lager B
+379,Transport beginnen,2024-01-05T06:30:00,Max Mustermann,85.19486736389048,Produkt S,90.0,Firma10,Lager I,Lager G
+380,Transport beenden,2024-01-05T06:45:00,Nico Schmidt,18.479722120750864,Produkt T,85.0,Firma7,Lager D,Lager H
+381,Transport beginnen,2024-01-05T07:00:00,David Meyer,65.7449289244795,Produkt K,110.0,Firma9,Lager D,Lager F
+382,Auftrag erhalten,2024-01-05T07:15:00,Mia Schmitt,12.454498123036064,Produkt K,110.0,Firma5,Lager D,Lager E
+383,Ware abholen,2024-01-05T07:30:00,Max Mustermann,48.39779417187467,Produkt L,140.0,Firma13,Lager H,Lager G
+384,Auftrag erhalten,2024-01-05T07:45:00,Lisa Mueller,75.29697056904828,Produkt I,90.0,Firma4,Lager E,Lager G
+385,Transport beginnen,2024-01-05T08:00:00,Emilia Wagner,43.25594735346897,Produkt G,95.0,Firma12,Lager J,Lager B
+386,Transport beginnen,2024-01-05T08:15:00,Paul Zimmer,66.66355402051738,Produkt C,80.0,Firma7,Lager B,Lager H
+387,Produkt ins Lager legen,2024-01-05T08:30:00,Lena Mueller,16.281765396743417,Produkt Q,110.0,Firma19,Lager I,Lager D
+388,Transport beenden,2024-01-05T08:45:00,Sophia Lang,35.50692756233406,Produkt Q,110.0,Firma11,Lager H,Lager D
+389,Ware abholen,2024-01-05T09:00:00,Noah Becker,31.475701495201484,Produkt N,75.0,Firma6,Lager D,Lager G
+390,Ware abholen,2024-01-05T09:15:00,Noah Becker,61.684932261216886,Produkt L,140.0,Firma2,Lager H,Lager D
+391,Produkt aus Lager nehmen,2024-01-05T09:30:00,Paul Zimmer,80.02341106518631,Produkt J,75.0,Firma8,Lager J,Lager H
+392,Produkt ins Lager legen,2024-01-05T09:45:00,Max Mustermann,34.25867512929295,Produkt A,100.0,Firma3,Lager H,Lager F
+393,Auftrag erhalten,2024-01-05T10:00:00,Max Mustermann,18.188078088408194,Produkt I,90.0,Firma7,Lager D,Lager H
+394,Transport beginnen,2024-01-05T10:15:00,David Meyer,94.49264515858496,Produkt T,85.0,Firma8,Lager G,Lager B
+395,Produkt ins Lager legen,2024-01-05T10:30:00,Lisa Mueller,74.95711437884593,Produkt D,70.0,Firma13,Lager C,Lager H
+396,Transport beginnen,2024-01-05T10:45:00,Emma Weber,61.95287099071863,Produkt F,110.0,Firma16,Lager B,Lager A
+397,Auftrag erhalten,2024-01-05T11:00:00,Sophia Lang,45.42503093585337,Produkt O,120.0,Firma10,Lager A,Lager J
+398,Produkt aus Lager nehmen,2024-01-05T11:15:00,Jan Becker,96.92868129020883,Produkt F,110.0,Firma13,Lager E,Lager E
+399,Ware abholen,2024-01-05T11:30:00,Leonie Richter,25.035935016882018,Produkt J,75.0,Firma18,Lager B,Lager I
+400,Transport beginnen,2024-01-05T11:45:00,Sarah Schmidt,91.91294223001745,Produkt J,75.0,Firma12,Lager B,Lager I
+401,Transport beginnen,2024-01-05T12:00:00,Max Mustermann,77.01566477970917,Produkt B,120.0,Firma2,Lager E,Lager B
+402,Transport beenden,2024-01-05T12:15:00,Nico Schmidt,42.510518579870975,Produkt G,95.0,Firma10,Lager B,Lager C
+403,Produkt ins Lager legen,2024-01-05T12:30:00,Hannah Meyer,24.968965549368324,Produkt N,75.0,Firma19,Lager A,Lager H
+404,Transport beenden,2024-01-05T12:45:00,Sarah Schmidt,18.30887091073873,Produkt T,85.0,Firma10,Lager D,Lager D
+405,Auftrag erhalten,2024-01-05T13:00:00,Nico Schmidt,54.46076738135615,Produkt K,110.0,Firma17,Lager H,Lager I
+406,Produkt aus Lager nehmen,2024-01-05T13:15:00,Emma Weber,84.28042701855915,Produkt L,140.0,Firma2,Lager G,Lager E
+407,Auftrag erhalten,2024-01-05T13:30:00,Sarah Schmidt,15.215629400800598,Produkt O,120.0,Firma10,Lager D,Lager H
+408,Produkt aus Lager nehmen,2024-01-05T13:45:00,Laura Fischer,41.682714118027285,Produkt I,90.0,Firma8,Lager C,Lager H
+409,Transport beginnen,2024-01-05T14:00:00,Leonie Richter,18.79701423154009,Produkt L,140.0,Firma17,Lager H,Lager I
+410,Transport beginnen,2024-01-05T14:15:00,Luca Huber,39.075865352272686,Produkt B,120.0,Firma9,Lager J,Lager J
+411,Auftrag erhalten,2024-01-05T14:30:00,Paul Zimmer,71.75084491558451,Produkt K,110.0,Firma20,Lager J,Lager B
+412,Transport beenden,2024-01-05T14:45:00,Jonas Richter,93.32875682318166,Produkt H,130.0,Firma5,Lager A,Lager B
+413,Auftrag erhalten,2024-01-05T15:00:00,David Meyer,8.73235900297635,Produkt T,85.0,Firma1,Lager A,Lager C
+414,Produkt ins Lager legen,2024-01-05T15:15:00,Luca Huber,90.9613937669857,Produkt B,120.0,Firma10,Lager G,Lager E
+415,Transport beenden,2024-01-05T15:30:00,Emilia Wagner,18.416919834164354,Produkt M,95.0,Firma5,Lager B,Lager D
+416,Produkt aus Lager nehmen,2024-01-05T15:45:00,Laura Fischer,18.944096824990947,Produkt J,75.0,Firma20,Lager I,Lager F
+417,Produkt aus Lager nehmen,2024-01-05T16:00:00,Sophia Lang,35.71370931999377,Produkt J,75.0,Firma11,Lager B,Lager E
+418,Produkt aus Lager nehmen,2024-01-05T16:15:00,Sarah Schmidt,90.91915583596541,Produkt O,120.0,Firma9,Lager E,Lager A
+419,Auftrag erhalten,2024-01-05T16:30:00,Sarah Schmidt,21.500269780516838,Produkt A,100.0,Firma7,Lager A,Lager C
+420,Transport beenden,2024-01-05T16:45:00,Lisa Mueller,62.329550038521134,Produkt D,70.0,Firma4,Lager J,Lager J
+421,Ware abholen,2024-01-05T17:00:00,Nico Schmidt,88.96251230930584,Produkt S,90.0,Firma4,Lager F,Lager E
+422,Auftrag erhalten,2024-01-05T17:15:00,Nico Schmidt,45.14726330616467,Produkt D,70.0,Firma1,Lager E,Lager C
+423,Auftrag erhalten,2024-01-05T17:30:00,Mia Schmitt,97.80583138405314,Produkt H,130.0,Firma16,Lager E,Lager C
+424,Auftrag erhalten,2024-01-05T17:45:00,Noah Becker,85.82538011741586,Produkt J,75.0,Firma2,Lager J,Lager F
+425,Ware abholen,2024-01-05T18:00:00,Nico Schmidt,20.81141394381004,Produkt C,80.0,Firma5,Lager E,Lager G
+426,Transport beginnen,2024-01-05T18:15:00,Emilia Wagner,43.92629243624537,Produkt K,110.0,Firma5,Lager D,Lager I
+427,Transport beenden,2024-01-05T18:30:00,David Meyer,65.70303789474062,Produkt H,130.0,Firma15,Lager D,Lager C
+428,Ware abholen,2024-01-05T18:45:00,Lena Mueller,75.12977336256135,Produkt R,130.0,Firma2,Lager J,Lager C
+429,Ware abholen,2024-01-05T19:00:00,Hannah Meyer,9.859884505578666,Produkt E,150.0,Firma18,Lager D,Lager E
+430,Transport beenden,2024-01-05T19:15:00,Leonie Richter,48.28020427325288,Produkt B,120.0,Firma6,Lager C,Lager C
+431,Produkt ins Lager legen,2024-01-05T19:30:00,Noah Becker,63.83982313183298,Produkt R,130.0,Firma12,Lager J,Lager B
+432,Transport beenden,2024-01-05T19:45:00,Hannah Meyer,83.4987260716131,Produkt P,100.0,Firma8,Lager B,Lager I
+433,Transport beginnen,2024-01-05T20:00:00,Nico Schmidt,23.626493473968278,Produkt A,100.0,Firma4,Lager B,Lager F
+434,Transport beenden,2024-01-05T20:15:00,David Meyer,79.70766056060125,Produkt C,80.0,Firma1,Lager I,Lager C
+435,Transport beginnen,2024-01-05T20:30:00,Nico Schmidt,63.03673858926922,Produkt I,90.0,Firma6,Lager B,Lager E
+436,Ware abholen,2024-01-05T20:45:00,Max Mustermann,38.41431030823701,Produkt J,75.0,Firma19,Lager B,Lager H
+437,Transport beginnen,2024-01-05T21:00:00,Max Mustermann,10.73758126261507,Produkt Q,110.0,Firma3,Lager G,Lager H
+438,Auftrag erhalten,2024-01-05T21:15:00,Jan Becker,78.02548154020111,Produkt H,130.0,Firma11,Lager I,Lager F
+439,Auftrag erhalten,2024-01-05T21:30:00,Max Mustermann,57.64353384625602,Produkt A,100.0,Firma13,Lager E,Lager G
+440,Auftrag erhalten,2024-01-05T21:45:00,Emma Weber,69.76940883281948,Produkt T,85.0,Firma19,Lager G,Lager A
+441,Transport beginnen,2024-01-05T22:00:00,Luca Huber,76.7835295848229,Produkt E,150.0,Firma17,Lager G,Lager A
+442,Ware abholen,2024-01-05T22:15:00,Hannah Meyer,25.776394951275698,Produkt D,70.0,Firma4,Lager J,Lager G
+443,Transport beenden,2024-01-05T22:30:00,Nico Schmidt,61.43803780747895,Produkt N,75.0,Firma1,Lager A,Lager D
+444,Produkt aus Lager nehmen,2024-01-05T22:45:00,Jonas Richter,84.57897385474365,Produkt D,70.0,Firma6,Lager A,Lager B
+445,Produkt ins Lager legen,2024-01-05T23:00:00,Emma Weber,82.42725174693432,Produkt G,95.0,Firma11,Lager D,Lager B
+446,Auftrag erhalten,2024-01-05T23:15:00,Sophia Lang,88.51855214842764,Produkt R,130.0,Firma15,Lager I,Lager H
+447,Ware abholen,2024-01-05T23:30:00,David Meyer,22.64021986516338,Produkt A,100.0,Firma10,Lager A,Lager H
+448,Transport beenden,2024-01-05T23:45:00,Emilia Wagner,57.11239088973824,Produkt T,85.0,Firma3,Lager I,Lager D
+449,Auftrag erhalten,2024-01-06T00:00:00,Sarah Schmidt,86.27986944378382,Produkt J,75.0,Firma8,Lager H,Lager G
+450,Produkt aus Lager nehmen,2024-01-06T00:15:00,Jan Becker,56.496492830155454,Produkt J,75.0,Firma15,Lager B,Lager F
+451,Transport beginnen,2024-01-06T00:30:00,Lisa Mueller,52.62424149469464,Produkt K,110.0,Firma4,Lager E,Lager I
+452,Produkt aus Lager nehmen,2024-01-06T00:45:00,Max Mustermann,37.65345461975619,Produkt M,95.0,Firma6,Lager A,Lager E
+453,Auftrag erhalten,2024-01-06T01:00:00,Lisa Schulz,5.610480760047325,Produkt M,95.0,Firma3,Lager E,Lager I
+454,Produkt aus Lager nehmen,2024-01-06T01:15:00,Nico Schmidt,73.3891234453863,Produkt I,90.0,Firma1,Lager C,Lager H
+455,Transport beginnen,2024-01-06T01:30:00,Sophia Lang,82.92636196645992,Produkt T,85.0,Firma7,Lager H,Lager A
+456,Transport beginnen,2024-01-06T01:45:00,Mia Schmitt,25.025124593385826,Produkt N,75.0,Firma17,Lager C,Lager D
+457,Transport beginnen,2024-01-06T02:00:00,Mia Schmitt,45.71293359670685,Produkt G,95.0,Firma13,Lager D,Lager E
+458,Transport beenden,2024-01-06T02:15:00,Max Mustermann,47.67930439790161,Produkt G,95.0,Firma7,Lager D,Lager E
+459,Produkt aus Lager nehmen,2024-01-06T02:30:00,Paul Zimmer,95.79493842638959,Produkt T,85.0,Firma8,Lager D,Lager E
+460,Ware abholen,2024-01-06T02:45:00,Sarah Schmidt,76.25276104035567,Produkt R,130.0,Firma10,Lager A,Lager A
+461,Auftrag erhalten,2024-01-06T03:00:00,Leonie Richter,58.051187077012194,Produkt P,100.0,Firma2,Lager C,Lager B
+462,Ware abholen,2024-01-06T03:15:00,Sarah Schmidt,97.08865770798452,Produkt B,120.0,Firma20,Lager E,Lager G
+463,Produkt aus Lager nehmen,2024-01-06T03:30:00,Max Mustermann,19.921107176346137,Produkt Q,110.0,Firma4,Lager H,Lager A
+464,Produkt ins Lager legen,2024-01-06T03:45:00,Jan Becker,7.669959272127921,Produkt J,75.0,Firma16,Lager B,Lager G
+465,Produkt ins Lager legen,2024-01-06T04:00:00,Jan Becker,76.49214891535664,Produkt M,95.0,Firma13,Lager E,Lager J
+466,Produkt aus Lager nehmen,2024-01-06T04:15:00,Max Mustermann,96.61536104407568,Produkt O,120.0,Firma17,Lager B,Lager D
+467,Transport beenden,2024-01-06T04:30:00,Emma Weber,90.93256186167525,Produkt A,100.0,Firma10,Lager C,Lager H
+468,Produkt ins Lager legen,2024-01-06T04:45:00,David Meyer,68.50435394518395,Produkt A,100.0,Firma12,Lager I,Lager G
+469,Produkt ins Lager legen,2024-01-06T05:00:00,Lena Mueller,65.81374413102563,Produkt S,90.0,Firma8,Lager J,Lager C
+470,Produkt ins Lager legen,2024-01-06T05:15:00,Lisa Schulz,66.71872294589676,Produkt E,150.0,Firma13,Lager B,Lager H
+471,Transport beenden,2024-01-06T05:30:00,Noah Becker,47.22339735443533,Produkt G,95.0,Firma3,Lager G,Lager F
+472,Transport beenden,2024-01-06T05:45:00,David Meyer,77.43410192493607,Produkt L,140.0,Firma13,Lager B,Lager H
+473,Auftrag erhalten,2024-01-06T06:00:00,Luca Huber,56.14087466116966,Produkt O,120.0,Firma8,Lager F,Lager E
+474,Produkt ins Lager legen,2024-01-06T06:15:00,Sophia Lang,27.949034425801017,Produkt K,110.0,Firma19,Lager F,Lager A
+475,Produkt aus Lager nehmen,2024-01-06T06:30:00,Laura Fischer,23.148007053668255,Produkt N,75.0,Firma19,Lager G,Lager H
+476,Produkt aus Lager nehmen,2024-01-06T06:45:00,Paul Zimmer,36.025048306754925,Produkt Q,110.0,Firma13,Lager C,Lager B
+477,Auftrag erhalten,2024-01-06T07:00:00,Luca Huber,31.81354723970943,Produkt K,110.0,Firma16,Lager A,Lager I
+478,Produkt ins Lager legen,2024-01-06T07:15:00,Lisa Schulz,38.366465020373596,Produkt T,85.0,Firma5,Lager B,Lager J
+479,Ware abholen,2024-01-06T07:30:00,Sophia Lang,5.646039393360358,Produkt C,80.0,Firma4,Lager C,Lager H
+480,Transport beenden,2024-01-06T07:45:00,Sophia Lang,65.05831511567038,Produkt A,100.0,Firma12,Lager F,Lager I
+481,Auftrag erhalten,2024-01-06T08:00:00,Emilia Wagner,26.28227577332901,Produkt D,70.0,Firma1,Lager E,Lager F
+482,Produkt ins Lager legen,2024-01-06T08:15:00,Emma Weber,17.74147762178452,Produkt M,95.0,Firma2,Lager G,Lager C
+483,Produkt ins Lager legen,2024-01-06T08:30:00,Mia Schmitt,89.6932121551181,Produkt J,75.0,Firma18,Lager D,Lager E
+484,Transport beenden,2024-01-06T08:45:00,Noah Becker,63.63270285737449,Produkt S,90.0,Firma16,Lager F,Lager E
+485,Produkt ins Lager legen,2024-01-06T09:00:00,Laura Fischer,47.995309795282175,Produkt C,80.0,Firma1,Lager H,Lager E
+486,Auftrag erhalten,2024-01-06T09:15:00,Emilia Wagner,37.06129709546041,Produkt B,120.0,Firma15,Lager J,Lager E
+487,Produkt aus Lager nehmen,2024-01-06T09:30:00,Lisa Schulz,11.48840698930778,Produkt M,95.0,Firma10,Lager E,Lager A
+488,Produkt ins Lager legen,2024-01-06T09:45:00,Emma Weber,69.78329036163716,Produkt F,110.0,Firma15,Lager I,Lager E
+489,Transport beenden,2024-01-06T10:00:00,Sarah Schmidt,47.20710471917975,Produkt E,150.0,Firma9,Lager J,Lager D
+490,Transport beginnen,2024-01-06T10:15:00,Emilia Wagner,87.34336877566517,Produkt T,85.0,Firma9,Lager F,Lager F
+491,Transport beginnen,2024-01-06T10:30:00,Jan Becker,51.49783595502542,Produkt A,100.0,Firma14,Lager C,Lager H
+492,Transport beginnen,2024-01-06T10:45:00,Jan Becker,26.63328576590847,Produkt A,100.0,Firma8,Lager J,Lager D
+493,Transport beginnen,2024-01-06T11:00:00,Laura Fischer,35.37378822036025,Produkt T,85.0,Firma8,Lager D,Lager C
+494,Auftrag erhalten,2024-01-06T11:15:00,Luca Huber,91.31167473530952,Produkt I,90.0,Firma2,Lager C,Lager H
+495,Auftrag erhalten,2024-01-06T11:30:00,Leonie Richter,11.83548102076331,Produkt J,75.0,Firma19,Lager B,Lager J
+496,Auftrag erhalten,2024-01-06T11:45:00,Jonas Richter,17.0658385625397,Produkt G,95.0,Firma9,Lager A,Lager H
+497,Auftrag erhalten,2024-01-06T12:00:00,Emilia Wagner,63.315921817716536,Produkt S,90.0,Firma1,Lager E,Lager J
+498,Produkt aus Lager nehmen,2024-01-06T12:15:00,Sarah Schmidt,91.50967317610555,Produkt K,110.0,Firma4,Lager B,Lager F
+499,Ware abholen,2024-01-06T12:30:00,Jan Becker,47.89770479500372,Produkt C,80.0,Firma9,Lager H,Lager J
+500,Produkt aus Lager nehmen,2024-01-06T12:45:00,Noah Becker,10.230672609318404,Produkt P,100.0,Firma10,Lager J,Lager B
+501,Transport beenden,2024-01-06T13:00:00,Nico Schmidt,78.8313476873372,Produkt D,70.0,Firma2,Lager J,Lager C
+502,Ware abholen,2024-01-06T13:15:00,Sarah Schmidt,58.96397481770309,Produkt D,70.0,Firma2,Lager A,Lager G
+503,Auftrag erhalten,2024-01-06T13:30:00,Max Mustermann,42.79526597352117,Produkt N,75.0,Firma6,Lager C,Lager J
+504,Ware abholen,2024-01-06T13:45:00,Laura Fischer,85.68982975675398,Produkt C,80.0,Firma16,Lager C,Lager H
+505,Auftrag erhalten,2024-01-06T14:00:00,Timo Wagner,21.438183039428303,Produkt B,120.0,Firma14,Lager C,Lager H
+506,Ware abholen,2024-01-06T14:15:00,Paul Zimmer,40.610035850185604,Produkt D,70.0,Firma1,Lager C,Lager B
+507,Produkt ins Lager legen,2024-01-06T14:30:00,Paul Zimmer,25.2403493418592,Produkt T,85.0,Firma2,Lager G,Lager F
+508,Auftrag erhalten,2024-01-06T14:45:00,Nico Schmidt,22.720693848824396,Produkt G,95.0,Firma14,Lager A,Lager H
+509,Auftrag erhalten,2024-01-06T15:00:00,Lisa Mueller,33.2975244116563,Produkt B,120.0,Firma6,Lager F,Lager E
+510,Produkt ins Lager legen,2024-01-06T15:15:00,Leonie Richter,69.50886860925864,Produkt K,110.0,Firma9,Lager B,Lager C
+511,Transport beenden,2024-01-06T15:30:00,Leonie Richter,68.95206672518069,Produkt K,110.0,Firma17,Lager C,Lager F
+512,Produkt ins Lager legen,2024-01-06T15:45:00,Leonie Richter,66.65065566833837,Produkt D,70.0,Firma10,Lager C,Lager I
+513,Transport beenden,2024-01-06T16:00:00,Lena Mueller,61.874169755805596,Produkt S,90.0,Firma4,Lager C,Lager E
+514,Produkt ins Lager legen,2024-01-06T16:15:00,Emma Weber,90.91371345808734,Produkt G,95.0,Firma16,Lager D,Lager G
+515,Produkt aus Lager nehmen,2024-01-06T16:30:00,Paul Zimmer,49.64320533304386,Produkt J,75.0,Firma17,Lager A,Lager D
+516,Transport beenden,2024-01-06T16:45:00,Hannah Meyer,63.89210361780384,Produkt S,90.0,Firma2,Lager I,Lager B
+517,Produkt ins Lager legen,2024-01-06T17:00:00,Lisa Mueller,55.78645069835901,Produkt M,95.0,Firma15,Lager I,Lager G
+518,Ware abholen,2024-01-06T17:15:00,Paul Zimmer,15.284108355713707,Produkt H,130.0,Firma5,Lager E,Lager J
+519,Auftrag erhalten,2024-01-06T17:30:00,Jan Becker,71.21475679909106,Produkt E,150.0,Firma3,Lager J,Lager J
+520,Produkt ins Lager legen,2024-01-06T17:45:00,Lisa Schulz,15.521908111586407,Produkt Q,110.0,Firma8,Lager D,Lager A
+521,Ware abholen,2024-01-06T18:00:00,Paul Zimmer,73.5645130768112,Produkt D,70.0,Firma10,Lager F,Lager C
+522,Transport beginnen,2024-01-06T18:15:00,Emma Weber,14.040085372556387,Produkt F,110.0,Firma20,Lager J,Lager B
+523,Ware abholen,2024-01-06T18:30:00,Hannah Meyer,22.31604428412612,Produkt K,110.0,Firma7,Lager G,Lager A
+524,Produkt aus Lager nehmen,2024-01-06T18:45:00,Noah Becker,30.69901041873015,Produkt B,120.0,Firma10,Lager B,Lager H
+525,Produkt aus Lager nehmen,2024-01-06T19:00:00,Luca Huber,87.32601872538962,Produkt R,130.0,Firma16,Lager A,Lager I
+526,Transport beginnen,2024-01-06T19:15:00,Luca Huber,84.43955879532525,Produkt D,70.0,Firma20,Lager F,Lager I
+527,Transport beginnen,2024-01-06T19:30:00,David Meyer,95.80755195267591,Produkt I,90.0,Firma11,Lager A,Lager C
+528,Ware abholen,2024-01-06T19:45:00,Lisa Mueller,10.870289488133096,Produkt K,110.0,Firma11,Lager D,Lager F
+529,Ware abholen,2024-01-06T20:00:00,Lisa Schulz,78.61644275641768,Produkt T,85.0,Firma8,Lager C,Lager I
+530,Produkt aus Lager nehmen,2024-01-06T20:15:00,Noah Becker,35.19888878953963,Produkt P,100.0,Firma6,Lager C,Lager G
+531,Ware abholen,2024-01-06T20:30:00,Sarah Schmidt,49.19546834077531,Produkt B,120.0,Firma4,Lager C,Lager A
+532,Produkt aus Lager nehmen,2024-01-06T20:45:00,Lisa Mueller,64.88775809472354,Produkt E,150.0,Firma17,Lager H,Lager G
+533,Ware abholen,2024-01-06T21:00:00,Noah Becker,47.11327283234088,Produkt F,110.0,Firma12,Lager D,Lager J
+534,Transport beginnen,2024-01-06T21:15:00,Jan Becker,20.44763293790712,Produkt D,70.0,Firma12,Lager G,Lager F
+535,Transport beginnen,2024-01-06T21:30:00,Paul Zimmer,82.44801145832474,Produkt R,130.0,Firma12,Lager H,Lager F
+536,Auftrag erhalten,2024-01-06T21:45:00,Emilia Wagner,28.207187174788693,Produkt O,120.0,Firma12,Lager D,Lager F
+537,Transport beenden,2024-01-06T22:00:00,Noah Becker,67.25261073861122,Produkt J,75.0,Firma10,Lager C,Lager B
+538,Produkt aus Lager nehmen,2024-01-06T22:15:00,Timo Wagner,11.905013323099134,Produkt R,130.0,Firma11,Lager B,Lager G
+539,Produkt ins Lager legen,2024-01-06T22:30:00,Leonie Richter,7.295531537699566,Produkt T,85.0,Firma12,Lager D,Lager C
+540,Produkt ins Lager legen,2024-01-06T22:45:00,Jan Becker,10.573067180102937,Produkt G,95.0,Firma8,Lager D,Lager I
+541,Produkt ins Lager legen,2024-01-06T23:00:00,Timo Wagner,26.35266823351667,Produkt D,70.0,Firma8,Lager F,Lager J
+542,Produkt ins Lager legen,2024-01-06T23:15:00,David Meyer,53.42409889239839,Produkt R,130.0,Firma2,Lager E,Lager J
+543,Auftrag erhalten,2024-01-06T23:30:00,Leonie Richter,91.92241697993728,Produkt S,90.0,Firma12,Lager B,Lager A
+544,Auftrag erhalten,2024-01-06T23:45:00,Jan Becker,8.504679207179322,Produkt S,90.0,Firma16,Lager I,Lager F
+545,Auftrag erhalten,2024-01-07T00:00:00,Sophia Lang,19.662400329879745,Produkt G,95.0,Firma12,Lager I,Lager C
+546,Ware abholen,2024-01-07T00:15:00,Leonie Richter,71.42943096324626,Produkt T,85.0,Firma2,Lager G,Lager D
+547,Produkt aus Lager nehmen,2024-01-07T00:30:00,Laura Fischer,77.89447092527521,Produkt D,70.0,Firma10,Lager J,Lager C
+548,Transport beginnen,2024-01-07T00:45:00,David Meyer,38.327572102039156,Produkt J,75.0,Firma11,Lager B,Lager A
+549,Transport beenden,2024-01-07T01:00:00,Luca Huber,23.13546959922654,Produkt L,140.0,Firma4,Lager C,Lager A
+550,Auftrag erhalten,2024-01-07T01:15:00,Lisa Mueller,55.92366802899796,Produkt R,130.0,Firma2,Lager C,Lager D
+551,Produkt aus Lager nehmen,2024-01-07T01:30:00,David Meyer,82.30822187280248,Produkt I,90.0,Firma8,Lager A,Lager F
+552,Auftrag erhalten,2024-01-07T01:45:00,Laura Fischer,29.745677819809355,Produkt G,95.0,Firma16,Lager B,Lager D
+553,Auftrag erhalten,2024-01-07T02:00:00,Jonas Richter,30.62010217312356,Produkt F,110.0,Firma2,Lager J,Lager E
+554,Transport beginnen,2024-01-07T02:15:00,Lisa Mueller,72.14683097161009,Produkt G,95.0,Firma16,Lager G,Lager A
+555,Auftrag erhalten,2024-01-07T02:30:00,Jonas Richter,27.156553715559834,Produkt F,110.0,Firma1,Lager H,Lager D
+556,Transport beginnen,2024-01-07T02:45:00,Max Mustermann,38.91260726141304,Produkt A,100.0,Firma1,Lager H,Lager G
+557,Produkt ins Lager legen,2024-01-07T03:00:00,Jonas Richter,62.5252151881463,Produkt J,75.0,Firma9,Lager C,Lager I
+558,Ware abholen,2024-01-07T03:15:00,Lisa Mueller,87.09644151758168,Produkt Q,110.0,Firma5,Lager A,Lager I
+559,Auftrag erhalten,2024-01-07T03:30:00,Leonie Richter,94.7477805701939,Produkt M,95.0,Firma14,Lager A,Lager B
+560,Transport beginnen,2024-01-07T03:45:00,Luca Huber,46.17919123625236,Produkt K,110.0,Firma8,Lager G,Lager I
+561,Produkt aus Lager nehmen,2024-01-07T04:00:00,Paul Zimmer,62.35441353428695,Produkt M,95.0,Firma6,Lager A,Lager H
+562,Auftrag erhalten,2024-01-07T04:15:00,Sophia Lang,45.193278469724376,Produkt R,130.0,Firma19,Lager F,Lager I
+563,Ware abholen,2024-01-07T04:30:00,Leonie Richter,47.29573344845562,Produkt A,100.0,Firma8,Lager A,Lager F
+564,Auftrag erhalten,2024-01-07T04:45:00,Sophia Lang,10.359134672381515,Produkt L,140.0,Firma11,Lager H,Lager I
+565,Ware abholen,2024-01-07T05:00:00,Paul Zimmer,29.09438953242433,Produkt R,130.0,Firma19,Lager H,Lager A
+566,Produkt aus Lager nehmen,2024-01-07T05:15:00,Lena Mueller,60.100785644685445,Produkt J,75.0,Firma6,Lager C,Lager H
+567,Produkt ins Lager legen,2024-01-07T05:30:00,Emma Weber,63.327884920428986,Produkt N,75.0,Firma12,Lager A,Lager D
+568,Transport beginnen,2024-01-07T05:45:00,Timo Wagner,25.78930519858368,Produkt M,95.0,Firma14,Lager I,Lager A
+569,Auftrag erhalten,2024-01-07T06:00:00,David Meyer,51.40216193608934,Produkt J,75.0,Firma19,Lager J,Lager J
+570,Transport beginnen,2024-01-07T06:15:00,Jonas Richter,16.321009515102666,Produkt A,100.0,Firma16,Lager I,Lager I
+571,Produkt ins Lager legen,2024-01-07T06:30:00,Timo Wagner,34.22546883782564,Produkt N,75.0,Firma8,Lager A,Lager B
+572,Transport beenden,2024-01-07T06:45:00,Noah Becker,52.08677233597675,Produkt J,75.0,Firma6,Lager F,Lager A
+573,Transport beenden,2024-01-07T07:00:00,Noah Becker,19.666269357103687,Produkt K,110.0,Firma7,Lager C,Lager G
+574,Auftrag erhalten,2024-01-07T07:15:00,Lisa Schulz,16.29403911537285,Produkt A,100.0,Firma8,Lager I,Lager I
+575,Produkt ins Lager legen,2024-01-07T07:30:00,Lisa Mueller,18.965886525247598,Produkt F,110.0,Firma14,Lager B,Lager G
+576,Auftrag erhalten,2024-01-07T07:45:00,Emilia Wagner,31.73430671203739,Produkt M,95.0,Firma14,Lager B,Lager G
+577,Ware abholen,2024-01-07T08:00:00,Timo Wagner,11.749360563444746,Produkt F,110.0,Firma17,Lager E,Lager F
+578,Produkt ins Lager legen,2024-01-07T08:15:00,Emma Weber,77.36740231359188,Produkt H,130.0,Firma17,Lager D,Lager F
+579,Transport beenden,2024-01-07T08:30:00,Emma Weber,12.688347373705192,Produkt G,95.0,Firma20,Lager E,Lager B
+580,Auftrag erhalten,2024-01-07T08:45:00,Jan Becker,14.8986471520534,Produkt M,95.0,Firma7,Lager A,Lager C
+581,Transport beginnen,2024-01-07T09:00:00,Lisa Mueller,48.60516860390117,Produkt S,90.0,Firma20,Lager A,Lager C
+582,Ware abholen,2024-01-07T09:15:00,Lisa Mueller,51.89841658192445,Produkt S,90.0,Firma12,Lager H,Lager G
+583,Transport beginnen,2024-01-07T09:30:00,Leonie Richter,14.010658391097904,Produkt G,95.0,Firma9,Lager A,Lager J
+584,Produkt aus Lager nehmen,2024-01-07T09:45:00,Jan Becker,50.20698764022573,Produkt M,95.0,Firma10,Lager B,Lager E
+585,Auftrag erhalten,2024-01-07T10:00:00,Lisa Schulz,90.36995789065038,Produkt B,120.0,Firma11,Lager J,Lager C
+586,Auftrag erhalten,2024-01-07T10:15:00,Jonas Richter,58.73307642614185,Produkt J,75.0,Firma15,Lager J,Lager A
+587,Transport beginnen,2024-01-07T10:30:00,Sophia Lang,72.87217489364004,Produkt I,90.0,Firma11,Lager D,Lager E
+588,Transport beenden,2024-01-07T10:45:00,Noah Becker,98.78494061434972,Produkt I,90.0,Firma1,Lager H,Lager H
+589,Produkt aus Lager nehmen,2024-01-07T11:00:00,Lena Mueller,51.61227089600742,Produkt D,70.0,Firma5,Lager J,Lager H
+590,Produkt aus Lager nehmen,2024-01-07T11:15:00,Lisa Schulz,80.03507162831012,Produkt F,110.0,Firma3,Lager J,Lager H
+591,Auftrag erhalten,2024-01-07T11:30:00,Nico Schmidt,93.52430137429526,Produkt Q,110.0,Firma1,Lager B,Lager D
+592,Produkt aus Lager nehmen,2024-01-07T11:45:00,Lena Mueller,51.524381103248764,Produkt Q,110.0,Firma17,Lager F,Lager F
+593,Transport beenden,2024-01-07T12:00:00,Lena Mueller,53.226166848169456,Produkt S,90.0,Firma8,Lager G,Lager J
+594,Transport beginnen,2024-01-07T12:15:00,Sophia Lang,44.93666211211333,Produkt E,150.0,Firma19,Lager H,Lager D
+595,Transport beginnen,2024-01-07T12:30:00,David Meyer,19.377201261245496,Produkt M,95.0,Firma11,Lager J,Lager I
+596,Produkt ins Lager legen,2024-01-07T12:45:00,Emilia Wagner,24.940001584774432,Produkt L,140.0,Firma6,Lager C,Lager D
+597,Produkt aus Lager nehmen,2024-01-07T13:00:00,Emilia Wagner,33.70089506221079,Produkt K,110.0,Firma9,Lager C,Lager I
+598,Auftrag erhalten,2024-01-07T13:15:00,Timo Wagner,41.83381389703103,Produkt T,85.0,Firma6,Lager G,Lager G
+599,Produkt ins Lager legen,2024-01-07T13:30:00,Sophia Lang,95.09272586941863,Produkt M,95.0,Firma9,Lager C,Lager I
+600,Auftrag erhalten,2024-01-07T13:45:00,Timo Wagner,52.37833148805564,Produkt P,100.0,Firma17,Lager F,Lager H
+601,Transport beenden,2024-01-07T14:00:00,Sophia Lang,96.21530497500208,Produkt O,120.0,Firma4,Lager G,Lager H
+602,Produkt aus Lager nehmen,2024-01-07T14:15:00,Jan Becker,95.84460760274258,Produkt O,120.0,Firma2,Lager E,Lager B
+603,Produkt ins Lager legen,2024-01-07T14:30:00,Nico Schmidt,62.6795461559418,Produkt O,120.0,Firma1,Lager H,Lager C
+604,Transport beenden,2024-01-07T14:45:00,Timo Wagner,90.87833032016485,Produkt C,80.0,Firma15,Lager D,Lager F
+605,Ware abholen,2024-01-07T15:00:00,Lena Mueller,11.120062342919741,Produkt H,130.0,Firma20,Lager J,Lager H
+606,Produkt ins Lager legen,2024-01-07T15:15:00,Laura Fischer,33.66939959025569,Produkt B,120.0,Firma4,Lager A,Lager H
+607,Transport beenden,2024-01-07T15:30:00,Lisa Mueller,55.407794304434645,Produkt Q,110.0,Firma20,Lager D,Lager I
+608,Transport beenden,2024-01-07T15:45:00,Emma Weber,6.799359312561451,Produkt B,120.0,Firma2,Lager J,Lager D
+609,Produkt aus Lager nehmen,2024-01-07T16:00:00,Max Mustermann,17.007954569972977,Produkt I,90.0,Firma17,Lager H,Lager D
+610,Transport beginnen,2024-01-07T16:15:00,Lisa Mueller,56.97888232381547,Produkt E,150.0,Firma16,Lager G,Lager D
+611,Auftrag erhalten,2024-01-07T16:30:00,Luca Huber,44.16442783413482,Produkt H,130.0,Firma2,Lager D,Lager E
+612,Produkt ins Lager legen,2024-01-07T16:45:00,Lisa Mueller,37.440099720386094,Produkt H,130.0,Firma6,Lager A,Lager F
+613,Auftrag erhalten,2024-01-07T17:00:00,Mia Schmitt,64.3386776341225,Produkt L,140.0,Firma5,Lager F,Lager I
+614,Transport beenden,2024-01-07T17:15:00,Sophia Lang,79.07401057774351,Produkt R,130.0,Firma8,Lager B,Lager A
+615,Auftrag erhalten,2024-01-07T17:30:00,David Meyer,23.27256021125212,Produkt J,75.0,Firma7,Lager I,Lager A
+616,Produkt ins Lager legen,2024-01-07T17:45:00,Mia Schmitt,56.837830833740604,Produkt I,90.0,Firma8,Lager D,Lager B
+617,Transport beenden,2024-01-07T18:00:00,Leonie Richter,90.63263151284819,Produkt S,90.0,Firma18,Lager I,Lager E
+618,Produkt ins Lager legen,2024-01-07T18:15:00,Lisa Mueller,33.281493284076774,Produkt H,130.0,Firma20,Lager A,Lager F
+619,Auftrag erhalten,2024-01-07T18:30:00,Jonas Richter,38.67799654982072,Produkt E,150.0,Firma7,Lager E,Lager A
+620,Ware abholen,2024-01-07T18:45:00,Paul Zimmer,43.94832923225426,Produkt H,130.0,Firma17,Lager D,Lager J
+621,Transport beginnen,2024-01-07T19:00:00,Mia Schmitt,66.25143953420651,Produkt M,95.0,Firma16,Lager A,Lager D
+622,Ware abholen,2024-01-07T19:15:00,Sophia Lang,90.04831380545974,Produkt B,120.0,Firma6,Lager D,Lager B
+623,Transport beenden,2024-01-07T19:30:00,Paul Zimmer,87.88136516720897,Produkt I,90.0,Firma5,Lager C,Lager D
+624,Auftrag erhalten,2024-01-07T19:45:00,Max Mustermann,31.384804974289175,Produkt G,95.0,Firma8,Lager C,Lager J
+625,Auftrag erhalten,2024-01-07T20:00:00,Mia Schmitt,99.13473802656853,Produkt R,130.0,Firma10,Lager G,Lager J
+626,Produkt aus Lager nehmen,2024-01-07T20:15:00,Laura Fischer,94.16041749539289,Produkt D,70.0,Firma3,Lager B,Lager B
+627,Ware abholen,2024-01-07T20:30:00,Hannah Meyer,34.82923966645413,Produkt O,120.0,Firma20,Lager G,Lager B
+628,Transport beginnen,2024-01-07T20:45:00,Max Mustermann,41.854093803978124,Produkt Q,110.0,Firma20,Lager D,Lager H
+629,Transport beenden,2024-01-07T21:00:00,Jonas Richter,10.555538527102808,Produkt P,100.0,Firma13,Lager C,Lager B
+630,Transport beenden,2024-01-07T21:15:00,Emilia Wagner,95.78615485421832,Produkt J,75.0,Firma11,Lager E,Lager F
+631,Produkt ins Lager legen,2024-01-07T21:30:00,Laura Fischer,91.73710014593432,Produkt O,120.0,Firma12,Lager H,Lager A
+632,Ware abholen,2024-01-07T21:45:00,Luca Huber,14.76599485623277,Produkt S,90.0,Firma16,Lager B,Lager E
+633,Transport beginnen,2024-01-07T22:00:00,Noah Becker,56.79273716250808,Produkt M,95.0,Firma7,Lager F,Lager C
+634,Produkt aus Lager nehmen,2024-01-07T22:15:00,Sophia Lang,95.11372639212072,Produkt Q,110.0,Firma2,Lager J,Lager A
+635,Produkt ins Lager legen,2024-01-07T22:30:00,Max Mustermann,53.487689364774845,Produkt M,95.0,Firma5,Lager A,Lager A
+636,Transport beenden,2024-01-07T22:45:00,Paul Zimmer,19.344609845988508,Produkt B,120.0,Firma6,Lager B,Lager B
+637,Ware abholen,2024-01-07T23:00:00,Leonie Richter,34.56803239186142,Produkt P,100.0,Firma16,Lager H,Lager H
+638,Transport beenden,2024-01-07T23:15:00,Laura Fischer,28.056425031920796,Produkt R,130.0,Firma9,Lager C,Lager C
+639,Transport beenden,2024-01-07T23:30:00,Emma Weber,69.38171799347691,Produkt J,75.0,Firma10,Lager G,Lager J
+640,Transport beenden,2024-01-07T23:45:00,Leonie Richter,68.76341216471809,Produkt M,95.0,Firma17,Lager C,Lager F
+641,Ware abholen,2024-01-08T00:00:00,Emilia Wagner,94.37508342843252,Produkt M,95.0,Firma1,Lager C,Lager E
+642,Produkt ins Lager legen,2024-01-08T00:15:00,Lisa Schulz,75.99747964340851,Produkt E,150.0,Firma11,Lager A,Lager F
+643,Auftrag erhalten,2024-01-08T00:30:00,Lena Mueller,55.66316370911256,Produkt O,120.0,Firma19,Lager G,Lager C
+644,Transport beenden,2024-01-08T00:45:00,Sarah Schmidt,81.04005736440239,Produkt C,80.0,Firma2,Lager E,Lager C
+645,Transport beginnen,2024-01-08T01:00:00,Lisa Schulz,39.85412871719201,Produkt P,100.0,Firma11,Lager B,Lager E
+646,Transport beginnen,2024-01-08T01:15:00,Jan Becker,78.28818470728282,Produkt M,95.0,Firma7,Lager H,Lager J
+647,Ware abholen,2024-01-08T01:30:00,Hannah Meyer,93.44892706916063,Produkt J,75.0,Firma16,Lager A,Lager E
+648,Auftrag erhalten,2024-01-08T01:45:00,Max Mustermann,42.01499926124392,Produkt E,150.0,Firma12,Lager B,Lager F
+649,Transport beenden,2024-01-08T02:00:00,Jonas Richter,29.86133335379215,Produkt H,130.0,Firma12,Lager J,Lager B
+650,Produkt ins Lager legen,2024-01-08T02:15:00,Mia Schmitt,79.37599531787029,Produkt R,130.0,Firma10,Lager I,Lager B
+651,Produkt aus Lager nehmen,2024-01-08T02:30:00,Paul Zimmer,28.389356957494822,Produkt D,70.0,Firma12,Lager I,Lager B
+652,Produkt aus Lager nehmen,2024-01-08T02:45:00,Mia Schmitt,21.810480056966206,Produkt D,70.0,Firma17,Lager F,Lager E
+653,Ware abholen,2024-01-08T03:00:00,Laura Fischer,24.55156032600511,Produkt P,100.0,Firma6,Lager E,Lager I
+654,Auftrag erhalten,2024-01-08T03:15:00,Leonie Richter,88.34654969664457,Produkt N,75.0,Firma3,Lager C,Lager F
+655,Transport beenden,2024-01-08T03:30:00,Laura Fischer,72.4357070788456,Produkt I,90.0,Firma5,Lager H,Lager J
+656,Auftrag erhalten,2024-01-08T03:45:00,Nico Schmidt,22.147023619110936,Produkt J,75.0,Firma6,Lager J,Lager F
+657,Produkt aus Lager nehmen,2024-01-08T04:00:00,Laura Fischer,29.400453743127198,Produkt N,75.0,Firma1,Lager C,Lager H
+658,Produkt ins Lager legen,2024-01-08T04:15:00,Lisa Mueller,23.07330815133355,Produkt N,75.0,Firma2,Lager F,Lager F
+659,Transport beginnen,2024-01-08T04:30:00,Mia Schmitt,84.16218085617224,Produkt D,70.0,Firma9,Lager D,Lager D
+660,Ware abholen,2024-01-08T04:45:00,Lena Mueller,17.71979287393641,Produkt L,140.0,Firma8,Lager E,Lager C
+661,Transport beginnen,2024-01-08T05:00:00,Sophia Lang,52.8683447989715,Produkt C,80.0,Firma2,Lager J,Lager C
+662,Produkt aus Lager nehmen,2024-01-08T05:15:00,Leonie Richter,85.39563034647503,Produkt K,110.0,Firma19,Lager F,Lager D
+663,Transport beginnen,2024-01-08T05:30:00,Hannah Meyer,41.90534731646104,Produkt R,130.0,Firma15,Lager C,Lager C
+664,Produkt aus Lager nehmen,2024-01-08T05:45:00,Luca Huber,83.78991276322876,Produkt D,70.0,Firma1,Lager H,Lager A
+665,Ware abholen,2024-01-08T06:00:00,Emma Weber,59.89054114218977,Produkt J,75.0,Firma5,Lager D,Lager H
+666,Produkt aus Lager nehmen,2024-01-08T06:15:00,Luca Huber,69.85242250066213,Produkt T,85.0,Firma7,Lager J,Lager D
+667,Produkt aus Lager nehmen,2024-01-08T06:30:00,Nico Schmidt,28.105830023359445,Produkt J,75.0,Firma6,Lager H,Lager G
+668,Ware abholen,2024-01-08T06:45:00,Sarah Schmidt,15.887970512614464,Produkt H,130.0,Firma10,Lager H,Lager E
+669,Transport beenden,2024-01-08T07:00:00,David Meyer,22.519368039925705,Produkt L,140.0,Firma14,Lager F,Lager A
+670,Transport beginnen,2024-01-08T07:15:00,Timo Wagner,71.71195578896477,Produkt N,75.0,Firma20,Lager F,Lager D
+671,Auftrag erhalten,2024-01-08T07:30:00,Jonas Richter,32.43466158608949,Produkt F,110.0,Firma9,Lager B,Lager H
+672,Transport beginnen,2024-01-08T07:45:00,Lisa Schulz,6.152991389192586,Produkt C,80.0,Firma5,Lager F,Lager A
+673,Ware abholen,2024-01-08T08:00:00,Emma Weber,55.56454760421212,Produkt K,110.0,Firma4,Lager J,Lager I
+674,Produkt aus Lager nehmen,2024-01-08T08:15:00,Jan Becker,68.83146888876087,Produkt I,90.0,Firma17,Lager I,Lager E
+675,Transport beenden,2024-01-08T08:30:00,Paul Zimmer,57.71631619196284,Produkt J,75.0,Firma10,Lager I,Lager A
+676,Produkt ins Lager legen,2024-01-08T08:45:00,Emma Weber,62.81992576341986,Produkt I,90.0,Firma7,Lager E,Lager D
+677,Produkt ins Lager legen,2024-01-08T09:00:00,Emma Weber,84.57655970243496,Produkt T,85.0,Firma17,Lager C,Lager C
+678,Transport beginnen,2024-01-08T09:15:00,Max Mustermann,13.458420358859724,Produkt D,70.0,Firma14,Lager I,Lager I
+679,Ware abholen,2024-01-08T09:30:00,Emilia Wagner,51.86674818417687,Produkt L,140.0,Firma18,Lager G,Lager F
+680,Auftrag erhalten,2024-01-08T09:45:00,Leonie Richter,92.5581873410294,Produkt E,150.0,Firma14,Lager F,Lager J
+681,Transport beenden,2024-01-08T10:00:00,Paul Zimmer,61.017486365373124,Produkt E,150.0,Firma2,Lager J,Lager H
+682,Transport beginnen,2024-01-08T10:15:00,Max Mustermann,11.606952207112514,Produkt H,130.0,Firma8,Lager A,Lager G
+683,Transport beginnen,2024-01-08T10:30:00,Laura Fischer,19.756738118291565,Produkt L,140.0,Firma14,Lager B,Lager H
+684,Ware abholen,2024-01-08T10:45:00,Sophia Lang,48.471622433111015,Produkt A,100.0,Firma19,Lager D,Lager D
+685,Transport beginnen,2024-01-08T11:00:00,Laura Fischer,16.693877702886784,Produkt A,100.0,Firma10,Lager D,Lager B
+686,Auftrag erhalten,2024-01-08T11:15:00,Leonie Richter,99.84278541224997,Produkt Q,110.0,Firma3,Lager I,Lager E
+687,Transport beginnen,2024-01-08T11:30:00,David Meyer,23.76181103560914,Produkt A,100.0,Firma16,Lager H,Lager A
+688,Produkt ins Lager legen,2024-01-08T11:45:00,Laura Fischer,9.453132673043518,Produkt S,90.0,Firma20,Lager G,Lager G
+689,Produkt ins Lager legen,2024-01-08T12:00:00,Timo Wagner,98.78676910617696,Produkt D,70.0,Firma16,Lager B,Lager E
+690,Transport beginnen,2024-01-08T12:15:00,Hannah Meyer,47.549338420701595,Produkt I,90.0,Firma11,Lager J,Lager E
+691,Transport beginnen,2024-01-08T12:30:00,Laura Fischer,8.999802704211865,Produkt I,90.0,Firma17,Lager C,Lager J
+692,Ware abholen,2024-01-08T12:45:00,David Meyer,90.79203247659335,Produkt E,150.0,Firma12,Lager C,Lager A
+693,Auftrag erhalten,2024-01-08T13:00:00,Hannah Meyer,20.78321129225968,Produkt L,140.0,Firma11,Lager E,Lager C
+694,Ware abholen,2024-01-08T13:15:00,Emilia Wagner,74.23845801654024,Produkt F,110.0,Firma3,Lager G,Lager F
+695,Produkt ins Lager legen,2024-01-08T13:30:00,Sarah Schmidt,44.04621454519795,Produkt O,120.0,Firma16,Lager C,Lager G
+696,Auftrag erhalten,2024-01-08T13:45:00,Lisa Schulz,37.69556205859314,Produkt T,85.0,Firma12,Lager J,Lager C
+697,Transport beenden,2024-01-08T14:00:00,Laura Fischer,86.79115180483547,Produkt R,130.0,Firma19,Lager D,Lager F
+698,Ware abholen,2024-01-08T14:15:00,David Meyer,90.22792680598175,Produkt E,150.0,Firma1,Lager C,Lager G
+699,Transport beginnen,2024-01-08T14:30:00,Nico Schmidt,31.42199543061994,Produkt H,130.0,Firma3,Lager H,Lager B
+700,Auftrag erhalten,2024-01-08T14:45:00,Max Mustermann,76.50909359177413,Produkt G,95.0,Firma13,Lager D,Lager J
+701,Auftrag erhalten,2024-01-08T15:00:00,Lena Mueller,7.2949355399581215,Produkt B,120.0,Firma14,Lager G,Lager C
+702,Produkt ins Lager legen,2024-01-08T15:15:00,Sophia Lang,16.33133499663877,Produkt I,90.0,Firma8,Lager J,Lager H
+703,Transport beginnen,2024-01-08T15:30:00,Jan Becker,91.45145212629174,Produkt Q,110.0,Firma5,Lager G,Lager J
+704,Produkt ins Lager legen,2024-01-08T15:45:00,Leonie Richter,79.59288609707686,Produkt H,130.0,Firma6,Lager H,Lager I
+705,Produkt ins Lager legen,2024-01-08T16:00:00,Laura Fischer,32.30049790090307,Produkt J,75.0,Firma20,Lager I,Lager C
+706,Produkt ins Lager legen,2024-01-08T16:15:00,Max Mustermann,56.91388447439739,Produkt E,150.0,Firma19,Lager C,Lager F
+707,Produkt ins Lager legen,2024-01-08T16:30:00,Emma Weber,40.13822391924406,Produkt H,130.0,Firma16,Lager I,Lager E
+708,Auftrag erhalten,2024-01-08T16:45:00,Emma Weber,23.8735934149705,Produkt D,70.0,Firma15,Lager D,Lager G
+709,Transport beginnen,2024-01-08T17:00:00,Laura Fischer,31.949615525107948,Produkt T,85.0,Firma15,Lager D,Lager J
+710,Produkt aus Lager nehmen,2024-01-08T17:15:00,Sarah Schmidt,65.60713782163839,Produkt H,130.0,Firma4,Lager G,Lager D
+711,Transport beginnen,2024-01-08T17:30:00,Noah Becker,82.44303546866668,Produkt G,95.0,Firma17,Lager I,Lager B
+712,Ware abholen,2024-01-08T17:45:00,Lisa Schulz,77.28957684714489,Produkt Q,110.0,Firma12,Lager E,Lager C
+713,Transport beenden,2024-01-08T18:00:00,Lisa Schulz,11.944479371139458,Produkt G,95.0,Firma12,Lager J,Lager F
+714,Transport beenden,2024-01-08T18:15:00,Jan Becker,9.465737677427814,Produkt G,95.0,Firma12,Lager C,Lager J
+715,Produkt aus Lager nehmen,2024-01-08T18:30:00,Noah Becker,34.87252561751744,Produkt B,120.0,Firma1,Lager J,Lager A
+716,Produkt ins Lager legen,2024-01-08T18:45:00,Nico Schmidt,48.19684777264138,Produkt I,90.0,Firma14,Lager C,Lager A
+717,Transport beginnen,2024-01-08T19:00:00,Paul Zimmer,33.026488835765306,Produkt N,75.0,Firma8,Lager E,Lager I
+718,Auftrag erhalten,2024-01-08T19:15:00,Sophia Lang,50.31290125826906,Produkt Q,110.0,Firma1,Lager G,Lager I
+719,Produkt aus Lager nehmen,2024-01-08T19:30:00,Lisa Schulz,10.666181732199814,Produkt F,110.0,Firma2,Lager C,Lager C
+720,Produkt aus Lager nehmen,2024-01-08T19:45:00,Luca Huber,58.94814144548409,Produkt C,80.0,Firma1,Lager G,Lager A
+721,Produkt aus Lager nehmen,2024-01-08T20:00:00,Hannah Meyer,90.12441190930356,Produkt G,95.0,Firma2,Lager F,Lager F
+722,Produkt ins Lager legen,2024-01-08T20:15:00,Paul Zimmer,92.37894909660996,Produkt S,90.0,Firma8,Lager D,Lager A
+723,Transport beenden,2024-01-08T20:30:00,Timo Wagner,79.4790697768316,Produkt O,120.0,Firma10,Lager I,Lager I
+724,Ware abholen,2024-01-08T20:45:00,Laura Fischer,96.01099134650819,Produkt L,140.0,Firma7,Lager H,Lager D
+725,Transport beginnen,2024-01-08T21:00:00,Mia Schmitt,99.58369326676868,Produkt O,120.0,Firma2,Lager C,Lager C
+726,Auftrag erhalten,2024-01-08T21:15:00,Sarah Schmidt,58.347289323956325,Produkt P,100.0,Firma12,Lager G,Lager B
+727,Produkt aus Lager nehmen,2024-01-08T21:30:00,Sarah Schmidt,51.41752973702002,Produkt F,110.0,Firma19,Lager G,Lager I
+728,Produkt ins Lager legen,2024-01-08T21:45:00,Leonie Richter,25.82507347081489,Produkt N,75.0,Firma12,Lager B,Lager D
+729,Produkt aus Lager nehmen,2024-01-08T22:00:00,Lisa Mueller,58.518922130914525,Produkt P,100.0,Firma3,Lager H,Lager J
+730,Auftrag erhalten,2024-01-08T22:15:00,Timo Wagner,8.914164542462245,Produkt H,130.0,Firma14,Lager D,Lager D
+731,Transport beginnen,2024-01-08T22:30:00,David Meyer,78.32451058637274,Produkt S,90.0,Firma19,Lager J,Lager E
+732,Transport beginnen,2024-01-08T22:45:00,Nico Schmidt,66.37989141957385,Produkt F,110.0,Firma19,Lager D,Lager I
+733,Auftrag erhalten,2024-01-08T23:00:00,Noah Becker,40.21377638641195,Produkt N,75.0,Firma13,Lager G,Lager J
+734,Produkt ins Lager legen,2024-01-08T23:15:00,Emilia Wagner,72.48620201666803,Produkt E,150.0,Firma13,Lager H,Lager F
+735,Transport beginnen,2024-01-08T23:30:00,Hannah Meyer,14.204288510225936,Produkt S,90.0,Firma19,Lager E,Lager F
+736,Ware abholen,2024-01-08T23:45:00,Emma Weber,19.055778971550147,Produkt C,80.0,Firma17,Lager B,Lager J
+737,Produkt ins Lager legen,2024-01-09T00:00:00,Paul Zimmer,16.786989724745986,Produkt O,120.0,Firma8,Lager D,Lager E
+738,Ware abholen,2024-01-09T00:15:00,Nico Schmidt,68.63569765773768,Produkt A,100.0,Firma13,Lager A,Lager J
+739,Transport beenden,2024-01-09T00:30:00,Lisa Mueller,42.7530882018207,Produkt E,150.0,Firma17,Lager D,Lager D
+740,Transport beenden,2024-01-09T00:45:00,Mia Schmitt,73.61533395183498,Produkt C,80.0,Firma13,Lager G,Lager J
+741,Transport beenden,2024-01-09T01:00:00,Sarah Schmidt,40.6070031371351,Produkt R,130.0,Firma5,Lager F,Lager F
+742,Transport beenden,2024-01-09T01:15:00,Lisa Schulz,59.52026848747319,Produkt K,110.0,Firma11,Lager H,Lager J
+743,Produkt aus Lager nehmen,2024-01-09T01:30:00,Noah Becker,23.01197951769595,Produkt I,90.0,Firma5,Lager B,Lager J
+744,Auftrag erhalten,2024-01-09T01:45:00,David Meyer,72.63567661242088,Produkt M,95.0,Firma15,Lager E,Lager H
+745,Auftrag erhalten,2024-01-09T02:00:00,Leonie Richter,10.819413520518697,Produkt C,80.0,Firma4,Lager D,Lager A
+746,Ware abholen,2024-01-09T02:15:00,Lena Mueller,22.06962569309413,Produkt S,90.0,Firma16,Lager B,Lager D
+747,Produkt aus Lager nehmen,2024-01-09T02:30:00,Max Mustermann,28.15209346444095,Produkt E,150.0,Firma13,Lager E,Lager H
+748,Produkt ins Lager legen,2024-01-09T02:45:00,Nico Schmidt,7.607154483007605,Produkt M,95.0,Firma7,Lager E,Lager C
+749,Ware abholen,2024-01-09T03:00:00,Noah Becker,57.92148765298448,Produkt L,140.0,Firma16,Lager F,Lager J
+750,Transport beenden,2024-01-09T03:15:00,Mia Schmitt,24.021769129987106,Produkt B,120.0,Firma11,Lager I,Lager J
+751,Ware abholen,2024-01-09T03:30:00,Jan Becker,20.0550090377359,Produkt G,95.0,Firma17,Lager J,Lager H
+752,Ware abholen,2024-01-09T03:45:00,Lisa Mueller,92.97889036326784,Produkt I,90.0,Firma12,Lager B,Lager D
+753,Auftrag erhalten,2024-01-09T04:00:00,Sarah Schmidt,95.96491464039168,Produkt O,120.0,Firma3,Lager E,Lager C
+754,Transport beenden,2024-01-09T04:15:00,Lisa Schulz,28.995659473165663,Produkt K,110.0,Firma16,Lager E,Lager F
+755,Produkt ins Lager legen,2024-01-09T04:30:00,Nico Schmidt,86.45599490685889,Produkt I,90.0,Firma6,Lager H,Lager C
+756,Transport beginnen,2024-01-09T04:45:00,Laura Fischer,70.16076792194504,Produkt E,150.0,Firma2,Lager J,Lager B
+757,Produkt ins Lager legen,2024-01-09T05:00:00,Jonas Richter,16.817703303292046,Produkt J,75.0,Firma19,Lager C,Lager D
+758,Transport beenden,2024-01-09T05:15:00,Leonie Richter,97.62714080516521,Produkt E,150.0,Firma4,Lager C,Lager B
+759,Auftrag erhalten,2024-01-09T05:30:00,Sarah Schmidt,40.32780699253017,Produkt L,140.0,Firma16,Lager I,Lager I
+760,Auftrag erhalten,2024-01-09T05:45:00,Max Mustermann,88.16272283815697,Produkt N,75.0,Firma16,Lager G,Lager B
+761,Produkt aus Lager nehmen,2024-01-09T06:00:00,Lena Mueller,22.00551067329992,Produkt S,90.0,Firma8,Lager A,Lager B
+762,Produkt aus Lager nehmen,2024-01-09T06:15:00,Luca Huber,75.48686393184349,Produkt D,70.0,Firma3,Lager I,Lager D
+763,Transport beenden,2024-01-09T06:30:00,Lisa Mueller,27.796383750548717,Produkt D,70.0,Firma1,Lager C,Lager F
+764,Transport beginnen,2024-01-09T06:45:00,Lisa Mueller,67.88184024155302,Produkt H,130.0,Firma18,Lager H,Lager I
+765,Transport beenden,2024-01-09T07:00:00,Paul Zimmer,65.96065819694934,Produkt M,95.0,Firma12,Lager D,Lager D
+766,Produkt ins Lager legen,2024-01-09T07:15:00,Lena Mueller,41.69918410987643,Produkt T,85.0,Firma20,Lager E,Lager A
+767,Produkt ins Lager legen,2024-01-09T07:30:00,Mia Schmitt,74.54560669265561,Produkt P,100.0,Firma15,Lager E,Lager I
+768,Auftrag erhalten,2024-01-09T07:45:00,David Meyer,34.09657498777734,Produkt K,110.0,Firma3,Lager A,Lager D
+769,Transport beenden,2024-01-09T08:00:00,Luca Huber,61.770107085545746,Produkt D,70.0,Firma8,Lager A,Lager E
+770,Produkt aus Lager nehmen,2024-01-09T08:15:00,Sophia Lang,31.01947147001436,Produkt A,100.0,Firma14,Lager B,Lager B
+771,Produkt aus Lager nehmen,2024-01-09T08:30:00,Lisa Schulz,50.722807483374126,Produkt F,110.0,Firma7,Lager H,Lager E
+772,Ware abholen,2024-01-09T08:45:00,Emma Weber,92.37302790542283,Produkt A,100.0,Firma19,Lager B,Lager C
+773,Transport beginnen,2024-01-09T09:00:00,Sophia Lang,31.63990665486175,Produkt D,70.0,Firma18,Lager E,Lager I
+774,Ware abholen,2024-01-09T09:15:00,David Meyer,31.11232643148109,Produkt E,150.0,Firma19,Lager I,Lager G
+775,Produkt aus Lager nehmen,2024-01-09T09:30:00,Laura Fischer,25.667383063654167,Produkt C,80.0,Firma17,Lager C,Lager J
+776,Transport beginnen,2024-01-09T09:45:00,Nico Schmidt,7.735220054384225,Produkt S,90.0,Firma7,Lager D,Lager H
+777,Produkt aus Lager nehmen,2024-01-09T10:00:00,Nico Schmidt,31.237726075053995,Produkt P,100.0,Firma4,Lager G,Lager J
+778,Auftrag erhalten,2024-01-09T10:15:00,Lisa Schulz,89.13089824475308,Produkt R,130.0,Firma10,Lager C,Lager B
+779,Produkt ins Lager legen,2024-01-09T10:30:00,Sarah Schmidt,58.17789495251999,Produkt G,95.0,Firma2,Lager F,Lager B
+780,Ware abholen,2024-01-09T10:45:00,Leonie Richter,88.36276010033168,Produkt I,90.0,Firma7,Lager C,Lager C
+781,Auftrag erhalten,2024-01-09T11:00:00,Sophia Lang,25.92804992697602,Produkt D,70.0,Firma6,Lager D,Lager C
+782,Ware abholen,2024-01-09T11:15:00,Lena Mueller,17.2008904104769,Produkt O,120.0,Firma17,Lager C,Lager C
+783,Ware abholen,2024-01-09T11:30:00,Jonas Richter,60.953893731702856,Produkt I,90.0,Firma11,Lager I,Lager F
+784,Auftrag erhalten,2024-01-09T11:45:00,Emilia Wagner,52.20234835289025,Produkt L,140.0,Firma5,Lager A,Lager C
+785,Transport beenden,2024-01-09T12:00:00,Emma Weber,76.93424439785629,Produkt I,90.0,Firma17,Lager I,Lager G
+786,Produkt ins Lager legen,2024-01-09T12:15:00,Lisa Mueller,50.51975462901314,Produkt F,110.0,Firma3,Lager E,Lager A
+787,Transport beenden,2024-01-09T12:30:00,Luca Huber,6.295086103114888,Produkt H,130.0,Firma1,Lager B,Lager D
+788,Transport beenden,2024-01-09T12:45:00,Sophia Lang,97.10660548229424,Produkt M,95.0,Firma3,Lager D,Lager B
+789,Produkt aus Lager nehmen,2024-01-09T13:00:00,Luca Huber,70.66849856958007,Produkt L,140.0,Firma7,Lager I,Lager D
+790,Ware abholen,2024-01-09T13:15:00,Jonas Richter,60.01371021986096,Produkt J,75.0,Firma15,Lager B,Lager B
+791,Produkt aus Lager nehmen,2024-01-09T13:30:00,Lisa Mueller,28.72051858183941,Produkt J,75.0,Firma15,Lager A,Lager J
+792,Produkt ins Lager legen,2024-01-09T13:45:00,Nico Schmidt,16.69624888260214,Produkt E,150.0,Firma8,Lager B,Lager H
+793,Produkt aus Lager nehmen,2024-01-09T14:00:00,Sarah Schmidt,47.00132370716824,Produkt L,140.0,Firma18,Lager F,Lager C
+794,Produkt aus Lager nehmen,2024-01-09T14:15:00,Jan Becker,38.942922325911155,Produkt D,70.0,Firma12,Lager G,Lager I
+795,Transport beginnen,2024-01-09T14:30:00,Paul Zimmer,99.23104000835556,Produkt R,130.0,Firma17,Lager D,Lager G
+796,Produkt ins Lager legen,2024-01-09T14:45:00,Lisa Mueller,13.178640426269007,Produkt L,140.0,Firma17,Lager A,Lager F
+797,Produkt ins Lager legen,2024-01-09T15:00:00,Emma Weber,73.44091676672238,Produkt E,150.0,Firma11,Lager A,Lager I
+798,Transport beenden,2024-01-09T15:15:00,Luca Huber,59.77356513595753,Produkt B,120.0,Firma3,Lager D,Lager C
+799,Produkt aus Lager nehmen,2024-01-09T15:30:00,Noah Becker,52.646988086663974,Produkt Q,110.0,Firma19,Lager B,Lager D
+800,Transport beginnen,2024-01-09T15:45:00,Paul Zimmer,82.68832491630513,Produkt M,95.0,Firma1,Lager D,Lager A
+801,Transport beginnen,2024-01-09T16:00:00,Jan Becker,49.389013938537424,Produkt G,95.0,Firma3,Lager J,Lager B
+802,Produkt aus Lager nehmen,2024-01-09T16:15:00,Lena Mueller,82.05300929982063,Produkt D,70.0,Firma19,Lager A,Lager I
+803,Produkt ins Lager legen,2024-01-09T16:30:00,Jonas Richter,50.421339710149155,Produkt L,140.0,Firma3,Lager I,Lager F
+804,Produkt aus Lager nehmen,2024-01-09T16:45:00,Leonie Richter,33.350197301860334,Produkt G,95.0,Firma12,Lager H,Lager G
+805,Transport beginnen,2024-01-09T17:00:00,Leonie Richter,87.21431600957337,Produkt T,85.0,Firma13,Lager G,Lager F
+806,Transport beenden,2024-01-09T17:15:00,Laura Fischer,27.745898663161398,Produkt F,110.0,Firma18,Lager C,Lager G
+807,Auftrag erhalten,2024-01-09T17:30:00,David Meyer,50.22454386223147,Produkt N,75.0,Firma8,Lager A,Lager I
+808,Auftrag erhalten,2024-01-09T17:45:00,Sophia Lang,48.81830591123351,Produkt C,80.0,Firma9,Lager J,Lager G
+809,Transport beginnen,2024-01-09T18:00:00,Hannah Meyer,20.832485147825466,Produkt G,95.0,Firma3,Lager H,Lager F
+810,Produkt aus Lager nehmen,2024-01-09T18:15:00,Emilia Wagner,82.4182478142548,Produkt R,130.0,Firma15,Lager E,Lager F
+811,Auftrag erhalten,2024-01-09T18:30:00,Lisa Mueller,76.47633727063052,Produkt H,130.0,Firma12,Lager I,Lager E
+812,Produkt ins Lager legen,2024-01-09T18:45:00,David Meyer,93.11848163098587,Produkt E,150.0,Firma15,Lager B,Lager J
+813,Transport beenden,2024-01-09T19:00:00,Leonie Richter,7.656708714634299,Produkt G,95.0,Firma3,Lager A,Lager I
+814,Produkt aus Lager nehmen,2024-01-09T19:15:00,Nico Schmidt,58.75657624529702,Produkt H,130.0,Firma8,Lager B,Lager I
+815,Auftrag erhalten,2024-01-09T19:30:00,Paul Zimmer,86.69068879930218,Produkt I,90.0,Firma20,Lager D,Lager B
+816,Produkt ins Lager legen,2024-01-09T19:45:00,Jonas Richter,32.96723830606154,Produkt I,90.0,Firma5,Lager G,Lager G
+817,Produkt aus Lager nehmen,2024-01-09T20:00:00,Sarah Schmidt,31.384191285332616,Produkt L,140.0,Firma16,Lager C,Lager E
+818,Auftrag erhalten,2024-01-09T20:15:00,Emma Weber,44.38387230019606,Produkt D,70.0,Firma3,Lager I,Lager I
+819,Transport beginnen,2024-01-09T20:30:00,Jan Becker,68.679530070134,Produkt L,140.0,Firma8,Lager C,Lager G
+820,Ware abholen,2024-01-09T20:45:00,Jonas Richter,69.99087263211086,Produkt B,120.0,Firma13,Lager C,Lager B
+821,Produkt ins Lager legen,2024-01-09T21:00:00,Leonie Richter,50.995732265908366,Produkt K,110.0,Firma17,Lager B,Lager I
+822,Transport beenden,2024-01-09T21:15:00,Sarah Schmidt,9.352788866321127,Produkt A,100.0,Firma16,Lager B,Lager E
+823,Produkt ins Lager legen,2024-01-09T21:30:00,Timo Wagner,9.80349381826021,Produkt G,95.0,Firma2,Lager A,Lager B
+824,Ware abholen,2024-01-09T21:45:00,Jonas Richter,66.32057616367078,Produkt O,120.0,Firma2,Lager J,Lager F
+825,Produkt aus Lager nehmen,2024-01-09T22:00:00,Laura Fischer,83.82424053223396,Produkt M,95.0,Firma7,Lager D,Lager F
+826,Produkt aus Lager nehmen,2024-01-09T22:15:00,Paul Zimmer,9.652044258780355,Produkt P,100.0,Firma19,Lager C,Lager C
+827,Produkt ins Lager legen,2024-01-09T22:30:00,Leonie Richter,52.53705844492075,Produkt F,110.0,Firma3,Lager A,Lager A
+828,Transport beenden,2024-01-09T22:45:00,Leonie Richter,33.57644552512937,Produkt I,90.0,Firma9,Lager E,Lager E
+829,Auftrag erhalten,2024-01-09T23:00:00,Lena Mueller,7.860490262290868,Produkt N,75.0,Firma12,Lager D,Lager D
+830,Produkt ins Lager legen,2024-01-09T23:15:00,Hannah Meyer,94.83968669054435,Produkt D,70.0,Firma3,Lager H,Lager A
+831,Auftrag erhalten,2024-01-09T23:30:00,Hannah Meyer,42.44489281600235,Produkt F,110.0,Firma13,Lager D,Lager J
+832,Ware abholen,2024-01-09T23:45:00,Emma Weber,33.11200264920704,Produkt R,130.0,Firma4,Lager F,Lager A
+833,Transport beenden,2024-01-10T00:00:00,Paul Zimmer,94.83696124571354,Produkt P,100.0,Firma20,Lager E,Lager A
+834,Auftrag erhalten,2024-01-10T00:15:00,Timo Wagner,48.736961670178964,Produkt G,95.0,Firma17,Lager B,Lager C
+835,Produkt ins Lager legen,2024-01-10T00:30:00,Lisa Schulz,66.22321557166302,Produkt I,90.0,Firma18,Lager F,Lager B
+836,Produkt aus Lager nehmen,2024-01-10T00:45:00,Max Mustermann,65.33108212513544,Produkt E,150.0,Firma18,Lager G,Lager I
+837,Auftrag erhalten,2024-01-10T01:00:00,Timo Wagner,73.07041065857196,Produkt L,140.0,Firma20,Lager G,Lager A
+838,Auftrag erhalten,2024-01-10T01:15:00,Lisa Schulz,78.47632033976875,Produkt Q,110.0,Firma5,Lager E,Lager G
+839,Ware abholen,2024-01-10T01:30:00,David Meyer,8.465035128498684,Produkt O,120.0,Firma6,Lager I,Lager J
+840,Transport beginnen,2024-01-10T01:45:00,Luca Huber,25.48698333417239,Produkt G,95.0,Firma12,Lager A,Lager B
+841,Ware abholen,2024-01-10T02:00:00,Emma Weber,15.761998723045155,Produkt G,95.0,Firma4,Lager G,Lager E
+842,Produkt aus Lager nehmen,2024-01-10T02:15:00,Sarah Schmidt,25.278582830543396,Produkt I,90.0,Firma19,Lager D,Lager H
+843,Ware abholen,2024-01-10T02:30:00,Noah Becker,33.85527153713129,Produkt K,110.0,Firma12,Lager C,Lager C
+844,Auftrag erhalten,2024-01-10T02:45:00,Sophia Lang,53.73011188749215,Produkt J,75.0,Firma8,Lager H,Lager D
+845,Auftrag erhalten,2024-01-10T03:00:00,Paul Zimmer,71.78140197552976,Produkt E,150.0,Firma15,Lager E,Lager H
+846,Auftrag erhalten,2024-01-10T03:15:00,Lena Mueller,64.85594687771692,Produkt F,110.0,Firma6,Lager E,Lager D
+847,Auftrag erhalten,2024-01-10T03:30:00,Noah Becker,36.86099097387884,Produkt T,85.0,Firma1,Lager F,Lager G
+848,Produkt aus Lager nehmen,2024-01-10T03:45:00,Lisa Schulz,83.65455899453038,Produkt N,75.0,Firma8,Lager J,Lager G
+849,Ware abholen,2024-01-10T04:00:00,Laura Fischer,6.7710057286341065,Produkt L,140.0,Firma16,Lager A,Lager G
+850,Transport beginnen,2024-01-10T04:15:00,Laura Fischer,75.53199705355452,Produkt Q,110.0,Firma18,Lager I,Lager F
+851,Auftrag erhalten,2024-01-10T04:30:00,Mia Schmitt,44.45655590444271,Produkt D,70.0,Firma3,Lager G,Lager E
+852,Auftrag erhalten,2024-01-10T04:45:00,Emma Weber,73.23208225376354,Produkt L,140.0,Firma5,Lager D,Lager J
+853,Auftrag erhalten,2024-01-10T05:00:00,Lisa Schulz,37.99717999090892,Produkt I,90.0,Firma18,Lager I,Lager D
+854,Produkt ins Lager legen,2024-01-10T05:15:00,David Meyer,69.01684110138063,Produkt Q,110.0,Firma1,Lager A,Lager I
+855,Transport beginnen,2024-01-10T05:30:00,Lisa Mueller,98.77378779576985,Produkt A,100.0,Firma9,Lager A,Lager E
+856,Transport beginnen,2024-01-10T05:45:00,Max Mustermann,36.817460120625356,Produkt K,110.0,Firma19,Lager G,Lager D
+857,Ware abholen,2024-01-10T06:00:00,Lena Mueller,50.52265634027553,Produkt G,95.0,Firma4,Lager E,Lager C
+858,Transport beenden,2024-01-10T06:15:00,Max Mustermann,92.58402318686437,Produkt A,100.0,Firma14,Lager D,Lager D
+859,Ware abholen,2024-01-10T06:30:00,Paul Zimmer,77.59962729289327,Produkt C,80.0,Firma3,Lager C,Lager B
+860,Produkt aus Lager nehmen,2024-01-10T06:45:00,Lena Mueller,45.34844035596567,Produkt P,100.0,Firma7,Lager F,Lager D
+861,Auftrag erhalten,2024-01-10T07:00:00,Emma Weber,17.376684591766633,Produkt A,100.0,Firma15,Lager H,Lager B
+862,Transport beginnen,2024-01-10T07:15:00,Leonie Richter,80.50468174759328,Produkt N,75.0,Firma17,Lager E,Lager J
+863,Produkt aus Lager nehmen,2024-01-10T07:30:00,Hannah Meyer,16.038041254196678,Produkt L,140.0,Firma17,Lager C,Lager I
+864,Produkt ins Lager legen,2024-01-10T07:45:00,Luca Huber,68.43065630932074,Produkt E,150.0,Firma9,Lager B,Lager E
+865,Auftrag erhalten,2024-01-10T08:00:00,Lisa Schulz,68.29045809252868,Produkt B,120.0,Firma19,Lager B,Lager I
+866,Auftrag erhalten,2024-01-10T08:15:00,Paul Zimmer,65.12668573239463,Produkt A,100.0,Firma16,Lager H,Lager I
+867,Produkt aus Lager nehmen,2024-01-10T08:30:00,Laura Fischer,85.19336310371762,Produkt D,70.0,Firma11,Lager G,Lager A
+868,Transport beenden,2024-01-10T08:45:00,Luca Huber,27.977681246513633,Produkt T,85.0,Firma10,Lager A,Lager G
+869,Transport beenden,2024-01-10T09:00:00,Emma Weber,32.596809689720374,Produkt G,95.0,Firma15,Lager I,Lager G
+870,Produkt aus Lager nehmen,2024-01-10T09:15:00,Nico Schmidt,45.84395312562445,Produkt G,95.0,Firma16,Lager I,Lager B
+871,Transport beenden,2024-01-10T09:30:00,Sophia Lang,40.1467729878937,Produkt P,100.0,Firma9,Lager I,Lager G
+872,Produkt ins Lager legen,2024-01-10T09:45:00,Lena Mueller,11.32219640766417,Produkt Q,110.0,Firma19,Lager C,Lager H
+873,Transport beginnen,2024-01-10T10:00:00,Sarah Schmidt,20.430640047791545,Produkt R,130.0,Firma18,Lager G,Lager A
+874,Transport beginnen,2024-01-10T10:15:00,Noah Becker,23.535889934142492,Produkt H,130.0,Firma1,Lager C,Lager G
+875,Produkt ins Lager legen,2024-01-10T10:30:00,Jonas Richter,18.866009242413725,Produkt N,75.0,Firma20,Lager F,Lager F
+876,Auftrag erhalten,2024-01-10T10:45:00,Hannah Meyer,39.50005266773958,Produkt T,85.0,Firma12,Lager J,Lager H
+877,Ware abholen,2024-01-10T11:00:00,Sophia Lang,35.26599353983269,Produkt E,150.0,Firma1,Lager I,Lager B
+878,Produkt aus Lager nehmen,2024-01-10T11:15:00,Sarah Schmidt,79.92548328190608,Produkt I,90.0,Firma17,Lager E,Lager C
+879,Ware abholen,2024-01-10T11:30:00,Jonas Richter,20.087886673597367,Produkt K,110.0,Firma18,Lager I,Lager J
+880,Transport beenden,2024-01-10T11:45:00,Emma Weber,65.35930066237097,Produkt S,90.0,Firma7,Lager A,Lager G
+881,Ware abholen,2024-01-10T12:00:00,David Meyer,64.19529812204817,Produkt M,95.0,Firma6,Lager D,Lager E
+882,Produkt aus Lager nehmen,2024-01-10T12:15:00,Nico Schmidt,35.23626637402664,Produkt A,100.0,Firma7,Lager F,Lager A
+883,Produkt ins Lager legen,2024-01-10T12:30:00,Emilia Wagner,42.08706727651245,Produkt M,95.0,Firma10,Lager B,Lager D
+884,Produkt ins Lager legen,2024-01-10T12:45:00,Mia Schmitt,99.57084119450154,Produkt B,120.0,Firma2,Lager I,Lager C
+885,Transport beginnen,2024-01-10T13:00:00,Nico Schmidt,87.22322898150483,Produkt K,110.0,Firma1,Lager B,Lager A
+886,Ware abholen,2024-01-10T13:15:00,Lisa Schulz,47.58188585049791,Produkt Q,110.0,Firma18,Lager G,Lager D
+887,Transport beginnen,2024-01-10T13:30:00,Mia Schmitt,25.014057289989776,Produkt N,75.0,Firma7,Lager I,Lager D
+888,Auftrag erhalten,2024-01-10T13:45:00,Jan Becker,94.04283968141213,Produkt Q,110.0,Firma20,Lager D,Lager F
+889,Ware abholen,2024-01-10T14:00:00,Lisa Schulz,36.79840662690145,Produkt S,90.0,Firma8,Lager I,Lager I
+890,Auftrag erhalten,2024-01-10T14:15:00,Paul Zimmer,61.27958863986382,Produkt J,75.0,Firma11,Lager J,Lager G
+891,Produkt aus Lager nehmen,2024-01-10T14:30:00,Sophia Lang,83.24310150364299,Produkt J,75.0,Firma8,Lager D,Lager A
+892,Ware abholen,2024-01-10T14:45:00,Noah Becker,66.88083874914827,Produkt F,110.0,Firma6,Lager A,Lager C
+893,Auftrag erhalten,2024-01-10T15:00:00,Luca Huber,51.82370622471565,Produkt Q,110.0,Firma11,Lager C,Lager E
+894,Produkt ins Lager legen,2024-01-10T15:15:00,Laura Fischer,7.872177903099254,Produkt O,120.0,Firma15,Lager G,Lager G
+895,Transport beenden,2024-01-10T15:30:00,Luca Huber,74.83782856135034,Produkt S,90.0,Firma10,Lager C,Lager D
+896,Transport beenden,2024-01-10T15:45:00,Sophia Lang,10.017881821001335,Produkt Q,110.0,Firma14,Lager D,Lager C
+897,Ware abholen,2024-01-10T16:00:00,Jan Becker,41.637930676684796,Produkt C,80.0,Firma4,Lager G,Lager I
+898,Produkt ins Lager legen,2024-01-10T16:15:00,Luca Huber,29.833355970495653,Produkt M,95.0,Firma14,Lager I,Lager G
+899,Auftrag erhalten,2024-01-10T16:30:00,David Meyer,45.316880281242994,Produkt J,75.0,Firma2,Lager H,Lager I
+900,Produkt aus Lager nehmen,2024-01-10T16:45:00,Emilia Wagner,81.43047879317338,Produkt H,130.0,Firma14,Lager D,Lager D
+901,Ware abholen,2024-01-10T17:00:00,Max Mustermann,41.488417571685794,Produkt C,80.0,Firma15,Lager I,Lager J
+902,Ware abholen,2024-01-10T17:15:00,Noah Becker,84.15342372386145,Produkt M,95.0,Firma6,Lager A,Lager G
+903,Auftrag erhalten,2024-01-10T17:30:00,Sarah Schmidt,38.16658875402332,Produkt R,130.0,Firma19,Lager E,Lager F
+904,Transport beenden,2024-01-10T17:45:00,Jonas Richter,78.68596376187979,Produkt R,130.0,Firma9,Lager J,Lager F
+905,Produkt aus Lager nehmen,2024-01-10T18:00:00,Mia Schmitt,29.443578974874303,Produkt H,130.0,Firma18,Lager B,Lager E
+906,Transport beenden,2024-01-10T18:15:00,Mia Schmitt,16.742825950423807,Produkt A,100.0,Firma20,Lager E,Lager D
+907,Auftrag erhalten,2024-01-10T18:30:00,Leonie Richter,25.284872138519347,Produkt F,110.0,Firma14,Lager H,Lager G
+908,Transport beenden,2024-01-10T18:45:00,Lisa Schulz,49.31524664026356,Produkt D,70.0,Firma18,Lager J,Lager C
+909,Produkt aus Lager nehmen,2024-01-10T19:00:00,Max Mustermann,29.01249379625844,Produkt T,85.0,Firma9,Lager C,Lager E
+910,Ware abholen,2024-01-10T19:15:00,Paul Zimmer,17.998026150448247,Produkt H,130.0,Firma10,Lager C,Lager I
+911,Produkt aus Lager nehmen,2024-01-10T19:30:00,Max Mustermann,42.25525655327817,Produkt S,90.0,Firma18,Lager E,Lager E
+912,Transport beenden,2024-01-10T19:45:00,Max Mustermann,49.745418771015665,Produkt O,120.0,Firma14,Lager D,Lager B
+913,Auftrag erhalten,2024-01-10T20:00:00,Lena Mueller,28.635301200356047,Produkt M,95.0,Firma14,Lager E,Lager A
+914,Produkt aus Lager nehmen,2024-01-10T20:15:00,Jan Becker,75.4278413774938,Produkt D,70.0,Firma12,Lager I,Lager G
+915,Ware abholen,2024-01-10T20:30:00,Mia Schmitt,60.60598052700083,Produkt K,110.0,Firma6,Lager H,Lager G
+916,Produkt ins Lager legen,2024-01-10T20:45:00,Hannah Meyer,64.96483103201793,Produkt Q,110.0,Firma7,Lager D,Lager D
+917,Auftrag erhalten,2024-01-10T21:00:00,Hannah Meyer,23.367868883038042,Produkt A,100.0,Firma16,Lager E,Lager F
+918,Auftrag erhalten,2024-01-10T21:15:00,Noah Becker,86.10633616610696,Produkt T,85.0,Firma16,Lager E,Lager A
+919,Transport beenden,2024-01-10T21:30:00,Sophia Lang,11.50715519256434,Produkt K,110.0,Firma17,Lager H,Lager H
+920,Auftrag erhalten,2024-01-10T21:45:00,Lisa Schulz,87.07667401058598,Produkt R,130.0,Firma8,Lager E,Lager B
+921,Auftrag erhalten,2024-01-10T22:00:00,Nico Schmidt,23.372723731922363,Produkt Q,110.0,Firma11,Lager E,Lager B
+922,Produkt ins Lager legen,2024-01-10T22:15:00,Paul Zimmer,48.149043771684916,Produkt C,80.0,Firma20,Lager A,Lager C
+923,Auftrag erhalten,2024-01-10T22:30:00,Paul Zimmer,16.40073798193131,Produkt R,130.0,Firma15,Lager I,Lager I
+924,Transport beenden,2024-01-10T22:45:00,Jonas Richter,84.957626863256,Produkt G,95.0,Firma16,Lager A,Lager E
+925,Transport beginnen,2024-01-10T23:00:00,Leonie Richter,98.0068148166156,Produkt K,110.0,Firma4,Lager A,Lager E
+926,Auftrag erhalten,2024-01-10T23:15:00,Lena Mueller,63.676428538630425,Produkt K,110.0,Firma14,Lager J,Lager J
+927,Transport beginnen,2024-01-10T23:30:00,Paul Zimmer,27.759255120738263,Produkt N,75.0,Firma5,Lager F,Lager I
+928,Transport beenden,2024-01-10T23:45:00,David Meyer,16.793847530056482,Produkt G,95.0,Firma14,Lager A,Lager H
+929,Auftrag erhalten,2024-01-11T00:00:00,Max Mustermann,10.50859384338042,Produkt H,130.0,Firma16,Lager D,Lager G
+930,Transport beginnen,2024-01-11T00:15:00,Mia Schmitt,28.804372505666183,Produkt A,100.0,Firma3,Lager H,Lager G
+931,Auftrag erhalten,2024-01-11T00:30:00,David Meyer,12.85458522203078,Produkt Q,110.0,Firma13,Lager C,Lager A
+932,Transport beginnen,2024-01-11T00:45:00,Jonas Richter,96.10089626778807,Produkt A,100.0,Firma14,Lager E,Lager B
+933,Auftrag erhalten,2024-01-11T01:00:00,Emma Weber,82.74184654653557,Produkt F,110.0,Firma19,Lager E,Lager B
+934,Transport beenden,2024-01-11T01:15:00,Emilia Wagner,66.39210121309672,Produkt I,90.0,Firma15,Lager E,Lager I
+935,Transport beenden,2024-01-11T01:30:00,Paul Zimmer,31.0542241291553,Produkt T,85.0,Firma10,Lager B,Lager B
+936,Produkt ins Lager legen,2024-01-11T01:45:00,Paul Zimmer,7.443979531420929,Produkt H,130.0,Firma19,Lager G,Lager C
+937,Produkt ins Lager legen,2024-01-11T02:00:00,Lena Mueller,40.70671845775414,Produkt O,120.0,Firma9,Lager I,Lager D
+938,Transport beenden,2024-01-11T02:15:00,Jonas Richter,55.66317679278595,Produkt S,90.0,Firma18,Lager H,Lager G
+939,Auftrag erhalten,2024-01-11T02:30:00,Jonas Richter,96.24319924332994,Produkt H,130.0,Firma19,Lager C,Lager J
+940,Transport beginnen,2024-01-11T02:45:00,Timo Wagner,5.594300363973675,Produkt L,140.0,Firma13,Lager G,Lager H
+941,Produkt ins Lager legen,2024-01-11T03:00:00,David Meyer,34.99383322579283,Produkt H,130.0,Firma10,Lager J,Lager I
+942,Ware abholen,2024-01-11T03:15:00,Lisa Mueller,70.05187464557702,Produkt C,80.0,Firma7,Lager E,Lager C
+943,Auftrag erhalten,2024-01-11T03:30:00,Luca Huber,74.576472255688,Produkt G,95.0,Firma15,Lager J,Lager C
+944,Transport beginnen,2024-01-11T03:45:00,Lena Mueller,37.14176950731067,Produkt J,75.0,Firma8,Lager D,Lager G
+945,Ware abholen,2024-01-11T04:00:00,Leonie Richter,14.223933813308765,Produkt F,110.0,Firma16,Lager J,Lager D
+946,Ware abholen,2024-01-11T04:15:00,Jonas Richter,33.26746121771296,Produkt E,150.0,Firma5,Lager G,Lager H
+947,Ware abholen,2024-01-11T04:30:00,Paul Zimmer,58.2115373099141,Produkt A,100.0,Firma15,Lager J,Lager F
+948,Produkt ins Lager legen,2024-01-11T04:45:00,Noah Becker,79.27113239213367,Produkt O,120.0,Firma17,Lager B,Lager A
+949,Ware abholen,2024-01-11T05:00:00,Paul Zimmer,26.42104209015953,Produkt M,95.0,Firma15,Lager C,Lager A
+950,Transport beginnen,2024-01-11T05:15:00,Lena Mueller,27.639597066504006,Produkt R,130.0,Firma20,Lager F,Lager H
+951,Transport beenden,2024-01-11T05:30:00,Hannah Meyer,72.38502542720579,Produkt Q,110.0,Firma5,Lager H,Lager J
+952,Produkt ins Lager legen,2024-01-11T05:45:00,Emma Weber,78.0104057568434,Produkt L,140.0,Firma7,Lager G,Lager H
+953,Produkt aus Lager nehmen,2024-01-11T06:00:00,Timo Wagner,58.18032845539284,Produkt I,90.0,Firma20,Lager D,Lager G
+954,Ware abholen,2024-01-11T06:15:00,Emma Weber,54.23195304434965,Produkt R,130.0,Firma6,Lager G,Lager D
+955,Ware abholen,2024-01-11T06:30:00,Jonas Richter,95.467226679555,Produkt R,130.0,Firma10,Lager B,Lager I
+956,Produkt ins Lager legen,2024-01-11T06:45:00,Leonie Richter,98.30119960047672,Produkt G,95.0,Firma12,Lager C,Lager J
+957,Produkt ins Lager legen,2024-01-11T07:00:00,Leonie Richter,62.38496649213917,Produkt M,95.0,Firma11,Lager D,Lager H
+958,Transport beginnen,2024-01-11T07:15:00,Jan Becker,17.762432806928036,Produkt Q,110.0,Firma10,Lager F,Lager G
+959,Produkt aus Lager nehmen,2024-01-11T07:30:00,Hannah Meyer,44.66952560683629,Produkt A,100.0,Firma6,Lager E,Lager I
+960,Ware abholen,2024-01-11T07:45:00,Jan Becker,88.28352781906122,Produkt P,100.0,Firma13,Lager B,Lager J
+961,Auftrag erhalten,2024-01-11T08:00:00,Noah Becker,89.63130815257585,Produkt A,100.0,Firma19,Lager J,Lager D
+962,Produkt ins Lager legen,2024-01-11T08:15:00,Mia Schmitt,45.795176627602956,Produkt E,150.0,Firma16,Lager G,Lager C
+963,Ware abholen,2024-01-11T08:30:00,Laura Fischer,89.569789343285,Produkt A,100.0,Firma19,Lager C,Lager J
+964,Ware abholen,2024-01-11T08:45:00,Timo Wagner,18.719367031577022,Produkt K,110.0,Firma20,Lager D,Lager F
+965,Transport beenden,2024-01-11T09:00:00,Mia Schmitt,9.744290120945026,Produkt F,110.0,Firma18,Lager D,Lager B
+966,Transport beenden,2024-01-11T09:15:00,Nico Schmidt,89.15655495070536,Produkt O,120.0,Firma3,Lager E,Lager G
+967,Auftrag erhalten,2024-01-11T09:30:00,Jan Becker,22.271602288143654,Produkt C,80.0,Firma6,Lager I,Lager D
+968,Produkt ins Lager legen,2024-01-11T09:45:00,Noah Becker,60.02276039957956,Produkt I,90.0,Firma11,Lager E,Lager B
+969,Auftrag erhalten,2024-01-11T10:00:00,Leonie Richter,6.838161183677789,Produkt K,110.0,Firma13,Lager H,Lager C
+970,Ware abholen,2024-01-11T10:15:00,Emma Weber,81.88394565219092,Produkt T,85.0,Firma6,Lager J,Lager D
+971,Transport beginnen,2024-01-11T10:30:00,Luca Huber,48.88104100020429,Produkt T,85.0,Firma11,Lager H,Lager H
+972,Transport beenden,2024-01-11T10:45:00,Sophia Lang,97.96579632595481,Produkt D,70.0,Firma19,Lager J,Lager G
+973,Transport beenden,2024-01-11T11:00:00,Lena Mueller,40.53466673157334,Produkt L,140.0,Firma4,Lager J,Lager H
+974,Produkt aus Lager nehmen,2024-01-11T11:15:00,Lisa Mueller,33.41642932925275,Produkt C,80.0,Firma20,Lager I,Lager G
+975,Transport beenden,2024-01-11T11:30:00,David Meyer,16.733984791201795,Produkt P,100.0,Firma13,Lager G,Lager A
+976,Transport beginnen,2024-01-11T11:45:00,Lena Mueller,63.60964073894883,Produkt L,140.0,Firma16,Lager A,Lager C
+977,Produkt ins Lager legen,2024-01-11T12:00:00,Nico Schmidt,47.89298343054157,Produkt E,150.0,Firma14,Lager G,Lager F
+978,Produkt ins Lager legen,2024-01-11T12:15:00,Mia Schmitt,70.54448958310417,Produkt J,75.0,Firma7,Lager C,Lager E
+979,Produkt aus Lager nehmen,2024-01-11T12:30:00,Sophia Lang,36.36732280068985,Produkt B,120.0,Firma8,Lager E,Lager C
+980,Produkt ins Lager legen,2024-01-11T12:45:00,Paul Zimmer,39.750454959123715,Produkt P,100.0,Firma11,Lager A,Lager C
+981,Ware abholen,2024-01-11T13:00:00,Timo Wagner,93.99157922638307,Produkt M,95.0,Firma5,Lager F,Lager E
+982,Transport beenden,2024-01-11T13:15:00,Timo Wagner,32.261250359606066,Produkt N,75.0,Firma3,Lager A,Lager D
+983,Auftrag erhalten,2024-01-11T13:30:00,Timo Wagner,87.75233568006134,Produkt F,110.0,Firma6,Lager J,Lager G
+984,Transport beenden,2024-01-11T13:45:00,Leonie Richter,60.01484486246093,Produkt B,120.0,Firma18,Lager A,Lager D
+985,Produkt aus Lager nehmen,2024-01-11T14:00:00,Laura Fischer,29.737580691243057,Produkt N,75.0,Firma11,Lager I,Lager H
+986,Produkt ins Lager legen,2024-01-11T14:15:00,Sophia Lang,44.695434784673594,Produkt R,130.0,Firma7,Lager H,Lager C
+987,Ware abholen,2024-01-11T14:30:00,Leonie Richter,26.857690582022027,Produkt P,100.0,Firma17,Lager A,Lager C
+988,Ware abholen,2024-01-11T14:45:00,Timo Wagner,6.204050983463386,Produkt B,120.0,Firma10,Lager H,Lager J
+989,Produkt aus Lager nehmen,2024-01-11T15:00:00,Timo Wagner,47.03910890670358,Produkt G,95.0,Firma14,Lager B,Lager B
+990,Transport beenden,2024-01-11T15:15:00,Noah Becker,76.89888115588933,Produkt L,140.0,Firma6,Lager C,Lager G
+991,Produkt ins Lager legen,2024-01-11T15:30:00,Lisa Schulz,48.221916927008635,Produkt M,95.0,Firma13,Lager C,Lager F
+992,Ware abholen,2024-01-11T15:45:00,Nico Schmidt,92.37759704036536,Produkt E,150.0,Firma2,Lager A,Lager G
+993,Transport beenden,2024-01-11T16:00:00,Luca Huber,73.02195368918593,Produkt D,70.0,Firma12,Lager A,Lager J
+994,Transport beenden,2024-01-11T16:15:00,Lisa Mueller,24.14828691176176,Produkt E,150.0,Firma12,Lager F,Lager G
+995,Produkt ins Lager legen,2024-01-11T16:30:00,Nico Schmidt,97.29725327955603,Produkt F,110.0,Firma13,Lager B,Lager F
+996,Produkt aus Lager nehmen,2024-01-11T16:45:00,Sarah Schmidt,92.68657711344268,Produkt R,130.0,Firma9,Lager A,Lager C
+997,Ware abholen,2024-01-11T17:00:00,Timo Wagner,19.7823849110516,Produkt Q,110.0,Firma5,Lager J,Lager J
+998,Ware abholen,2024-01-11T17:15:00,Sophia Lang,98.45204677117823,Produkt F,110.0,Firma16,Lager A,Lager I
+999,Transport beenden,2024-01-11T17:30:00,Leonie Richter,32.03276178438118,Produkt F,110.0,Firma13,Lager D,Lager H
+1000,Transport beginnen,2024-01-11T17:45:00,Laura Fischer,24.972866748804396,Produkt E,150.0,Firma1,Lager B,Lager F

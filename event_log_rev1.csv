@@ -1,0 +1,156 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+006,Kundensupport angefragt,01/12/2019 12:01:00,Lisa Schulz,29.14,Produkt G,95.0,Firma1,Lager D,Lager C
+006,Ware versandt,01/12/2019 12:02:00,Hannah Meyer,26.71,Produkt N,75.0,Firma15,Lager A,Lager G
+003,Produktionsplanung erstellt,01/12/2019 12:03:00,Nico Schmidt,75.23,Produkt T,85.0,Firma14,Lager F,Lager B
+001,Preisverhandlungen geführt,01/12/2019 12:04:00,Max Mustermann,90.78,Produkt K,110.0,Firma12,Lager G,Lager B
+002,Ware umgeladen,01/12/2019 12:05:00,Lena Mueller,16.89,Produkt I,90.0,Firma10,Lager F,Lager A
+009,Rechnung bezahlt,01/12/2019 12:06:00,Jonas Richter,63.3,Produkt P,100.0,Firma15,Lager B,Lager H
+003,Ware zur Produktion gebracht,01/12/2019 12:07:00,Hannah Meyer,30.24,Produkt D,70.0,Firma10,Lager B,Lager I
+009,Angebot erstellt,01/12/2019 12:08:00,Jan Becker,20.08,Produkt Q,110.0,Firma10,Lager F,Lager G
+007,Ware zum Versand vorbereitet,01/12/2019 12:09:00,Emma Weber,76.97,Produkt D,70.0,Firma19,Lager H,Lager C
+002,Ware beim Kunden angekommen,01/12/2019 12:10:00,Lena Mueller,67.71,Produkt F,110.0,Firma20,Lager E,Lager F
+005,Rückverfolgbarkeitsprüfung,01/12/2019 12:11:00,Noah Becker,16.17,Produkt Q,110.0,Firma14,Lager C,Lager I
+003,Verpackungsmaterial bestellt,01/12/2019 12:12:00,Sarah Schmidt,40.76,Produkt A,100.0,Firma17,Lager G,Lager G
+010,Ware versandt,01/12/2019 12:13:00,Lisa Mueller,70.26,Produkt M,95.0,Firma3,Lager C,Lager B
+003,Ware entsorgt,01/12/2019 12:14:00,Sophia Lang,93.2,Produkt F,110.0,Firma18,Lager A,Lager C
+004,Rechnung erstellt,01/12/2019 12:15:00,Timo Wagner,80.03,Produkt S,90.0,Firma5,Lager E,Lager A
+007,Ware hergestellt,01/12/2019 12:16:00,Timo Wagner,88.81,Produkt E,150.0,Firma13,Lager G,Lager H
+004,Ware verpackt,01/12/2019 12:17:00,David Meyer,12.87,Produkt D,70.0,Firma1,Lager I,Lager C
+005,Verpackungsmaterial bestellt,01/12/2019 12:18:00,Hannah Meyer,9.13,Produkt T,85.0,Firma10,Lager I,Lager I
+008,Qualitätskontrolle durchgeführt,01/12/2019 12:19:00,Jan Becker,6.66,Produkt L,140.0,Firma12,Lager D,Lager A
+001,Ware retourniert,01/12/2019 12:20:00,Lisa Schulz,76.81,Produkt G,95.0,Firma4,Lager B,Lager E
+007,Personal geschult,01/12/2019 12:21:00,Hannah Meyer,52.86,Produkt H,130.0,Firma13,Lager C,Lager G
+008,Zahlung erhalten,01/12/2019 12:22:00,Lisa Schulz,54.52,Produkt S,90.0,Firma9,Lager C,Lager F
+004,Ware zum Versand vorbereitet,01/12/2019 12:23:00,Lena Mueller,72.89,Produkt H,130.0,Firma19,Lager G,Lager H
+007,Ware gelagert,01/12/2019 12:24:00,Leonie Richter,73.01,Produkt G,95.0,Firma6,Lager A,Lager H
+008,Kundensupport angefragt,01/12/2019 12:25:00,Nico Schmidt,96.68,Produkt M,95.0,Firma7,Lager D,Lager D
+007,Lieferanten kontaktiert,01/12/2019 12:26:00,Max Mustermann,17.68,Produkt R,130.0,Firma9,Lager J,Lager F
+009,Ware gelagert,01/12/2019 12:27:00,Luca Huber,33.16,Produkt E,150.0,Firma2,Lager F,Lager J
+001,Produktionsplanung erstellt,01/12/2019 12:28:00,Sophia Lang,39.76,Produkt J,75.0,Firma18,Lager A,Lager I
+001,Rechnung erstellt,01/12/2019 12:29:00,Lisa Mueller,79.11,Produkt F,110.0,Firma20,Lager D,Lager B
+007,Ware wiederverkauft,01/12/2019 12:30:00,Lisa Mueller,63.11,Produkt G,95.0,Firma10,Lager G,Lager A
+003,Vertragsverhandlungen geführt,01/12/2019 12:31:00,Mia Schmitt,72.33,Produkt M,95.0,Firma2,Lager I,Lager A
+010,Rechnung versendet,01/12/2019 12:32:00,Noah Becker,62.28,Produkt G,95.0,Firma13,Lager B,Lager A
+001,Ware versandt,01/12/2019 12:33:00,Hannah Meyer,87.08,Produkt A,100.0,Firma4,Lager J,Lager E
+008,Werbekampagne gestartet,01/12/2019 12:34:00,Paul Zimmer,40.22,Produkt I,90.0,Firma1,Lager B,Lager J
+007,Rechnung bezahlt,01/12/2019 12:35:00,Nico Schmidt,58.41,Produkt E,150.0,Firma13,Lager G,Lager C
+008,Personal geschult,01/12/2019 12:36:00,Noah Becker,55.67,Produkt B,120.0,Firma7,Lager G,Lager H
+003,Ware zum Versand vorbereitet,01/12/2019 12:37:00,Emilia Wagner,92.91,Produkt K,110.0,Firma14,Lager B,Lager C
+009,Ware wiederverkauft,01/12/2019 12:38:00,Lisa Mueller,15.34,Produkt M,95.0,Firma2,Lager J,Lager B
+005,Auftrag eingegangen,01/12/2019 12:39:00,Lisa Mueller,17.66,Produkt S,90.0,Firma10,Lager H,Lager A
+009,Ware zur Produktion gebracht,01/12/2019 12:40:00,Mia Schmitt,81.57,Produkt H,130.0,Firma16,Lager B,Lager F
+008,Preisverhandlungen geführt,01/12/2019 12:41:00,Laura Fischer,44.65,Produkt Q,110.0,Firma20,Lager E,Lager C
+007,Bestellung aufgenommen,01/12/2019 12:42:00,Nico Schmidt,86.25,Produkt D,70.0,Firma3,Lager E,Lager C
+003,Rechnung erstellt,01/12/2019 12:43:00,Emilia Wagner,51.47,Produkt H,130.0,Firma2,Lager F,Lager A
+001,Rückverfolgbarkeitsprüfung,01/12/2019 12:44:00,Sarah Schmidt,10.06,Produkt O,120.0,Firma18,Lager A,Lager C
+009,Ware aus Lager geholt,01/12/2019 12:45:00,David Meyer,20.2,Produkt I,90.0,Firma11,Lager A,Lager H
+005,Werbekampagne gestartet,01/12/2019 12:46:00,Noah Becker,72.47,Produkt D,70.0,Firma20,Lager H,Lager F
+002,Preisverhandlungen geführt,01/12/2019 12:47:00,David Meyer,85.71,Produkt N,75.0,Firma11,Lager A,Lager G
+005,Lieferanten kontaktiert,01/12/2019 12:48:00,Timo Wagner,55.01,Produkt K,110.0,Firma19,Lager J,Lager B
+005,Ware beim Kunden angekommen,01/12/2019 12:49:00,Luca Huber,79.69,Produkt L,140.0,Firma17,Lager E,Lager A
+001,Ware gelagert,01/12/2019 12:50:00,Hannah Meyer,12.45,Produkt R,130.0,Firma5,Lager B,Lager B
+002,Werbekampagne gestartet,01/12/2019 12:51:00,Lisa Mueller,79.63,Produkt I,90.0,Firma3,Lager H,Lager G
+002,Personal geschult,01/12/2019 12:52:00,Mia Schmitt,50.48,Produkt H,130.0,Firma13,Lager B,Lager D
+007,Preisverhandlungen geführt,01/12/2019 12:53:00,Sophia Lang,96.42,Produkt K,110.0,Firma15,Lager H,Lager G
+007,Ware versandt,01/12/2019 12:54:00,Luca Huber,21.27,Produkt A,100.0,Firma13,Lager E,Lager C
+001,Ware wiederverkauft,01/12/2019 12:55:00,Paul Zimmer,99.87,Produkt E,150.0,Firma4,Lager A,Lager E
+006,Ware entsorgt,01/12/2019 12:56:00,Nico Schmidt,64.14,Produkt R,130.0,Firma20,Lager H,Lager I
+009,Werbekampagne gestartet,01/12/2019 12:57:00,Luca Huber,76.72,Produkt C,80.0,Firma18,Lager D,Lager C
+003,Ware wiederverkauft,01/12/2019 12:58:00,Hannah Meyer,72.98,Produkt M,95.0,Firma19,Lager G,Lager I
+002,Ware zum Versand vorbereitet,01/12/2019 12:59:00,Sophia Lang,82.16,Produkt G,95.0,Firma20,Lager H,Lager H
+003,Zahlung erhalten,01/12/2019 13:00:00,Emma Weber,48.98,Produkt T,85.0,Firma1,Lager I,Lager G
+003,Rückverfolgbarkeitsprüfung,01/12/2019 13:01:00,Timo Wagner,83.51,Produkt J,75.0,Firma19,Lager J,Lager J
+005,Ware entsorgt,01/12/2019 13:02:00,Sarah Schmidt,16.54,Produkt C,80.0,Firma14,Lager C,Lager D
+004,Rückverfolgbarkeitsprüfung,01/12/2019 13:03:00,David Meyer,64.67,Produkt B,120.0,Firma5,Lager J,Lager G
+004,Ware entsorgt,01/12/2019 13:04:00,David Meyer,87.3,Produkt C,80.0,Firma5,Lager I,Lager C
+005,Kundensupport angefragt,01/12/2019 13:05:00,Mia Schmitt,98.39,Produkt I,90.0,Firma11,Lager F,Lager I
+006,Marketingaktion durchgeführt,01/12/2019 13:06:00,Jonas Richter,30.58,Produkt F,110.0,Firma8,Lager I,Lager H
+005,Personal geschult,01/12/2019 13:07:00,Max Mustermann,90.68,Produkt S,90.0,Firma18,Lager B,Lager D
+004,Angebot erstellt,01/12/2019 13:08:00,Lena Mueller,62.41,Produkt S,90.0,Firma16,Lager E,Lager D
+010,Auftrag eingegangen,01/12/2019 13:09:00,Lisa Schulz,71.81,Produkt B,120.0,Firma2,Lager I,Lager F
+010,Vertragsverhandlungen geführt,01/12/2019 13:10:00,Jan Becker,90.19,Produkt F,110.0,Firma20,Lager J,Lager D
+003,Bestellung aufgenommen,01/12/2019 13:11:00,Nico Schmidt,60.39,Produkt N,75.0,Firma12,Lager H,Lager A
+008,Bestellung aufgenommen,01/12/2019 13:12:00,Max Mustermann,66.41,Produkt C,80.0,Firma6,Lager D,Lager I
+009,Rechnung versendet,01/12/2019 13:13:00,Leonie Richter,65.77,Produkt J,75.0,Firma1,Lager G,Lager J
+005,Produktionsplanung erstellt,01/12/2019 13:14:00,Sophia Lang,18.61,Produkt D,70.0,Firma14,Lager G,Lager D
+010,Personal geschult,01/12/2019 13:15:00,Leonie Richter,99.28,Produkt K,110.0,Firma13,Lager C,Lager I
+009,Rechnung erstellt,01/12/2019 13:16:00,Sophia Lang,76.85,Produkt Q,110.0,Firma6,Lager A,Lager I
+004,Preisverhandlungen geführt,01/12/2019 13:17:00,Sophia Lang,40.71,Produkt C,80.0,Firma20,Lager A,Lager G
+005,Reparatur durchgeführt,01/12/2019 13:18:00,Emma Weber,99.22,Produkt K,110.0,Firma10,Lager C,Lager G
+008,Ware entsorgt,01/12/2019 13:19:00,Leonie Richter,39.69,Produkt P,100.0,Firma8,Lager H,Lager I
+010,Ware aus Lager geholt,01/12/2019 13:20:00,Emma Weber,17.42,Produkt Q,110.0,Firma7,Lager F,Lager H
+010,Ware entsorgt,01/12/2019 13:21:00,David Meyer,33.58,Produkt H,130.0,Firma3,Lager D,Lager D
+007,Qualitätskontrolle durchgeführt,01/12/2019 13:22:00,Jan Becker,55.06,Produkt P,100.0,Firma12,Lager G,Lager H
+002,Rechnung versendet,01/12/2019 13:23:00,Leonie Richter,43.24,Produkt C,80.0,Firma9,Lager B,Lager B
+008,Ware aus Lager geholt,01/12/2019 13:24:00,Lena Mueller,51.32,Produkt L,140.0,Firma18,Lager A,Lager D
+008,Ware umgeladen,01/12/2019 13:25:00,Lena Mueller,42.48,Produkt N,75.0,Firma9,Lager H,Lager H
+005,Ware retourniert,01/12/2019 13:26:00,Sophia Lang,6.64,Produkt B,120.0,Firma4,Lager E,Lager G
+008,Rückverfolgbarkeitsprüfung,01/12/2019 13:27:00,Lisa Schulz,52.16,Produkt G,95.0,Firma7,Lager A,Lager H
+004,Bestellung aufgenommen,01/12/2019 13:28:00,Mia Schmitt,78.47,Produkt F,110.0,Firma7,Lager E,Lager J
+009,Ware beim Kunden angekommen,01/12/2019 13:29:00,Jonas Richter,52.28,Produkt P,100.0,Firma11,Lager H,Lager B
+009,Ware zum Versand vorbereitet,01/12/2019 13:30:00,Mia Schmitt,8.89,Produkt K,110.0,Firma10,Lager H,Lager C
+001,Ware verpackt,01/12/2019 13:31:00,Sophia Lang,23.06,Produkt G,95.0,Firma6,Lager A,Lager C
+010,Zahlung erhalten,01/12/2019 13:32:00,Leonie Richter,30.54,Produkt M,95.0,Firma6,Lager I,Lager I
+001,Kundensupport angefragt,01/12/2019 13:33:00,Leonie Richter,79.83,Produkt B,120.0,Firma17,Lager D,Lager G
+002,Ware retourniert,01/12/2019 13:34:00,Emilia Wagner,24.69,Produkt P,100.0,Firma11,Lager E,Lager J
+008,Auftrag eingegangen,01/12/2019 13:35:00,Jan Becker,62.23,Produkt T,85.0,Firma9,Lager H,Lager A
+005,Bestellung aufgenommen,01/12/2019 13:36:00,David Meyer,19.84,Produkt H,130.0,Firma19,Lager A,Lager G
+009,Marketingaktion durchgeführt,01/12/2019 13:37:00,Mia Schmitt,48.94,Produkt C,80.0,Firma17,Lager A,Lager E
+003,Ware umgeladen,01/12/2019 13:38:00,Laura Fischer,61.98,Produkt L,140.0,Firma1,Lager G,Lager B
+010,Bestellung aufgenommen,01/12/2019 13:39:00,Lisa Schulz,77.35,Produkt G,95.0,Firma14,Lager A,Lager G
+009,Ware entsorgt,01/12/2019 13:40:00,Sophia Lang,25.45,Produkt C,80.0,Firma5,Lager J,Lager A
+006,Rechnung erstellt,01/12/2019 13:41:00,Paul Zimmer,86.05,Produkt K,110.0,Firma9,Lager C,Lager B
+007,Produktionsplanung erstellt,01/12/2019 13:42:00,Lena Mueller,80.41,Produkt A,100.0,Firma5,Lager J,Lager C
+002,Bestellung aufgenommen,01/12/2019 13:43:00,Laura Fischer,16.76,Produkt A,100.0,Firma16,Lager J,Lager C
+003,Lieferanten kontaktiert,01/12/2019 13:44:00,Laura Fischer,52.97,Produkt J,75.0,Firma11,Lager I,Lager H
+010,Ware retourniert,01/12/2019 13:45:00,Jan Becker,63.57,Produkt A,100.0,Firma3,Lager C,Lager J
+009,Lieferanten kontaktiert,01/12/2019 13:46:00,Laura Fischer,48.77,Produkt J,75.0,Firma6,Lager B,Lager G
+006,Preisverhandlungen geführt,01/12/2019 13:47:00,Paul Zimmer,35.4,Produkt L,140.0,Firma5,Lager E,Lager B
+003,Kundensupport angefragt,01/12/2019 13:48:00,Laura Fischer,10.65,Produkt Q,110.0,Firma2,Lager D,Lager B
+007,Angebot erstellt,01/12/2019 13:49:00,David Meyer,18.24,Produkt C,80.0,Firma20,Lager I,Lager C
+005,Ware aus Lager geholt,01/12/2019 13:50:00,David Meyer,21.79,Produkt F,110.0,Firma13,Lager A,Lager H
+001,Werbekampagne gestartet,01/12/2019 13:51:00,Mia Schmitt,91.92,Produkt N,75.0,Firma2,Lager B,Lager E
+009,Kundensupport angefragt,01/12/2019 13:52:00,Hannah Meyer,6.15,Produkt K,110.0,Firma8,Lager H,Lager E
+008,Vertragsverhandlungen geführt,01/12/2019 13:53:00,Paul Zimmer,73.7,Produkt Q,110.0,Firma13,Lager G,Lager B
+003,Personal geschult,01/12/2019 13:54:00,Emma Weber,9.95,Produkt A,100.0,Firma3,Lager E,Lager C
+004,Ware wiederverkauft,01/12/2019 13:55:00,Nico Schmidt,47.19,Produkt C,80.0,Firma15,Lager J,Lager I
+001,Ware beim Kunden angekommen,01/12/2019 13:56:00,Max Mustermann,66.35,Produkt J,75.0,Firma15,Lager I,Lager C
+010,Ware wiederverkauft,01/12/2019 13:57:00,Sophia Lang,38.01,Produkt P,100.0,Firma15,Lager G,Lager J
+009,Zahlung erhalten,01/12/2019 13:58:00,Mia Schmitt,79.42,Produkt R,130.0,Firma9,Lager C,Lager D
+010,Ware verpackt,01/12/2019 13:59:00,Timo Wagner,26.03,Produkt L,140.0,Firma8,Lager I,Lager J
+002,Kundensupport angefragt,01/12/2019 14:00:00,Sophia Lang,82.58,Produkt F,110.0,Firma20,Lager F,Lager A
+007,Ware zur Produktion gebracht,01/12/2019 14:01:00,Luca Huber,30.46,Produkt F,110.0,Firma16,Lager B,Lager E
+003,Ware gelagert,01/12/2019 14:02:00,Hannah Meyer,11.27,Produkt E,150.0,Firma11,Lager C,Lager H
+001,Lieferanten kontaktiert,01/12/2019 14:03:00,Max Mustermann,30.84,Produkt T,85.0,Firma7,Lager J,Lager F
+004,Ware hergestellt,01/12/2019 14:04:00,Mia Schmitt,63.05,Produkt G,95.0,Firma1,Lager G,Lager C
+007,Werbekampagne gestartet,01/12/2019 14:05:00,Leonie Richter,24.33,Produkt A,100.0,Firma17,Lager I,Lager C
+010,Rechnung bezahlt,01/12/2019 14:06:00,Sarah Schmidt,60.32,Produkt J,75.0,Firma20,Lager J,Lager E
+002,Angebot erstellt,01/12/2019 14:07:00,Lisa Schulz,41.08,Produkt T,85.0,Firma8,Lager A,Lager G
+003,Ware versandt,01/12/2019 14:08:00,Timo Wagner,99.67,Produkt H,130.0,Firma8,Lager G,Lager E
+010,Ware beim Kunden angekommen,01/12/2019 14:09:00,Timo Wagner,37.85,Produkt D,70.0,Firma10,Lager B,Lager I
+005,Vertragsverhandlungen geführt,01/12/2019 14:10:00,Emilia Wagner,57.26,Produkt L,140.0,Firma11,Lager A,Lager G
+002,Reparatur durchgeführt,01/12/2019 14:11:00,Luca Huber,61.82,Produkt H,130.0,Firma8,Lager J,Lager G
+007,Ware beim Kunden angekommen,01/12/2019 14:12:00,Noah Becker,26.47,Produkt H,130.0,Firma13,Lager D,Lager G
+001,Bestellung aufgenommen,01/12/2019 14:13:00,Paul Zimmer,86.58,Produkt S,90.0,Firma7,Lager G,Lager H
+002,Ware aus Lager geholt,01/12/2019 14:14:00,Lisa Mueller,42.1,Produkt T,85.0,Firma9,Lager F,Lager D
+006,Vertragsverhandlungen geführt,01/12/2019 14:15:00,Noah Becker,5.36,Produkt R,130.0,Firma14,Lager C,Lager A
+001,Reparatur durchgeführt,01/12/2019 14:16:00,Hannah Meyer,9.27,Produkt G,95.0,Firma12,Lager A,Lager I
+005,Ware verpackt,01/12/2019 14:17:00,Hannah Meyer,53.34,Produkt H,130.0,Firma1,Lager B,Lager G
+003,Werbekampagne gestartet,01/12/2019 14:18:00,Laura Fischer,20.06,Produkt P,100.0,Firma14,Lager B,Lager J
+001,Marketingaktion durchgeführt,01/12/2019 14:19:00,Leonie Richter,13.31,Produkt G,95.0,Firma5,Lager B,Lager D
+009,Produktionsplanung erstellt,01/12/2019 14:20:00,Sarah Schmidt,52.49,Produkt E,150.0,Firma16,Lager D,Lager F
+006,Rechnung versendet,01/12/2019 14:21:00,Emilia Wagner,98.8,Produkt M,95.0,Firma3,Lager A,Lager E
+009,Verpackungsmaterial bestellt,01/12/2019 14:22:00,Noah Becker,70.27,Produkt J,75.0,Firma10,Lager B,Lager D
+006,Ware wiederverkauft,01/12/2019 14:23:00,Sophia Lang,89.15,Produkt P,100.0,Firma12,Lager E,Lager E
+004,Ware zur Produktion gebracht,01/12/2019 14:24:00,Emilia Wagner,7.53,Produkt H,130.0,Firma18,Lager A,Lager B
+010,Lieferanten kontaktiert,01/12/2019 14:25:00,Laura Fischer,64.22,Produkt J,75.0,Firma3,Lager D,Lager E
+009,Ware retourniert,01/12/2019 14:26:00,Emma Weber,91.88,Produkt B,120.0,Firma14,Lager C,Lager C
+005,Zahlung erhalten,01/12/2019 14:27:00,Mia Schmitt,87.54,Produkt R,130.0,Firma11,Lager J,Lager B
+002,Auftrag eingegangen,01/12/2019 14:28:00,Noah Becker,72.99,Produkt Q,110.0,Firma20,Lager J,Lager D
+001,Ware aus Lager geholt,01/12/2019 14:29:00,Leonie Richter,19.51,Produkt H,130.0,Firma2,Lager I,Lager B
+004,Ware gelagert,01/12/2019 14:30:00,Paul Zimmer,5.66,Produkt M,95.0,Firma6,Lager E,Lager H
+010,Reparatur durchgeführt,01/12/2019 14:31:00,Nico Schmidt,94.47,Produkt H,130.0,Firma17,Lager B,Lager I
+002,Ware hergestellt,01/12/2019 14:32:00,Laura Fischer,98.81,Produkt F,110.0,Firma15,Lager I,Lager C
+010,Ware hergestellt,01/12/2019 14:33:00,Emilia Wagner,84.62,Produkt O,120.0,Firma7,Lager I,Lager B
+004,Personal geschult,01/12/2019 14:34:00,Lisa Mueller,71.04,Produkt S,90.0,Firma7,Lager J,Lager I
+009,Vertragsverhandlungen geführt,01/12/2019 14:35:00,Timo Wagner,50.49,Produkt G,95.0,Firma7,Lager D,Lager D
