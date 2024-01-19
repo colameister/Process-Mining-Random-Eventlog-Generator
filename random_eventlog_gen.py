@@ -3,8 +3,16 @@ import random
 from datetime import datetime, timedelta
 
 # Liste von Aktivitäten
-activities = ["Auftrag erhalten", "Ware abholen", "Transport beginnen", "Transport beenden",
-              "Produkt ins Lager legen", "Produkt aus Lager nehmen"]
+activities = ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zur Produktion gebracht",
+              "Ware hergestellt", "Ware verpackt", "Ware zum Versand vorbereitet", "Ware versandt",
+              "Ware beim Kunden angekommen", "Rechnung erstellt", "Zahlung erhalten",
+              "Ware retourniert", "Reparatur durchgeführt", "Ware umgeladen",
+              "Qualitätskontrolle durchgeführt", "Ware gelagert", "Ware entsorgt",
+              "Kundensupport angefragt", "Angebot erstellt", "Vertragsverhandlungen geführt",
+              "Bestellung aufgenommen", "Rechnung versendet", "Rechnung bezahlt",
+              "Ware wiederverkauft", "Personal geschult", "Marketingaktion durchgeführt",
+              "Lieferanten kontaktiert", "Produktionsplanung erstellt", "Rückverfolgbarkeitsprüfung",
+              "Verpackungsmaterial bestellt", "Werbekampagne gestartet", "Preisverhandlungen geführt"]
 
 # Liste von Personen ohne Umlaute
 people = ["Max Mustermann", "Sarah Schmidt", "Lena Mueller", "Timo Wagner", "Lisa Schulz",
@@ -27,7 +35,7 @@ customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5", "Firma6", "Firma7
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
 # Anzahl der Ereignisse
-num_events = 1000
+num_events = 60
 
 # CSV-Datei öffnen und schreiben
 with open("event_log.csv", mode="w", newline="") as file:
@@ -39,11 +47,11 @@ with open("event_log.csv", mode="w", newline="") as file:
 
     # Ereignisse generieren
     for i in range(num_events):
-        case_number = str(i + 1).zfill(3)  # Fallnummer mit führenden Nullen
+        case_number = str(random.randint(1, 10)).zfill(3)  # Fallnummer ist nicht einzigartig
         activity = random.choice(activities)
-        timestamp = (datetime(2024, 1, 1, 8, 0, 0) + timedelta(minutes=i * 15)).strftime("%Y-%m-%dT%H:%M:%S")
+        timestamp = (datetime(2019, 1, 12, 12, 1, 0) + timedelta(minutes=i)).strftime("%m/%d/%Y %H:%M:%S")
         person = random.choice(people)
-        cost = random.uniform(5.00, 100.00)
+        cost = round(random.uniform(5.00, 100.00), 2)
         product, product_price = random.choice(products)
         customer = random.choice(customers)
         pickup_location = random.choice(locations)
