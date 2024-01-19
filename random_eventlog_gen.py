@@ -35,10 +35,13 @@ customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5", "Firma6", "Firma7
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
 # Anzahl der Ereignisse (angepasst)
-num_events = 1000  # Erhöht auf 1000 Ereignisse
+num_events = 100  # Erhöht auf 100 Ereignisse
 
 # Revisionsnummer
-revision_number = 5
+revision_number = 6
+
+# Initialisiere eine Liste, um zu verfolgen, welche Aktivitäten bereits in einem Fall aufgetreten sind
+activities_per_case = {}
 
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
@@ -52,6 +55,16 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     for i in range(num_events):
         case_number = str(random.randint(1, 10)).zfill(3)  # Fallnummer ist nicht einzigartig
         activity = random.choice(activities)
+
+        # Überprüfen, ob die Aktivität bereits in diesem Fall aufgetreten ist
+        if case_number in activities_per_case:
+            while activity in activities_per_case[case_number]:
+                activity = random.choice(activities)
+        else:
+            activities_per_case[case_number] = []
+
+        activities_per_case[case_number].append(activity)
+
         timestamp = (datetime(2019, 1, 12, 12, 1, 0) + timedelta(minutes=i)).strftime("%m/%d/%Y %H:%M:%S")
         person = random.choice(people)
         cost = round(random.uniform(5.00, 100.00), 2)
