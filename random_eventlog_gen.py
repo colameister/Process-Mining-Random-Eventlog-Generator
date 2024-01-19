@@ -37,8 +37,11 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 # Anzahl der Ereignisse (angepasst)
 num_events = 1000  # Erhöht auf 1000 Ereignisse
 
+# Revisionsnummer
+revision_number = 5
+
 # CSV-Datei öffnen und schreiben
-with open("event_log.csv", mode="w", newline="") as file:
+with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
 
     # Header schreiben
@@ -61,4 +64,4 @@ with open("event_log.csv", mode="w", newline="") as file:
         writer.writerow([case_number, activity, timestamp, person, cost, product, product_price, customer, pickup_location, delivery_location])
 
 # Fertigstellungslog :)
-print("Die CSV-Datei wurde erfolgreich erstellt.")
+print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")
