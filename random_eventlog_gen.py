@@ -2,7 +2,7 @@ import csv
 import random
 from datetime import datetime, timedelta
 
-# Liste von Aktivitäten
+# Liste von Aktivitäten (erweitert)
 activities = ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zur Produktion gebracht",
               "Ware hergestellt", "Ware verpackt", "Ware zum Versand vorbereitet", "Ware versandt",
               "Ware beim Kunden angekommen", "Rechnung erstellt", "Zahlung erhalten",
@@ -34,8 +34,8 @@ customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5", "Firma6", "Firma7
 # Liste von Abnahme- und Abgabeorten
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
-# Anzahl der Ereignisse
-num_events = 60
+# Anzahl der Ereignisse (angepasst)
+num_events = 1000  # Erhöht auf 1000 Ereignisse
 
 # CSV-Datei öffnen und schreiben
 with open("event_log.csv", mode="w", newline="") as file:
@@ -57,7 +57,8 @@ with open("event_log.csv", mode="w", newline="") as file:
         pickup_location = random.choice(locations)
         delivery_location = random.choice(locations)
 
-        # Schreiben Sie die Zeile in die CSV-Datei
+        # Speichern / Schreiben in CSV-Datei
         writer.writerow([case_number, activity, timestamp, person, cost, product, product_price, customer, pickup_location, delivery_location])
 
+# Fertigstellungslog :)
 print("Die CSV-Datei wurde erfolgreich erstellt.")
