@@ -1,0 +1,528 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+001,Angebot erstellt,2024-02-11 16:56:05,Leonie Richter,55.42,Produkt S,90.0,Firma11,Lager J,Lager I
+001,Vertragsverhandlungen geführt,2024-02-11 17:55:05,Lisa Mueller,38.9,Produkt F,110.0,Firma3,Lager E,Lager H
+001,Bestellung aufgenommen,2024-02-11 17:59:05,Max Mustermann,86.01,Produkt E,150.0,Firma19,Lager J,Lager F
+001,Rechnung versendet,2024-02-11 18:42:05,Paul Zimmer,71.66,Produkt S,90.0,Firma17,Lager H,Lager I
+001,Zahlung erhalten,2024-02-11 19:29:05,Laura Fischer,88.38,Produkt P,100.0,Firma12,Lager I,Lager B
+001,Ware direkt verkauft,2024-02-11 20:03:05,Timo Wagner,99.68,Produkt H,130.0,Firma18,Lager H,Lager D
+002,Ware beim Kunden angekommen,2024-02-11 16:56:05,Max Mustermann,94.77,Produkt P,100.0,Firma18,Lager E,Lager E
+002,Ware retourniert,2024-02-11 17:29:05,Noah Becker,54.85,Produkt M,95.0,Firma5,Lager H,Lager B
+002,Rücksendung geprüft,2024-02-11 17:47:05,Leonie Richter,68.99,Produkt H,130.0,Firma12,Lager D,Lager A
+002,Reparatur durchgeführt,2024-02-11 18:07:05,Luca Huber,79.0,Produkt M,95.0,Firma1,Lager C,Lager E
+002,Ware erneut versandt,2024-02-11 19:07:05,Sophia Lang,43.04,Produkt Q,110.0,Firma10,Lager J,Lager A
+003,Auftrag eingegangen,2024-02-11 16:56:05,Jonas Richter,18.34,Produkt Q,110.0,Firma8,Lager F,Lager D
+003,Ware aus Lager geholt,2024-02-11 17:02:05,Jonas Richter,95.99,Produkt A,100.0,Firma16,Lager E,Lager B
+003,Qualitätskontrolle durchgeführt,2024-02-11 17:50:05,David Meyer,61.81,Produkt J,75.0,Firma3,Lager H,Lager G
+003,Ware zum Versand vorbereitet,2024-02-11 18:45:05,Jan Becker,93.53,Produkt K,110.0,Firma13,Lager E,Lager G
+003,Ware versandt,2024-02-11 19:18:05,Leonie Richter,65.9,Produkt F,110.0,Firma17,Lager F,Lager C
+004,Ware beim Kunden angekommen,2024-02-11 16:56:05,Max Mustermann,48.54,Produkt G,95.0,Firma6,Lager H,Lager A
+004,Ware retourniert,2024-02-11 17:56:05,Jonas Richter,77.16,Produkt J,75.0,Firma7,Lager D,Lager G
+004,Rücksendung geprüft,2024-02-11 18:37:05,Luca Huber,42.67,Produkt Q,110.0,Firma18,Lager F,Lager G
+004,Reparatur durchgeführt,2024-02-11 18:59:05,Sarah Schmidt,15.77,Produkt A,100.0,Firma5,Lager I,Lager C
+004,Ware erneut versandt,2024-02-11 19:14:05,Nico Schmidt,71.59,Produkt F,110.0,Firma9,Lager J,Lager E
+005,Auftrag eingegangen,2024-02-11 16:56:05,Sophia Lang,32.57,Produkt G,95.0,Firma15,Lager J,Lager J
+005,Ware zur Produktion gebracht,2024-02-11 17:56:05,Sophia Lang,68.9,Produkt D,70.0,Firma5,Lager A,Lager D
+005,Ware hergestellt,2024-02-11 18:36:05,Emilia Wagner,86.4,Produkt J,75.0,Firma2,Lager D,Lager D
+005,Ware verpackt,2024-02-11 18:37:05,Laura Fischer,81.7,Produkt G,95.0,Firma20,Lager F,Lager J
+005,Schnellversand durchgeführt,2024-02-11 19:34:05,Sarah Schmidt,32.11,Produkt T,85.0,Firma19,Lager I,Lager E
+006,Ware beim Kunden angekommen,2024-02-11 16:56:05,Hannah Meyer,35.97,Produkt A,100.0,Firma9,Lager H,Lager A
+006,Ware retourniert,2024-02-11 17:16:05,Laura Fischer,11.93,Produkt I,90.0,Firma1,Lager F,Lager I
+006,Rücksendung geprüft,2024-02-11 17:18:05,Mia Schmitt,60.12,Produkt G,95.0,Firma2,Lager B,Lager H
+006,Reparatur durchgeführt,2024-02-11 18:14:05,Lisa Mueller,76.96,Produkt E,150.0,Firma15,Lager G,Lager I
+006,Ware erneut versandt,2024-02-11 18:56:05,Max Mustermann,58.61,Produkt J,75.0,Firma14,Lager A,Lager J
+007,Angebot erstellt,2024-02-11 16:56:05,Nico Schmidt,87.52,Produkt L,140.0,Firma5,Lager B,Lager I
+007,Vertragsverhandlungen geführt,2024-02-11 17:00:05,Leonie Richter,18.55,Produkt C,80.0,Firma19,Lager E,Lager B
+007,Bestellung aufgenommen,2024-02-11 17:29:05,Laura Fischer,22.5,Produkt P,100.0,Firma17,Lager C,Lager B
+007,Rechnung versendet,2024-02-11 18:28:05,Hannah Meyer,20.36,Produkt N,75.0,Firma8,Lager H,Lager J
+007,Zahlung erhalten,2024-02-11 19:26:05,Laura Fischer,26.81,Produkt N,75.0,Firma15,Lager J,Lager J
+007,Ware direkt verkauft,2024-02-11 19:39:05,Noah Becker,26.47,Produkt K,110.0,Firma15,Lager D,Lager A
+008,Auftrag eingegangen,2024-02-11 16:56:05,Jonas Richter,21.38,Produkt L,140.0,Firma6,Lager C,Lager B
+008,Ware aus Lager geholt,2024-02-11 17:32:05,Mia Schmitt,96.73,Produkt D,70.0,Firma20,Lager I,Lager C
+008,Qualitätskontrolle durchgeführt,2024-02-11 18:12:05,Luca Huber,91.61,Produkt J,75.0,Firma3,Lager I,Lager E
+008,Ware zum Versand vorbereitet,2024-02-11 18:46:05,David Meyer,50.84,Produkt T,85.0,Firma14,Lager D,Lager D
+008,Ware versandt,2024-02-11 19:21:05,Lena Mueller,48.94,Produkt F,110.0,Firma13,Lager I,Lager C
+009,Ware beim Kunden angekommen,2024-02-11 16:56:05,Sarah Schmidt,89.29,Produkt S,90.0,Firma1,Lager D,Lager G
+009,Ware retourniert,2024-02-11 17:05:05,Laura Fischer,47.31,Produkt G,95.0,Firma9,Lager H,Lager G
+009,Rücksendung geprüft,2024-02-11 17:18:05,Leonie Richter,80.43,Produkt A,100.0,Firma7,Lager B,Lager B
+009,Reparatur durchgeführt,2024-02-11 17:49:05,Timo Wagner,52.04,Produkt B,120.0,Firma18,Lager I,Lager E
+009,Ware erneut versandt,2024-02-11 18:11:05,Hannah Meyer,62.39,Produkt E,150.0,Firma11,Lager B,Lager B
+010,Auftrag eingegangen,2024-02-11 16:56:05,Laura Fischer,97.1,Produkt Q,110.0,Firma5,Lager F,Lager I
+010,Ware zur Produktion gebracht,2024-02-11 17:26:05,Laura Fischer,29.99,Produkt M,95.0,Firma19,Lager J,Lager F
+010,Ware hergestellt,2024-02-11 17:31:05,Mia Schmitt,72.29,Produkt G,95.0,Firma1,Lager C,Lager E
+010,Ware verpackt,2024-02-11 17:44:05,Jan Becker,59.35,Produkt L,140.0,Firma20,Lager F,Lager B
+010,Schnellversand durchgeführt,2024-02-11 18:12:05,Luca Huber,97.69,Produkt L,140.0,Firma17,Lager G,Lager I
+011,Auftrag eingegangen,2024-02-11 16:56:05,Timo Wagner,66.51,Produkt G,95.0,Firma19,Lager H,Lager D
+011,Ware zur Produktion gebracht,2024-02-11 17:05:05,Lena Mueller,17.67,Produkt E,150.0,Firma7,Lager I,Lager F
+011,Ware hergestellt,2024-02-11 17:47:05,Max Mustermann,76.98,Produkt M,95.0,Firma9,Lager F,Lager G
+011,Ware verpackt,2024-02-11 18:34:05,Jan Becker,96.4,Produkt M,95.0,Firma17,Lager J,Lager G
+011,Schnellversand durchgeführt,2024-02-11 19:14:05,Jonas Richter,12.13,Produkt A,100.0,Firma13,Lager F,Lager B
+012,Angebot erstellt,2024-02-11 16:56:05,Nico Schmidt,74.6,Produkt C,80.0,Firma11,Lager C,Lager G
+012,Vertragsverhandlungen geführt,2024-02-11 17:51:05,Sarah Schmidt,78.79,Produkt Q,110.0,Firma12,Lager E,Lager F
+012,Bestellung aufgenommen,2024-02-11 17:58:05,Jonas Richter,47.49,Produkt H,130.0,Firma3,Lager B,Lager H
+012,Rechnung versendet,2024-02-11 18:04:05,Emma Weber,32.2,Produkt Q,110.0,Firma10,Lager B,Lager E
+012,Zahlung erhalten,2024-02-11 18:51:05,Hannah Meyer,76.56,Produkt E,150.0,Firma1,Lager A,Lager B
+012,Ware direkt verkauft,2024-02-11 19:36:05,David Meyer,75.55,Produkt Q,110.0,Firma13,Lager F,Lager B
+013,Auftrag eingegangen,2024-02-11 16:56:05,Timo Wagner,28.22,Produkt O,120.0,Firma12,Lager D,Lager F
+013,Ware zur Produktion gebracht,2024-02-11 17:50:05,Nico Schmidt,50.72,Produkt A,100.0,Firma7,Lager E,Lager I
+013,Ware hergestellt,2024-02-11 18:04:05,Mia Schmitt,95.92,Produkt S,90.0,Firma20,Lager F,Lager F
+013,Ware verpackt,2024-02-11 18:17:05,David Meyer,53.77,Produkt H,130.0,Firma4,Lager I,Lager G
+013,Schnellversand durchgeführt,2024-02-11 18:30:05,Mia Schmitt,71.1,Produkt E,150.0,Firma1,Lager I,Lager H
+014,Ware beim Kunden angekommen,2024-02-11 16:56:05,Jonas Richter,17.35,Produkt N,75.0,Firma19,Lager E,Lager C
+014,Ware retourniert,2024-02-11 17:40:05,Hannah Meyer,14.81,Produkt P,100.0,Firma3,Lager F,Lager C
+014,Rücksendung geprüft,2024-02-11 18:05:05,Laura Fischer,78.51,Produkt B,120.0,Firma14,Lager I,Lager B
+014,Reparatur durchgeführt,2024-02-11 19:02:05,David Meyer,80.67,Produkt E,150.0,Firma12,Lager E,Lager C
+014,Ware erneut versandt,2024-02-11 19:19:05,Nico Schmidt,61.18,Produkt M,95.0,Firma11,Lager B,Lager G
+015,Auftrag eingegangen,2024-02-11 16:56:05,Mia Schmitt,29.46,Produkt A,100.0,Firma4,Lager H,Lager C
+015,Ware zur Produktion gebracht,2024-02-11 17:29:05,David Meyer,76.63,Produkt F,110.0,Firma19,Lager J,Lager J
+015,Ware hergestellt,2024-02-11 17:56:05,Laura Fischer,35.4,Produkt S,90.0,Firma12,Lager G,Lager F
+015,Ware verpackt,2024-02-11 18:09:05,Lisa Mueller,46.18,Produkt I,90.0,Firma12,Lager I,Lager C
+015,Schnellversand durchgeführt,2024-02-11 18:32:05,Noah Becker,82.62,Produkt I,90.0,Firma1,Lager J,Lager H
+016,Angebot erstellt,2024-02-11 16:56:05,Emma Weber,56.18,Produkt B,120.0,Firma14,Lager I,Lager D
+016,Vertragsverhandlungen geführt,2024-02-11 17:27:05,Lisa Mueller,36.89,Produkt F,110.0,Firma7,Lager B,Lager C
+016,Bestellung aufgenommen,2024-02-11 17:48:05,David Meyer,10.5,Produkt I,90.0,Firma20,Lager E,Lager F
+016,Rechnung versendet,2024-02-11 18:07:05,Jonas Richter,43.98,Produkt G,95.0,Firma11,Lager E,Lager J
+016,Zahlung erhalten,2024-02-11 18:51:05,David Meyer,66.91,Produkt M,95.0,Firma4,Lager G,Lager G
+016,Ware direkt verkauft,2024-02-11 19:46:05,Timo Wagner,23.34,Produkt S,90.0,Firma3,Lager B,Lager E
+017,Angebot erstellt,2024-02-11 16:56:05,Jonas Richter,89.88,Produkt G,95.0,Firma4,Lager H,Lager C
+017,Vertragsverhandlungen geführt,2024-02-11 17:49:05,Lisa Schulz,66.8,Produkt K,110.0,Firma12,Lager I,Lager E
+017,Bestellung aufgenommen,2024-02-11 18:22:05,Max Mustermann,63.16,Produkt O,120.0,Firma12,Lager B,Lager J
+017,Rechnung versendet,2024-02-11 18:24:05,Max Mustermann,87.88,Produkt R,130.0,Firma5,Lager E,Lager F
+017,Zahlung erhalten,2024-02-11 19:06:05,Laura Fischer,15.59,Produkt M,95.0,Firma15,Lager J,Lager D
+017,Ware direkt verkauft,2024-02-11 19:32:05,Nico Schmidt,92.69,Produkt F,110.0,Firma12,Lager J,Lager E
+018,Auftrag eingegangen,2024-02-11 16:56:05,Hannah Meyer,91.68,Produkt R,130.0,Firma3,Lager J,Lager I
+018,Ware aus Lager geholt,2024-02-11 17:10:05,Max Mustermann,44.18,Produkt J,75.0,Firma15,Lager G,Lager F
+018,Qualitätskontrolle durchgeführt,2024-02-11 17:43:05,Lisa Schulz,61.27,Produkt R,130.0,Firma13,Lager E,Lager C
+018,Ware zum Versand vorbereitet,2024-02-11 18:23:05,Sarah Schmidt,27.84,Produkt D,70.0,Firma4,Lager D,Lager A
+018,Ware versandt,2024-02-11 18:47:05,Lena Mueller,36.76,Produkt I,90.0,Firma4,Lager G,Lager H
+019,Ware beim Kunden angekommen,2024-02-11 16:56:05,Lisa Schulz,56.26,Produkt H,130.0,Firma11,Lager H,Lager E
+019,Ware retourniert,2024-02-11 16:58:05,Lena Mueller,96.1,Produkt P,100.0,Firma8,Lager I,Lager A
+019,Rücksendung geprüft,2024-02-11 17:31:05,Luca Huber,17.61,Produkt Q,110.0,Firma19,Lager E,Lager J
+019,Reparatur durchgeführt,2024-02-11 17:46:05,Lisa Schulz,91.27,Produkt Q,110.0,Firma15,Lager I,Lager A
+019,Ware erneut versandt,2024-02-11 18:32:05,Emma Weber,70.87,Produkt K,110.0,Firma1,Lager B,Lager D
+020,Ware beim Kunden angekommen,2024-02-11 16:56:05,Nico Schmidt,46.58,Produkt L,140.0,Firma10,Lager B,Lager F
+020,Ware retourniert,2024-02-11 17:26:05,Mia Schmitt,69.61,Produkt R,130.0,Firma16,Lager E,Lager B
+020,Rücksendung geprüft,2024-02-11 17:54:05,Lisa Mueller,6.99,Produkt T,85.0,Firma14,Lager I,Lager J
+020,Reparatur durchgeführt,2024-02-11 17:58:05,Sophia Lang,31.1,Produkt Q,110.0,Firma7,Lager C,Lager E
+020,Ware erneut versandt,2024-02-11 18:18:05,Luca Huber,65.96,Produkt K,110.0,Firma11,Lager J,Lager B
+021,Auftrag eingegangen,2024-02-11 16:56:05,Sarah Schmidt,37.44,Produkt T,85.0,Firma16,Lager H,Lager E
+021,Ware zur Produktion gebracht,2024-02-11 17:18:05,Sarah Schmidt,99.13,Produkt S,90.0,Firma5,Lager A,Lager A
+021,Ware hergestellt,2024-02-11 17:50:05,Lena Mueller,31.13,Produkt T,85.0,Firma5,Lager G,Lager A
+021,Ware verpackt,2024-02-11 18:10:05,Jonas Richter,8.86,Produkt K,110.0,Firma11,Lager H,Lager B
+021,Schnellversand durchgeführt,2024-02-11 18:18:05,Sophia Lang,34.88,Produkt O,120.0,Firma17,Lager C,Lager J
+022,Auftrag eingegangen,2024-02-11 16:56:05,Luca Huber,73.18,Produkt L,140.0,Firma16,Lager A,Lager G
+022,Ware aus Lager geholt,2024-02-11 17:15:05,Sophia Lang,25.33,Produkt L,140.0,Firma8,Lager I,Lager B
+022,Qualitätskontrolle durchgeführt,2024-02-11 17:59:05,Hannah Meyer,16.67,Produkt H,130.0,Firma1,Lager F,Lager J
+022,Ware zum Versand vorbereitet,2024-02-11 18:33:05,Jonas Richter,59.76,Produkt T,85.0,Firma8,Lager B,Lager H
+022,Ware versandt,2024-02-11 19:30:05,Luca Huber,60.51,Produkt J,75.0,Firma11,Lager C,Lager F
+023,Auftrag eingegangen,2024-02-11 16:56:05,Lisa Mueller,14.29,Produkt F,110.0,Firma17,Lager A,Lager D
+023,Ware aus Lager geholt,2024-02-11 17:45:05,Max Mustermann,10.38,Produkt T,85.0,Firma18,Lager I,Lager E
+023,Qualitätskontrolle durchgeführt,2024-02-11 18:37:05,David Meyer,82.71,Produkt T,85.0,Firma3,Lager I,Lager G
+023,Ware zum Versand vorbereitet,2024-02-11 19:32:05,Jonas Richter,9.96,Produkt B,120.0,Firma11,Lager E,Lager C
+023,Ware versandt,2024-02-11 19:55:05,Sophia Lang,73.13,Produkt S,90.0,Firma14,Lager B,Lager E
+024,Auftrag eingegangen,2024-02-11 16:56:05,Noah Becker,86.14,Produkt H,130.0,Firma19,Lager F,Lager F
+024,Ware aus Lager geholt,2024-02-11 17:29:05,Emma Weber,47.03,Produkt A,100.0,Firma10,Lager C,Lager G
+024,Qualitätskontrolle durchgeführt,2024-02-11 17:32:05,Sophia Lang,93.17,Produkt E,150.0,Firma20,Lager A,Lager D
+024,Ware zum Versand vorbereitet,2024-02-11 17:45:05,Sophia Lang,33.86,Produkt I,90.0,Firma20,Lager C,Lager E
+024,Ware versandt,2024-02-11 17:50:05,Sarah Schmidt,26.1,Produkt I,90.0,Firma5,Lager F,Lager C
+025,Auftrag eingegangen,2024-02-11 16:56:05,Timo Wagner,62.8,Produkt K,110.0,Firma6,Lager J,Lager B
+025,Ware aus Lager geholt,2024-02-11 17:55:05,Lena Mueller,16.58,Produkt J,75.0,Firma3,Lager J,Lager A
+025,Qualitätskontrolle durchgeführt,2024-02-11 18:45:05,Mia Schmitt,51.57,Produkt D,70.0,Firma14,Lager C,Lager E
+025,Ware zum Versand vorbereitet,2024-02-11 19:02:05,Lena Mueller,89.84,Produkt S,90.0,Firma6,Lager A,Lager F
+025,Ware versandt,2024-02-11 20:02:05,Emilia Wagner,99.82,Produkt F,110.0,Firma4,Lager C,Lager J
+026,Auftrag eingegangen,2024-02-11 16:56:05,Jonas Richter,36.28,Produkt T,85.0,Firma4,Lager G,Lager B
+026,Ware aus Lager geholt,2024-02-11 17:23:05,Timo Wagner,10.12,Produkt T,85.0,Firma10,Lager I,Lager I
+026,Qualitätskontrolle durchgeführt,2024-02-11 18:19:05,Emma Weber,92.88,Produkt B,120.0,Firma5,Lager H,Lager A
+026,Ware zum Versand vorbereitet,2024-02-11 18:29:05,Nico Schmidt,38.97,Produkt L,140.0,Firma7,Lager E,Lager J
+026,Ware versandt,2024-02-11 18:54:05,Timo Wagner,50.61,Produkt O,120.0,Firma5,Lager I,Lager B
+027,Auftrag eingegangen,2024-02-11 16:56:05,Timo Wagner,72.06,Produkt N,75.0,Firma19,Lager B,Lager D
+027,Ware aus Lager geholt,2024-02-11 17:04:05,Lena Mueller,7.07,Produkt D,70.0,Firma4,Lager F,Lager H
+027,Qualitätskontrolle durchgeführt,2024-02-11 17:20:05,Leonie Richter,42.82,Produkt I,90.0,Firma2,Lager D,Lager F
+027,Ware zum Versand vorbereitet,2024-02-11 17:24:05,Sarah Schmidt,31.81,Produkt O,120.0,Firma6,Lager J,Lager J
+027,Ware versandt,2024-02-11 18:01:05,Lena Mueller,86.69,Produkt J,75.0,Firma3,Lager D,Lager H
+028,Angebot erstellt,2024-02-11 16:56:05,Emilia Wagner,92.44,Produkt T,85.0,Firma18,Lager H,Lager A
+028,Vertragsverhandlungen geführt,2024-02-11 17:54:05,Timo Wagner,8.32,Produkt G,95.0,Firma15,Lager D,Lager A
+028,Bestellung aufgenommen,2024-02-11 18:26:05,Nico Schmidt,20.61,Produkt K,110.0,Firma7,Lager G,Lager J
+028,Rechnung versendet,2024-02-11 19:11:05,Noah Becker,45.31,Produkt H,130.0,Firma13,Lager D,Lager H
+028,Zahlung erhalten,2024-02-11 19:39:05,Mia Schmitt,88.3,Produkt B,120.0,Firma13,Lager D,Lager E
+028,Ware direkt verkauft,2024-02-11 20:25:05,Leonie Richter,74.35,Produkt H,130.0,Firma4,Lager D,Lager B
+029,Auftrag eingegangen,2024-02-11 16:56:05,Hannah Meyer,94.56,Produkt M,95.0,Firma1,Lager F,Lager H
+029,Ware aus Lager geholt,2024-02-11 17:52:05,Leonie Richter,57.03,Produkt M,95.0,Firma14,Lager B,Lager F
+029,Qualitätskontrolle durchgeführt,2024-02-11 18:14:05,Laura Fischer,59.07,Produkt D,70.0,Firma16,Lager E,Lager E
+029,Ware zum Versand vorbereitet,2024-02-11 19:01:05,Jan Becker,86.59,Produkt P,100.0,Firma11,Lager E,Lager G
+029,Ware versandt,2024-02-11 19:31:05,Emma Weber,6.95,Produkt O,120.0,Firma19,Lager F,Lager G
+030,Auftrag eingegangen,2024-02-11 16:56:05,Paul Zimmer,95.0,Produkt C,80.0,Firma11,Lager E,Lager H
+030,Ware zur Produktion gebracht,2024-02-11 17:38:05,Leonie Richter,25.96,Produkt I,90.0,Firma9,Lager D,Lager D
+030,Ware hergestellt,2024-02-11 17:58:05,Emilia Wagner,18.26,Produkt Q,110.0,Firma9,Lager C,Lager D
+030,Ware verpackt,2024-02-11 18:44:05,Lena Mueller,85.2,Produkt I,90.0,Firma18,Lager D,Lager F
+030,Schnellversand durchgeführt,2024-02-11 19:19:05,Jonas Richter,50.66,Produkt Q,110.0,Firma17,Lager H,Lager F
+031,Angebot erstellt,2024-02-11 16:56:05,Timo Wagner,93.78,Produkt F,110.0,Firma14,Lager E,Lager H
+031,Vertragsverhandlungen geführt,2024-02-11 17:30:05,Lisa Mueller,6.53,Produkt M,95.0,Firma5,Lager E,Lager J
+031,Bestellung aufgenommen,2024-02-11 18:07:05,Sophia Lang,45.4,Produkt J,75.0,Firma3,Lager J,Lager I
+031,Rechnung versendet,2024-02-11 18:24:05,Emilia Wagner,54.06,Produkt S,90.0,Firma16,Lager J,Lager A
+031,Zahlung erhalten,2024-02-11 18:50:05,Mia Schmitt,18.03,Produkt Q,110.0,Firma11,Lager E,Lager C
+031,Ware direkt verkauft,2024-02-11 18:56:05,David Meyer,58.57,Produkt G,95.0,Firma10,Lager F,Lager H
+032,Auftrag eingegangen,2024-02-11 16:56:05,Emilia Wagner,45.46,Produkt B,120.0,Firma5,Lager H,Lager C
+032,Ware aus Lager geholt,2024-02-11 17:29:05,David Meyer,77.57,Produkt O,120.0,Firma17,Lager B,Lager F
+032,Qualitätskontrolle durchgeführt,2024-02-11 17:51:05,Max Mustermann,33.45,Produkt J,75.0,Firma17,Lager E,Lager I
+032,Ware zum Versand vorbereitet,2024-02-11 17:58:05,Jonas Richter,76.23,Produkt G,95.0,Firma5,Lager A,Lager F
+032,Ware versandt,2024-02-11 18:32:05,Emma Weber,23.44,Produkt I,90.0,Firma13,Lager I,Lager A
+033,Angebot erstellt,2024-02-11 16:56:05,Noah Becker,13.07,Produkt K,110.0,Firma15,Lager D,Lager D
+033,Vertragsverhandlungen geführt,2024-02-11 17:17:05,David Meyer,21.49,Produkt S,90.0,Firma6,Lager F,Lager D
+033,Bestellung aufgenommen,2024-02-11 17:52:05,Lisa Mueller,99.6,Produkt N,75.0,Firma9,Lager D,Lager I
+033,Rechnung versendet,2024-02-11 17:57:05,Lisa Mueller,96.28,Produkt E,150.0,Firma6,Lager B,Lager J
+033,Zahlung erhalten,2024-02-11 18:22:05,Emma Weber,83.54,Produkt L,140.0,Firma17,Lager E,Lager F
+033,Ware direkt verkauft,2024-02-11 18:49:05,Jan Becker,22.85,Produkt N,75.0,Firma5,Lager C,Lager B
+034,Auftrag eingegangen,2024-02-11 16:56:05,Hannah Meyer,83.58,Produkt O,120.0,Firma19,Lager D,Lager B
+034,Ware zur Produktion gebracht,2024-02-11 17:24:05,Luca Huber,83.16,Produkt C,80.0,Firma16,Lager C,Lager H
+034,Ware hergestellt,2024-02-11 17:49:05,Jonas Richter,77.72,Produkt L,140.0,Firma1,Lager H,Lager B
+034,Ware verpackt,2024-02-11 18:31:05,Sarah Schmidt,40.82,Produkt M,95.0,Firma4,Lager F,Lager C
+034,Schnellversand durchgeführt,2024-02-11 19:05:05,Paul Zimmer,72.82,Produkt I,90.0,Firma19,Lager I,Lager E
+035,Ware beim Kunden angekommen,2024-02-11 16:56:05,Sarah Schmidt,66.85,Produkt R,130.0,Firma3,Lager B,Lager G
+035,Ware retourniert,2024-02-11 17:27:05,Sophia Lang,15.73,Produkt D,70.0,Firma2,Lager D,Lager I
+035,Rücksendung geprüft,2024-02-11 17:45:05,Nico Schmidt,36.28,Produkt Q,110.0,Firma16,Lager H,Lager H
+035,Reparatur durchgeführt,2024-02-11 18:03:05,Lisa Mueller,63.24,Produkt M,95.0,Firma13,Lager C,Lager I
+035,Ware erneut versandt,2024-02-11 18:37:05,Leonie Richter,81.69,Produkt B,120.0,Firma7,Lager B,Lager A
+036,Auftrag eingegangen,2024-02-11 16:56:05,Max Mustermann,8.89,Produkt G,95.0,Firma14,Lager D,Lager I
+036,Ware zur Produktion gebracht,2024-02-11 17:11:05,Hannah Meyer,17.52,Produkt D,70.0,Firma10,Lager H,Lager E
+036,Ware hergestellt,2024-02-11 17:43:05,Timo Wagner,5.9,Produkt E,150.0,Firma20,Lager A,Lager B
+036,Ware verpackt,2024-02-11 17:47:05,Emma Weber,21.58,Produkt T,85.0,Firma20,Lager G,Lager I
+036,Schnellversand durchgeführt,2024-02-11 18:43:05,Hannah Meyer,19.68,Produkt K,110.0,Firma1,Lager C,Lager D
+037,Auftrag eingegangen,2024-02-11 16:56:05,Hannah Meyer,84.36,Produkt R,130.0,Firma17,Lager F,Lager A
+037,Ware aus Lager geholt,2024-02-11 17:17:05,Emilia Wagner,8.65,Produkt Q,110.0,Firma15,Lager D,Lager A
+037,Qualitätskontrolle durchgeführt,2024-02-11 17:35:05,Mia Schmitt,99.74,Produkt N,75.0,Firma14,Lager C,Lager E
+037,Ware zum Versand vorbereitet,2024-02-11 18:19:05,Hannah Meyer,38.28,Produkt S,90.0,Firma15,Lager A,Lager I
+037,Ware versandt,2024-02-11 18:54:05,Emilia Wagner,58.31,Produkt F,110.0,Firma12,Lager A,Lager J
+038,Ware beim Kunden angekommen,2024-02-11 16:56:05,Nico Schmidt,87.82,Produkt M,95.0,Firma12,Lager H,Lager D
+038,Ware retourniert,2024-02-11 17:46:05,Paul Zimmer,86.56,Produkt D,70.0,Firma16,Lager E,Lager H
+038,Rücksendung geprüft,2024-02-11 18:11:05,Emilia Wagner,57.32,Produkt J,75.0,Firma15,Lager J,Lager A
+038,Reparatur durchgeführt,2024-02-11 19:10:05,Nico Schmidt,59.17,Produkt L,140.0,Firma4,Lager D,Lager C
+038,Ware erneut versandt,2024-02-11 20:04:05,Emilia Wagner,26.09,Produkt M,95.0,Firma3,Lager H,Lager F
+039,Ware beim Kunden angekommen,2024-02-11 16:56:05,Leonie Richter,24.31,Produkt R,130.0,Firma8,Lager I,Lager D
+039,Ware retourniert,2024-02-11 17:05:05,Nico Schmidt,12.29,Produkt R,130.0,Firma12,Lager G,Lager C
+039,Rücksendung geprüft,2024-02-11 17:31:05,Noah Becker,91.32,Produkt G,95.0,Firma16,Lager E,Lager B
+039,Reparatur durchgeführt,2024-02-11 18:28:05,Sophia Lang,22.31,Produkt D,70.0,Firma19,Lager H,Lager B
+039,Ware erneut versandt,2024-02-11 19:19:05,Jan Becker,58.16,Produkt S,90.0,Firma20,Lager J,Lager F
+040,Ware beim Kunden angekommen,2024-02-11 16:56:05,Max Mustermann,64.2,Produkt O,120.0,Firma6,Lager C,Lager C
+040,Ware retourniert,2024-02-11 17:40:05,Paul Zimmer,93.94,Produkt I,90.0,Firma12,Lager B,Lager I
+040,Rücksendung geprüft,2024-02-11 17:42:05,Paul Zimmer,64.95,Produkt D,70.0,Firma17,Lager C,Lager G
+040,Reparatur durchgeführt,2024-02-11 18:26:05,Emma Weber,31.12,Produkt B,120.0,Firma14,Lager E,Lager A
+040,Ware erneut versandt,2024-02-11 18:49:05,Leonie Richter,7.03,Produkt T,85.0,Firma3,Lager G,Lager G
+041,Ware beim Kunden angekommen,2024-02-11 16:56:05,Lena Mueller,43.21,Produkt Q,110.0,Firma9,Lager A,Lager F
+041,Ware retourniert,2024-02-11 17:44:05,Noah Becker,8.28,Produkt O,120.0,Firma6,Lager F,Lager E
+041,Rücksendung geprüft,2024-02-11 18:04:05,David Meyer,44.05,Produkt C,80.0,Firma13,Lager J,Lager E
+041,Reparatur durchgeführt,2024-02-11 18:24:05,Emma Weber,92.1,Produkt Q,110.0,Firma18,Lager G,Lager C
+041,Ware erneut versandt,2024-02-11 19:07:05,Lisa Mueller,46.38,Produkt G,95.0,Firma11,Lager D,Lager F
+042,Ware beim Kunden angekommen,2024-02-11 16:56:05,David Meyer,6.47,Produkt F,110.0,Firma7,Lager A,Lager G
+042,Ware retourniert,2024-02-11 17:08:05,Lisa Mueller,82.87,Produkt M,95.0,Firma4,Lager A,Lager E
+042,Rücksendung geprüft,2024-02-11 17:39:05,Lisa Schulz,24.87,Produkt S,90.0,Firma9,Lager D,Lager C
+042,Reparatur durchgeführt,2024-02-11 18:32:05,Luca Huber,28.53,Produkt L,140.0,Firma5,Lager I,Lager G
+042,Ware erneut versandt,2024-02-11 18:53:05,Noah Becker,68.57,Produkt J,75.0,Firma10,Lager F,Lager J
+043,Auftrag eingegangen,2024-02-11 16:56:05,Timo Wagner,10.19,Produkt P,100.0,Firma5,Lager C,Lager I
+043,Ware aus Lager geholt,2024-02-11 17:44:05,David Meyer,95.31,Produkt B,120.0,Firma19,Lager E,Lager E
+043,Qualitätskontrolle durchgeführt,2024-02-11 18:05:05,Hannah Meyer,49.04,Produkt O,120.0,Firma12,Lager D,Lager B
+043,Ware zum Versand vorbereitet,2024-02-11 18:53:05,Lisa Schulz,15.84,Produkt H,130.0,Firma4,Lager D,Lager J
+043,Ware versandt,2024-02-11 18:59:05,Luca Huber,81.79,Produkt N,75.0,Firma12,Lager E,Lager C
+044,Angebot erstellt,2024-02-11 16:56:05,Luca Huber,52.52,Produkt F,110.0,Firma12,Lager D,Lager H
+044,Vertragsverhandlungen geführt,2024-02-11 17:32:05,Jonas Richter,5.19,Produkt M,95.0,Firma12,Lager G,Lager F
+044,Bestellung aufgenommen,2024-02-11 17:46:05,Laura Fischer,58.38,Produkt S,90.0,Firma4,Lager E,Lager I
+044,Rechnung versendet,2024-02-11 18:12:05,Mia Schmitt,97.73,Produkt A,100.0,Firma20,Lager B,Lager H
+044,Zahlung erhalten,2024-02-11 18:16:05,Mia Schmitt,70.26,Produkt H,130.0,Firma7,Lager C,Lager A
+044,Ware direkt verkauft,2024-02-11 18:22:05,Lisa Mueller,90.27,Produkt L,140.0,Firma8,Lager H,Lager A
+045,Ware beim Kunden angekommen,2024-02-11 16:56:05,Max Mustermann,65.78,Produkt G,95.0,Firma13,Lager I,Lager B
+045,Ware retourniert,2024-02-11 17:02:05,Hannah Meyer,59.32,Produkt M,95.0,Firma9,Lager E,Lager C
+045,Rücksendung geprüft,2024-02-11 17:30:05,Leonie Richter,34.08,Produkt L,140.0,Firma10,Lager F,Lager H
+045,Reparatur durchgeführt,2024-02-11 17:47:05,Max Mustermann,85.89,Produkt G,95.0,Firma20,Lager F,Lager G
+045,Ware erneut versandt,2024-02-11 18:37:05,David Meyer,65.18,Produkt E,150.0,Firma14,Lager B,Lager B
+046,Auftrag eingegangen,2024-02-11 16:56:05,David Meyer,36.08,Produkt L,140.0,Firma16,Lager H,Lager G
+046,Ware aus Lager geholt,2024-02-11 17:50:05,Nico Schmidt,53.44,Produkt F,110.0,Firma3,Lager C,Lager H
+046,Qualitätskontrolle durchgeführt,2024-02-11 18:08:05,Sophia Lang,71.76,Produkt K,110.0,Firma12,Lager H,Lager E
+046,Ware zum Versand vorbereitet,2024-02-11 18:31:05,Max Mustermann,59.23,Produkt J,75.0,Firma2,Lager D,Lager E
+046,Ware versandt,2024-02-11 18:34:05,Hannah Meyer,62.45,Produkt C,80.0,Firma3,Lager G,Lager H
+047,Auftrag eingegangen,2024-02-11 16:56:05,David Meyer,62.52,Produkt D,70.0,Firma17,Lager J,Lager F
+047,Ware aus Lager geholt,2024-02-11 17:17:05,David Meyer,6.56,Produkt S,90.0,Firma11,Lager H,Lager D
+047,Qualitätskontrolle durchgeführt,2024-02-11 18:09:05,David Meyer,87.33,Produkt S,90.0,Firma11,Lager D,Lager H
+047,Ware zum Versand vorbereitet,2024-02-11 18:56:05,Nico Schmidt,43.25,Produkt S,90.0,Firma6,Lager G,Lager A
+047,Ware versandt,2024-02-11 19:27:05,Lena Mueller,79.69,Produkt E,150.0,Firma5,Lager E,Lager J
+048,Angebot erstellt,2024-02-11 16:56:05,Jonas Richter,8.28,Produkt P,100.0,Firma20,Lager A,Lager J
+048,Vertragsverhandlungen geführt,2024-02-11 17:38:05,David Meyer,42.3,Produkt N,75.0,Firma16,Lager C,Lager C
+048,Bestellung aufgenommen,2024-02-11 18:32:05,David Meyer,31.04,Produkt F,110.0,Firma3,Lager H,Lager F
+048,Rechnung versendet,2024-02-11 18:35:05,David Meyer,16.6,Produkt D,70.0,Firma10,Lager G,Lager F
+048,Zahlung erhalten,2024-02-11 18:57:05,Lisa Schulz,92.79,Produkt D,70.0,Firma18,Lager B,Lager A
+048,Ware direkt verkauft,2024-02-11 19:22:05,Jonas Richter,93.96,Produkt A,100.0,Firma14,Lager G,Lager E
+049,Ware beim Kunden angekommen,2024-02-11 16:56:05,Leonie Richter,89.06,Produkt C,80.0,Firma17,Lager E,Lager F
+049,Ware retourniert,2024-02-11 17:34:05,Sophia Lang,10.13,Produkt A,100.0,Firma4,Lager C,Lager A
+049,Rücksendung geprüft,2024-02-11 18:07:05,Nico Schmidt,70.29,Produkt N,75.0,Firma16,Lager G,Lager H
+049,Reparatur durchgeführt,2024-02-11 19:00:05,Lisa Schulz,31.23,Produkt C,80.0,Firma7,Lager I,Lager A
+049,Ware erneut versandt,2024-02-11 19:10:05,Lena Mueller,66.81,Produkt I,90.0,Firma1,Lager A,Lager D
+050,Auftrag eingegangen,2024-02-11 16:56:05,Max Mustermann,81.56,Produkt K,110.0,Firma2,Lager I,Lager H
+050,Ware aus Lager geholt,2024-02-11 17:03:05,Hannah Meyer,98.4,Produkt B,120.0,Firma14,Lager J,Lager D
+050,Qualitätskontrolle durchgeführt,2024-02-11 18:02:05,Sarah Schmidt,40.17,Produkt N,75.0,Firma12,Lager B,Lager H
+050,Ware zum Versand vorbereitet,2024-02-11 18:31:05,Emma Weber,24.29,Produkt G,95.0,Firma9,Lager C,Lager B
+050,Ware versandt,2024-02-11 18:50:05,Lisa Schulz,39.69,Produkt I,90.0,Firma15,Lager H,Lager E
+051,Angebot erstellt,2024-02-11 16:56:05,Lena Mueller,95.08,Produkt I,90.0,Firma19,Lager H,Lager H
+051,Vertragsverhandlungen geführt,2024-02-11 17:22:05,Leonie Richter,70.72,Produkt G,95.0,Firma5,Lager E,Lager E
+051,Bestellung aufgenommen,2024-02-11 17:38:05,Timo Wagner,18.04,Produkt P,100.0,Firma19,Lager B,Lager E
+051,Rechnung versendet,2024-02-11 18:00:05,Leonie Richter,64.81,Produkt D,70.0,Firma12,Lager F,Lager F
+051,Zahlung erhalten,2024-02-11 18:16:05,Luca Huber,5.85,Produkt M,95.0,Firma14,Lager I,Lager D
+051,Ware direkt verkauft,2024-02-11 18:26:05,Mia Schmitt,66.92,Produkt R,130.0,Firma6,Lager D,Lager B
+052,Auftrag eingegangen,2024-02-11 16:56:05,Sophia Lang,43.36,Produkt L,140.0,Firma9,Lager A,Lager G
+052,Ware aus Lager geholt,2024-02-11 17:13:05,Emilia Wagner,98.26,Produkt T,85.0,Firma19,Lager D,Lager J
+052,Qualitätskontrolle durchgeführt,2024-02-11 17:39:05,Max Mustermann,40.93,Produkt D,70.0,Firma2,Lager G,Lager A
+052,Ware zum Versand vorbereitet,2024-02-11 18:08:05,Emma Weber,60.76,Produkt G,95.0,Firma20,Lager H,Lager D
+052,Ware versandt,2024-02-11 18:19:05,Sarah Schmidt,82.72,Produkt R,130.0,Firma10,Lager J,Lager E
+053,Auftrag eingegangen,2024-02-11 16:56:05,David Meyer,69.18,Produkt I,90.0,Firma1,Lager A,Lager H
+053,Ware aus Lager geholt,2024-02-11 17:24:05,Nico Schmidt,97.33,Produkt L,140.0,Firma4,Lager C,Lager A
+053,Qualitätskontrolle durchgeführt,2024-02-11 17:44:05,Max Mustermann,49.77,Produkt E,150.0,Firma6,Lager D,Lager G
+053,Ware zum Versand vorbereitet,2024-02-11 18:38:05,Nico Schmidt,21.58,Produkt A,100.0,Firma12,Lager G,Lager I
+053,Ware versandt,2024-02-11 19:24:05,Luca Huber,33.84,Produkt M,95.0,Firma6,Lager B,Lager E
+054,Angebot erstellt,2024-02-11 16:56:05,Nico Schmidt,22.11,Produkt D,70.0,Firma4,Lager J,Lager F
+054,Vertragsverhandlungen geführt,2024-02-11 17:19:05,Mia Schmitt,10.29,Produkt G,95.0,Firma13,Lager E,Lager A
+054,Bestellung aufgenommen,2024-02-11 18:17:05,Lena Mueller,80.89,Produkt T,85.0,Firma14,Lager C,Lager A
+054,Rechnung versendet,2024-02-11 19:16:05,David Meyer,77.19,Produkt J,75.0,Firma5,Lager D,Lager F
+054,Zahlung erhalten,2024-02-11 19:19:05,Lena Mueller,82.13,Produkt I,90.0,Firma10,Lager I,Lager B
+054,Ware direkt verkauft,2024-02-11 19:26:05,Emma Weber,54.51,Produkt G,95.0,Firma2,Lager D,Lager G
+055,Auftrag eingegangen,2024-02-11 16:56:05,Nico Schmidt,67.66,Produkt I,90.0,Firma13,Lager I,Lager D
+055,Ware zur Produktion gebracht,2024-02-11 17:03:05,Lisa Schulz,23.88,Produkt O,120.0,Firma5,Lager B,Lager J
+055,Ware hergestellt,2024-02-11 17:51:05,Lisa Mueller,13.44,Produkt B,120.0,Firma13,Lager D,Lager C
+055,Ware verpackt,2024-02-11 18:14:05,Emilia Wagner,77.33,Produkt T,85.0,Firma6,Lager D,Lager J
+055,Schnellversand durchgeführt,2024-02-11 18:35:05,Jonas Richter,84.84,Produkt C,80.0,Firma17,Lager H,Lager A
+056,Angebot erstellt,2024-02-11 16:56:05,Timo Wagner,47.71,Produkt T,85.0,Firma12,Lager F,Lager D
+056,Vertragsverhandlungen geführt,2024-02-11 17:41:05,Leonie Richter,22.49,Produkt T,85.0,Firma19,Lager J,Lager J
+056,Bestellung aufgenommen,2024-02-11 18:11:05,Noah Becker,37.39,Produkt D,70.0,Firma19,Lager H,Lager H
+056,Rechnung versendet,2024-02-11 18:40:05,Paul Zimmer,40.13,Produkt J,75.0,Firma19,Lager C,Lager B
+056,Zahlung erhalten,2024-02-11 18:52:05,Lisa Mueller,81.17,Produkt E,150.0,Firma10,Lager H,Lager I
+056,Ware direkt verkauft,2024-02-11 19:09:05,Sophia Lang,16.59,Produkt S,90.0,Firma11,Lager E,Lager D
+057,Angebot erstellt,2024-02-11 16:56:05,Laura Fischer,98.49,Produkt C,80.0,Firma8,Lager G,Lager J
+057,Vertragsverhandlungen geführt,2024-02-11 17:34:05,David Meyer,12.32,Produkt P,100.0,Firma6,Lager I,Lager E
+057,Bestellung aufgenommen,2024-02-11 17:57:05,Lena Mueller,25.84,Produkt S,90.0,Firma3,Lager C,Lager I
+057,Rechnung versendet,2024-02-11 18:33:05,Emma Weber,67.86,Produkt C,80.0,Firma7,Lager G,Lager C
+057,Zahlung erhalten,2024-02-11 18:43:05,Emilia Wagner,15.08,Produkt F,110.0,Firma8,Lager G,Lager H
+057,Ware direkt verkauft,2024-02-11 19:11:05,Jonas Richter,77.35,Produkt G,95.0,Firma12,Lager H,Lager D
+058,Angebot erstellt,2024-02-11 16:56:05,Lisa Schulz,13.49,Produkt M,95.0,Firma9,Lager E,Lager D
+058,Vertragsverhandlungen geführt,2024-02-11 17:27:05,Paul Zimmer,89.5,Produkt M,95.0,Firma11,Lager E,Lager H
+058,Bestellung aufgenommen,2024-02-11 17:46:05,Sophia Lang,57.5,Produkt N,75.0,Firma12,Lager I,Lager H
+058,Rechnung versendet,2024-02-11 18:17:05,Lisa Schulz,45.44,Produkt E,150.0,Firma6,Lager H,Lager B
+058,Zahlung erhalten,2024-02-11 18:25:05,Nico Schmidt,40.67,Produkt N,75.0,Firma1,Lager D,Lager E
+058,Ware direkt verkauft,2024-02-11 19:18:05,Mia Schmitt,23.87,Produkt Q,110.0,Firma1,Lager A,Lager E
+059,Auftrag eingegangen,2024-02-11 16:56:05,Jan Becker,63.29,Produkt T,85.0,Firma4,Lager F,Lager J
+059,Ware zur Produktion gebracht,2024-02-11 17:18:05,Emma Weber,82.34,Produkt O,120.0,Firma20,Lager J,Lager J
+059,Ware hergestellt,2024-02-11 18:06:05,Jonas Richter,14.25,Produkt B,120.0,Firma14,Lager D,Lager B
+059,Ware verpackt,2024-02-11 18:07:05,Paul Zimmer,33.53,Produkt A,100.0,Firma8,Lager H,Lager F
+059,Schnellversand durchgeführt,2024-02-11 18:43:05,Lisa Mueller,77.01,Produkt P,100.0,Firma14,Lager D,Lager I
+060,Auftrag eingegangen,2024-02-11 16:56:05,Sarah Schmidt,79.98,Produkt J,75.0,Firma9,Lager F,Lager G
+060,Ware aus Lager geholt,2024-02-11 17:11:05,Lisa Schulz,49.3,Produkt B,120.0,Firma19,Lager I,Lager D
+060,Qualitätskontrolle durchgeführt,2024-02-11 17:39:05,Hannah Meyer,34.58,Produkt B,120.0,Firma2,Lager E,Lager F
+060,Ware zum Versand vorbereitet,2024-02-11 17:47:05,Lena Mueller,34.95,Produkt S,90.0,Firma16,Lager H,Lager I
+060,Ware versandt,2024-02-11 18:45:05,Emma Weber,73.33,Produkt J,75.0,Firma2,Lager J,Lager H
+061,Auftrag eingegangen,2024-02-11 16:56:05,Jonas Richter,69.16,Produkt O,120.0,Firma10,Lager A,Lager B
+061,Ware aus Lager geholt,2024-02-11 17:47:05,Laura Fischer,83.24,Produkt K,110.0,Firma8,Lager J,Lager G
+061,Qualitätskontrolle durchgeführt,2024-02-11 18:25:05,Lisa Schulz,95.74,Produkt F,110.0,Firma13,Lager F,Lager J
+061,Ware zum Versand vorbereitet,2024-02-11 18:26:05,Lisa Mueller,14.62,Produkt M,95.0,Firma16,Lager B,Lager J
+061,Ware versandt,2024-02-11 18:36:05,Sarah Schmidt,55.31,Produkt R,130.0,Firma5,Lager G,Lager F
+062,Auftrag eingegangen,2024-02-11 16:56:05,Jan Becker,21.26,Produkt A,100.0,Firma8,Lager F,Lager I
+062,Ware aus Lager geholt,2024-02-11 17:13:05,Mia Schmitt,94.09,Produkt P,100.0,Firma15,Lager A,Lager A
+062,Qualitätskontrolle durchgeführt,2024-02-11 17:56:05,David Meyer,96.49,Produkt S,90.0,Firma14,Lager H,Lager F
+062,Ware zum Versand vorbereitet,2024-02-11 18:55:05,Lena Mueller,65.95,Produkt B,120.0,Firma4,Lager C,Lager D
+062,Ware versandt,2024-02-11 18:59:05,Noah Becker,89.82,Produkt P,100.0,Firma13,Lager D,Lager B
+063,Angebot erstellt,2024-02-11 16:56:05,Paul Zimmer,53.52,Produkt C,80.0,Firma18,Lager A,Lager F
+063,Vertragsverhandlungen geführt,2024-02-11 17:34:05,Timo Wagner,43.51,Produkt G,95.0,Firma13,Lager H,Lager H
+063,Bestellung aufgenommen,2024-02-11 18:09:05,Mia Schmitt,74.1,Produkt M,95.0,Firma8,Lager A,Lager H
+063,Rechnung versendet,2024-02-11 18:25:05,Luca Huber,10.89,Produkt T,85.0,Firma1,Lager H,Lager D
+063,Zahlung erhalten,2024-02-11 19:20:05,Hannah Meyer,28.34,Produkt L,140.0,Firma18,Lager E,Lager C
+063,Ware direkt verkauft,2024-02-11 20:14:05,Sophia Lang,32.46,Produkt C,80.0,Firma11,Lager I,Lager D
+064,Auftrag eingegangen,2024-02-11 16:56:05,Paul Zimmer,86.75,Produkt K,110.0,Firma8,Lager C,Lager C
+064,Ware zur Produktion gebracht,2024-02-11 17:23:05,David Meyer,60.89,Produkt H,130.0,Firma3,Lager H,Lager B
+064,Ware hergestellt,2024-02-11 18:05:05,Laura Fischer,74.41,Produkt T,85.0,Firma12,Lager B,Lager F
+064,Ware verpackt,2024-02-11 18:49:05,Jonas Richter,11.24,Produkt O,120.0,Firma11,Lager C,Lager H
+064,Schnellversand durchgeführt,2024-02-11 19:23:05,Lena Mueller,14.69,Produkt D,70.0,Firma15,Lager E,Lager G
+065,Ware beim Kunden angekommen,2024-02-11 16:56:05,Luca Huber,13.96,Produkt E,150.0,Firma4,Lager E,Lager H
+065,Ware retourniert,2024-02-11 17:07:05,Lisa Mueller,31.52,Produkt J,75.0,Firma8,Lager B,Lager B
+065,Rücksendung geprüft,2024-02-11 17:37:05,Lisa Schulz,80.02,Produkt T,85.0,Firma17,Lager E,Lager F
+065,Reparatur durchgeführt,2024-02-11 18:20:05,Jonas Richter,96.45,Produkt T,85.0,Firma17,Lager D,Lager G
+065,Ware erneut versandt,2024-02-11 19:19:05,Max Mustermann,71.3,Produkt Q,110.0,Firma14,Lager B,Lager C
+066,Angebot erstellt,2024-02-11 16:56:05,Emma Weber,41.39,Produkt A,100.0,Firma13,Lager E,Lager J
+066,Vertragsverhandlungen geführt,2024-02-11 17:28:05,Laura Fischer,45.91,Produkt M,95.0,Firma13,Lager G,Lager J
+066,Bestellung aufgenommen,2024-02-11 17:35:05,Sophia Lang,44.33,Produkt I,90.0,Firma1,Lager D,Lager F
+066,Rechnung versendet,2024-02-11 18:26:05,Jonas Richter,55.69,Produkt L,140.0,Firma13,Lager G,Lager E
+066,Zahlung erhalten,2024-02-11 18:52:05,Lisa Schulz,72.62,Produkt Q,110.0,Firma2,Lager F,Lager I
+066,Ware direkt verkauft,2024-02-11 19:00:05,Jonas Richter,5.72,Produkt T,85.0,Firma12,Lager J,Lager I
+067,Angebot erstellt,2024-02-11 16:56:05,Hannah Meyer,32.21,Produkt F,110.0,Firma11,Lager D,Lager H
+067,Vertragsverhandlungen geführt,2024-02-11 17:46:05,Mia Schmitt,79.79,Produkt K,110.0,Firma1,Lager F,Lager E
+067,Bestellung aufgenommen,2024-02-11 18:34:05,Laura Fischer,73.17,Produkt N,75.0,Firma11,Lager A,Lager B
+067,Rechnung versendet,2024-02-11 19:04:05,Hannah Meyer,86.86,Produkt J,75.0,Firma8,Lager G,Lager B
+067,Zahlung erhalten,2024-02-11 19:25:05,Luca Huber,97.46,Produkt G,95.0,Firma9,Lager A,Lager G
+067,Ware direkt verkauft,2024-02-11 19:57:05,Jan Becker,33.33,Produkt D,70.0,Firma3,Lager I,Lager G
+068,Auftrag eingegangen,2024-02-11 16:56:05,Emma Weber,29.62,Produkt K,110.0,Firma17,Lager J,Lager F
+068,Ware aus Lager geholt,2024-02-11 17:42:05,Lena Mueller,81.38,Produkt P,100.0,Firma17,Lager I,Lager A
+068,Qualitätskontrolle durchgeführt,2024-02-11 18:22:05,Luca Huber,88.29,Produkt R,130.0,Firma18,Lager B,Lager G
+068,Ware zum Versand vorbereitet,2024-02-11 18:56:05,Sophia Lang,70.9,Produkt H,130.0,Firma18,Lager H,Lager B
+068,Ware versandt,2024-02-11 19:16:05,Laura Fischer,80.56,Produkt R,130.0,Firma15,Lager C,Lager I
+069,Angebot erstellt,2024-02-11 16:56:05,Luca Huber,25.86,Produkt E,150.0,Firma18,Lager F,Lager D
+069,Vertragsverhandlungen geführt,2024-02-11 17:50:05,Emma Weber,87.92,Produkt N,75.0,Firma18,Lager J,Lager E
+069,Bestellung aufgenommen,2024-02-11 18:07:05,Sophia Lang,58.93,Produkt F,110.0,Firma16,Lager F,Lager D
+069,Rechnung versendet,2024-02-11 18:36:05,Laura Fischer,45.18,Produkt H,130.0,Firma2,Lager F,Lager A
+069,Zahlung erhalten,2024-02-11 19:06:05,Emilia Wagner,37.5,Produkt E,150.0,Firma16,Lager D,Lager C
+069,Ware direkt verkauft,2024-02-11 19:39:05,Emilia Wagner,74.25,Produkt T,85.0,Firma13,Lager H,Lager D
+070,Auftrag eingegangen,2024-02-11 16:56:05,Sarah Schmidt,82.84,Produkt S,90.0,Firma3,Lager J,Lager A
+070,Ware aus Lager geholt,2024-02-11 17:25:05,Laura Fischer,87.84,Produkt T,85.0,Firma18,Lager J,Lager D
+070,Qualitätskontrolle durchgeführt,2024-02-11 17:56:05,David Meyer,39.26,Produkt L,140.0,Firma14,Lager E,Lager G
+070,Ware zum Versand vorbereitet,2024-02-11 18:47:05,Paul Zimmer,76.16,Produkt K,110.0,Firma8,Lager G,Lager B
+070,Ware versandt,2024-02-11 18:57:05,Lisa Mueller,13.1,Produkt H,130.0,Firma11,Lager A,Lager C
+071,Angebot erstellt,2024-02-11 16:56:05,Nico Schmidt,85.96,Produkt K,110.0,Firma15,Lager B,Lager J
+071,Vertragsverhandlungen geführt,2024-02-11 17:23:05,Paul Zimmer,47.84,Produkt G,95.0,Firma8,Lager B,Lager H
+071,Bestellung aufgenommen,2024-02-11 17:56:05,Nico Schmidt,91.6,Produkt E,150.0,Firma13,Lager C,Lager B
+071,Rechnung versendet,2024-02-11 18:12:05,Luca Huber,23.69,Produkt G,95.0,Firma2,Lager D,Lager H
+071,Zahlung erhalten,2024-02-11 18:56:05,Timo Wagner,49.66,Produkt P,100.0,Firma15,Lager I,Lager A
+071,Ware direkt verkauft,2024-02-11 19:46:05,Lisa Mueller,49.98,Produkt S,90.0,Firma4,Lager D,Lager C
+072,Angebot erstellt,2024-02-11 16:56:05,Lisa Schulz,78.25,Produkt S,90.0,Firma17,Lager B,Lager C
+072,Vertragsverhandlungen geführt,2024-02-11 17:52:05,Mia Schmitt,88.42,Produkt B,120.0,Firma5,Lager I,Lager E
+072,Bestellung aufgenommen,2024-02-11 18:36:05,Sophia Lang,88.63,Produkt G,95.0,Firma8,Lager D,Lager A
+072,Rechnung versendet,2024-02-11 18:48:05,Jan Becker,37.69,Produkt J,75.0,Firma20,Lager A,Lager A
+072,Zahlung erhalten,2024-02-11 18:51:05,Mia Schmitt,28.05,Produkt N,75.0,Firma17,Lager G,Lager H
+072,Ware direkt verkauft,2024-02-11 19:31:05,Emilia Wagner,20.68,Produkt I,90.0,Firma2,Lager G,Lager G
+073,Auftrag eingegangen,2024-02-11 16:56:05,Emma Weber,8.58,Produkt O,120.0,Firma15,Lager J,Lager D
+073,Ware aus Lager geholt,2024-02-11 17:50:05,Lena Mueller,21.31,Produkt C,80.0,Firma8,Lager G,Lager E
+073,Qualitätskontrolle durchgeführt,2024-02-11 18:48:05,Sarah Schmidt,41.26,Produkt C,80.0,Firma18,Lager B,Lager E
+073,Ware zum Versand vorbereitet,2024-02-11 19:05:05,Mia Schmitt,14.01,Produkt A,100.0,Firma7,Lager F,Lager J
+073,Ware versandt,2024-02-11 19:26:05,Leonie Richter,20.67,Produkt K,110.0,Firma11,Lager C,Lager G
+074,Auftrag eingegangen,2024-02-11 16:56:05,Paul Zimmer,94.32,Produkt H,130.0,Firma7,Lager B,Lager C
+074,Ware zur Produktion gebracht,2024-02-11 17:09:05,Mia Schmitt,12.86,Produkt K,110.0,Firma18,Lager B,Lager J
+074,Ware hergestellt,2024-02-11 17:19:05,Lisa Schulz,7.17,Produkt O,120.0,Firma18,Lager F,Lager D
+074,Ware verpackt,2024-02-11 18:01:05,Jan Becker,93.77,Produkt K,110.0,Firma2,Lager H,Lager J
+074,Schnellversand durchgeführt,2024-02-11 18:43:05,Hannah Meyer,8.6,Produkt B,120.0,Firma18,Lager J,Lager E
+075,Auftrag eingegangen,2024-02-11 16:56:05,Lisa Schulz,31.29,Produkt G,95.0,Firma1,Lager I,Lager G
+075,Ware zur Produktion gebracht,2024-02-11 17:55:05,Hannah Meyer,14.82,Produkt M,95.0,Firma8,Lager C,Lager B
+075,Ware hergestellt,2024-02-11 18:03:05,Timo Wagner,56.52,Produkt T,85.0,Firma14,Lager A,Lager D
+075,Ware verpackt,2024-02-11 18:07:05,Leonie Richter,78.87,Produkt F,110.0,Firma17,Lager I,Lager H
+075,Schnellversand durchgeführt,2024-02-11 18:22:05,Lisa Mueller,63.87,Produkt O,120.0,Firma15,Lager H,Lager B
+076,Auftrag eingegangen,2024-02-11 16:56:05,Laura Fischer,76.7,Produkt D,70.0,Firma19,Lager A,Lager F
+076,Ware aus Lager geholt,2024-02-11 17:08:05,Lisa Schulz,41.08,Produkt Q,110.0,Firma11,Lager F,Lager G
+076,Qualitätskontrolle durchgeführt,2024-02-11 17:24:05,Laura Fischer,16.13,Produkt I,90.0,Firma19,Lager C,Lager J
+076,Ware zum Versand vorbereitet,2024-02-11 18:09:05,Sarah Schmidt,94.91,Produkt R,130.0,Firma2,Lager E,Lager D
+076,Ware versandt,2024-02-11 18:19:05,Jan Becker,22.94,Produkt A,100.0,Firma15,Lager A,Lager A
+077,Auftrag eingegangen,2024-02-11 16:56:05,Nico Schmidt,98.18,Produkt E,150.0,Firma9,Lager J,Lager E
+077,Ware zur Produktion gebracht,2024-02-11 17:56:05,David Meyer,50.33,Produkt C,80.0,Firma4,Lager C,Lager A
+077,Ware hergestellt,2024-02-11 18:12:05,Nico Schmidt,91.8,Produkt K,110.0,Firma16,Lager G,Lager B
+077,Ware verpackt,2024-02-11 18:24:05,Luca Huber,86.6,Produkt C,80.0,Firma12,Lager I,Lager E
+077,Schnellversand durchgeführt,2024-02-11 19:20:05,Max Mustermann,71.41,Produkt P,100.0,Firma4,Lager I,Lager A
+078,Auftrag eingegangen,2024-02-11 16:56:05,Noah Becker,88.46,Produkt D,70.0,Firma16,Lager I,Lager G
+078,Ware aus Lager geholt,2024-02-11 17:33:05,Mia Schmitt,53.18,Produkt T,85.0,Firma20,Lager E,Lager G
+078,Qualitätskontrolle durchgeführt,2024-02-11 18:11:05,Laura Fischer,58.93,Produkt S,90.0,Firma14,Lager F,Lager A
+078,Ware zum Versand vorbereitet,2024-02-11 18:45:05,Mia Schmitt,6.95,Produkt P,100.0,Firma14,Lager J,Lager G
+078,Ware versandt,2024-02-11 19:06:05,Sarah Schmidt,59.77,Produkt A,100.0,Firma9,Lager G,Lager B
+079,Ware beim Kunden angekommen,2024-02-11 16:56:05,Hannah Meyer,80.33,Produkt K,110.0,Firma11,Lager J,Lager C
+079,Ware retourniert,2024-02-11 17:10:05,Paul Zimmer,25.51,Produkt F,110.0,Firma19,Lager D,Lager J
+079,Rücksendung geprüft,2024-02-11 17:25:05,Noah Becker,63.55,Produkt P,100.0,Firma1,Lager E,Lager G
+079,Reparatur durchgeführt,2024-02-11 17:41:05,David Meyer,71.43,Produkt B,120.0,Firma18,Lager A,Lager G
+079,Ware erneut versandt,2024-02-11 18:40:05,Jan Becker,93.94,Produkt S,90.0,Firma8,Lager H,Lager H
+080,Auftrag eingegangen,2024-02-11 16:56:05,Lena Mueller,90.7,Produkt L,140.0,Firma12,Lager B,Lager E
+080,Ware aus Lager geholt,2024-02-11 17:49:05,Leonie Richter,12.36,Produkt I,90.0,Firma1,Lager B,Lager H
+080,Qualitätskontrolle durchgeführt,2024-02-11 18:42:05,David Meyer,36.33,Produkt T,85.0,Firma11,Lager B,Lager E
+080,Ware zum Versand vorbereitet,2024-02-11 19:27:05,Nico Schmidt,32.12,Produkt B,120.0,Firma6,Lager H,Lager H
+080,Ware versandt,2024-02-11 20:09:05,Max Mustermann,54.94,Produkt R,130.0,Firma18,Lager I,Lager C
+081,Angebot erstellt,2024-02-11 16:56:05,Nico Schmidt,99.28,Produkt C,80.0,Firma7,Lager D,Lager G
+081,Vertragsverhandlungen geführt,2024-02-11 17:13:05,Lisa Mueller,21.62,Produkt M,95.0,Firma11,Lager J,Lager F
+081,Bestellung aufgenommen,2024-02-11 17:48:05,Emma Weber,59.4,Produkt P,100.0,Firma15,Lager B,Lager A
+081,Rechnung versendet,2024-02-11 18:00:05,Paul Zimmer,19.29,Produkt P,100.0,Firma14,Lager F,Lager B
+081,Zahlung erhalten,2024-02-11 18:52:05,Sarah Schmidt,18.05,Produkt C,80.0,Firma19,Lager E,Lager A
+081,Ware direkt verkauft,2024-02-11 19:28:05,Luca Huber,93.53,Produkt E,150.0,Firma11,Lager C,Lager J
+082,Auftrag eingegangen,2024-02-11 16:56:05,Hannah Meyer,45.39,Produkt A,100.0,Firma9,Lager G,Lager F
+082,Ware zur Produktion gebracht,2024-02-11 17:36:05,Nico Schmidt,35.66,Produkt P,100.0,Firma5,Lager J,Lager C
+082,Ware hergestellt,2024-02-11 18:17:05,Timo Wagner,90.54,Produkt G,95.0,Firma7,Lager G,Lager E
+082,Ware verpackt,2024-02-11 18:33:05,Lena Mueller,5.54,Produkt S,90.0,Firma6,Lager C,Lager F
+082,Schnellversand durchgeführt,2024-02-11 19:08:05,Hannah Meyer,19.36,Produkt P,100.0,Firma13,Lager J,Lager H
+083,Angebot erstellt,2024-02-11 16:56:05,Noah Becker,37.21,Produkt Q,110.0,Firma6,Lager C,Lager E
+083,Vertragsverhandlungen geführt,2024-02-11 17:04:05,David Meyer,50.01,Produkt J,75.0,Firma16,Lager D,Lager H
+083,Bestellung aufgenommen,2024-02-11 17:10:05,Max Mustermann,16.98,Produkt K,110.0,Firma13,Lager J,Lager D
+083,Rechnung versendet,2024-02-11 17:19:05,Hannah Meyer,97.1,Produkt G,95.0,Firma14,Lager C,Lager J
+083,Zahlung erhalten,2024-02-11 17:39:05,Paul Zimmer,9.91,Produkt I,90.0,Firma4,Lager D,Lager C
+083,Ware direkt verkauft,2024-02-11 18:15:05,Sophia Lang,11.7,Produkt J,75.0,Firma18,Lager J,Lager H
+084,Auftrag eingegangen,2024-02-11 16:56:05,David Meyer,82.49,Produkt N,75.0,Firma18,Lager H,Lager D
+084,Ware zur Produktion gebracht,2024-02-11 17:28:05,Jan Becker,12.2,Produkt M,95.0,Firma16,Lager B,Lager D
+084,Ware hergestellt,2024-02-11 17:59:05,Lena Mueller,50.62,Produkt K,110.0,Firma6,Lager D,Lager B
+084,Ware verpackt,2024-02-11 18:33:05,Luca Huber,85.68,Produkt G,95.0,Firma10,Lager A,Lager B
+084,Schnellversand durchgeführt,2024-02-11 18:48:05,Noah Becker,35.71,Produkt J,75.0,Firma14,Lager E,Lager F
+085,Auftrag eingegangen,2024-02-11 16:56:05,David Meyer,90.01,Produkt T,85.0,Firma12,Lager G,Lager A
+085,Ware zur Produktion gebracht,2024-02-11 17:54:05,Jonas Richter,17.55,Produkt G,95.0,Firma17,Lager J,Lager I
+085,Ware hergestellt,2024-02-11 18:32:05,Sophia Lang,61.04,Produkt T,85.0,Firma18,Lager D,Lager H
+085,Ware verpackt,2024-02-11 18:35:05,Paul Zimmer,28.28,Produkt N,75.0,Firma5,Lager A,Lager I
+085,Schnellversand durchgeführt,2024-02-11 19:30:05,Luca Huber,52.23,Produkt D,70.0,Firma5,Lager J,Lager A
+086,Auftrag eingegangen,2024-02-11 16:56:05,Nico Schmidt,85.14,Produkt T,85.0,Firma14,Lager B,Lager H
+086,Ware aus Lager geholt,2024-02-11 17:06:05,Lisa Mueller,46.87,Produkt M,95.0,Firma11,Lager C,Lager A
+086,Qualitätskontrolle durchgeführt,2024-02-11 17:42:05,Noah Becker,88.61,Produkt K,110.0,Firma19,Lager A,Lager E
+086,Ware zum Versand vorbereitet,2024-02-11 18:12:05,Leonie Richter,17.59,Produkt H,130.0,Firma6,Lager E,Lager D
+086,Ware versandt,2024-02-11 19:08:05,Jonas Richter,32.78,Produkt R,130.0,Firma18,Lager H,Lager D
+087,Auftrag eingegangen,2024-02-11 16:56:05,Laura Fischer,12.14,Produkt E,150.0,Firma5,Lager I,Lager E
+087,Ware zur Produktion gebracht,2024-02-11 17:01:05,Emilia Wagner,40.54,Produkt P,100.0,Firma20,Lager I,Lager B
+087,Ware hergestellt,2024-02-11 17:49:05,Sarah Schmidt,39.76,Produkt O,120.0,Firma4,Lager H,Lager H
+087,Ware verpackt,2024-02-11 18:06:05,Lisa Schulz,5.25,Produkt S,90.0,Firma11,Lager E,Lager A
+087,Schnellversand durchgeführt,2024-02-11 18:24:05,Laura Fischer,65.48,Produkt P,100.0,Firma3,Lager C,Lager D
+088,Angebot erstellt,2024-02-11 16:56:05,Leonie Richter,94.58,Produkt L,140.0,Firma10,Lager D,Lager B
+088,Vertragsverhandlungen geführt,2024-02-11 17:04:05,Emma Weber,35.32,Produkt A,100.0,Firma11,Lager B,Lager J
+088,Bestellung aufgenommen,2024-02-11 17:59:05,Laura Fischer,53.79,Produkt S,90.0,Firma13,Lager C,Lager D
+088,Rechnung versendet,2024-02-11 18:43:05,Jan Becker,9.91,Produkt P,100.0,Firma10,Lager H,Lager C
+088,Zahlung erhalten,2024-02-11 19:19:05,Emma Weber,14.51,Produkt M,95.0,Firma17,Lager H,Lager G
+088,Ware direkt verkauft,2024-02-11 19:51:05,Leonie Richter,44.45,Produkt F,110.0,Firma2,Lager A,Lager I
+089,Angebot erstellt,2024-02-11 16:56:05,Jan Becker,22.71,Produkt H,130.0,Firma9,Lager I,Lager E
+089,Vertragsverhandlungen geführt,2024-02-11 17:41:05,Emilia Wagner,25.34,Produkt N,75.0,Firma11,Lager H,Lager D
+089,Bestellung aufgenommen,2024-02-11 18:17:05,Timo Wagner,25.01,Produkt O,120.0,Firma13,Lager D,Lager A
+089,Rechnung versendet,2024-02-11 18:37:05,Lisa Schulz,7.93,Produkt E,150.0,Firma8,Lager J,Lager J
+089,Zahlung erhalten,2024-02-11 18:55:05,Jonas Richter,86.96,Produkt T,85.0,Firma16,Lager H,Lager A
+089,Ware direkt verkauft,2024-02-11 19:06:05,Laura Fischer,27.21,Produkt R,130.0,Firma8,Lager A,Lager E
+090,Auftrag eingegangen,2024-02-11 16:56:05,Jan Becker,37.82,Produkt K,110.0,Firma6,Lager D,Lager G
+090,Ware zur Produktion gebracht,2024-02-11 17:53:05,Emilia Wagner,50.56,Produkt B,120.0,Firma2,Lager C,Lager G
+090,Ware hergestellt,2024-02-11 18:03:05,Jonas Richter,36.68,Produkt R,130.0,Firma17,Lager I,Lager A
+090,Ware verpackt,2024-02-11 18:42:05,Laura Fischer,46.98,Produkt G,95.0,Firma1,Lager C,Lager H
+090,Schnellversand durchgeführt,2024-02-11 19:08:05,Sophia Lang,9.87,Produkt G,95.0,Firma4,Lager B,Lager I
+091,Ware beim Kunden angekommen,2024-02-11 16:56:05,Jan Becker,60.14,Produkt E,150.0,Firma12,Lager D,Lager A
+091,Ware retourniert,2024-02-11 17:27:05,David Meyer,63.0,Produkt M,95.0,Firma17,Lager D,Lager F
+091,Rücksendung geprüft,2024-02-11 18:26:05,Lisa Mueller,95.6,Produkt G,95.0,Firma5,Lager A,Lager C
+091,Reparatur durchgeführt,2024-02-11 18:33:05,Max Mustermann,16.12,Produkt N,75.0,Firma9,Lager J,Lager J
+091,Ware erneut versandt,2024-02-11 18:40:05,Laura Fischer,18.38,Produkt H,130.0,Firma19,Lager A,Lager F
+092,Auftrag eingegangen,2024-02-11 16:56:05,Max Mustermann,24.18,Produkt N,75.0,Firma13,Lager G,Lager G
+092,Ware zur Produktion gebracht,2024-02-11 17:09:05,Lisa Schulz,20.96,Produkt C,80.0,Firma1,Lager F,Lager I
+092,Ware hergestellt,2024-02-11 17:10:05,Hannah Meyer,68.87,Produkt S,90.0,Firma19,Lager A,Lager C
+092,Ware verpackt,2024-02-11 18:01:05,Hannah Meyer,59.37,Produkt R,130.0,Firma1,Lager D,Lager F
+092,Schnellversand durchgeführt,2024-02-11 18:41:05,Paul Zimmer,68.42,Produkt R,130.0,Firma7,Lager F,Lager C
+093,Ware beim Kunden angekommen,2024-02-11 16:56:05,Laura Fischer,10.09,Produkt N,75.0,Firma4,Lager J,Lager E
+093,Ware retourniert,2024-02-11 17:08:05,Paul Zimmer,89.11,Produkt N,75.0,Firma20,Lager F,Lager F
+093,Rücksendung geprüft,2024-02-11 17:38:05,Luca Huber,76.16,Produkt O,120.0,Firma3,Lager F,Lager I
+093,Reparatur durchgeführt,2024-02-11 18:22:05,Max Mustermann,39.13,Produkt O,120.0,Firma8,Lager J,Lager J
+093,Ware erneut versandt,2024-02-11 18:48:05,David Meyer,78.99,Produkt N,75.0,Firma19,Lager H,Lager I
+094,Auftrag eingegangen,2024-02-11 16:56:05,Nico Schmidt,75.83,Produkt N,75.0,Firma14,Lager H,Lager H
+094,Ware aus Lager geholt,2024-02-11 17:19:05,Jan Becker,35.38,Produkt J,75.0,Firma20,Lager D,Lager I
+094,Qualitätskontrolle durchgeführt,2024-02-11 17:29:05,Paul Zimmer,36.78,Produkt Q,110.0,Firma9,Lager A,Lager H
+094,Ware zum Versand vorbereitet,2024-02-11 18:28:05,Sophia Lang,75.71,Produkt B,120.0,Firma14,Lager I,Lager I
+094,Ware versandt,2024-02-11 19:13:05,David Meyer,34.87,Produkt K,110.0,Firma18,Lager I,Lager B
+095,Ware beim Kunden angekommen,2024-02-11 16:56:05,Timo Wagner,67.09,Produkt Q,110.0,Firma2,Lager A,Lager I
+095,Ware retourniert,2024-02-11 17:52:05,Sarah Schmidt,81.48,Produkt D,70.0,Firma11,Lager C,Lager G
+095,Rücksendung geprüft,2024-02-11 18:39:05,Emilia Wagner,18.06,Produkt C,80.0,Firma3,Lager F,Lager J
+095,Reparatur durchgeführt,2024-02-11 18:53:05,David Meyer,80.72,Produkt A,100.0,Firma4,Lager B,Lager I
+095,Ware erneut versandt,2024-02-11 19:25:05,Mia Schmitt,73.24,Produkt E,150.0,Firma9,Lager F,Lager H
+096,Ware beim Kunden angekommen,2024-02-11 16:56:05,Sarah Schmidt,36.19,Produkt G,95.0,Firma2,Lager H,Lager A
+096,Ware retourniert,2024-02-11 17:32:05,Hannah Meyer,79.32,Produkt G,95.0,Firma18,Lager E,Lager D
+096,Rücksendung geprüft,2024-02-11 17:55:05,Laura Fischer,5.05,Produkt H,130.0,Firma12,Lager E,Lager I
+096,Reparatur durchgeführt,2024-02-11 18:26:05,Timo Wagner,20.8,Produkt G,95.0,Firma6,Lager G,Lager B
+096,Ware erneut versandt,2024-02-11 19:11:05,Hannah Meyer,90.72,Produkt E,150.0,Firma20,Lager F,Lager H
+097,Angebot erstellt,2024-02-11 16:56:05,Emma Weber,34.92,Produkt R,130.0,Firma16,Lager B,Lager I
+097,Vertragsverhandlungen geführt,2024-02-11 17:40:05,Hannah Meyer,5.7,Produkt R,130.0,Firma3,Lager G,Lager I
+097,Bestellung aufgenommen,2024-02-11 18:18:05,Max Mustermann,47.58,Produkt P,100.0,Firma9,Lager A,Lager I
+097,Rechnung versendet,2024-02-11 18:31:05,Mia Schmitt,82.47,Produkt I,90.0,Firma11,Lager B,Lager J
+097,Zahlung erhalten,2024-02-11 18:55:05,Leonie Richter,61.58,Produkt A,100.0,Firma8,Lager B,Lager E
+097,Ware direkt verkauft,2024-02-11 19:15:05,Lisa Schulz,40.11,Produkt T,85.0,Firma8,Lager E,Lager I
+098,Angebot erstellt,2024-02-11 16:56:05,Timo Wagner,9.51,Produkt N,75.0,Firma2,Lager F,Lager E
+098,Vertragsverhandlungen geführt,2024-02-11 17:30:05,Max Mustermann,96.1,Produkt S,90.0,Firma2,Lager B,Lager F
+098,Bestellung aufgenommen,2024-02-11 17:41:05,Lena Mueller,60.01,Produkt Q,110.0,Firma13,Lager C,Lager B
+098,Rechnung versendet,2024-02-11 18:05:05,Jonas Richter,99.33,Produkt D,70.0,Firma13,Lager A,Lager G
+098,Zahlung erhalten,2024-02-11 19:02:05,Timo Wagner,80.96,Produkt D,70.0,Firma4,Lager B,Lager E
+098,Ware direkt verkauft,2024-02-11 19:49:05,Emma Weber,28.87,Produkt F,110.0,Firma5,Lager H,Lager J
+099,Auftrag eingegangen,2024-02-11 16:56:05,Laura Fischer,53.98,Produkt G,95.0,Firma1,Lager G,Lager H
+099,Ware aus Lager geholt,2024-02-11 17:42:05,Max Mustermann,27.54,Produkt P,100.0,Firma8,Lager A,Lager F
+099,Qualitätskontrolle durchgeführt,2024-02-11 18:18:05,Emilia Wagner,37.09,Produkt K,110.0,Firma6,Lager E,Lager E
+099,Ware zum Versand vorbereitet,2024-02-11 19:07:05,Sarah Schmidt,97.13,Produkt L,140.0,Firma10,Lager E,Lager D
+099,Ware versandt,2024-02-11 20:05:05,Laura Fischer,9.08,Produkt Q,110.0,Firma15,Lager I,Lager H
+100,Auftrag eingegangen,2024-02-11 16:56:05,Nico Schmidt,70.14,Produkt J,75.0,Firma9,Lager I,Lager J
+100,Ware zur Produktion gebracht,2024-02-11 17:45:05,David Meyer,50.05,Produkt E,150.0,Firma5,Lager I,Lager J
+100,Ware hergestellt,2024-02-11 18:42:05,Emilia Wagner,61.31,Produkt T,85.0,Firma13,Lager J,Lager C
+100,Ware verpackt,2024-02-11 19:21:05,Nico Schmidt,23.73,Produkt C,80.0,Firma14,Lager G,Lager E
+100,Schnellversand durchgeführt,2024-02-11 19:22:05,Lena Mueller,20.86,Produkt C,80.0,Firma7,Lager I,Lager D

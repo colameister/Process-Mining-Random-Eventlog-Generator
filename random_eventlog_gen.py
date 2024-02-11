@@ -4,9 +4,35 @@ from datetime import datetime, timedelta
 
 # Definierte logische Pfade
 paths = {
-    'Pfad1': ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zum Versand vorbereitet", "Ware versandt"],
-    'Pfad2': ["Auftrag eingegangen", "Ware zur Produktion gebracht", "Ware hergestellt", "Ware verpackt", "Ware versandt"],
-    # Fügen Sie bei Bedarf weitere Pfade hinzu
+    'Normaler Auftrag': [
+        "Auftrag eingegangen", 
+        "Ware aus Lager geholt", 
+        "Qualitätskontrolle durchgeführt", 
+        "Ware zum Versand vorbereitet", 
+        "Ware versandt"
+    ],
+    'Eilauftrag': [
+        "Auftrag eingegangen", 
+        "Ware zur Produktion gebracht", 
+        "Ware hergestellt", 
+        "Ware verpackt", 
+        "Schnellversand durchgeführt"
+    ],
+    'Rücksendung': [
+        "Ware beim Kunden angekommen", 
+        "Ware retourniert", 
+        "Rücksendung geprüft", 
+        "Reparatur durchgeführt", 
+        "Ware erneut versandt"
+    ],
+    'Direktverkauf': [
+        "Angebot erstellt", 
+        "Vertragsverhandlungen geführt", 
+        "Bestellung aufgenommen", 
+        "Rechnung versendet", 
+        "Zahlung erhalten", 
+        "Ware direkt verkauft"
+    ]
 }
 
 # Liste von Aktivitäten
@@ -45,7 +71,7 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 num_events = 100
 
 # Revisionsnummer
-revision_number = 8
+revision_number = 9
 
 # Initialisiere eine Liste, um zu verfolgen, welche Aktivitäten bereits in einem Fall aufgetreten sind
 activities_per_case = {}
@@ -65,15 +91,16 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
         timestamp = datetime.now()
         for activity in selected_path:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
             person = random.choice(people)
-            product, product_price = random.choice(products)
+            product_tuple = random.choice(products)  # Wählen Sie ein Tupel aus der Produktliste
+            product_name = product_tuple[0]  # Extrahieren Sie den Namen des Produkts
+            product_price = product_tuple[1]  # Extrahieren Sie den Preis des Produkts
             customer = random.choice(customers)
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
 
             # Speichern / Schreiben in CSV-Datei
-            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, round(random.uniform(5.00, 100.00), 2), product[0], product_price, customer, pickup_location, delivery_location])
-            
-            # Zeitstempel für die nächste Aktivität inkrementieren
+            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, round(random.uniform(5.00, 100.00), 2), product_name, product_price, customer, pickup_location, delivery_location])
+
             timestamp += timedelta(minutes=random.randint(1, 60))
 
 # Fertigstellungslog :)
