@@ -71,36 +71,31 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 num_events = 100
 
 # Revisionsnummer
-revision_number = 9
-
-# Initialisiere eine Liste, um zu verfolgen, welche Aktivitäten bereits in einem Fall aufgetreten sind
-activities_per_case = {}
+revision_number = 10
 
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
-    # Header schreiben
-    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Ausführende Person",
-                     "Kosten (EUR)", "Transportiertes Gut", "Produktpreis (EUR)", "Kunde", "Abnahmeort", "Abgabeort"])
+    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Ausführende Person", "Kosten (EUR)", "Transportiertes Gut", "Produktpreis (EUR)", "Kunde", "Abnahmeort", "Abgabeort"])
 
-    # Ereignisse generieren
-    for i in range(1, num_events + 1):  # Starten bei 1 für die Fallnummer
-        case_number = str(i).zfill(3)  # Jede Fallnummer ist nun eindeutig
-        selected_path = random.choice(list(paths.values()))  # Einen Pfad zufällig auswählen
+    for i in range(1, num_events + 1):
+        case_number = str(i).zfill(3)
+        selected_path = random.choice(list(paths.values()))
+        # Für jeden Fall ein Produkt und einen Kunden auswählen
+        product_tuple = random.choice(products)
+        product_name, product_price = product_tuple
+        customer = random.choice(customers)
 
         timestamp = datetime.now()
         for activity in selected_path:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
             person = random.choice(people)
-            product_tuple = random.choice(products)  # Wählen Sie ein Tupel aus der Produktliste
-            product_name = product_tuple[0]  # Extrahieren Sie den Namen des Produkts
-            product_price = product_tuple[1]  # Extrahieren Sie den Preis des Produkts
-            customer = random.choice(customers)
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
 
             # Speichern / Schreiben in CSV-Datei
             writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, round(random.uniform(5.00, 100.00), 2), product_name, product_price, customer, pickup_location, delivery_location])
 
+            # Zeitstempel für die nächste Aktivität inkrementieren
             timestamp += timedelta(minutes=random.randint(1, 60))
 
 # Fertigstellungslog :)
