@@ -45,7 +45,7 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 num_events = 100
 
 # Revisionsnummer
-revision_number = 7
+revision_number = 8
 
 # Initialisiere eine Liste, um zu verfolgen, welche Aktivitäten bereits in einem Fall aufgetreten sind
 activities_per_case = {}
@@ -58,18 +58,23 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
                      "Kosten (EUR)", "Transportiertes Gut", "Produktpreis (EUR)", "Kunde", "Abnahmeort", "Abgabeort"])
 
     # Ereignisse generieren
-    for i in range(num_events):
-        case_number = str(random.randint(1, 10)).zfill(3)  # Fallnummer ist nicht einzigartig
-        selected_path = random.choice(list(paths.keys()))  # Einen Pfad zufällig auswählen
-        for activity in paths[selected_path]:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
-            timestamp = (datetime.now() + timedelta(minutes=random.randint(1, 60))).strftime("%Y-%m-%d %H:%M:%S")
+    for i in range(1, num_events + 1):  # Starten bei 1 für die Fallnummer
+        case_number = str(i).zfill(3)  # Jede Fallnummer ist nun eindeutig
+        selected_path = random.choice(list(paths.values()))  # Einen Pfad zufällig auswählen
+
+        timestamp = datetime.now()
+        for activity in selected_path:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
             person = random.choice(people)
             product, product_price = random.choice(products)
             customer = random.choice(customers)
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
+
             # Speichern / Schreiben in CSV-Datei
-            writer.writerow([case_number, activity, timestamp, person, round(product_price, 2), product[0], product_price, customer, pickup_location, delivery_location])
+            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, round(random.uniform(5.00, 100.00), 2), product[0], product_price, customer, pickup_location, delivery_location])
+            
+            # Zeitstempel für die nächste Aktivität inkrementieren
+            timestamp += timedelta(minutes=random.randint(1, 60))
 
 # Fertigstellungslog :)
 print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")
