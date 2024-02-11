@@ -2,7 +2,14 @@ import csv
 import random
 from datetime import datetime, timedelta
 
-# Liste von Aktivitäten (erweitert)
+# Definierte logische Pfade
+paths = {
+    'Pfad1': ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zum Versand vorbereitet", "Ware versandt"],
+    'Pfad2': ["Auftrag eingegangen", "Ware zur Produktion gebracht", "Ware hergestellt", "Ware verpackt", "Ware versandt"],
+    # Fügen Sie bei Bedarf weitere Pfade hinzu
+}
+
+# Liste von Aktivitäten
 activities = ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zur Produktion gebracht",
               "Ware hergestellt", "Ware verpackt", "Ware zum Versand vorbereitet", "Ware versandt",
               "Ware beim Kunden angekommen", "Rechnung erstellt", "Zahlung erhalten",
@@ -34,11 +41,11 @@ customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5", "Firma6", "Firma7
 # Liste von Abnahme- und Abgabeorten
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
-# Anzahl der Ereignisse (angepasst)
-num_events = 100  # Erhöht auf 100 Ereignisse
+# Anzahl der Ereignisse
+num_events = 100
 
 # Revisionsnummer
-revision_number = 6
+revision_number = 7
 
 # Initialisiere eine Liste, um zu verfolgen, welche Aktivitäten bereits in einem Fall aufgetreten sind
 activities_per_case = {}
@@ -46,7 +53,6 @@ activities_per_case = {}
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
-
     # Header schreiben
     writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Ausführende Person",
                      "Kosten (EUR)", "Transportiertes Gut", "Produktpreis (EUR)", "Kunde", "Abnahmeort", "Abgabeort"])
@@ -54,27 +60,16 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     # Ereignisse generieren
     for i in range(num_events):
         case_number = str(random.randint(1, 10)).zfill(3)  # Fallnummer ist nicht einzigartig
-        activity = random.choice(activities)
-
-        # Überprüfen, ob die Aktivität bereits in diesem Fall aufgetreten ist
-        if case_number in activities_per_case:
-            while activity in activities_per_case[case_number]:
-                activity = random.choice(activities)
-        else:
-            activities_per_case[case_number] = []
-
-        activities_per_case[case_number].append(activity)
-
-        timestamp = (datetime(2019, 1, 12, 12, 1, 0) + timedelta(minutes=i)).strftime("%m/%d/%Y %H:%M:%S")
-        person = random.choice(people)
-        cost = round(random.uniform(5.00, 100.00), 2)
-        product, product_price = random.choice(products)
-        customer = random.choice(customers)
-        pickup_location = random.choice(locations)
-        delivery_location = random.choice(locations)
-
-        # Speichern / Schreiben in CSV-Datei
-        writer.writerow([case_number, activity, timestamp, person, cost, product, product_price, customer, pickup_location, delivery_location])
+        selected_path = random.choice(list(paths.keys()))  # Einen Pfad zufällig auswählen
+        for activity in paths[selected_path]:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
+            timestamp = (datetime.now() + timedelta(minutes=random.randint(1, 60))).strftime("%Y-%m-%d %H:%M:%S")
+            person = random.choice(people)
+            product, product_price = random.choice(products)
+            customer = random.choice(customers)
+            pickup_location = random.choice(locations)
+            delivery_location = random.choice(locations)
+            # Speichern / Schreiben in CSV-Datei
+            writer.writerow([case_number, activity, timestamp, person, round(product_price, 2), product[0], product_price, customer, pickup_location, delivery_location])
 
 # Fertigstellungslog :)
 print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")

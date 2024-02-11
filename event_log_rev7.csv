@@ -1,0 +1,448 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+006,Auftrag eingegangen,2024-02-11 16:22:26,Jonas Richter,110.0,P,110.0,Firma20,Lager B,Lager F
+006,Ware aus Lager geholt,2024-02-11 16:58:26,Nico Schmidt,150.0,P,150.0,Firma8,Lager C,Lager J
+006,Ware zum Versand vorbereitet,2024-02-11 17:00:26,David Meyer,130.0,P,130.0,Firma17,Lager J,Lager G
+006,Ware versandt,2024-02-11 17:09:26,Mia Schmitt,70.0,P,70.0,Firma3,Lager D,Lager C
+007,Auftrag eingegangen,2024-02-11 16:47:26,Mia Schmitt,85.0,P,85.0,Firma12,Lager J,Lager F
+007,Ware aus Lager geholt,2024-02-11 16:43:26,Max Mustermann,140.0,P,140.0,Firma8,Lager B,Lager F
+007,Ware zum Versand vorbereitet,2024-02-11 16:35:26,Emma Weber,110.0,P,110.0,Firma11,Lager F,Lager F
+007,Ware versandt,2024-02-11 17:17:26,Laura Fischer,95.0,P,95.0,Firma8,Lager B,Lager E
+004,Auftrag eingegangen,2024-02-11 16:48:26,Timo Wagner,95.0,P,95.0,Firma9,Lager H,Lager B
+004,Ware zur Produktion gebracht,2024-02-11 16:50:26,Mia Schmitt,85.0,P,85.0,Firma15,Lager H,Lager G
+004,Ware hergestellt,2024-02-11 17:17:26,Mia Schmitt,110.0,P,110.0,Firma8,Lager J,Lager F
+004,Ware verpackt,2024-02-11 17:03:26,Max Mustermann,110.0,P,110.0,Firma7,Lager F,Lager G
+004,Ware versandt,2024-02-11 16:27:26,David Meyer,100.0,P,100.0,Firma8,Lager J,Lager J
+008,Auftrag eingegangen,2024-02-11 16:20:26,Sarah Schmidt,85.0,P,85.0,Firma10,Lager B,Lager H
+008,Ware aus Lager geholt,2024-02-11 17:07:26,Jan Becker,100.0,P,100.0,Firma6,Lager B,Lager B
+008,Ware zum Versand vorbereitet,2024-02-11 17:14:26,Sarah Schmidt,140.0,P,140.0,Firma1,Lager E,Lager J
+008,Ware versandt,2024-02-11 16:53:26,Sophia Lang,120.0,P,120.0,Firma6,Lager F,Lager E
+007,Auftrag eingegangen,2024-02-11 16:48:26,Timo Wagner,100.0,P,100.0,Firma10,Lager I,Lager J
+007,Ware zur Produktion gebracht,2024-02-11 16:58:26,Leonie Richter,110.0,P,110.0,Firma15,Lager C,Lager C
+007,Ware hergestellt,2024-02-11 16:49:26,Luca Huber,95.0,P,95.0,Firma2,Lager H,Lager F
+007,Ware verpackt,2024-02-11 17:12:26,Lisa Mueller,75.0,P,75.0,Firma12,Lager B,Lager H
+007,Ware versandt,2024-02-11 16:22:26,Laura Fischer,150.0,P,150.0,Firma6,Lager B,Lager D
+003,Auftrag eingegangen,2024-02-11 16:30:26,Lisa Schulz,120.0,P,120.0,Firma8,Lager D,Lager H
+003,Ware zur Produktion gebracht,2024-02-11 16:55:26,Timo Wagner,140.0,P,140.0,Firma6,Lager F,Lager C
+003,Ware hergestellt,2024-02-11 16:40:26,Jan Becker,120.0,P,120.0,Firma2,Lager B,Lager E
+003,Ware verpackt,2024-02-11 16:51:26,Jonas Richter,110.0,P,110.0,Firma20,Lager A,Lager D
+003,Ware versandt,2024-02-11 16:32:26,Emilia Wagner,130.0,P,130.0,Firma19,Lager E,Lager C
+005,Auftrag eingegangen,2024-02-11 16:56:26,Mia Schmitt,75.0,P,75.0,Firma4,Lager D,Lager F
+005,Ware aus Lager geholt,2024-02-11 16:58:26,Emma Weber,110.0,P,110.0,Firma11,Lager F,Lager A
+005,Ware zum Versand vorbereitet,2024-02-11 16:34:26,David Meyer,120.0,P,120.0,Firma6,Lager A,Lager D
+005,Ware versandt,2024-02-11 17:01:26,Luca Huber,70.0,P,70.0,Firma8,Lager E,Lager E
+007,Auftrag eingegangen,2024-02-11 17:00:26,Paul Zimmer,95.0,P,95.0,Firma6,Lager D,Lager A
+007,Ware aus Lager geholt,2024-02-11 16:51:26,Nico Schmidt,100.0,P,100.0,Firma11,Lager H,Lager G
+007,Ware zum Versand vorbereitet,2024-02-11 16:53:26,Laura Fischer,150.0,P,150.0,Firma7,Lager B,Lager F
+007,Ware versandt,2024-02-11 16:31:26,Noah Becker,100.0,P,100.0,Firma9,Lager E,Lager H
+005,Auftrag eingegangen,2024-02-11 16:33:26,David Meyer,150.0,P,150.0,Firma11,Lager B,Lager J
+005,Ware zur Produktion gebracht,2024-02-11 17:03:26,Hannah Meyer,95.0,P,95.0,Firma5,Lager F,Lager G
+005,Ware hergestellt,2024-02-11 16:31:26,Timo Wagner,130.0,P,130.0,Firma5,Lager D,Lager A
+005,Ware verpackt,2024-02-11 17:04:26,Lisa Mueller,120.0,P,120.0,Firma13,Lager H,Lager F
+005,Ware versandt,2024-02-11 16:57:26,Timo Wagner,85.0,P,85.0,Firma14,Lager F,Lager C
+008,Auftrag eingegangen,2024-02-11 16:54:26,Luca Huber,120.0,P,120.0,Firma17,Lager E,Lager D
+008,Ware aus Lager geholt,2024-02-11 17:17:26,Sophia Lang,110.0,P,110.0,Firma11,Lager F,Lager B
+008,Ware zum Versand vorbereitet,2024-02-11 16:22:26,Timo Wagner,110.0,P,110.0,Firma20,Lager H,Lager G
+008,Ware versandt,2024-02-11 17:05:26,Leonie Richter,110.0,P,110.0,Firma17,Lager J,Lager H
+003,Auftrag eingegangen,2024-02-11 16:34:26,Emma Weber,120.0,P,120.0,Firma16,Lager G,Lager F
+003,Ware zur Produktion gebracht,2024-02-11 16:44:26,Noah Becker,90.0,P,90.0,Firma19,Lager A,Lager E
+003,Ware hergestellt,2024-02-11 17:11:26,Lisa Mueller,100.0,P,100.0,Firma1,Lager G,Lager E
+003,Ware verpackt,2024-02-11 16:37:26,Lisa Schulz,90.0,P,90.0,Firma11,Lager J,Lager I
+003,Ware versandt,2024-02-11 16:48:26,Lisa Mueller,70.0,P,70.0,Firma19,Lager J,Lager C
+002,Auftrag eingegangen,2024-02-11 17:10:26,Luca Huber,100.0,P,100.0,Firma20,Lager B,Lager B
+002,Ware aus Lager geholt,2024-02-11 17:18:26,Sarah Schmidt,85.0,P,85.0,Firma14,Lager I,Lager F
+002,Ware zum Versand vorbereitet,2024-02-11 16:25:26,Sophia Lang,75.0,P,75.0,Firma12,Lager J,Lager D
+002,Ware versandt,2024-02-11 16:42:26,Lena Mueller,95.0,P,95.0,Firma14,Lager D,Lager I
+005,Auftrag eingegangen,2024-02-11 16:38:26,Luca Huber,90.0,P,90.0,Firma2,Lager A,Lager H
+005,Ware zur Produktion gebracht,2024-02-11 17:01:26,Lisa Schulz,130.0,P,130.0,Firma13,Lager I,Lager H
+005,Ware hergestellt,2024-02-11 16:24:26,Timo Wagner,95.0,P,95.0,Firma4,Lager I,Lager E
+005,Ware verpackt,2024-02-11 17:08:26,Emma Weber,70.0,P,70.0,Firma7,Lager C,Lager G
+005,Ware versandt,2024-02-11 16:54:26,Leonie Richter,95.0,P,95.0,Firma8,Lager D,Lager I
+003,Auftrag eingegangen,2024-02-11 17:03:26,Mia Schmitt,95.0,P,95.0,Firma17,Lager J,Lager D
+003,Ware aus Lager geholt,2024-02-11 16:34:26,Hannah Meyer,110.0,P,110.0,Firma11,Lager J,Lager E
+003,Ware zum Versand vorbereitet,2024-02-11 16:54:26,David Meyer,110.0,P,110.0,Firma1,Lager G,Lager G
+003,Ware versandt,2024-02-11 17:18:26,Leonie Richter,75.0,P,75.0,Firma15,Lager F,Lager I
+007,Auftrag eingegangen,2024-02-11 16:19:26,Emilia Wagner,75.0,P,75.0,Firma19,Lager B,Lager J
+007,Ware aus Lager geholt,2024-02-11 16:52:26,Leonie Richter,85.0,P,85.0,Firma11,Lager E,Lager D
+007,Ware zum Versand vorbereitet,2024-02-11 16:30:26,Jonas Richter,95.0,P,95.0,Firma17,Lager F,Lager F
+007,Ware versandt,2024-02-11 16:20:26,Sarah Schmidt,110.0,P,110.0,Firma13,Lager I,Lager G
+003,Auftrag eingegangen,2024-02-11 16:50:26,Jonas Richter,95.0,P,95.0,Firma12,Lager J,Lager E
+003,Ware zur Produktion gebracht,2024-02-11 17:14:26,Max Mustermann,75.0,P,75.0,Firma8,Lager E,Lager B
+003,Ware hergestellt,2024-02-11 17:03:26,Paul Zimmer,110.0,P,110.0,Firma11,Lager C,Lager G
+003,Ware verpackt,2024-02-11 17:06:26,David Meyer,110.0,P,110.0,Firma2,Lager J,Lager H
+003,Ware versandt,2024-02-11 17:13:26,Sophia Lang,120.0,P,120.0,Firma12,Lager D,Lager E
+002,Auftrag eingegangen,2024-02-11 16:54:26,Emilia Wagner,100.0,P,100.0,Firma15,Lager D,Lager B
+002,Ware zur Produktion gebracht,2024-02-11 17:02:26,Jan Becker,90.0,P,90.0,Firma16,Lager J,Lager C
+002,Ware hergestellt,2024-02-11 16:54:26,Nico Schmidt,150.0,P,150.0,Firma20,Lager B,Lager C
+002,Ware verpackt,2024-02-11 16:47:26,Nico Schmidt,140.0,P,140.0,Firma13,Lager A,Lager C
+002,Ware versandt,2024-02-11 17:05:26,Sarah Schmidt,75.0,P,75.0,Firma20,Lager I,Lager G
+001,Auftrag eingegangen,2024-02-11 16:27:26,David Meyer,70.0,P,70.0,Firma13,Lager G,Lager E
+001,Ware aus Lager geholt,2024-02-11 16:54:26,Paul Zimmer,130.0,P,130.0,Firma12,Lager A,Lager G
+001,Ware zum Versand vorbereitet,2024-02-11 16:19:26,David Meyer,70.0,P,70.0,Firma12,Lager F,Lager H
+001,Ware versandt,2024-02-11 16:35:26,Paul Zimmer,100.0,P,100.0,Firma10,Lager J,Lager I
+002,Auftrag eingegangen,2024-02-11 16:22:26,Leonie Richter,75.0,P,75.0,Firma10,Lager F,Lager C
+002,Ware zur Produktion gebracht,2024-02-11 17:17:26,Paul Zimmer,150.0,P,150.0,Firma17,Lager G,Lager F
+002,Ware hergestellt,2024-02-11 16:35:26,Nico Schmidt,110.0,P,110.0,Firma15,Lager C,Lager D
+002,Ware verpackt,2024-02-11 16:42:26,Max Mustermann,150.0,P,150.0,Firma3,Lager G,Lager J
+002,Ware versandt,2024-02-11 16:57:26,Jonas Richter,100.0,P,100.0,Firma7,Lager C,Lager D
+009,Auftrag eingegangen,2024-02-11 16:33:26,Leonie Richter,75.0,P,75.0,Firma6,Lager G,Lager J
+009,Ware aus Lager geholt,2024-02-11 16:48:26,Max Mustermann,130.0,P,130.0,Firma19,Lager G,Lager I
+009,Ware zum Versand vorbereitet,2024-02-11 17:15:26,Lisa Schulz,75.0,P,75.0,Firma6,Lager C,Lager B
+009,Ware versandt,2024-02-11 16:50:26,Jan Becker,80.0,P,80.0,Firma2,Lager C,Lager E
+007,Auftrag eingegangen,2024-02-11 17:00:26,Paul Zimmer,110.0,P,110.0,Firma12,Lager I,Lager H
+007,Ware aus Lager geholt,2024-02-11 16:32:26,Leonie Richter,100.0,P,100.0,Firma8,Lager D,Lager D
+007,Ware zum Versand vorbereitet,2024-02-11 16:48:26,Leonie Richter,80.0,P,80.0,Firma8,Lager H,Lager B
+007,Ware versandt,2024-02-11 16:31:26,Paul Zimmer,85.0,P,85.0,Firma17,Lager C,Lager J
+002,Auftrag eingegangen,2024-02-11 16:32:26,Jan Becker,120.0,P,120.0,Firma18,Lager B,Lager G
+002,Ware zur Produktion gebracht,2024-02-11 16:59:26,Emilia Wagner,90.0,P,90.0,Firma20,Lager C,Lager A
+002,Ware hergestellt,2024-02-11 16:56:26,Luca Huber,100.0,P,100.0,Firma2,Lager F,Lager C
+002,Ware verpackt,2024-02-11 16:27:26,Emilia Wagner,85.0,P,85.0,Firma1,Lager A,Lager G
+002,Ware versandt,2024-02-11 17:02:26,Nico Schmidt,75.0,P,75.0,Firma20,Lager C,Lager F
+004,Auftrag eingegangen,2024-02-11 17:02:26,Lisa Mueller,110.0,P,110.0,Firma16,Lager G,Lager G
+004,Ware aus Lager geholt,2024-02-11 16:35:26,Noah Becker,95.0,P,95.0,Firma4,Lager J,Lager B
+004,Ware zum Versand vorbereitet,2024-02-11 16:34:26,Nico Schmidt,120.0,P,120.0,Firma20,Lager A,Lager H
+004,Ware versandt,2024-02-11 16:40:26,Mia Schmitt,110.0,P,110.0,Firma11,Lager E,Lager G
+002,Auftrag eingegangen,2024-02-11 16:53:26,Sophia Lang,110.0,P,110.0,Firma15,Lager A,Lager D
+002,Ware aus Lager geholt,2024-02-11 16:24:26,Lisa Mueller,90.0,P,90.0,Firma12,Lager B,Lager H
+002,Ware zum Versand vorbereitet,2024-02-11 17:15:26,Mia Schmitt,75.0,P,75.0,Firma11,Lager F,Lager C
+002,Ware versandt,2024-02-11 17:11:26,Jan Becker,110.0,P,110.0,Firma19,Lager G,Lager B
+007,Auftrag eingegangen,2024-02-11 17:17:26,Emilia Wagner,75.0,P,75.0,Firma19,Lager H,Lager H
+007,Ware zur Produktion gebracht,2024-02-11 16:39:26,Jonas Richter,90.0,P,90.0,Firma2,Lager B,Lager D
+007,Ware hergestellt,2024-02-11 16:47:26,Leonie Richter,85.0,P,85.0,Firma6,Lager A,Lager J
+007,Ware verpackt,2024-02-11 16:25:26,Sarah Schmidt,100.0,P,100.0,Firma12,Lager B,Lager H
+007,Ware versandt,2024-02-11 16:59:26,Laura Fischer,90.0,P,90.0,Firma7,Lager A,Lager A
+004,Auftrag eingegangen,2024-02-11 16:26:26,David Meyer,130.0,P,130.0,Firma5,Lager E,Lager A
+004,Ware aus Lager geholt,2024-02-11 16:44:26,Sarah Schmidt,110.0,P,110.0,Firma20,Lager C,Lager B
+004,Ware zum Versand vorbereitet,2024-02-11 17:00:26,Lena Mueller,100.0,P,100.0,Firma12,Lager G,Lager G
+004,Ware versandt,2024-02-11 16:46:26,Paul Zimmer,85.0,P,85.0,Firma5,Lager G,Lager C
+005,Auftrag eingegangen,2024-02-11 16:20:26,Max Mustermann,95.0,P,95.0,Firma10,Lager E,Lager H
+005,Ware aus Lager geholt,2024-02-11 17:18:26,Emma Weber,100.0,P,100.0,Firma15,Lager B,Lager I
+005,Ware zum Versand vorbereitet,2024-02-11 16:46:26,Laura Fischer,85.0,P,85.0,Firma10,Lager F,Lager A
+005,Ware versandt,2024-02-11 17:10:26,Paul Zimmer,110.0,P,110.0,Firma2,Lager E,Lager H
+006,Auftrag eingegangen,2024-02-11 16:40:26,Lisa Mueller,110.0,P,110.0,Firma18,Lager A,Lager B
+006,Ware zur Produktion gebracht,2024-02-11 16:25:26,Lisa Mueller,100.0,P,100.0,Firma4,Lager J,Lager I
+006,Ware hergestellt,2024-02-11 17:07:26,Noah Becker,80.0,P,80.0,Firma3,Lager A,Lager J
+006,Ware verpackt,2024-02-11 16:52:26,Laura Fischer,75.0,P,75.0,Firma17,Lager G,Lager C
+006,Ware versandt,2024-02-11 16:44:26,Luca Huber,95.0,P,95.0,Firma3,Lager I,Lager H
+010,Auftrag eingegangen,2024-02-11 16:55:26,Hannah Meyer,130.0,P,130.0,Firma14,Lager C,Lager H
+010,Ware zur Produktion gebracht,2024-02-11 16:43:26,Luca Huber,130.0,P,130.0,Firma7,Lager E,Lager H
+010,Ware hergestellt,2024-02-11 16:32:26,Paul Zimmer,75.0,P,75.0,Firma19,Lager F,Lager F
+010,Ware verpackt,2024-02-11 17:09:26,Timo Wagner,100.0,P,100.0,Firma20,Lager D,Lager E
+010,Ware versandt,2024-02-11 16:38:26,Jonas Richter,75.0,P,75.0,Firma6,Lager G,Lager B
+004,Auftrag eingegangen,2024-02-11 17:06:26,Max Mustermann,110.0,P,110.0,Firma16,Lager A,Lager E
+004,Ware aus Lager geholt,2024-02-11 16:21:26,Nico Schmidt,150.0,P,150.0,Firma8,Lager G,Lager I
+004,Ware zum Versand vorbereitet,2024-02-11 16:43:26,Noah Becker,70.0,P,70.0,Firma19,Lager B,Lager F
+004,Ware versandt,2024-02-11 16:54:26,Luca Huber,130.0,P,130.0,Firma14,Lager J,Lager B
+010,Auftrag eingegangen,2024-02-11 16:29:26,Emilia Wagner,120.0,P,120.0,Firma18,Lager H,Lager A
+010,Ware zur Produktion gebracht,2024-02-11 16:52:26,Lisa Mueller,100.0,P,100.0,Firma9,Lager H,Lager A
+010,Ware hergestellt,2024-02-11 17:14:26,Hannah Meyer,75.0,P,75.0,Firma19,Lager B,Lager E
+010,Ware verpackt,2024-02-11 17:09:26,Sarah Schmidt,120.0,P,120.0,Firma12,Lager A,Lager I
+010,Ware versandt,2024-02-11 16:28:26,Sarah Schmidt,75.0,P,75.0,Firma8,Lager H,Lager I
+008,Auftrag eingegangen,2024-02-11 16:39:26,Lisa Schulz,75.0,P,75.0,Firma14,Lager H,Lager I
+008,Ware zur Produktion gebracht,2024-02-11 17:00:26,Sophia Lang,120.0,P,120.0,Firma14,Lager C,Lager C
+008,Ware hergestellt,2024-02-11 16:29:26,Lisa Mueller,70.0,P,70.0,Firma11,Lager G,Lager D
+008,Ware verpackt,2024-02-11 17:16:26,Jonas Richter,95.0,P,95.0,Firma11,Lager B,Lager J
+008,Ware versandt,2024-02-11 16:46:26,Sarah Schmidt,140.0,P,140.0,Firma3,Lager I,Lager D
+010,Auftrag eingegangen,2024-02-11 16:43:26,Timo Wagner,75.0,P,75.0,Firma11,Lager J,Lager G
+010,Ware aus Lager geholt,2024-02-11 16:25:26,Luca Huber,110.0,P,110.0,Firma11,Lager B,Lager A
+010,Ware zum Versand vorbereitet,2024-02-11 17:11:26,Hannah Meyer,100.0,P,100.0,Firma14,Lager J,Lager B
+010,Ware versandt,2024-02-11 16:21:26,Mia Schmitt,75.0,P,75.0,Firma17,Lager F,Lager C
+009,Auftrag eingegangen,2024-02-11 16:26:26,Noah Becker,70.0,P,70.0,Firma13,Lager C,Lager E
+009,Ware zur Produktion gebracht,2024-02-11 16:55:26,Sophia Lang,80.0,P,80.0,Firma2,Lager C,Lager A
+009,Ware hergestellt,2024-02-11 16:27:26,Sarah Schmidt,110.0,P,110.0,Firma19,Lager J,Lager I
+009,Ware verpackt,2024-02-11 16:49:26,Jan Becker,95.0,P,95.0,Firma1,Lager I,Lager E
+009,Ware versandt,2024-02-11 16:58:26,Paul Zimmer,90.0,P,90.0,Firma19,Lager G,Lager C
+003,Auftrag eingegangen,2024-02-11 16:34:26,Mia Schmitt,70.0,P,70.0,Firma17,Lager J,Lager H
+003,Ware aus Lager geholt,2024-02-11 17:02:26,Leonie Richter,110.0,P,110.0,Firma9,Lager A,Lager J
+003,Ware zum Versand vorbereitet,2024-02-11 16:49:26,Emma Weber,130.0,P,130.0,Firma6,Lager B,Lager H
+003,Ware versandt,2024-02-11 17:13:26,Max Mustermann,70.0,P,70.0,Firma10,Lager D,Lager D
+004,Auftrag eingegangen,2024-02-11 17:15:26,Hannah Meyer,100.0,P,100.0,Firma6,Lager G,Lager C
+004,Ware aus Lager geholt,2024-02-11 16:35:26,Emma Weber,110.0,P,110.0,Firma2,Lager A,Lager J
+004,Ware zum Versand vorbereitet,2024-02-11 17:17:26,Lisa Mueller,100.0,P,100.0,Firma12,Lager D,Lager B
+004,Ware versandt,2024-02-11 16:52:26,Jan Becker,110.0,P,110.0,Firma11,Lager D,Lager D
+006,Auftrag eingegangen,2024-02-11 16:30:26,Noah Becker,75.0,P,75.0,Firma10,Lager G,Lager G
+006,Ware aus Lager geholt,2024-02-11 16:24:26,Laura Fischer,75.0,P,75.0,Firma3,Lager B,Lager F
+006,Ware zum Versand vorbereitet,2024-02-11 16:33:26,Noah Becker,80.0,P,80.0,Firma1,Lager B,Lager J
+006,Ware versandt,2024-02-11 17:04:26,Luca Huber,110.0,P,110.0,Firma2,Lager C,Lager C
+002,Auftrag eingegangen,2024-02-11 16:28:26,Lena Mueller,130.0,P,130.0,Firma5,Lager B,Lager J
+002,Ware aus Lager geholt,2024-02-11 17:16:26,Noah Becker,140.0,P,140.0,Firma9,Lager H,Lager E
+002,Ware zum Versand vorbereitet,2024-02-11 16:51:26,Max Mustermann,90.0,P,90.0,Firma19,Lager G,Lager I
+002,Ware versandt,2024-02-11 16:19:26,Jonas Richter,120.0,P,120.0,Firma2,Lager A,Lager B
+001,Auftrag eingegangen,2024-02-11 16:27:26,Mia Schmitt,70.0,P,70.0,Firma13,Lager H,Lager G
+001,Ware aus Lager geholt,2024-02-11 16:53:26,Emilia Wagner,140.0,P,140.0,Firma17,Lager E,Lager B
+001,Ware zum Versand vorbereitet,2024-02-11 17:08:26,Sophia Lang,90.0,P,90.0,Firma8,Lager H,Lager B
+001,Ware versandt,2024-02-11 16:37:26,Mia Schmitt,100.0,P,100.0,Firma7,Lager I,Lager C
+009,Auftrag eingegangen,2024-02-11 16:24:26,Noah Becker,100.0,P,100.0,Firma5,Lager G,Lager D
+009,Ware zur Produktion gebracht,2024-02-11 16:59:26,Mia Schmitt,150.0,P,150.0,Firma17,Lager D,Lager H
+009,Ware hergestellt,2024-02-11 16:55:26,Laura Fischer,110.0,P,110.0,Firma5,Lager I,Lager B
+009,Ware verpackt,2024-02-11 16:35:26,Lena Mueller,110.0,P,110.0,Firma8,Lager E,Lager D
+009,Ware versandt,2024-02-11 16:49:26,Laura Fischer,95.0,P,95.0,Firma12,Lager I,Lager E
+001,Auftrag eingegangen,2024-02-11 16:50:26,Emilia Wagner,95.0,P,95.0,Firma8,Lager H,Lager E
+001,Ware zur Produktion gebracht,2024-02-11 16:51:26,Jonas Richter,95.0,P,95.0,Firma8,Lager H,Lager A
+001,Ware hergestellt,2024-02-11 16:36:26,Luca Huber,120.0,P,120.0,Firma14,Lager D,Lager E
+001,Ware verpackt,2024-02-11 16:31:26,Sarah Schmidt,140.0,P,140.0,Firma2,Lager C,Lager I
+001,Ware versandt,2024-02-11 16:52:26,Luca Huber,70.0,P,70.0,Firma1,Lager F,Lager C
+002,Auftrag eingegangen,2024-02-11 17:02:26,Luca Huber,95.0,P,95.0,Firma1,Lager D,Lager H
+002,Ware zur Produktion gebracht,2024-02-11 16:55:26,Lena Mueller,95.0,P,95.0,Firma8,Lager I,Lager B
+002,Ware hergestellt,2024-02-11 16:46:26,Timo Wagner,110.0,P,110.0,Firma15,Lager C,Lager E
+002,Ware verpackt,2024-02-11 16:25:26,Max Mustermann,110.0,P,110.0,Firma5,Lager B,Lager E
+002,Ware versandt,2024-02-11 17:16:26,Lisa Mueller,70.0,P,70.0,Firma11,Lager B,Lager E
+001,Auftrag eingegangen,2024-02-11 16:30:26,Emilia Wagner,95.0,P,95.0,Firma20,Lager F,Lager I
+001,Ware aus Lager geholt,2024-02-11 16:25:26,Sophia Lang,130.0,P,130.0,Firma14,Lager B,Lager E
+001,Ware zum Versand vorbereitet,2024-02-11 16:39:26,Laura Fischer,130.0,P,130.0,Firma15,Lager A,Lager H
+001,Ware versandt,2024-02-11 16:59:26,Leonie Richter,95.0,P,95.0,Firma19,Lager B,Lager D
+006,Auftrag eingegangen,2024-02-11 16:39:26,Luca Huber,75.0,P,75.0,Firma19,Lager C,Lager C
+006,Ware zur Produktion gebracht,2024-02-11 17:03:26,Lisa Mueller,120.0,P,120.0,Firma13,Lager H,Lager B
+006,Ware hergestellt,2024-02-11 17:06:26,Max Mustermann,75.0,P,75.0,Firma20,Lager J,Lager C
+006,Ware verpackt,2024-02-11 16:30:26,Emma Weber,85.0,P,85.0,Firma7,Lager C,Lager D
+006,Ware versandt,2024-02-11 16:26:26,Lena Mueller,75.0,P,75.0,Firma16,Lager D,Lager C
+002,Auftrag eingegangen,2024-02-11 16:56:26,Nico Schmidt,110.0,P,110.0,Firma11,Lager G,Lager G
+002,Ware aus Lager geholt,2024-02-11 16:57:26,Emilia Wagner,130.0,P,130.0,Firma9,Lager B,Lager C
+002,Ware zum Versand vorbereitet,2024-02-11 17:08:26,Mia Schmitt,150.0,P,150.0,Firma20,Lager A,Lager D
+002,Ware versandt,2024-02-11 16:52:26,Sophia Lang,75.0,P,75.0,Firma3,Lager D,Lager C
+008,Auftrag eingegangen,2024-02-11 16:35:26,Laura Fischer,80.0,P,80.0,Firma17,Lager H,Lager A
+008,Ware aus Lager geholt,2024-02-11 16:29:26,Lisa Mueller,95.0,P,95.0,Firma14,Lager D,Lager E
+008,Ware zum Versand vorbereitet,2024-02-11 17:13:26,Emma Weber,100.0,P,100.0,Firma3,Lager C,Lager H
+008,Ware versandt,2024-02-11 17:00:26,Lisa Schulz,75.0,P,75.0,Firma5,Lager D,Lager I
+005,Auftrag eingegangen,2024-02-11 17:03:26,Sarah Schmidt,80.0,P,80.0,Firma20,Lager B,Lager D
+005,Ware aus Lager geholt,2024-02-11 16:21:26,Sarah Schmidt,100.0,P,100.0,Firma12,Lager C,Lager G
+005,Ware zum Versand vorbereitet,2024-02-11 17:11:26,Lena Mueller,110.0,P,110.0,Firma15,Lager A,Lager H
+005,Ware versandt,2024-02-11 16:28:26,Jonas Richter,130.0,P,130.0,Firma2,Lager C,Lager D
+002,Auftrag eingegangen,2024-02-11 17:03:26,Sarah Schmidt,130.0,P,130.0,Firma18,Lager D,Lager G
+002,Ware aus Lager geholt,2024-02-11 16:32:26,Sarah Schmidt,90.0,P,90.0,Firma4,Lager B,Lager E
+002,Ware zum Versand vorbereitet,2024-02-11 16:56:26,Lisa Schulz,110.0,P,110.0,Firma2,Lager F,Lager A
+002,Ware versandt,2024-02-11 17:09:26,David Meyer,95.0,P,95.0,Firma6,Lager H,Lager J
+010,Auftrag eingegangen,2024-02-11 16:55:26,Jan Becker,140.0,P,140.0,Firma12,Lager B,Lager D
+010,Ware zur Produktion gebracht,2024-02-11 17:12:26,Timo Wagner,130.0,P,130.0,Firma6,Lager H,Lager F
+010,Ware hergestellt,2024-02-11 17:08:26,Nico Schmidt,110.0,P,110.0,Firma6,Lager I,Lager B
+010,Ware verpackt,2024-02-11 16:27:26,Mia Schmitt,100.0,P,100.0,Firma10,Lager D,Lager B
+010,Ware versandt,2024-02-11 16:42:26,David Meyer,95.0,P,95.0,Firma7,Lager I,Lager E
+008,Auftrag eingegangen,2024-02-11 16:24:26,Emma Weber,100.0,P,100.0,Firma4,Lager J,Lager D
+008,Ware zur Produktion gebracht,2024-02-11 16:40:26,Lisa Schulz,100.0,P,100.0,Firma12,Lager F,Lager E
+008,Ware hergestellt,2024-02-11 16:27:26,Sophia Lang,130.0,P,130.0,Firma4,Lager E,Lager A
+008,Ware verpackt,2024-02-11 17:07:26,Emma Weber,120.0,P,120.0,Firma9,Lager F,Lager A
+008,Ware versandt,2024-02-11 16:32:26,Leonie Richter,110.0,P,110.0,Firma20,Lager D,Lager D
+008,Auftrag eingegangen,2024-02-11 16:19:26,Luca Huber,70.0,P,70.0,Firma4,Lager H,Lager B
+008,Ware aus Lager geholt,2024-02-11 16:37:26,Jan Becker,75.0,P,75.0,Firma2,Lager F,Lager G
+008,Ware zum Versand vorbereitet,2024-02-11 17:04:26,Emma Weber,110.0,P,110.0,Firma1,Lager E,Lager G
+008,Ware versandt,2024-02-11 16:26:26,Lisa Schulz,140.0,P,140.0,Firma19,Lager B,Lager J
+007,Auftrag eingegangen,2024-02-11 16:32:26,Noah Becker,100.0,P,100.0,Firma16,Lager D,Lager H
+007,Ware zur Produktion gebracht,2024-02-11 17:14:26,Luca Huber,120.0,P,120.0,Firma17,Lager I,Lager A
+007,Ware hergestellt,2024-02-11 16:21:26,Jan Becker,140.0,P,140.0,Firma14,Lager B,Lager C
+007,Ware verpackt,2024-02-11 16:28:26,Timo Wagner,70.0,P,70.0,Firma3,Lager J,Lager E
+007,Ware versandt,2024-02-11 16:23:26,Emilia Wagner,120.0,P,120.0,Firma18,Lager F,Lager I
+003,Auftrag eingegangen,2024-02-11 16:45:26,Hannah Meyer,100.0,P,100.0,Firma20,Lager I,Lager G
+003,Ware zur Produktion gebracht,2024-02-11 16:44:26,Hannah Meyer,110.0,P,110.0,Firma20,Lager A,Lager B
+003,Ware hergestellt,2024-02-11 17:16:26,Hannah Meyer,100.0,P,100.0,Firma7,Lager H,Lager E
+003,Ware verpackt,2024-02-11 16:54:26,Jan Becker,130.0,P,130.0,Firma12,Lager C,Lager H
+003,Ware versandt,2024-02-11 16:36:26,Leonie Richter,100.0,P,100.0,Firma6,Lager B,Lager B
+009,Auftrag eingegangen,2024-02-11 16:36:26,Paul Zimmer,85.0,P,85.0,Firma8,Lager A,Lager J
+009,Ware aus Lager geholt,2024-02-11 17:09:26,David Meyer,130.0,P,130.0,Firma16,Lager F,Lager B
+009,Ware zum Versand vorbereitet,2024-02-11 16:33:26,Max Mustermann,75.0,P,75.0,Firma20,Lager F,Lager F
+009,Ware versandt,2024-02-11 16:40:26,Nico Schmidt,95.0,P,95.0,Firma10,Lager D,Lager B
+007,Auftrag eingegangen,2024-02-11 17:16:26,Sarah Schmidt,75.0,P,75.0,Firma1,Lager J,Lager F
+007,Ware aus Lager geholt,2024-02-11 16:21:26,Mia Schmitt,130.0,P,130.0,Firma14,Lager E,Lager C
+007,Ware zum Versand vorbereitet,2024-02-11 17:18:26,Lena Mueller,100.0,P,100.0,Firma6,Lager F,Lager G
+007,Ware versandt,2024-02-11 17:09:26,Jan Becker,110.0,P,110.0,Firma13,Lager A,Lager B
+007,Auftrag eingegangen,2024-02-11 17:15:26,Hannah Meyer,110.0,P,110.0,Firma11,Lager C,Lager G
+007,Ware aus Lager geholt,2024-02-11 17:12:26,Sophia Lang,70.0,P,70.0,Firma3,Lager I,Lager J
+007,Ware zum Versand vorbereitet,2024-02-11 16:59:26,Sarah Schmidt,110.0,P,110.0,Firma7,Lager D,Lager F
+007,Ware versandt,2024-02-11 17:07:26,Lisa Schulz,75.0,P,75.0,Firma14,Lager C,Lager E
+006,Auftrag eingegangen,2024-02-11 17:17:26,Emma Weber,95.0,P,95.0,Firma14,Lager G,Lager B
+006,Ware aus Lager geholt,2024-02-11 16:48:26,Lena Mueller,75.0,P,75.0,Firma18,Lager E,Lager A
+006,Ware zum Versand vorbereitet,2024-02-11 17:07:26,Jonas Richter,70.0,P,70.0,Firma19,Lager F,Lager C
+006,Ware versandt,2024-02-11 16:42:26,Laura Fischer,75.0,P,75.0,Firma12,Lager E,Lager A
+006,Auftrag eingegangen,2024-02-11 16:36:26,Luca Huber,110.0,P,110.0,Firma2,Lager D,Lager D
+006,Ware zur Produktion gebracht,2024-02-11 16:19:26,Luca Huber,100.0,P,100.0,Firma2,Lager D,Lager B
+006,Ware hergestellt,2024-02-11 16:31:26,Laura Fischer,130.0,P,130.0,Firma17,Lager F,Lager A
+006,Ware verpackt,2024-02-11 17:13:26,Lena Mueller,120.0,P,120.0,Firma4,Lager H,Lager B
+006,Ware versandt,2024-02-11 17:17:26,Emilia Wagner,100.0,P,100.0,Firma9,Lager A,Lager D
+004,Auftrag eingegangen,2024-02-11 16:48:26,Hannah Meyer,80.0,P,80.0,Firma7,Lager F,Lager C
+004,Ware aus Lager geholt,2024-02-11 16:24:26,Nico Schmidt,130.0,P,130.0,Firma4,Lager D,Lager C
+004,Ware zum Versand vorbereitet,2024-02-11 16:25:26,Nico Schmidt,130.0,P,130.0,Firma16,Lager B,Lager G
+004,Ware versandt,2024-02-11 16:20:26,Luca Huber,90.0,P,90.0,Firma10,Lager A,Lager F
+008,Auftrag eingegangen,2024-02-11 16:58:26,Nico Schmidt,130.0,P,130.0,Firma14,Lager E,Lager G
+008,Ware zur Produktion gebracht,2024-02-11 17:17:26,Laura Fischer,75.0,P,75.0,Firma12,Lager A,Lager B
+008,Ware hergestellt,2024-02-11 16:44:26,Hannah Meyer,85.0,P,85.0,Firma5,Lager I,Lager J
+008,Ware verpackt,2024-02-11 17:08:26,Sarah Schmidt,120.0,P,120.0,Firma2,Lager G,Lager B
+008,Ware versandt,2024-02-11 16:35:26,Sarah Schmidt,75.0,P,75.0,Firma17,Lager B,Lager A
+008,Auftrag eingegangen,2024-02-11 16:44:26,Laura Fischer,70.0,P,70.0,Firma17,Lager J,Lager I
+008,Ware zur Produktion gebracht,2024-02-11 17:07:26,Leonie Richter,100.0,P,100.0,Firma15,Lager G,Lager C
+008,Ware hergestellt,2024-02-11 16:41:26,Paul Zimmer,120.0,P,120.0,Firma19,Lager E,Lager E
+008,Ware verpackt,2024-02-11 16:57:26,Leonie Richter,140.0,P,140.0,Firma10,Lager B,Lager E
+008,Ware versandt,2024-02-11 16:37:26,Jan Becker,90.0,P,90.0,Firma9,Lager C,Lager I
+005,Auftrag eingegangen,2024-02-11 16:36:26,Nico Schmidt,120.0,P,120.0,Firma1,Lager I,Lager I
+005,Ware aus Lager geholt,2024-02-11 17:04:26,Max Mustermann,95.0,P,95.0,Firma19,Lager I,Lager I
+005,Ware zum Versand vorbereitet,2024-02-11 16:30:26,David Meyer,120.0,P,120.0,Firma20,Lager F,Lager C
+005,Ware versandt,2024-02-11 16:49:26,Paul Zimmer,120.0,P,120.0,Firma11,Lager D,Lager A
+006,Auftrag eingegangen,2024-02-11 17:09:26,Lisa Mueller,120.0,P,120.0,Firma20,Lager A,Lager J
+006,Ware zur Produktion gebracht,2024-02-11 16:53:26,Sarah Schmidt,75.0,P,75.0,Firma4,Lager B,Lager A
+006,Ware hergestellt,2024-02-11 16:25:26,Laura Fischer,110.0,P,110.0,Firma2,Lager A,Lager B
+006,Ware verpackt,2024-02-11 16:51:26,Nico Schmidt,130.0,P,130.0,Firma15,Lager A,Lager D
+006,Ware versandt,2024-02-11 16:39:26,Nico Schmidt,90.0,P,90.0,Firma20,Lager G,Lager J
+002,Auftrag eingegangen,2024-02-11 17:18:26,Jan Becker,100.0,P,100.0,Firma7,Lager E,Lager J
+002,Ware aus Lager geholt,2024-02-11 16:23:26,Luca Huber,90.0,P,90.0,Firma19,Lager H,Lager I
+002,Ware zum Versand vorbereitet,2024-02-11 16:35:26,Mia Schmitt,75.0,P,75.0,Firma10,Lager C,Lager I
+002,Ware versandt,2024-02-11 17:05:26,Max Mustermann,130.0,P,130.0,Firma12,Lager D,Lager J
+008,Auftrag eingegangen,2024-02-11 17:07:26,David Meyer,95.0,P,95.0,Firma15,Lager A,Lager G
+008,Ware aus Lager geholt,2024-02-11 17:13:26,Timo Wagner,110.0,P,110.0,Firma5,Lager G,Lager J
+008,Ware zum Versand vorbereitet,2024-02-11 16:38:26,Lisa Mueller,110.0,P,110.0,Firma7,Lager I,Lager G
+008,Ware versandt,2024-02-11 17:10:26,Jonas Richter,130.0,P,130.0,Firma3,Lager G,Lager G
+004,Auftrag eingegangen,2024-02-11 16:48:26,Emilia Wagner,140.0,P,140.0,Firma20,Lager E,Lager G
+004,Ware zur Produktion gebracht,2024-02-11 17:16:26,Noah Becker,120.0,P,120.0,Firma15,Lager E,Lager I
+004,Ware hergestellt,2024-02-11 16:35:26,Jonas Richter,120.0,P,120.0,Firma10,Lager E,Lager J
+004,Ware verpackt,2024-02-11 17:08:26,Timo Wagner,100.0,P,100.0,Firma14,Lager B,Lager A
+004,Ware versandt,2024-02-11 16:58:26,Mia Schmitt,100.0,P,100.0,Firma12,Lager C,Lager C
+002,Auftrag eingegangen,2024-02-11 17:18:26,Jonas Richter,110.0,P,110.0,Firma15,Lager J,Lager B
+002,Ware aus Lager geholt,2024-02-11 16:25:26,Mia Schmitt,110.0,P,110.0,Firma19,Lager B,Lager I
+002,Ware zum Versand vorbereitet,2024-02-11 17:18:26,Laura Fischer,85.0,P,85.0,Firma4,Lager B,Lager H
+002,Ware versandt,2024-02-11 17:10:26,Timo Wagner,130.0,P,130.0,Firma10,Lager I,Lager H
+003,Auftrag eingegangen,2024-02-11 16:31:26,Emilia Wagner,150.0,P,150.0,Firma7,Lager G,Lager F
+003,Ware zur Produktion gebracht,2024-02-11 16:44:26,Lisa Schulz,110.0,P,110.0,Firma10,Lager I,Lager I
+003,Ware hergestellt,2024-02-11 16:30:26,Sarah Schmidt,130.0,P,130.0,Firma15,Lager J,Lager A
+003,Ware verpackt,2024-02-11 17:02:26,Lisa Schulz,110.0,P,110.0,Firma1,Lager F,Lager F
+003,Ware versandt,2024-02-11 17:08:26,Hannah Meyer,150.0,P,150.0,Firma4,Lager H,Lager C
+001,Auftrag eingegangen,2024-02-11 16:41:26,Sarah Schmidt,130.0,P,130.0,Firma8,Lager C,Lager F
+001,Ware zur Produktion gebracht,2024-02-11 16:31:26,Emma Weber,110.0,P,110.0,Firma20,Lager D,Lager J
+001,Ware hergestellt,2024-02-11 16:21:26,Noah Becker,130.0,P,130.0,Firma11,Lager A,Lager G
+001,Ware verpackt,2024-02-11 17:17:26,Sarah Schmidt,90.0,P,90.0,Firma14,Lager F,Lager F
+001,Ware versandt,2024-02-11 16:40:26,Nico Schmidt,75.0,P,75.0,Firma11,Lager G,Lager C
+010,Auftrag eingegangen,2024-02-11 17:09:26,Mia Schmitt,90.0,P,90.0,Firma6,Lager D,Lager G
+010,Ware aus Lager geholt,2024-02-11 16:49:26,Jan Becker,150.0,P,150.0,Firma7,Lager H,Lager C
+010,Ware zum Versand vorbereitet,2024-02-11 16:55:26,Max Mustermann,110.0,P,110.0,Firma7,Lager E,Lager E
+010,Ware versandt,2024-02-11 16:47:26,Sarah Schmidt,130.0,P,130.0,Firma20,Lager J,Lager D
+003,Auftrag eingegangen,2024-02-11 16:40:26,Paul Zimmer,75.0,P,75.0,Firma2,Lager I,Lager D
+003,Ware aus Lager geholt,2024-02-11 16:38:26,Mia Schmitt,90.0,P,90.0,Firma4,Lager B,Lager J
+003,Ware zum Versand vorbereitet,2024-02-11 17:14:26,Lisa Schulz,95.0,P,95.0,Firma4,Lager C,Lager C
+003,Ware versandt,2024-02-11 16:41:26,Timo Wagner,140.0,P,140.0,Firma19,Lager A,Lager B
+001,Auftrag eingegangen,2024-02-11 16:28:26,Lena Mueller,140.0,P,140.0,Firma20,Lager D,Lager D
+001,Ware zur Produktion gebracht,2024-02-11 16:27:26,Nico Schmidt,110.0,P,110.0,Firma16,Lager C,Lager C
+001,Ware hergestellt,2024-02-11 16:29:26,Sarah Schmidt,120.0,P,120.0,Firma7,Lager E,Lager B
+001,Ware verpackt,2024-02-11 17:06:26,Max Mustermann,130.0,P,130.0,Firma3,Lager E,Lager A
+001,Ware versandt,2024-02-11 16:46:26,Luca Huber,90.0,P,90.0,Firma7,Lager D,Lager A
+010,Auftrag eingegangen,2024-02-11 17:09:26,Hannah Meyer,80.0,P,80.0,Firma8,Lager H,Lager H
+010,Ware aus Lager geholt,2024-02-11 16:47:26,Lena Mueller,130.0,P,130.0,Firma18,Lager D,Lager J
+010,Ware zum Versand vorbereitet,2024-02-11 16:36:26,Sarah Schmidt,120.0,P,120.0,Firma12,Lager F,Lager D
+010,Ware versandt,2024-02-11 16:47:26,Luca Huber,90.0,P,90.0,Firma2,Lager I,Lager C
+002,Auftrag eingegangen,2024-02-11 17:05:26,Jonas Richter,110.0,P,110.0,Firma17,Lager I,Lager A
+002,Ware zur Produktion gebracht,2024-02-11 16:56:26,Nico Schmidt,95.0,P,95.0,Firma8,Lager J,Lager B
+002,Ware hergestellt,2024-02-11 17:08:26,Nico Schmidt,150.0,P,150.0,Firma16,Lager G,Lager B
+002,Ware verpackt,2024-02-11 17:18:26,Lisa Mueller,130.0,P,130.0,Firma11,Lager A,Lager I
+002,Ware versandt,2024-02-11 17:00:26,Laura Fischer,130.0,P,130.0,Firma6,Lager G,Lager G
+010,Auftrag eingegangen,2024-02-11 16:34:26,Hannah Meyer,95.0,P,95.0,Firma20,Lager C,Lager I
+010,Ware zur Produktion gebracht,2024-02-11 16:22:26,Timo Wagner,95.0,P,95.0,Firma7,Lager I,Lager D
+010,Ware hergestellt,2024-02-11 16:47:26,Luca Huber,100.0,P,100.0,Firma18,Lager H,Lager A
+010,Ware verpackt,2024-02-11 17:17:26,Sarah Schmidt,75.0,P,75.0,Firma8,Lager I,Lager F
+010,Ware versandt,2024-02-11 17:00:26,Luca Huber,90.0,P,90.0,Firma6,Lager C,Lager C
+005,Auftrag eingegangen,2024-02-11 17:05:26,Sarah Schmidt,75.0,P,75.0,Firma10,Lager E,Lager A
+005,Ware zur Produktion gebracht,2024-02-11 16:51:26,Sarah Schmidt,110.0,P,110.0,Firma7,Lager C,Lager F
+005,Ware hergestellt,2024-02-11 17:17:26,Sophia Lang,130.0,P,130.0,Firma15,Lager C,Lager F
+005,Ware verpackt,2024-02-11 16:59:26,Laura Fischer,150.0,P,150.0,Firma17,Lager H,Lager C
+005,Ware versandt,2024-02-11 16:22:26,Max Mustermann,95.0,P,95.0,Firma19,Lager D,Lager D
+007,Auftrag eingegangen,2024-02-11 17:06:26,Sophia Lang,100.0,P,100.0,Firma16,Lager F,Lager G
+007,Ware aus Lager geholt,2024-02-11 17:05:26,Paul Zimmer,75.0,P,75.0,Firma1,Lager I,Lager B
+007,Ware zum Versand vorbereitet,2024-02-11 16:55:26,Jonas Richter,100.0,P,100.0,Firma4,Lager D,Lager B
+007,Ware versandt,2024-02-11 16:47:26,Emilia Wagner,150.0,P,150.0,Firma10,Lager I,Lager H
+010,Auftrag eingegangen,2024-02-11 16:30:26,Lisa Schulz,110.0,P,110.0,Firma5,Lager G,Lager G
+010,Ware aus Lager geholt,2024-02-11 17:14:26,Lena Mueller,130.0,P,130.0,Firma8,Lager E,Lager G
+010,Ware zum Versand vorbereitet,2024-02-11 16:37:26,Nico Schmidt,110.0,P,110.0,Firma5,Lager B,Lager F
+010,Ware versandt,2024-02-11 16:51:26,Leonie Richter,110.0,P,110.0,Firma18,Lager A,Lager D
+004,Auftrag eingegangen,2024-02-11 17:05:26,Jan Becker,80.0,P,80.0,Firma14,Lager D,Lager B
+004,Ware aus Lager geholt,2024-02-11 16:38:26,Paul Zimmer,75.0,P,75.0,Firma16,Lager A,Lager J
+004,Ware zum Versand vorbereitet,2024-02-11 16:51:26,Jan Becker,120.0,P,120.0,Firma1,Lager D,Lager A
+004,Ware versandt,2024-02-11 16:43:26,Jan Becker,90.0,P,90.0,Firma2,Lager A,Lager E
+003,Auftrag eingegangen,2024-02-11 17:11:26,Sarah Schmidt,70.0,P,70.0,Firma5,Lager F,Lager D
+003,Ware zur Produktion gebracht,2024-02-11 16:28:26,Paul Zimmer,130.0,P,130.0,Firma2,Lager E,Lager H
+003,Ware hergestellt,2024-02-11 17:02:26,Max Mustermann,110.0,P,110.0,Firma7,Lager A,Lager G
+003,Ware verpackt,2024-02-11 16:52:26,Leonie Richter,85.0,P,85.0,Firma7,Lager J,Lager D
+003,Ware versandt,2024-02-11 17:10:26,Emma Weber,85.0,P,85.0,Firma8,Lager J,Lager I
+007,Auftrag eingegangen,2024-02-11 16:54:26,Luca Huber,80.0,P,80.0,Firma8,Lager H,Lager C
+007,Ware zur Produktion gebracht,2024-02-11 16:35:26,Jonas Richter,100.0,P,100.0,Firma19,Lager C,Lager E
+007,Ware hergestellt,2024-02-11 16:41:26,Jonas Richter,75.0,P,75.0,Firma19,Lager C,Lager I
+007,Ware verpackt,2024-02-11 16:47:26,Lisa Mueller,110.0,P,110.0,Firma11,Lager H,Lager J
+007,Ware versandt,2024-02-11 16:29:26,Jan Becker,75.0,P,75.0,Firma7,Lager I,Lager G
+002,Auftrag eingegangen,2024-02-11 16:33:26,Timo Wagner,80.0,P,80.0,Firma13,Lager E,Lager A
+002,Ware aus Lager geholt,2024-02-11 17:15:26,Lisa Schulz,80.0,P,80.0,Firma13,Lager D,Lager G
+002,Ware zum Versand vorbereitet,2024-02-11 16:26:26,Emma Weber,95.0,P,95.0,Firma17,Lager J,Lager J
+002,Ware versandt,2024-02-11 16:23:26,Jan Becker,150.0,P,150.0,Firma10,Lager I,Lager D
+003,Auftrag eingegangen,2024-02-11 16:24:26,Emma Weber,85.0,P,85.0,Firma18,Lager F,Lager D
+003,Ware aus Lager geholt,2024-02-11 16:37:26,Paul Zimmer,75.0,P,75.0,Firma8,Lager H,Lager H
+003,Ware zum Versand vorbereitet,2024-02-11 16:35:26,Jan Becker,140.0,P,140.0,Firma17,Lager F,Lager B
+003,Ware versandt,2024-02-11 17:12:26,Noah Becker,100.0,P,100.0,Firma8,Lager J,Lager J
+007,Auftrag eingegangen,2024-02-11 16:48:26,Hannah Meyer,95.0,P,95.0,Firma20,Lager E,Lager B
+007,Ware aus Lager geholt,2024-02-11 16:46:26,Lena Mueller,140.0,P,140.0,Firma13,Lager I,Lager J
+007,Ware zum Versand vorbereitet,2024-02-11 16:38:26,Paul Zimmer,70.0,P,70.0,Firma2,Lager J,Lager D
+007,Ware versandt,2024-02-11 16:49:26,Hannah Meyer,70.0,P,70.0,Firma7,Lager I,Lager F
+001,Auftrag eingegangen,2024-02-11 16:42:26,Sophia Lang,110.0,P,110.0,Firma15,Lager C,Lager A
+001,Ware zur Produktion gebracht,2024-02-11 17:17:26,Noah Becker,130.0,P,130.0,Firma18,Lager B,Lager C
+001,Ware hergestellt,2024-02-11 17:00:26,Lisa Schulz,90.0,P,90.0,Firma15,Lager C,Lager F
+001,Ware verpackt,2024-02-11 16:19:26,Leonie Richter,110.0,P,110.0,Firma8,Lager G,Lager I
+001,Ware versandt,2024-02-11 17:10:26,David Meyer,150.0,P,150.0,Firma10,Lager J,Lager B
+010,Auftrag eingegangen,2024-02-11 16:19:26,Emma Weber,75.0,P,75.0,Firma18,Lager F,Lager G
+010,Ware zur Produktion gebracht,2024-02-11 17:16:26,Noah Becker,70.0,P,70.0,Firma7,Lager B,Lager J
+010,Ware hergestellt,2024-02-11 16:27:26,Leonie Richter,90.0,P,90.0,Firma17,Lager J,Lager F
+010,Ware verpackt,2024-02-11 17:09:26,Emilia Wagner,90.0,P,90.0,Firma14,Lager J,Lager I
+010,Ware versandt,2024-02-11 16:42:26,Nico Schmidt,130.0,P,130.0,Firma12,Lager D,Lager G
+008,Auftrag eingegangen,2024-02-11 16:48:26,Sophia Lang,85.0,P,85.0,Firma11,Lager B,Lager G
+008,Ware aus Lager geholt,2024-02-11 17:17:26,Mia Schmitt,95.0,P,95.0,Firma15,Lager H,Lager E
+008,Ware zum Versand vorbereitet,2024-02-11 17:17:26,Lisa Mueller,130.0,P,130.0,Firma10,Lager E,Lager I
+008,Ware versandt,2024-02-11 16:41:26,Laura Fischer,85.0,P,85.0,Firma13,Lager I,Lager I
+003,Auftrag eingegangen,2024-02-11 17:12:26,Nico Schmidt,90.0,P,90.0,Firma7,Lager D,Lager F
+003,Ware zur Produktion gebracht,2024-02-11 17:11:26,Luca Huber,95.0,P,95.0,Firma1,Lager C,Lager A
+003,Ware hergestellt,2024-02-11 16:52:26,Leonie Richter,140.0,P,140.0,Firma17,Lager E,Lager F
+003,Ware verpackt,2024-02-11 16:35:26,Sarah Schmidt,70.0,P,70.0,Firma10,Lager F,Lager J
+003,Ware versandt,2024-02-11 17:00:26,Emma Weber,95.0,P,95.0,Firma17,Lager F,Lager E
+006,Auftrag eingegangen,2024-02-11 16:53:26,Sarah Schmidt,140.0,P,140.0,Firma14,Lager C,Lager B
+006,Ware aus Lager geholt,2024-02-11 16:31:26,Emma Weber,120.0,P,120.0,Firma5,Lager F,Lager E
+006,Ware zum Versand vorbereitet,2024-02-11 16:23:26,Leonie Richter,85.0,P,85.0,Firma16,Lager I,Lager G
+006,Ware versandt,2024-02-11 16:31:26,Lisa Schulz,90.0,P,90.0,Firma2,Lager F,Lager H
+001,Auftrag eingegangen,2024-02-11 16:39:26,Emilia Wagner,75.0,P,75.0,Firma20,Lager F,Lager C
+001,Ware zur Produktion gebracht,2024-02-11 17:03:26,Emilia Wagner,130.0,P,130.0,Firma19,Lager A,Lager J
+001,Ware hergestellt,2024-02-11 16:26:26,Jonas Richter,120.0,P,120.0,Firma11,Lager F,Lager C
+001,Ware verpackt,2024-02-11 16:51:26,Timo Wagner,140.0,P,140.0,Firma1,Lager C,Lager I
+001,Ware versandt,2024-02-11 17:14:26,Luca Huber,75.0,P,75.0,Firma15,Lager C,Lager B
+009,Auftrag eingegangen,2024-02-11 16:24:26,Sarah Schmidt,130.0,P,130.0,Firma4,Lager F,Lager J
+009,Ware aus Lager geholt,2024-02-11 16:25:26,Sarah Schmidt,100.0,P,100.0,Firma7,Lager J,Lager C
+009,Ware zum Versand vorbereitet,2024-02-11 16:39:26,Paul Zimmer,90.0,P,90.0,Firma17,Lager C,Lager H
+009,Ware versandt,2024-02-11 16:57:26,David Meyer,75.0,P,75.0,Firma18,Lager E,Lager B
+002,Auftrag eingegangen,2024-02-11 16:44:26,Sarah Schmidt,150.0,P,150.0,Firma9,Lager C,Lager D
+002,Ware aus Lager geholt,2024-02-11 16:59:26,Jonas Richter,75.0,P,75.0,Firma17,Lager D,Lager H
+002,Ware zum Versand vorbereitet,2024-02-11 17:02:26,Emilia Wagner,130.0,P,130.0,Firma9,Lager C,Lager H
+002,Ware versandt,2024-02-11 16:24:26,David Meyer,90.0,P,90.0,Firma10,Lager C,Lager A
+004,Auftrag eingegangen,2024-02-11 16:27:26,Lisa Mueller,75.0,P,75.0,Firma1,Lager C,Lager H
+004,Ware zur Produktion gebracht,2024-02-11 16:45:26,Lisa Schulz,95.0,P,95.0,Firma9,Lager H,Lager D
+004,Ware hergestellt,2024-02-11 16:40:26,Lisa Schulz,140.0,P,140.0,Firma4,Lager J,Lager J
+004,Ware verpackt,2024-02-11 17:17:26,Jonas Richter,150.0,P,150.0,Firma20,Lager I,Lager F
+004,Ware versandt,2024-02-11 16:35:26,Lisa Schulz,90.0,P,90.0,Firma11,Lager E,Lager F
+007,Auftrag eingegangen,2024-02-11 16:25:26,Laura Fischer,110.0,P,110.0,Firma7,Lager I,Lager G
+007,Ware aus Lager geholt,2024-02-11 16:40:26,Laura Fischer,130.0,P,130.0,Firma8,Lager G,Lager H
+007,Ware zum Versand vorbereitet,2024-02-11 16:30:26,Lisa Mueller,100.0,P,100.0,Firma7,Lager A,Lager H
+007,Ware versandt,2024-02-11 16:30:26,Lisa Mueller,85.0,P,85.0,Firma14,Lager B,Lager B
+009,Auftrag eingegangen,2024-02-11 16:37:26,Sarah Schmidt,130.0,P,130.0,Firma19,Lager A,Lager D
+009,Ware aus Lager geholt,2024-02-11 16:22:26,Emma Weber,140.0,P,140.0,Firma18,Lager A,Lager D
+009,Ware zum Versand vorbereitet,2024-02-11 16:57:26,Lisa Schulz,100.0,P,100.0,Firma8,Lager J,Lager E
+009,Ware versandt,2024-02-11 17:00:26,David Meyer,70.0,P,70.0,Firma4,Lager J,Lager H
+008,Auftrag eingegangen,2024-02-11 16:25:26,Emilia Wagner,110.0,P,110.0,Firma18,Lager A,Lager G
+008,Ware zur Produktion gebracht,2024-02-11 16:41:26,Emma Weber,80.0,P,80.0,Firma10,Lager D,Lager J
+008,Ware hergestellt,2024-02-11 16:53:26,Luca Huber,95.0,P,95.0,Firma5,Lager F,Lager G
+008,Ware verpackt,2024-02-11 16:56:26,Emma Weber,95.0,P,95.0,Firma10,Lager A,Lager F
+008,Ware versandt,2024-02-11 17:05:26,Timo Wagner,75.0,P,75.0,Firma3,Lager D,Lager F
+010,Auftrag eingegangen,2024-02-11 16:33:26,Jan Becker,110.0,P,110.0,Firma7,Lager F,Lager B
+010,Ware zur Produktion gebracht,2024-02-11 16:49:26,Max Mustermann,95.0,P,95.0,Firma14,Lager D,Lager I
+010,Ware hergestellt,2024-02-11 17:18:26,Sophia Lang,120.0,P,120.0,Firma5,Lager C,Lager A
+010,Ware verpackt,2024-02-11 17:00:26,Timo Wagner,130.0,P,130.0,Firma2,Lager D,Lager D
+010,Ware versandt,2024-02-11 16:35:26,Max Mustermann,90.0,P,90.0,Firma3,Lager F,Lager B
+010,Auftrag eingegangen,2024-02-11 16:35:26,Luca Huber,100.0,P,100.0,Firma20,Lager C,Lager I
+010,Ware zur Produktion gebracht,2024-02-11 16:39:26,Noah Becker,90.0,P,90.0,Firma5,Lager H,Lager H
+010,Ware hergestellt,2024-02-11 16:52:26,Paul Zimmer,110.0,P,110.0,Firma5,Lager F,Lager H
+010,Ware verpackt,2024-02-11 16:22:26,Nico Schmidt,130.0,P,130.0,Firma13,Lager B,Lager I
+010,Ware versandt,2024-02-11 17:08:26,Luca Huber,75.0,P,75.0,Firma15,Lager E,Lager I
+007,Auftrag eingegangen,2024-02-11 16:29:26,Luca Huber,150.0,P,150.0,Firma14,Lager J,Lager A
+007,Ware zur Produktion gebracht,2024-02-11 17:13:26,Sophia Lang,110.0,P,110.0,Firma9,Lager H,Lager E
+007,Ware hergestellt,2024-02-11 16:46:26,Emma Weber,100.0,P,100.0,Firma19,Lager C,Lager D
+007,Ware verpackt,2024-02-11 16:23:26,Laura Fischer,70.0,P,70.0,Firma3,Lager F,Lager A
+007,Ware versandt,2024-02-11 17:16:26,Nico Schmidt,95.0,P,95.0,Firma2,Lager G,Lager G
+006,Auftrag eingegangen,2024-02-11 17:00:26,Lena Mueller,140.0,P,140.0,Firma4,Lager D,Lager D
+006,Ware zur Produktion gebracht,2024-02-11 16:44:26,Emilia Wagner,75.0,P,75.0,Firma17,Lager D,Lager J
+006,Ware hergestellt,2024-02-11 16:39:26,Nico Schmidt,75.0,P,75.0,Firma16,Lager B,Lager E
+006,Ware verpackt,2024-02-11 17:01:26,Lena Mueller,85.0,P,85.0,Firma6,Lager G,Lager G
+006,Ware versandt,2024-02-11 16:30:26,Nico Schmidt,130.0,P,130.0,Firma15,Lager B,Lager D
