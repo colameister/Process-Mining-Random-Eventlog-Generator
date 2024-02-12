@@ -1,7 +1,11 @@
 import csv
 import json
+import logging
 import random
 from datetime import datetime, timedelta
+
+# Konfigurieren des Logging-Moduls
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Pfad zur JSON-Datei, die die Revisionsnummer enthält
 revision_file_path = 'revision_number.json'
@@ -11,9 +15,11 @@ try:
     with open(revision_file_path, 'r') as file:
         data = json.load(file)
         revision_number = data['revision_number']
+    logging.debug(f"Aktuelle Revisionsnummer geladen: {revision_number}")
 except FileNotFoundError:
     # Falls die Datei nicht existiert, starte mit bestimmer Revision
-    revision_number = 11
+    revision_number = 10
+    logging.debug("Revision_file_path nicht gefunden.")
 
 # Definierte logische Pfade
 paths = {
@@ -99,6 +105,9 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 # Anzahl der Ereignisse
 num_events = 100
 
+# Bevor die CSV-Datei erstellt wird, erhöhen wir die Revisionsnummer
+revision_number += 1
+
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
@@ -124,12 +133,11 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
             # Zeitstempel für die nächste Aktivität inkrementieren
             timestamp += timedelta(minutes=random.randint(1, 60))
 
-    # Nachdem die CSV-Datei erfolgreich erstellt wurde, erhöhen wir die Revisionsnummer
-    revision_number += 1
-
     # Speichern der aktualisierten Revisionsnummer in der JSON-Datei
     with open(revision_file_path, 'w') as file:
         json.dump({'revision_number': revision_number}, file)
+        logging.debug(f"Revisionsnummer aktualisiert und gespeichert: {revision_number}")
 
 # Fertigstellungslog :)
 print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")
+logging.debug(f"CSV-Datei erfolgreich erstellt: event_log_rev{revision_number}.csv")
