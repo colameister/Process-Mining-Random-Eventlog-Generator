@@ -4,6 +4,22 @@ from datetime import datetime, timedelta
 
 # Definierte logische Pfade
 paths = {
+    'Custom Pfad': [
+        "Kunden-Daten aufnehmen",
+        "Kunden-Daten in System übertragen",
+        "Zahlvorgang abschließen",
+        "Bestellung im System eintragen",
+        "Lagerbestand überprüfen",
+        "Auftragsabwicklung im System starten",
+        "Artikel zusammenstellen",
+        "Ware verpacken",
+        "Gewicht prüfen",
+        "Anzahl der Artikel überprüfen",
+        "Verpackung prüfen",
+        "Paket zur Warenausgabe bringen",
+        "Paket an Kunde übergeben",
+        "Bestellstatus im System ändern"
+    ],
     'Normaler Auftrag': [
         "Auftrag eingegangen", 
         "Ware aus Lager geholt", 
