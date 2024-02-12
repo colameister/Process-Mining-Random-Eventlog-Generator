@@ -1,6 +1,19 @@
 import csv
+import json
 import random
 from datetime import datetime, timedelta
+
+# Pfad zur JSON-Datei, die die Revisionsnummer enthält
+revision_file_path = 'revision_number.json'
+
+# Versuche, die Revisionsnummer aus der Datei zu lesen
+try:
+    with open(revision_file_path, 'r') as file:
+        data = json.load(file)
+        revision_number = data['revision_number']
+except FileNotFoundError:
+    # Falls die Datei nicht existiert, starte mit bestimmer Revision
+    revision_number = 11
 
 # Definierte logische Pfade
 paths = {
@@ -86,9 +99,6 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 # Anzahl der Ereignisse
 num_events = 100
 
-# Revisionsnummer
-revision_number = 10
-
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
@@ -113,6 +123,13 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
 
             # Zeitstempel für die nächste Aktivität inkrementieren
             timestamp += timedelta(minutes=random.randint(1, 60))
+
+    # Nachdem die CSV-Datei erfolgreich erstellt wurde, erhöhen wir die Revisionsnummer
+    revision_number += 1
+
+    # Speichern der aktualisierten Revisionsnummer in der JSON-Datei
+    with open(revision_file_path, 'w') as file:
+        json.dump({'revision_number': revision_number}, file)
 
 # Fertigstellungslog :)
 print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")
