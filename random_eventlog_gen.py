@@ -17,7 +17,7 @@ try:
         revision_number = data['revision_number']
     logging.debug(f"Aktuelle Revisionsnummer geladen: {revision_number}")
 except FileNotFoundError:
-    # Falls die Datei nicht existiert, starte mit bestimmer Revision
+    # Falls die Datei nicht existiert, starte mit bestimmter Revision
     revision_number = 10
     logging.debug("Revision_file_path nicht gefunden.")
 
@@ -742,6 +742,25 @@ customers = [
 # Liste von Abnahme- und Abgabeorten
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
+# Kostenrahmen für jede Aktivität
+activity_costs = {
+    "Kunden-Daten aufnehmen": (1, 3),
+    "Kunden-Daten in System übertragen": (2, 5),
+    "Zahlvorgang abschließen": (3, 7),
+    "Bestellung im System eintragen": (4, 9),
+    "Lagerbestand überprüfen": (1, 3),
+    "Auftragsabwicklung im System starten": (5, 10),
+    "Artikel zusammenstellen": (2, 6),
+    "Ware verpacken": (3, 8),
+    "Gewicht prüfen": (1, 3),
+    "Anzahl der Artikel überprüfen": (2, 5),
+    "Verpackung prüfen": (3, 7),
+    "Paket zur Warenausgabe bringen": (4, 9),
+    "Paket an Kunde übergeben": (5, 10),
+    "Bestellstatus im System ändern": (1, 3),
+    "Zahlungsabwicklung durchführen": (6, 12)
+}
+
 # Anzahl der Ereignisse
 num_events = 100
 
@@ -751,7 +770,7 @@ revision_number += 1
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
-    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Ausführende Person", "Kosten (EUR)", "Transportiertes Gut", "Produktpreis (EUR)", "Kunde", "Abnahmeort", "Abgabeort"])
+    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Ausführende Person", "Kosten (EUR)", "Kunde", "Transportiertes Gut", "Produktpreis (EUR)", "Abnahmeort", "Abgabeort"])
 
     for i in range(1, num_events + 1):
         case_number = str(i).zfill(3)
@@ -759,6 +778,8 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
         # Für jeden Fall ein Produkt und einen Kunden auswählen
         product_tuple = random.choice(products)
         product_name, product_price = product_tuple
+        # Ersetze Punkt durch Komma für die Ausgabe in der CSV-Datei
+        product_price_for_csv = str(product_price).replace(".", ",")
         customer = random.choice(customers)
 
         timestamp = datetime.now()
@@ -767,8 +788,13 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
 
+            # Kostenrahmen für die aktuelle Aktivität
+            min_cost, max_cost = activity_costs.get(activity, (1, 10))
+            # Zufällige Kosten innerhalb des Kostenrahmens generieren
+            cost = round(random.uniform(min_cost, max_cost), 2)
+            cost_for_csv = str(cost).replace(".", ",")
             # Speichern / Schreiben in CSV-Datei
-            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, round(random.uniform(5.00, 100.00), 2), product_name, product_price, customer, pickup_location, delivery_location])
+            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), person, cost_for_csv, customer, product_name, product_price_for_csv, pickup_location, delivery_location])
 
             # Zeitstempel für die nächste Aktivität inkrementieren
             timestamp += timedelta(minutes=random.randint(1, 60))
