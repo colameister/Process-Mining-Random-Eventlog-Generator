@@ -702,18 +702,6 @@ paths = {
     ],
 }
 
-# Liste von Aktivitäten
-activities = ["Auftrag eingegangen", "Ware aus Lager geholt", "Ware zur Produktion gebracht",
-              "Ware hergestellt", "Ware verpackt", "Ware zum Versand vorbereitet", "Ware versandt",
-              "Ware beim Kunden angekommen", "Rechnung erstellt", "Zahlung erhalten",
-              "Ware retourniert", "Reparatur durchgeführt", "Ware umgeladen",
-              "Qualitätskontrolle durchgeführt", "Ware gelagert", "Ware entsorgt",
-              "Kundensupport angefragt", "Angebot erstellt", "Vertragsverhandlungen geführt",
-              "Bestellung aufgenommen", "Rechnung versendet", "Rechnung bezahlt",
-              "Ware wiederverkauft", "Personal geschult", "Marketingaktion durchgeführt",
-              "Lieferanten kontaktiert", "Produktionsplanung erstellt", "Rückverfolgbarkeitsprüfung",
-              "Verpackungsmaterial bestellt", "Werbekampagne gestartet", "Preisverhandlungen geführt"]
-
 # Liste von Personen ohne Umlaute
 people = ["Max Mustermann", "Sarah Schmidt", "Lena Mueller", "Timo Wagner", "Lisa Schulz",
           "Jan Becker", "Laura Fischer", "Paul Zimmer", "Lisa Mueller", "Nico Schmidt",
