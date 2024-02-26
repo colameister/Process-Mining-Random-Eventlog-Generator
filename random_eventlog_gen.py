@@ -728,8 +728,28 @@ products = [("Produkt A", 100.00), ("Produkt B", 120.00), ("Produkt C", 80.00), 
             ("Produkt Q", 110.00), ("Produkt R", 130.00), ("Produkt S", 90.00), ("Produkt T", 85.00)]
 
 # Liste von Kunden
-customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5", "Firma6", "Firma7", "Firma8", "Firma9", "Firma10",
-             "Firma11", "Firma12", "Firma13", "Firma14", "Firma15", "Firma16", "Firma17", "Firma18", "Firma19", "Firma20"]
+customers = [
+    "Siemens",          # Elektrotechnik und Automatisierung
+    "BASF",             # Chemie
+    "Boeing",           # Luft- und Raumfahrt
+    "Volkswagen",       # Automobil
+    "Toyota",           # Automobil
+    "General Electric", # Mischkonzern mit Schwerpunkt Technologie und Produktion
+    "Airbus",           # Luft- und Raumfahrt
+    "Daimler AG",       # Automobil
+    "Bayer",            # Pharmazeutika und Agrarchemie
+    "Intel",            # Halbleiter
+    "General Motors",   # Automobil
+    "Ford Motor",       # Automobil
+    "Honda Motor",      # Automobil und Motorräder
+    "Hitachi",          # Elektronik und Maschinenbau
+    "Mitsubishi Electric", # Elektrotechnik
+    "Nestlé",           # Lebensmittelverarbeitung
+    "PepsiCo",          # Lebensmittelverarbeitung
+    "Procter & Gamble", # Konsumgüter
+    "Samsung Electronics", # Elektronik
+    "Sony",             # Elektronik
+]
 
 # Liste von Abnahme- und Abgabeorten
 locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]

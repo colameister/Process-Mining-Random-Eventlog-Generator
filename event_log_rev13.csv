@@ -1,0 +1,1715 @@
+Fallnummer,Aktivität,Zeitstempel,Ausführende Person,Kosten (EUR),Transportiertes Gut,Produktpreis (EUR),Kunde,Abnahmeort,Abgabeort
+001,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Paul Zimmer,43.55,Produkt B,120.0,Firma6,Lager H,Lager C
+001,Bestellung im System eintragen,2024-02-26 10:42:23,Sarah Schmidt,65.0,Produkt B,120.0,Firma6,Lager H,Lager B
+001,Lagerbestand überprüfen,2024-02-26 11:21:23,Noah Becker,48.47,Produkt B,120.0,Firma6,Lager I,Lager J
+001,Auftragsabwicklung im System starten,2024-02-26 12:21:23,Emilia Wagner,52.79,Produkt B,120.0,Firma6,Lager G,Lager D
+001,Artikel zusammenstellen,2024-02-26 13:17:23,Emilia Wagner,49.49,Produkt B,120.0,Firma6,Lager B,Lager F
+001,Ware verpacken,2024-02-26 13:35:23,Mia Schmitt,66.74,Produkt B,120.0,Firma6,Lager C,Lager G
+001,Gewicht prüfen,2024-02-26 13:40:23,Lisa Schulz,69.53,Produkt B,120.0,Firma6,Lager F,Lager E
+001,Anzahl der Artikel überprüfen,2024-02-26 13:50:23,David Meyer,65.45,Produkt B,120.0,Firma6,Lager E,Lager C
+001,Verpackung prüfen,2024-02-26 14:06:23,Lisa Schulz,21.09,Produkt B,120.0,Firma6,Lager F,Lager A
+001,Paket zur Warenausgabe bringen,2024-02-26 14:48:23,Hannah Meyer,51.33,Produkt B,120.0,Firma6,Lager G,Lager G
+001,Paket an Kunde übergeben,2024-02-26 15:10:23,Jan Becker,80.54,Produkt B,120.0,Firma6,Lager E,Lager J
+001,Bestellstatus im System ändern,2024-02-26 15:23:23,Jan Becker,68.82,Produkt B,120.0,Firma6,Lager F,Lager C
+002,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Mia Schmitt,86.6,Produkt N,75.0,Firma8,Lager F,Lager J
+002,Kunden-Daten in System übertragen,2024-02-26 11:24:23,Jan Becker,18.47,Produkt N,75.0,Firma8,Lager H,Lager J
+002,Zahlvorgang abschließen,2024-02-26 12:12:23,Mia Schmitt,54.67,Produkt N,75.0,Firma8,Lager B,Lager A
+002,Bestellung im System eintragen,2024-02-26 12:16:23,Mia Schmitt,29.42,Produkt N,75.0,Firma8,Lager I,Lager H
+002,Lagerbestand überprüfen,2024-02-26 13:09:23,David Meyer,45.73,Produkt N,75.0,Firma8,Lager G,Lager G
+002,Artikel bestellen,2024-02-26 13:18:23,Sarah Schmidt,99.85,Produkt N,75.0,Firma8,Lager D,Lager G
+002,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:14:23,Max Mustermann,76.56,Produkt N,75.0,Firma8,Lager H,Lager B
+002,Auftragsabwicklung im System starten,2024-02-26 14:44:23,David Meyer,18.46,Produkt N,75.0,Firma8,Lager I,Lager I
+002,Artikel zusammenstellen,2024-02-26 15:07:23,Lena Mueller,15.38,Produkt N,75.0,Firma8,Lager A,Lager I
+002,Versicherungs-Bescheinigung dazulegen,2024-02-26 15:16:23,Jan Becker,47.12,Produkt N,75.0,Firma8,Lager B,Lager F
+002,Ware verpacken,2024-02-26 16:08:23,Sophia Lang,92.82,Produkt N,75.0,Firma8,Lager J,Lager H
+002,Gewicht prüfen,2024-02-26 16:31:23,Noah Becker,55.53,Produkt N,75.0,Firma8,Lager G,Lager A
+002,Anzahl der Artikel überprüfen,2024-02-26 16:46:23,Sarah Schmidt,50.93,Produkt N,75.0,Firma8,Lager G,Lager J
+002,Verpackung prüfen,2024-02-26 17:29:23,Lisa Mueller,49.67,Produkt N,75.0,Firma8,Lager I,Lager A
+002,Informationen an Transporteur übermitteln,2024-02-26 17:58:23,Jan Becker,62.21,Produkt N,75.0,Firma8,Lager E,Lager I
+002,Paket an Transporteur übergeben,2024-02-26 18:24:23,David Meyer,68.15,Produkt N,75.0,Firma8,Lager C,Lager A
+002,Bestellstatus im System ändern,2024-02-26 18:40:23,Emilia Wagner,10.33,Produkt N,75.0,Firma8,Lager A,Lager E
+003,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Sarah Schmidt,82.99,Produkt T,85.0,Firma16,Lager A,Lager A
+003,Bestellung im System eintragen,2024-02-26 10:35:23,Nico Schmidt,27.02,Produkt T,85.0,Firma16,Lager E,Lager F
+003,Lagerbestand überprüfen,2024-02-26 10:54:23,Lisa Mueller,79.94,Produkt T,85.0,Firma16,Lager C,Lager J
+003,Auftragsabwicklung im System starten,2024-02-26 11:54:23,Max Mustermann,40.19,Produkt T,85.0,Firma16,Lager J,Lager C
+003,Artikel zusammenstellen,2024-02-26 12:05:23,Jonas Richter,48.44,Produkt T,85.0,Firma16,Lager H,Lager B
+003,Ware verpacken,2024-02-26 12:09:23,Sophia Lang,92.29,Produkt T,85.0,Firma16,Lager A,Lager A
+003,Gewicht prüfen,2024-02-26 13:01:23,Max Mustermann,63.02,Produkt T,85.0,Firma16,Lager H,Lager E
+003,Anzahl der Artikel überprüfen,2024-02-26 13:55:23,Max Mustermann,93.92,Produkt T,85.0,Firma16,Lager I,Lager F
+003,Verpackung prüfen,2024-02-26 14:03:23,Leonie Richter,8.04,Produkt T,85.0,Firma16,Lager B,Lager D
+003,Informationen an Transporteur übermitteln,2024-02-26 14:56:23,Hannah Meyer,37.77,Produkt T,85.0,Firma16,Lager E,Lager G
+003,Paket an Transporteur übergeben,2024-02-26 15:31:23,Jan Becker,94.72,Produkt T,85.0,Firma16,Lager I,Lager F
+003,Bestellstatus im System ändern,2024-02-26 15:53:23,Jonas Richter,90.3,Produkt T,85.0,Firma16,Lager E,Lager F
+004,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Laura Fischer,15.18,Produkt H,130.0,Firma14,Lager C,Lager D
+004,Bestellung im System eintragen,2024-02-26 11:24:23,Lena Mueller,71.61,Produkt H,130.0,Firma14,Lager H,Lager H
+004,Lagerbestand überprüfen,2024-02-26 12:03:23,Luca Huber,16.45,Produkt H,130.0,Firma14,Lager C,Lager F
+004,Artikel bestellen,2024-02-26 12:26:23,Sarah Schmidt,19.04,Produkt H,130.0,Firma14,Lager C,Lager F
+004,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:03:23,Sarah Schmidt,8.84,Produkt H,130.0,Firma14,Lager H,Lager G
+004,Auftragsabwicklung im System starten,2024-02-26 13:51:23,Hannah Meyer,92.25,Produkt H,130.0,Firma14,Lager C,Lager D
+004,Artikel zusammenstellen,2024-02-26 14:29:23,Jonas Richter,62.73,Produkt H,130.0,Firma14,Lager G,Lager G
+004,Ware verpacken,2024-02-26 14:51:23,Luca Huber,17.79,Produkt H,130.0,Firma14,Lager E,Lager G
+004,Gewicht prüfen,2024-02-26 15:20:23,Luca Huber,18.8,Produkt H,130.0,Firma14,Lager J,Lager H
+004,Anzahl der Artikel überprüfen,2024-02-26 15:27:23,Noah Becker,60.96,Produkt H,130.0,Firma14,Lager F,Lager G
+004,Verpackung prüfen,2024-02-26 15:56:23,Emma Weber,62.38,Produkt H,130.0,Firma14,Lager J,Lager I
+004,Fehler im System eintrgen,2024-02-26 16:12:23,Mia Schmitt,21.23,Produkt H,130.0,Firma14,Lager A,Lager J
+004,Bestandsverwaltung informieren,2024-02-26 16:29:23,Jan Becker,95.91,Produkt H,130.0,Firma14,Lager F,Lager F
+004,Lagerbestand überprüfen,2024-02-26 17:29:23,Lisa Schulz,30.6,Produkt H,130.0,Firma14,Lager B,Lager I
+004,Auftragsabwicklung im System starten,2024-02-26 17:52:23,David Meyer,92.28,Produkt H,130.0,Firma14,Lager A,Lager C
+004,Artikel zusammenstellen,2024-02-26 18:18:23,Max Mustermann,68.2,Produkt H,130.0,Firma14,Lager E,Lager I
+004,Ware verpacken,2024-02-26 18:50:23,Emilia Wagner,46.95,Produkt H,130.0,Firma14,Lager E,Lager G
+004,Gewicht prüfen,2024-02-26 19:35:23,Hannah Meyer,11.93,Produkt H,130.0,Firma14,Lager G,Lager A
+004,Anzahl der Artikel überprüfen,2024-02-26 19:40:23,Sarah Schmidt,53.92,Produkt H,130.0,Firma14,Lager B,Lager B
+004,Verpackung prüfen,2024-02-26 20:09:23,Jan Becker,91.07,Produkt H,130.0,Firma14,Lager J,Lager C
+004,Paket zur Warenausgabe bringen,2024-02-26 20:15:23,Leonie Richter,61.96,Produkt H,130.0,Firma14,Lager E,Lager J
+004,Paket an Kunde übergeben,2024-02-26 21:01:23,Lisa Schulz,5.89,Produkt H,130.0,Firma14,Lager I,Lager A
+004,Bestellstatus im System ändern,2024-02-26 21:29:23,Lena Mueller,45.15,Produkt H,130.0,Firma14,Lager G,Lager A
+005,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Leonie Richter,90.05,Produkt L,140.0,Firma16,Lager A,Lager I
+005,Kunden-Daten in System übertragen,2024-02-26 10:31:23,Sophia Lang,91.31,Produkt L,140.0,Firma16,Lager C,Lager G
+005,Zahlvorgang abschließen,2024-02-26 10:32:23,Lisa Schulz,9.13,Produkt L,140.0,Firma16,Lager J,Lager B
+005,Bestellung im System eintragen,2024-02-26 11:12:23,Hannah Meyer,54.21,Produkt L,140.0,Firma16,Lager J,Lager E
+005,Lagerbestand überprüfen,2024-02-26 11:15:23,Jan Becker,70.56,Produkt L,140.0,Firma16,Lager I,Lager B
+005,Artikel bestellen,2024-02-26 12:05:23,Sarah Schmidt,13.45,Produkt L,140.0,Firma16,Lager I,Lager J
+005,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:31:23,Paul Zimmer,28.69,Produkt L,140.0,Firma16,Lager I,Lager B
+005,Auftragsabwicklung im System starten,2024-02-26 13:31:23,Leonie Richter,23.65,Produkt L,140.0,Firma16,Lager E,Lager G
+005,Artikel zusammenstellen,2024-02-26 14:18:23,Sarah Schmidt,85.46,Produkt L,140.0,Firma16,Lager D,Lager H
+005,Ware verpacken,2024-02-26 15:12:23,David Meyer,6.96,Produkt L,140.0,Firma16,Lager H,Lager A
+005,Gewicht prüfen,2024-02-26 15:49:23,Lisa Mueller,52.59,Produkt L,140.0,Firma16,Lager A,Lager I
+005,Anzahl der Artikel überprüfen,2024-02-26 16:41:23,Jan Becker,25.57,Produkt L,140.0,Firma16,Lager F,Lager C
+005,Verpackung prüfen,2024-02-26 17:00:23,Emma Weber,57.24,Produkt L,140.0,Firma16,Lager F,Lager C
+005,Fehler im System eintrgen,2024-02-26 17:24:23,David Meyer,62.38,Produkt L,140.0,Firma16,Lager A,Lager A
+005,Bestandsverwaltung informieren,2024-02-26 17:48:23,Sarah Schmidt,54.87,Produkt L,140.0,Firma16,Lager E,Lager J
+005,Lagerbestand überprüfen,2024-02-26 17:54:23,Jonas Richter,40.45,Produkt L,140.0,Firma16,Lager F,Lager D
+005,Auftragsabwicklung im System starten,2024-02-26 18:05:23,Nico Schmidt,92.14,Produkt L,140.0,Firma16,Lager H,Lager A
+005,Artikel zusammenstellen,2024-02-26 18:28:23,Paul Zimmer,53.24,Produkt L,140.0,Firma16,Lager E,Lager I
+005,Ware verpacken,2024-02-26 19:05:23,Max Mustermann,35.75,Produkt L,140.0,Firma16,Lager C,Lager C
+005,Gewicht prüfen,2024-02-26 19:56:23,David Meyer,59.38,Produkt L,140.0,Firma16,Lager B,Lager C
+005,Anzahl der Artikel überprüfen,2024-02-26 20:02:23,Laura Fischer,17.64,Produkt L,140.0,Firma16,Lager J,Lager D
+005,Verpackung prüfen,2024-02-26 20:05:23,Paul Zimmer,90.68,Produkt L,140.0,Firma16,Lager B,Lager I
+005,Paket zur Warenausgabe bringen,2024-02-26 20:06:23,Jan Becker,32.28,Produkt L,140.0,Firma16,Lager J,Lager F
+005,Paket an Kunde übergeben,2024-02-26 20:34:23,Noah Becker,26.92,Produkt L,140.0,Firma16,Lager I,Lager G
+005,Bestellstatus im System ändern,2024-02-26 21:00:23,Laura Fischer,79.01,Produkt L,140.0,Firma16,Lager B,Lager D
+006,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Lena Mueller,68.32,Produkt O,120.0,Firma3,Lager G,Lager I
+006,Bestellung im System eintragen,2024-02-26 10:31:23,Mia Schmitt,89.04,Produkt O,120.0,Firma3,Lager G,Lager A
+006,Lagerbestand überprüfen,2024-02-26 11:02:23,Sarah Schmidt,25.11,Produkt O,120.0,Firma3,Lager D,Lager H
+006,Auftragsabwicklung im System starten,2024-02-26 11:20:23,Noah Becker,73.89,Produkt O,120.0,Firma3,Lager G,Lager B
+006,Artikel zusammenstellen,2024-02-26 11:41:23,Hannah Meyer,95.34,Produkt O,120.0,Firma3,Lager F,Lager F
+006,Ware verpacken,2024-02-26 12:01:23,Jonas Richter,56.55,Produkt O,120.0,Firma3,Lager C,Lager A
+006,Gewicht prüfen,2024-02-26 12:56:23,Emilia Wagner,81.06,Produkt O,120.0,Firma3,Lager I,Lager E
+006,Anzahl der Artikel überprüfen,2024-02-26 13:03:23,Jan Becker,14.86,Produkt O,120.0,Firma3,Lager I,Lager E
+006,Verpackung prüfen,2024-02-26 13:14:23,Lena Mueller,93.59,Produkt O,120.0,Firma3,Lager I,Lager H
+006,Fehler im System eintrgen,2024-02-26 13:57:23,David Meyer,81.65,Produkt O,120.0,Firma3,Lager G,Lager A
+006,Bestandsverwaltung informieren,2024-02-26 14:53:23,Jonas Richter,28.09,Produkt O,120.0,Firma3,Lager B,Lager H
+006,Lagerbestand überprüfen,2024-02-26 15:52:23,Jan Becker,94.42,Produkt O,120.0,Firma3,Lager D,Lager D
+006,Auftragsabwicklung im System starten,2024-02-26 16:50:23,Jonas Richter,78.21,Produkt O,120.0,Firma3,Lager E,Lager J
+006,Artikel zusammenstellen,2024-02-26 17:18:23,Luca Huber,96.2,Produkt O,120.0,Firma3,Lager I,Lager I
+006,Ware verpacken,2024-02-26 18:06:23,Mia Schmitt,25.53,Produkt O,120.0,Firma3,Lager A,Lager J
+006,Gewicht prüfen,2024-02-26 18:08:23,Luca Huber,73.46,Produkt O,120.0,Firma3,Lager B,Lager F
+006,Anzahl der Artikel überprüfen,2024-02-26 18:27:23,Emilia Wagner,14.89,Produkt O,120.0,Firma3,Lager A,Lager G
+006,Verpackung prüfen,2024-02-26 18:38:23,Lisa Mueller,23.29,Produkt O,120.0,Firma3,Lager C,Lager B
+006,Paket zur Warenausgabe bringen,2024-02-26 18:42:23,Jan Becker,29.79,Produkt O,120.0,Firma3,Lager E,Lager F
+006,Zahlungsabwicklung durchführen,2024-02-26 19:33:23,Paul Zimmer,60.55,Produkt O,120.0,Firma3,Lager J,Lager J
+006,Paket an Kunde übergeben,2024-02-26 20:15:23,Lisa Mueller,53.42,Produkt O,120.0,Firma3,Lager G,Lager I
+006,Bestellstatus im System ändern,2024-02-26 20:30:23,Timo Wagner,62.84,Produkt O,120.0,Firma3,Lager A,Lager E
+007,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emma Weber,61.37,Produkt J,75.0,Firma3,Lager C,Lager J
+007,Kunden-Daten in System übertragen,2024-02-26 10:30:23,Nico Schmidt,90.16,Produkt J,75.0,Firma3,Lager B,Lager G
+007,Rechnungsadesse aufnehmen,2024-02-26 10:42:23,Leonie Richter,10.97,Produkt J,75.0,Firma3,Lager J,Lager J
+007,Rechnungsadesse im System eintragen,2024-02-26 11:04:23,Lisa Mueller,96.16,Produkt J,75.0,Firma3,Lager G,Lager I
+007,Bestellung im System eintragen,2024-02-26 11:46:23,Mia Schmitt,12.12,Produkt J,75.0,Firma3,Lager G,Lager C
+007,Lagerbestand überprüfen,2024-02-26 12:30:23,Leonie Richter,32.61,Produkt J,75.0,Firma3,Lager F,Lager D
+007,Auftragsabwicklung im System starten,2024-02-26 13:26:23,Mia Schmitt,35.95,Produkt J,75.0,Firma3,Lager I,Lager E
+007,Artikel zusammenstellen,2024-02-26 14:18:23,Mia Schmitt,42.55,Produkt J,75.0,Firma3,Lager G,Lager H
+007,Ware verpacken,2024-02-26 15:01:23,David Meyer,56.27,Produkt J,75.0,Firma3,Lager J,Lager C
+007,Gewicht prüfen,2024-02-26 15:58:23,Max Mustermann,74.28,Produkt J,75.0,Firma3,Lager B,Lager G
+007,Anzahl der Artikel überprüfen,2024-02-26 16:10:23,Laura Fischer,15.17,Produkt J,75.0,Firma3,Lager E,Lager G
+007,Verpackung prüfen,2024-02-26 17:09:23,David Meyer,66.66,Produkt J,75.0,Firma3,Lager F,Lager J
+007,Fehler im System eintrgen,2024-02-26 17:47:23,Laura Fischer,9.88,Produkt J,75.0,Firma3,Lager J,Lager C
+007,Bestandsverwaltung informieren,2024-02-26 18:18:23,Emilia Wagner,18.94,Produkt J,75.0,Firma3,Lager E,Lager G
+007,Lagerbestand überprüfen,2024-02-26 18:23:23,Paul Zimmer,26.72,Produkt J,75.0,Firma3,Lager A,Lager C
+007,Auftragsabwicklung im System starten,2024-02-26 19:01:23,Laura Fischer,98.35,Produkt J,75.0,Firma3,Lager B,Lager G
+007,Artikel zusammenstellen,2024-02-26 19:44:23,Emma Weber,61.66,Produkt J,75.0,Firma3,Lager I,Lager A
+007,Ware verpacken,2024-02-26 20:43:23,Sarah Schmidt,93.29,Produkt J,75.0,Firma3,Lager C,Lager G
+007,Gewicht prüfen,2024-02-26 21:42:23,Paul Zimmer,23.79,Produkt J,75.0,Firma3,Lager G,Lager J
+007,Anzahl der Artikel überprüfen,2024-02-26 22:02:23,Leonie Richter,75.19,Produkt J,75.0,Firma3,Lager D,Lager B
+007,Verpackung prüfen,2024-02-26 22:35:23,Sophia Lang,17.71,Produkt J,75.0,Firma3,Lager H,Lager J
+007,Bezahlaufforderung an Kunde schicken,2024-02-26 23:10:23,Lisa Mueller,7.19,Produkt J,75.0,Firma3,Lager A,Lager B
+007,Informationen an Transporteur übermitteln,2024-02-26 23:15:23,Lena Mueller,95.7,Produkt J,75.0,Firma3,Lager F,Lager F
+007,Paket an Transporteur übergeben,2024-02-27 00:01:23,Lisa Mueller,8.59,Produkt J,75.0,Firma3,Lager E,Lager H
+007,Bestellstatus im System ändern,2024-02-27 00:47:23,Lisa Mueller,73.08,Produkt J,75.0,Firma3,Lager F,Lager G
+008,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Luca Huber,42.91,Produkt K,110.0,Firma6,Lager B,Lager G
+008,Bestellung im System eintragen,2024-02-26 10:35:23,Max Mustermann,57.94,Produkt K,110.0,Firma6,Lager C,Lager G
+008,Lagerbestand überprüfen,2024-02-26 11:27:23,Laura Fischer,22.86,Produkt K,110.0,Firma6,Lager J,Lager C
+008,Auftragsabwicklung im System starten,2024-02-26 11:58:23,Paul Zimmer,56.51,Produkt K,110.0,Firma6,Lager I,Lager B
+008,Artikel zusammenstellen,2024-02-26 12:38:23,Paul Zimmer,87.13,Produkt K,110.0,Firma6,Lager F,Lager I
+008,Ware verpacken,2024-02-26 12:40:23,Noah Becker,35.4,Produkt K,110.0,Firma6,Lager A,Lager H
+008,Gewicht prüfen,2024-02-26 12:46:23,Sarah Schmidt,34.12,Produkt K,110.0,Firma6,Lager B,Lager D
+008,Anzahl der Artikel überprüfen,2024-02-26 13:41:23,Sophia Lang,84.4,Produkt K,110.0,Firma6,Lager H,Lager D
+008,Verpackung prüfen,2024-02-26 13:51:23,Sarah Schmidt,66.04,Produkt K,110.0,Firma6,Lager E,Lager G
+008,Paket zur Warenausgabe bringen,2024-02-26 14:12:23,Max Mustermann,67.5,Produkt K,110.0,Firma6,Lager H,Lager B
+008,Paket an Kunde übergeben,2024-02-26 14:29:23,Max Mustermann,65.2,Produkt K,110.0,Firma6,Lager B,Lager H
+008,Bestellstatus im System ändern,2024-02-26 15:10:23,Leonie Richter,80.37,Produkt K,110.0,Firma6,Lager D,Lager C
+009,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Noah Becker,35.92,Produkt N,75.0,Firma11,Lager G,Lager C
+009,Kunden-Daten in System übertragen,2024-02-26 11:06:23,Nico Schmidt,36.51,Produkt N,75.0,Firma11,Lager J,Lager A
+009,Zahlvorgang abschließen,2024-02-26 11:50:23,Noah Becker,53.25,Produkt N,75.0,Firma11,Lager I,Lager C
+009,Bestellung im System eintragen,2024-02-26 12:33:23,Paul Zimmer,87.53,Produkt N,75.0,Firma11,Lager E,Lager D
+009,Lagerbestand überprüfen,2024-02-26 12:39:23,Max Mustermann,8.78,Produkt N,75.0,Firma11,Lager D,Lager I
+009,Auftragsabwicklung im System starten,2024-02-26 12:57:23,Hannah Meyer,51.45,Produkt N,75.0,Firma11,Lager E,Lager D
+009,Artikel zusammenstellen,2024-02-26 13:47:23,Emilia Wagner,7.57,Produkt N,75.0,Firma11,Lager C,Lager F
+009,Ware verpacken,2024-02-26 14:36:23,Hannah Meyer,98.24,Produkt N,75.0,Firma11,Lager B,Lager J
+009,Gewicht prüfen,2024-02-26 15:12:23,Emilia Wagner,25.05,Produkt N,75.0,Firma11,Lager D,Lager I
+009,Anzahl der Artikel überprüfen,2024-02-26 15:32:23,Lisa Schulz,96.95,Produkt N,75.0,Firma11,Lager I,Lager A
+009,Verpackung prüfen,2024-02-26 15:38:23,Jonas Richter,75.47,Produkt N,75.0,Firma11,Lager B,Lager I
+009,Fehler im System eintrgen,2024-02-26 16:07:23,Lisa Schulz,27.36,Produkt N,75.0,Firma11,Lager J,Lager A
+009,Bestandsverwaltung informieren,2024-02-26 16:10:23,Emma Weber,7.51,Produkt N,75.0,Firma11,Lager H,Lager E
+009,Lagerbestand überprüfen,2024-02-26 16:17:23,Laura Fischer,48.43,Produkt N,75.0,Firma11,Lager J,Lager G
+009,Auftragsabwicklung im System starten,2024-02-26 16:26:23,Mia Schmitt,49.86,Produkt N,75.0,Firma11,Lager G,Lager B
+009,Artikel zusammenstellen,2024-02-26 16:48:23,David Meyer,20.05,Produkt N,75.0,Firma11,Lager D,Lager J
+009,Ware verpacken,2024-02-26 16:51:23,Emilia Wagner,96.83,Produkt N,75.0,Firma11,Lager G,Lager J
+009,Gewicht prüfen,2024-02-26 17:16:23,Nico Schmidt,97.31,Produkt N,75.0,Firma11,Lager E,Lager J
+009,Anzahl der Artikel überprüfen,2024-02-26 17:21:23,Lisa Mueller,71.59,Produkt N,75.0,Firma11,Lager C,Lager D
+009,Verpackung prüfen,2024-02-26 18:18:23,Sarah Schmidt,49.84,Produkt N,75.0,Firma11,Lager A,Lager G
+009,Paket zur Warenausgabe bringen,2024-02-26 18:32:23,Lisa Schulz,57.59,Produkt N,75.0,Firma11,Lager H,Lager D
+009,Paket an Kunde übergeben,2024-02-26 19:18:23,Emilia Wagner,57.41,Produkt N,75.0,Firma11,Lager D,Lager G
+009,Bestellstatus im System ändern,2024-02-26 19:59:23,Luca Huber,19.73,Produkt N,75.0,Firma11,Lager H,Lager B
+010,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Emilia Wagner,74.31,Produkt N,75.0,Firma4,Lager E,Lager G
+010,Bestellung im System eintragen,2024-02-26 10:35:23,Nico Schmidt,10.9,Produkt N,75.0,Firma4,Lager B,Lager F
+010,Lagerbestand überprüfen,2024-02-26 11:19:23,Emilia Wagner,95.94,Produkt N,75.0,Firma4,Lager C,Lager F
+010,Auftragsabwicklung im System starten,2024-02-26 11:48:23,Lisa Schulz,67.53,Produkt N,75.0,Firma4,Lager C,Lager G
+010,Artikel zusammenstellen,2024-02-26 12:22:23,Max Mustermann,55.37,Produkt N,75.0,Firma4,Lager G,Lager B
+010,Ware verpacken,2024-02-26 13:19:23,Jan Becker,44.88,Produkt N,75.0,Firma4,Lager H,Lager G
+010,Gewicht prüfen,2024-02-26 14:10:23,Jan Becker,72.03,Produkt N,75.0,Firma4,Lager G,Lager D
+010,Anzahl der Artikel überprüfen,2024-02-26 14:49:23,Max Mustermann,13.34,Produkt N,75.0,Firma4,Lager C,Lager A
+010,Verpackung prüfen,2024-02-26 15:18:23,Emilia Wagner,70.7,Produkt N,75.0,Firma4,Lager F,Lager D
+010,Fehler im System eintrgen,2024-02-26 16:05:23,Lisa Schulz,61.17,Produkt N,75.0,Firma4,Lager I,Lager E
+010,Bestandsverwaltung informieren,2024-02-26 16:07:23,Jonas Richter,37.64,Produkt N,75.0,Firma4,Lager I,Lager G
+010,Lagerbestand überprüfen,2024-02-26 16:54:23,Laura Fischer,81.4,Produkt N,75.0,Firma4,Lager G,Lager F
+010,Auftragsabwicklung im System starten,2024-02-26 16:57:23,Emilia Wagner,18.22,Produkt N,75.0,Firma4,Lager D,Lager H
+010,Artikel zusammenstellen,2024-02-26 17:04:23,Mia Schmitt,59.49,Produkt N,75.0,Firma4,Lager B,Lager J
+010,Ware verpacken,2024-02-26 17:29:23,Paul Zimmer,19.64,Produkt N,75.0,Firma4,Lager H,Lager G
+010,Gewicht prüfen,2024-02-26 18:22:23,Hannah Meyer,12.37,Produkt N,75.0,Firma4,Lager J,Lager I
+010,Anzahl der Artikel überprüfen,2024-02-26 18:32:23,Sarah Schmidt,10.98,Produkt N,75.0,Firma4,Lager J,Lager I
+010,Verpackung prüfen,2024-02-26 18:39:23,Lisa Mueller,59.22,Produkt N,75.0,Firma4,Lager G,Lager F
+010,Paket zur Warenausgabe bringen,2024-02-26 19:37:23,Jan Becker,52.93,Produkt N,75.0,Firma4,Lager I,Lager E
+010,Zahlungsabwicklung durchführen,2024-02-26 20:23:23,Lisa Mueller,81.27,Produkt N,75.0,Firma4,Lager D,Lager C
+010,Paket an Kunde übergeben,2024-02-26 20:36:23,Jan Becker,85.3,Produkt N,75.0,Firma4,Lager B,Lager C
+010,Bestellstatus im System ändern,2024-02-26 21:29:23,Lisa Schulz,34.76,Produkt N,75.0,Firma4,Lager G,Lager E
+011,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,David Meyer,59.65,Produkt Q,110.0,Firma12,Lager F,Lager E
+011,Bestellung im System eintragen,2024-02-26 11:18:23,Lena Mueller,71.28,Produkt Q,110.0,Firma12,Lager G,Lager E
+011,Lagerbestand überprüfen,2024-02-26 12:10:23,Sarah Schmidt,45.65,Produkt Q,110.0,Firma12,Lager A,Lager I
+011,Artikel bestellen,2024-02-26 13:04:23,Emma Weber,89.62,Produkt Q,110.0,Firma12,Lager J,Lager E
+011,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:05:23,Mia Schmitt,73.04,Produkt Q,110.0,Firma12,Lager G,Lager I
+011,Auftragsabwicklung im System starten,2024-02-26 13:32:23,Emilia Wagner,5.48,Produkt Q,110.0,Firma12,Lager J,Lager C
+011,Artikel zusammenstellen,2024-02-26 13:58:23,Timo Wagner,46.59,Produkt Q,110.0,Firma12,Lager H,Lager E
+011,Ware verpacken,2024-02-26 14:14:23,Paul Zimmer,20.58,Produkt Q,110.0,Firma12,Lager A,Lager F
+011,Gewicht prüfen,2024-02-26 14:27:23,Sarah Schmidt,83.98,Produkt Q,110.0,Firma12,Lager A,Lager H
+011,Anzahl der Artikel überprüfen,2024-02-26 15:21:23,Hannah Meyer,83.3,Produkt Q,110.0,Firma12,Lager D,Lager C
+011,Verpackung prüfen,2024-02-26 15:54:23,Timo Wagner,55.93,Produkt Q,110.0,Firma12,Lager B,Lager C
+011,Paket zur Warenausgabe bringen,2024-02-26 15:57:23,Emma Weber,84.81,Produkt Q,110.0,Firma12,Lager G,Lager E
+011,Paket an Kunde übergeben,2024-02-26 16:08:23,Noah Becker,90.23,Produkt Q,110.0,Firma12,Lager G,Lager C
+011,Bestellstatus im System ändern,2024-02-26 16:46:23,Lisa Mueller,30.15,Produkt Q,110.0,Firma12,Lager B,Lager I
+012,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Emma Weber,24.82,Produkt T,85.0,Firma7,Lager E,Lager J
+012,Bestellung im System eintragen,2024-02-26 10:56:23,Sophia Lang,30.64,Produkt T,85.0,Firma7,Lager J,Lager J
+012,Lagerbestand überprüfen,2024-02-26 11:14:23,Mia Schmitt,89.64,Produkt T,85.0,Firma7,Lager H,Lager E
+012,Auftragsabwicklung im System starten,2024-02-26 11:50:23,Jan Becker,42.5,Produkt T,85.0,Firma7,Lager B,Lager G
+012,Artikel zusammenstellen,2024-02-26 12:18:23,Lena Mueller,52.47,Produkt T,85.0,Firma7,Lager G,Lager D
+012,Ware verpacken,2024-02-26 13:10:23,Hannah Meyer,5.71,Produkt T,85.0,Firma7,Lager D,Lager A
+012,Gewicht prüfen,2024-02-26 13:46:23,Hannah Meyer,13.85,Produkt T,85.0,Firma7,Lager I,Lager F
+012,Anzahl der Artikel überprüfen,2024-02-26 14:40:23,Sarah Schmidt,44.03,Produkt T,85.0,Firma7,Lager C,Lager J
+012,Verpackung prüfen,2024-02-26 15:35:23,Max Mustermann,55.05,Produkt T,85.0,Firma7,Lager I,Lager A
+012,Paket zur Warenausgabe bringen,2024-02-26 16:18:23,Max Mustermann,31.15,Produkt T,85.0,Firma7,Lager H,Lager D
+012,Paket an Kunde übergeben,2024-02-26 17:16:23,Lena Mueller,34.63,Produkt T,85.0,Firma7,Lager B,Lager I
+012,Bestellstatus im System ändern,2024-02-26 17:36:23,Max Mustermann,91.36,Produkt T,85.0,Firma7,Lager E,Lager E
+013,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lena Mueller,6.89,Produkt D,70.0,Firma11,Lager A,Lager J
+013,Kunden-Daten in System übertragen,2024-02-26 10:47:23,Paul Zimmer,72.81,Produkt D,70.0,Firma11,Lager D,Lager G
+013,Zahlvorgang abschließen,2024-02-26 11:17:23,Timo Wagner,41.91,Produkt D,70.0,Firma11,Lager B,Lager C
+013,Bestellung im System eintragen,2024-02-26 11:55:23,Emma Weber,65.37,Produkt D,70.0,Firma11,Lager B,Lager A
+013,Lagerbestand überprüfen,2024-02-26 12:43:23,Laura Fischer,35.86,Produkt D,70.0,Firma11,Lager G,Lager E
+013,Auftragsabwicklung im System starten,2024-02-26 13:31:23,David Meyer,36.64,Produkt D,70.0,Firma11,Lager H,Lager B
+013,Artikel zusammenstellen,2024-02-26 13:33:23,Nico Schmidt,15.47,Produkt D,70.0,Firma11,Lager G,Lager D
+013,Ware verpacken,2024-02-26 13:40:23,Max Mustermann,33.65,Produkt D,70.0,Firma11,Lager C,Lager F
+013,Gewicht prüfen,2024-02-26 13:57:23,Paul Zimmer,44.83,Produkt D,70.0,Firma11,Lager B,Lager I
+013,Anzahl der Artikel überprüfen,2024-02-26 14:33:23,Noah Becker,47.49,Produkt D,70.0,Firma11,Lager H,Lager C
+013,Verpackung prüfen,2024-02-26 14:34:23,David Meyer,63.96,Produkt D,70.0,Firma11,Lager H,Lager J
+013,Fehler im System eintrgen,2024-02-26 14:48:23,Luca Huber,9.38,Produkt D,70.0,Firma11,Lager F,Lager F
+013,Bestandsverwaltung informieren,2024-02-26 15:08:23,Emilia Wagner,34.65,Produkt D,70.0,Firma11,Lager E,Lager B
+013,Lagerbestand überprüfen,2024-02-26 15:56:23,Hannah Meyer,18.3,Produkt D,70.0,Firma11,Lager A,Lager J
+013,Auftragsabwicklung im System starten,2024-02-26 16:30:23,Emilia Wagner,13.51,Produkt D,70.0,Firma11,Lager F,Lager B
+013,Artikel zusammenstellen,2024-02-26 16:31:23,Noah Becker,42.63,Produkt D,70.0,Firma11,Lager A,Lager D
+013,Ware verpacken,2024-02-26 16:59:23,Hannah Meyer,57.56,Produkt D,70.0,Firma11,Lager F,Lager C
+013,Gewicht prüfen,2024-02-26 17:30:23,Emilia Wagner,39.53,Produkt D,70.0,Firma11,Lager D,Lager H
+013,Anzahl der Artikel überprüfen,2024-02-26 18:27:23,Mia Schmitt,75.15,Produkt D,70.0,Firma11,Lager B,Lager F
+013,Verpackung prüfen,2024-02-26 19:02:23,Emma Weber,84.87,Produkt D,70.0,Firma11,Lager J,Lager G
+013,Paket zur Warenausgabe bringen,2024-02-26 19:32:23,Paul Zimmer,9.56,Produkt D,70.0,Firma11,Lager A,Lager C
+013,Zahlungsabwicklung durchführen,2024-02-26 20:09:23,Nico Schmidt,87.91,Produkt D,70.0,Firma11,Lager C,Lager F
+013,Paket an Kunde übergeben,2024-02-26 21:00:23,David Meyer,15.27,Produkt D,70.0,Firma11,Lager A,Lager I
+013,Bestellstatus im System ändern,2024-02-26 21:40:23,Lisa Mueller,46.36,Produkt D,70.0,Firma11,Lager H,Lager J
+014,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emilia Wagner,30.19,Produkt O,120.0,Firma11,Lager H,Lager F
+014,Kunden-Daten in System übertragen,2024-02-26 10:42:23,Laura Fischer,84.96,Produkt O,120.0,Firma11,Lager A,Lager F
+014,Zahlvorgang abschließen,2024-02-26 11:42:23,Luca Huber,61.94,Produkt O,120.0,Firma11,Lager C,Lager D
+014,Bestellung im System eintragen,2024-02-26 12:16:23,David Meyer,67.14,Produkt O,120.0,Firma11,Lager I,Lager G
+014,Lagerbestand überprüfen,2024-02-26 12:55:23,Timo Wagner,31.96,Produkt O,120.0,Firma11,Lager C,Lager J
+014,Auftragsabwicklung im System starten,2024-02-26 13:18:23,Paul Zimmer,32.17,Produkt O,120.0,Firma11,Lager J,Lager F
+014,Artikel zusammenstellen,2024-02-26 13:50:23,Emma Weber,89.49,Produkt O,120.0,Firma11,Lager B,Lager B
+014,Ware verpacken,2024-02-26 14:30:23,Lisa Schulz,14.66,Produkt O,120.0,Firma11,Lager J,Lager H
+014,Gewicht prüfen,2024-02-26 15:05:23,Emilia Wagner,89.9,Produkt O,120.0,Firma11,Lager F,Lager E
+014,Anzahl der Artikel überprüfen,2024-02-26 15:57:23,Max Mustermann,63.06,Produkt O,120.0,Firma11,Lager H,Lager A
+014,Verpackung prüfen,2024-02-26 16:50:23,Luca Huber,76.2,Produkt O,120.0,Firma11,Lager C,Lager A
+014,Fehler im System eintrgen,2024-02-26 17:10:23,Leonie Richter,84.2,Produkt O,120.0,Firma11,Lager J,Lager G
+014,Bestandsverwaltung informieren,2024-02-26 17:26:23,Laura Fischer,70.48,Produkt O,120.0,Firma11,Lager A,Lager H
+014,Lagerbestand überprüfen,2024-02-26 17:46:23,Jan Becker,26.76,Produkt O,120.0,Firma11,Lager I,Lager I
+014,Auftragsabwicklung im System starten,2024-02-26 18:24:23,Lisa Mueller,22.81,Produkt O,120.0,Firma11,Lager F,Lager H
+014,Artikel zusammenstellen,2024-02-26 18:59:23,Jan Becker,12.15,Produkt O,120.0,Firma11,Lager B,Lager F
+014,Ware verpacken,2024-02-26 19:04:23,Emilia Wagner,92.21,Produkt O,120.0,Firma11,Lager D,Lager I
+014,Gewicht prüfen,2024-02-26 19:57:23,Mia Schmitt,25.61,Produkt O,120.0,Firma11,Lager F,Lager B
+014,Anzahl der Artikel überprüfen,2024-02-26 20:39:23,David Meyer,98.63,Produkt O,120.0,Firma11,Lager J,Lager A
+014,Verpackung prüfen,2024-02-26 21:03:23,Laura Fischer,17.57,Produkt O,120.0,Firma11,Lager I,Lager C
+014,Bezahlaufforderung an Kunde schicken,2024-02-26 21:21:23,David Meyer,9.89,Produkt O,120.0,Firma11,Lager E,Lager A
+014,Informationen an Transporteur übermitteln,2024-02-26 21:40:23,Lena Mueller,64.0,Produkt O,120.0,Firma11,Lager C,Lager J
+014,Paket an Transporteur übergeben,2024-02-26 22:03:23,Lena Mueller,6.87,Produkt O,120.0,Firma11,Lager G,Lager D
+014,Bestellstatus im System ändern,2024-02-26 22:15:23,Laura Fischer,25.9,Produkt O,120.0,Firma11,Lager A,Lager H
+015,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Max Mustermann,62.87,Produkt G,95.0,Firma10,Lager J,Lager I
+015,Kunden-Daten in System übertragen,2024-02-26 10:46:23,Jonas Richter,13.42,Produkt G,95.0,Firma10,Lager D,Lager F
+015,Zahlvorgang abschließen,2024-02-26 11:13:23,Lisa Mueller,65.94,Produkt G,95.0,Firma10,Lager F,Lager E
+015,Bestellung im System eintragen,2024-02-26 11:44:23,Lisa Schulz,43.7,Produkt G,95.0,Firma10,Lager E,Lager H
+015,Lagerbestand überprüfen,2024-02-26 11:55:23,Emilia Wagner,88.0,Produkt G,95.0,Firma10,Lager D,Lager C
+015,Auftragsabwicklung im System starten,2024-02-26 12:17:23,David Meyer,96.44,Produkt G,95.0,Firma10,Lager B,Lager H
+015,Artikel zusammenstellen,2024-02-26 12:52:23,Leonie Richter,91.19,Produkt G,95.0,Firma10,Lager F,Lager C
+015,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:39:23,Nico Schmidt,74.93,Produkt G,95.0,Firma10,Lager J,Lager J
+015,Ware verpacken,2024-02-26 13:59:23,Sarah Schmidt,57.87,Produkt G,95.0,Firma10,Lager G,Lager D
+015,Gewicht prüfen,2024-02-26 14:44:23,Sophia Lang,95.54,Produkt G,95.0,Firma10,Lager F,Lager B
+015,Anzahl der Artikel überprüfen,2024-02-26 15:44:23,Mia Schmitt,47.79,Produkt G,95.0,Firma10,Lager H,Lager H
+015,Verpackung prüfen,2024-02-26 16:19:23,David Meyer,76.8,Produkt G,95.0,Firma10,Lager D,Lager F
+015,Bezahlaufforderung an Kunde schicken,2024-02-26 16:26:23,Laura Fischer,19.46,Produkt G,95.0,Firma10,Lager B,Lager B
+015,Informationen an Transporteur übermitteln,2024-02-26 17:09:23,Sophia Lang,66.64,Produkt G,95.0,Firma10,Lager I,Lager I
+015,Paket an Transporteur übergeben,2024-02-26 18:08:23,Leonie Richter,52.73,Produkt G,95.0,Firma10,Lager J,Lager E
+015,Bestellstatus im System ändern,2024-02-26 18:39:23,Jan Becker,50.58,Produkt G,95.0,Firma10,Lager C,Lager G
+016,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Mueller,11.69,Produkt E,150.0,Firma16,Lager G,Lager E
+016,Kunden-Daten in System übertragen,2024-02-26 11:07:23,Luca Huber,40.65,Produkt E,150.0,Firma16,Lager G,Lager H
+016,Zahlvorgang abschließen,2024-02-26 11:14:23,Lisa Schulz,61.63,Produkt E,150.0,Firma16,Lager A,Lager I
+016,Bestellung im System eintragen,2024-02-26 12:11:23,Sarah Schmidt,77.27,Produkt E,150.0,Firma16,Lager J,Lager J
+016,Lagerbestand überprüfen,2024-02-26 12:59:23,Luca Huber,11.6,Produkt E,150.0,Firma16,Lager B,Lager F
+016,Auftragsabwicklung im System starten,2024-02-26 13:08:23,Nico Schmidt,77.32,Produkt E,150.0,Firma16,Lager H,Lager C
+016,Artikel zusammenstellen,2024-02-26 14:01:23,Laura Fischer,63.94,Produkt E,150.0,Firma16,Lager C,Lager C
+016,Ware verpacken,2024-02-26 14:10:23,Laura Fischer,13.35,Produkt E,150.0,Firma16,Lager B,Lager E
+016,Gewicht prüfen,2024-02-26 14:57:23,Jan Becker,79.78,Produkt E,150.0,Firma16,Lager J,Lager J
+016,Anzahl der Artikel überprüfen,2024-02-26 15:35:23,Jan Becker,74.45,Produkt E,150.0,Firma16,Lager F,Lager B
+016,Verpackung prüfen,2024-02-26 16:23:23,Noah Becker,81.78,Produkt E,150.0,Firma16,Lager J,Lager F
+016,Paket zur Warenausgabe bringen,2024-02-26 16:43:23,Lena Mueller,66.58,Produkt E,150.0,Firma16,Lager B,Lager I
+016,Zahlungsabwicklung durchführen,2024-02-26 16:46:23,Emma Weber,24.11,Produkt E,150.0,Firma16,Lager D,Lager E
+016,Paket an Kunde übergeben,2024-02-26 17:36:23,Emma Weber,16.36,Produkt E,150.0,Firma16,Lager F,Lager A
+016,Bestellstatus im System ändern,2024-02-26 17:39:23,Hannah Meyer,58.41,Produkt E,150.0,Firma16,Lager D,Lager A
+017,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Emilia Wagner,76.19,Produkt H,130.0,Firma11,Lager A,Lager B
+017,Bestellung im System eintragen,2024-02-26 10:29:23,Laura Fischer,24.54,Produkt H,130.0,Firma11,Lager H,Lager B
+017,Lagerbestand überprüfen,2024-02-26 11:11:23,Leonie Richter,49.76,Produkt H,130.0,Firma11,Lager H,Lager I
+017,Auftragsabwicklung im System starten,2024-02-26 11:21:23,Leonie Richter,81.45,Produkt H,130.0,Firma11,Lager B,Lager I
+017,Artikel zusammenstellen,2024-02-26 11:50:23,Timo Wagner,31.76,Produkt H,130.0,Firma11,Lager H,Lager I
+017,Ware verpacken,2024-02-26 12:10:23,Leonie Richter,72.86,Produkt H,130.0,Firma11,Lager E,Lager A
+017,Gewicht prüfen,2024-02-26 12:31:23,Mia Schmitt,81.03,Produkt H,130.0,Firma11,Lager H,Lager J
+017,Anzahl der Artikel überprüfen,2024-02-26 13:22:23,Mia Schmitt,53.65,Produkt H,130.0,Firma11,Lager G,Lager I
+017,Verpackung prüfen,2024-02-26 13:54:23,Paul Zimmer,57.49,Produkt H,130.0,Firma11,Lager E,Lager G
+017,Paket zur Warenausgabe bringen,2024-02-26 14:15:23,Emilia Wagner,5.68,Produkt H,130.0,Firma11,Lager J,Lager E
+017,Paket an Kunde übergeben,2024-02-26 14:46:23,Emilia Wagner,98.09,Produkt H,130.0,Firma11,Lager G,Lager J
+017,Bestellstatus im System ändern,2024-02-26 15:32:23,Leonie Richter,39.98,Produkt H,130.0,Firma11,Lager C,Lager F
+018,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Mueller,65.61,Produkt C,80.0,Firma6,Lager C,Lager F
+018,Kunden-Daten in System übertragen,2024-02-26 11:00:23,Timo Wagner,53.64,Produkt C,80.0,Firma6,Lager E,Lager A
+018,Zahlvorgang abschließen,2024-02-26 11:24:23,Mia Schmitt,22.15,Produkt C,80.0,Firma6,Lager D,Lager D
+018,Bestellung im System eintragen,2024-02-26 12:18:23,Sophia Lang,53.6,Produkt C,80.0,Firma6,Lager G,Lager G
+018,Lagerbestand überprüfen,2024-02-26 12:20:23,Sophia Lang,83.6,Produkt C,80.0,Firma6,Lager I,Lager I
+018,Auftragsabwicklung im System starten,2024-02-26 13:08:23,Max Mustermann,37.81,Produkt C,80.0,Firma6,Lager I,Lager A
+018,Artikel zusammenstellen,2024-02-26 14:04:23,Max Mustermann,45.45,Produkt C,80.0,Firma6,Lager B,Lager A
+018,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:12:23,Paul Zimmer,41.77,Produkt C,80.0,Firma6,Lager D,Lager E
+018,Ware verpacken,2024-02-26 14:19:23,Luca Huber,8.2,Produkt C,80.0,Firma6,Lager E,Lager I
+018,Gewicht prüfen,2024-02-26 14:44:23,Sarah Schmidt,50.45,Produkt C,80.0,Firma6,Lager B,Lager H
+018,Anzahl der Artikel überprüfen,2024-02-26 15:20:23,David Meyer,8.06,Produkt C,80.0,Firma6,Lager F,Lager G
+018,Verpackung prüfen,2024-02-26 15:23:23,Nico Schmidt,70.25,Produkt C,80.0,Firma6,Lager F,Lager A
+018,Informationen an Transporteur übermitteln,2024-02-26 15:34:23,Mia Schmitt,17.35,Produkt C,80.0,Firma6,Lager E,Lager A
+018,Paket an Transporteur übergeben,2024-02-26 16:30:23,Mia Schmitt,20.96,Produkt C,80.0,Firma6,Lager E,Lager F
+018,Bestellstatus im System ändern,2024-02-26 17:23:23,Sarah Schmidt,40.45,Produkt C,80.0,Firma6,Lager D,Lager H
+019,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Luca Huber,60.41,Produkt R,130.0,Firma17,Lager E,Lager H
+019,Bestellung im System eintragen,2024-02-26 11:15:23,Emilia Wagner,70.23,Produkt R,130.0,Firma17,Lager I,Lager D
+019,Lagerbestand überprüfen,2024-02-26 11:51:23,Lena Mueller,13.79,Produkt R,130.0,Firma17,Lager F,Lager D
+019,Auftragsabwicklung im System starten,2024-02-26 12:28:23,David Meyer,32.37,Produkt R,130.0,Firma17,Lager H,Lager H
+019,Artikel zusammenstellen,2024-02-26 13:11:23,Jonas Richter,28.61,Produkt R,130.0,Firma17,Lager C,Lager J
+019,Ware verpacken,2024-02-26 13:36:23,Paul Zimmer,88.16,Produkt R,130.0,Firma17,Lager B,Lager B
+019,Gewicht prüfen,2024-02-26 13:41:23,Lisa Schulz,84.34,Produkt R,130.0,Firma17,Lager G,Lager A
+019,Anzahl der Artikel überprüfen,2024-02-26 14:19:23,Emilia Wagner,98.78,Produkt R,130.0,Firma17,Lager I,Lager H
+019,Verpackung prüfen,2024-02-26 14:59:23,Emma Weber,25.26,Produkt R,130.0,Firma17,Lager A,Lager D
+019,Paket zur Warenausgabe bringen,2024-02-26 15:02:23,Sophia Lang,22.45,Produkt R,130.0,Firma17,Lager H,Lager I
+019,Paket an Kunde übergeben,2024-02-26 15:47:23,Sarah Schmidt,52.88,Produkt R,130.0,Firma17,Lager H,Lager H
+019,Bestellstatus im System ändern,2024-02-26 16:37:23,Sophia Lang,18.7,Produkt R,130.0,Firma17,Lager I,Lager E
+020,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Luca Huber,46.78,Produkt E,150.0,Firma5,Lager B,Lager J
+020,Kunden-Daten in System übertragen,2024-02-26 11:23:23,Nico Schmidt,38.46,Produkt E,150.0,Firma5,Lager E,Lager B
+020,Zahlvorgang abschließen,2024-02-26 11:50:23,Leonie Richter,10.75,Produkt E,150.0,Firma5,Lager B,Lager G
+020,Bestellung im System eintragen,2024-02-26 12:21:23,Lisa Mueller,34.44,Produkt E,150.0,Firma5,Lager B,Lager I
+020,Lagerbestand überprüfen,2024-02-26 12:32:23,Hannah Meyer,40.74,Produkt E,150.0,Firma5,Lager A,Lager C
+020,Artikel bestellen,2024-02-26 13:31:23,Emma Weber,19.39,Produkt E,150.0,Firma5,Lager I,Lager F
+020,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:10:23,Lena Mueller,98.26,Produkt E,150.0,Firma5,Lager D,Lager E
+020,Auftragsabwicklung im System starten,2024-02-26 14:28:23,Nico Schmidt,61.72,Produkt E,150.0,Firma5,Lager D,Lager G
+020,Artikel zusammenstellen,2024-02-26 14:49:23,Jan Becker,57.47,Produkt E,150.0,Firma5,Lager E,Lager D
+020,Ware verpacken,2024-02-26 15:24:23,Max Mustermann,17.88,Produkt E,150.0,Firma5,Lager F,Lager G
+020,Gewicht prüfen,2024-02-26 15:48:23,David Meyer,58.23,Produkt E,150.0,Firma5,Lager G,Lager I
+020,Anzahl der Artikel überprüfen,2024-02-26 16:38:23,Emma Weber,31.7,Produkt E,150.0,Firma5,Lager E,Lager C
+020,Verpackung prüfen,2024-02-26 17:11:23,Sophia Lang,70.41,Produkt E,150.0,Firma5,Lager C,Lager B
+020,Paket zur Warenausgabe bringen,2024-02-26 17:59:23,Mia Schmitt,71.81,Produkt E,150.0,Firma5,Lager F,Lager I
+020,Zahlungsabwicklung durchführen,2024-02-26 18:26:23,Emma Weber,75.18,Produkt E,150.0,Firma5,Lager J,Lager A
+020,Paket an Kunde übergeben,2024-02-26 18:37:23,Lena Mueller,61.9,Produkt E,150.0,Firma5,Lager A,Lager E
+020,Bestellstatus im System ändern,2024-02-26 18:46:23,Nico Schmidt,12.1,Produkt E,150.0,Firma5,Lager F,Lager C
+021,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,7.57,Produkt H,130.0,Firma1,Lager C,Lager I
+021,Kunden-Daten in System übertragen,2024-02-26 11:04:23,Max Mustermann,40.81,Produkt H,130.0,Firma1,Lager I,Lager F
+021,Zahlvorgang abschließen,2024-02-26 11:51:23,Leonie Richter,42.97,Produkt H,130.0,Firma1,Lager G,Lager F
+021,Bestellung im System eintragen,2024-02-26 12:47:23,Nico Schmidt,21.17,Produkt H,130.0,Firma1,Lager C,Lager E
+021,Lagerbestand überprüfen,2024-02-26 13:40:23,Jonas Richter,93.14,Produkt H,130.0,Firma1,Lager D,Lager E
+021,Auftragsabwicklung im System starten,2024-02-26 14:08:23,Sophia Lang,80.04,Produkt H,130.0,Firma1,Lager I,Lager B
+021,Artikel zusammenstellen,2024-02-26 15:07:23,Emilia Wagner,53.28,Produkt H,130.0,Firma1,Lager G,Lager C
+021,Ware verpacken,2024-02-26 15:38:23,Emma Weber,27.43,Produkt H,130.0,Firma1,Lager B,Lager F
+021,Gewicht prüfen,2024-02-26 16:17:23,Hannah Meyer,63.48,Produkt H,130.0,Firma1,Lager C,Lager C
+021,Anzahl der Artikel überprüfen,2024-02-26 16:30:23,Timo Wagner,19.65,Produkt H,130.0,Firma1,Lager J,Lager D
+021,Verpackung prüfen,2024-02-26 17:05:23,Timo Wagner,21.34,Produkt H,130.0,Firma1,Lager F,Lager A
+021,Paket zur Warenausgabe bringen,2024-02-26 17:14:23,Timo Wagner,33.75,Produkt H,130.0,Firma1,Lager D,Lager A
+021,Zahlungsabwicklung durchführen,2024-02-26 17:47:23,Noah Becker,72.77,Produkt H,130.0,Firma1,Lager A,Lager D
+021,Paket an Kunde übergeben,2024-02-26 17:54:23,Paul Zimmer,70.04,Produkt H,130.0,Firma1,Lager A,Lager C
+021,Bestellstatus im System ändern,2024-02-26 18:31:23,David Meyer,10.39,Produkt H,130.0,Firma1,Lager D,Lager F
+022,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Jonas Richter,29.82,Produkt R,130.0,Firma4,Lager E,Lager H
+022,Kunden-Daten in System übertragen,2024-02-26 11:09:23,Leonie Richter,80.53,Produkt R,130.0,Firma4,Lager B,Lager E
+022,Zahlvorgang abschließen,2024-02-26 11:38:23,Paul Zimmer,20.17,Produkt R,130.0,Firma4,Lager J,Lager D
+022,Bestellung im System eintragen,2024-02-26 12:06:23,Max Mustermann,53.97,Produkt R,130.0,Firma4,Lager F,Lager G
+022,Lagerbestand überprüfen,2024-02-26 12:28:23,Jan Becker,83.25,Produkt R,130.0,Firma4,Lager E,Lager C
+022,Artikel bestellen,2024-02-26 12:44:23,Emilia Wagner,36.82,Produkt R,130.0,Firma4,Lager F,Lager G
+022,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:37:23,Hannah Meyer,23.23,Produkt R,130.0,Firma4,Lager D,Lager A
+022,Auftragsabwicklung im System starten,2024-02-26 14:18:23,Jonas Richter,8.52,Produkt R,130.0,Firma4,Lager B,Lager E
+022,Artikel zusammenstellen,2024-02-26 14:47:23,Nico Schmidt,7.38,Produkt R,130.0,Firma4,Lager I,Lager E
+022,Ware verpacken,2024-02-26 15:30:23,Mia Schmitt,24.9,Produkt R,130.0,Firma4,Lager F,Lager G
+022,Gewicht prüfen,2024-02-26 16:09:23,Laura Fischer,64.1,Produkt R,130.0,Firma4,Lager C,Lager B
+022,Anzahl der Artikel überprüfen,2024-02-26 16:52:23,Sarah Schmidt,20.65,Produkt R,130.0,Firma4,Lager C,Lager F
+022,Verpackung prüfen,2024-02-26 17:52:23,Luca Huber,44.22,Produkt R,130.0,Firma4,Lager F,Lager I
+022,Paket zur Warenausgabe bringen,2024-02-26 18:31:23,Nico Schmidt,81.8,Produkt R,130.0,Firma4,Lager G,Lager F
+022,Paket an Kunde übergeben,2024-02-26 18:58:23,Leonie Richter,72.31,Produkt R,130.0,Firma4,Lager G,Lager I
+022,Bestellstatus im System ändern,2024-02-26 19:23:23,Lisa Mueller,43.01,Produkt R,130.0,Firma4,Lager C,Lager A
+023,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Noah Becker,85.13,Produkt D,70.0,Firma10,Lager A,Lager E
+023,Kunden-Daten in System übertragen,2024-02-26 11:05:23,Lena Mueller,46.17,Produkt D,70.0,Firma10,Lager H,Lager C
+023,Zahlvorgang abschließen,2024-02-26 11:21:23,Noah Becker,44.64,Produkt D,70.0,Firma10,Lager H,Lager C
+023,Bestellung im System eintragen,2024-02-26 11:38:23,Lisa Schulz,98.32,Produkt D,70.0,Firma10,Lager D,Lager H
+023,Lagerbestand überprüfen,2024-02-26 11:59:23,Timo Wagner,35.98,Produkt D,70.0,Firma10,Lager F,Lager D
+023,Auftragsabwicklung im System starten,2024-02-26 12:41:23,Emilia Wagner,12.29,Produkt D,70.0,Firma10,Lager I,Lager A
+023,Artikel zusammenstellen,2024-02-26 12:56:23,Nico Schmidt,25.21,Produkt D,70.0,Firma10,Lager A,Lager E
+023,Ware verpacken,2024-02-26 13:19:23,Noah Becker,66.61,Produkt D,70.0,Firma10,Lager F,Lager B
+023,Gewicht prüfen,2024-02-26 14:01:23,Lisa Schulz,93.92,Produkt D,70.0,Firma10,Lager I,Lager D
+023,Anzahl der Artikel überprüfen,2024-02-26 14:18:23,Lisa Schulz,16.32,Produkt D,70.0,Firma10,Lager B,Lager H
+023,Verpackung prüfen,2024-02-26 14:59:23,Lena Mueller,16.76,Produkt D,70.0,Firma10,Lager G,Lager A
+023,Fehler im System eintrgen,2024-02-26 15:20:23,Lena Mueller,71.68,Produkt D,70.0,Firma10,Lager C,Lager C
+023,Bestandsverwaltung informieren,2024-02-26 15:21:23,Nico Schmidt,7.45,Produkt D,70.0,Firma10,Lager I,Lager B
+023,Lagerbestand überprüfen,2024-02-26 15:57:23,Emma Weber,39.49,Produkt D,70.0,Firma10,Lager G,Lager A
+023,Auftragsabwicklung im System starten,2024-02-26 16:25:23,Jan Becker,95.1,Produkt D,70.0,Firma10,Lager B,Lager J
+023,Artikel zusammenstellen,2024-02-26 16:55:23,Lena Mueller,83.88,Produkt D,70.0,Firma10,Lager E,Lager G
+023,Ware verpacken,2024-02-26 17:13:23,David Meyer,21.19,Produkt D,70.0,Firma10,Lager H,Lager F
+023,Gewicht prüfen,2024-02-26 17:33:23,Luca Huber,77.05,Produkt D,70.0,Firma10,Lager G,Lager E
+023,Anzahl der Artikel überprüfen,2024-02-26 17:42:23,Noah Becker,81.77,Produkt D,70.0,Firma10,Lager C,Lager I
+023,Verpackung prüfen,2024-02-26 18:17:23,Leonie Richter,77.08,Produkt D,70.0,Firma10,Lager I,Lager C
+023,Informationen an Transporteur übermitteln,2024-02-26 19:05:23,Sophia Lang,46.23,Produkt D,70.0,Firma10,Lager H,Lager B
+023,Paket an Transporteur übergeben,2024-02-26 19:37:23,David Meyer,30.65,Produkt D,70.0,Firma10,Lager I,Lager F
+023,Bestellstatus im System ändern,2024-02-26 19:44:23,Max Mustermann,38.44,Produkt D,70.0,Firma10,Lager I,Lager C
+024,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,74.64,Produkt D,70.0,Firma7,Lager I,Lager G
+024,Kunden-Daten in System übertragen,2024-02-26 10:53:23,Laura Fischer,75.84,Produkt D,70.0,Firma7,Lager B,Lager D
+024,Zahlvorgang abschließen,2024-02-26 11:03:23,Mia Schmitt,81.31,Produkt D,70.0,Firma7,Lager J,Lager A
+024,Bestellung im System eintragen,2024-02-26 11:51:23,Paul Zimmer,33.13,Produkt D,70.0,Firma7,Lager J,Lager F
+024,Lagerbestand überprüfen,2024-02-26 12:14:23,Jan Becker,24.31,Produkt D,70.0,Firma7,Lager H,Lager E
+024,Auftragsabwicklung im System starten,2024-02-26 13:10:23,Leonie Richter,89.49,Produkt D,70.0,Firma7,Lager D,Lager I
+024,Artikel zusammenstellen,2024-02-26 13:16:23,Lisa Schulz,27.01,Produkt D,70.0,Firma7,Lager C,Lager C
+024,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:40:23,Luca Huber,61.86,Produkt D,70.0,Firma7,Lager D,Lager H
+024,Ware verpacken,2024-02-26 13:51:23,Mia Schmitt,38.55,Produkt D,70.0,Firma7,Lager I,Lager E
+024,Gewicht prüfen,2024-02-26 14:20:23,Nico Schmidt,60.32,Produkt D,70.0,Firma7,Lager I,Lager F
+024,Anzahl der Artikel überprüfen,2024-02-26 15:10:23,Laura Fischer,30.78,Produkt D,70.0,Firma7,Lager C,Lager I
+024,Verpackung prüfen,2024-02-26 15:34:23,Sarah Schmidt,96.02,Produkt D,70.0,Firma7,Lager C,Lager E
+024,Paket zur Warenausgabe bringen,2024-02-26 16:26:23,Sophia Lang,11.57,Produkt D,70.0,Firma7,Lager B,Lager A
+024,Zahlungsabwicklung durchführen,2024-02-26 16:34:23,Paul Zimmer,72.79,Produkt D,70.0,Firma7,Lager F,Lager J
+024,Paket an Kunde übergeben,2024-02-26 17:04:23,Jan Becker,63.85,Produkt D,70.0,Firma7,Lager I,Lager D
+024,Bestellstatus im System ändern,2024-02-26 17:12:23,David Meyer,37.38,Produkt D,70.0,Firma7,Lager H,Lager G
+025,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Leonie Richter,69.94,Produkt L,140.0,Firma5,Lager E,Lager A
+025,Bestellung im System eintragen,2024-02-26 11:27:23,Lisa Schulz,70.5,Produkt L,140.0,Firma5,Lager C,Lager D
+025,Lagerbestand überprüfen,2024-02-26 12:00:23,Noah Becker,17.62,Produkt L,140.0,Firma5,Lager C,Lager B
+025,Artikel bestellen,2024-02-26 12:48:23,Mia Schmitt,96.43,Produkt L,140.0,Firma5,Lager G,Lager C
+025,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:38:23,Leonie Richter,76.38,Produkt L,140.0,Firma5,Lager B,Lager D
+025,Auftragsabwicklung im System starten,2024-02-26 13:46:23,David Meyer,17.82,Produkt L,140.0,Firma5,Lager E,Lager J
+025,Artikel zusammenstellen,2024-02-26 14:17:23,Luca Huber,58.57,Produkt L,140.0,Firma5,Lager D,Lager E
+025,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:39:23,David Meyer,97.77,Produkt L,140.0,Firma5,Lager F,Lager E
+025,Ware verpacken,2024-02-26 14:46:23,Lena Mueller,5.33,Produkt L,140.0,Firma5,Lager B,Lager H
+025,Gewicht prüfen,2024-02-26 15:12:23,Emma Weber,94.37,Produkt L,140.0,Firma5,Lager D,Lager A
+025,Anzahl der Artikel überprüfen,2024-02-26 16:00:23,Jonas Richter,61.63,Produkt L,140.0,Firma5,Lager J,Lager G
+025,Verpackung prüfen,2024-02-26 16:28:23,Laura Fischer,55.27,Produkt L,140.0,Firma5,Lager D,Lager E
+025,Informationen an Transporteur übermitteln,2024-02-26 16:51:23,Sarah Schmidt,34.79,Produkt L,140.0,Firma5,Lager B,Lager H
+025,Paket an Transporteur übergeben,2024-02-26 17:28:23,Lena Mueller,77.66,Produkt L,140.0,Firma5,Lager B,Lager B
+025,Bestellstatus im System ändern,2024-02-26 18:02:23,Leonie Richter,32.26,Produkt L,140.0,Firma5,Lager H,Lager F
+026,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Noah Becker,35.74,Produkt J,75.0,Firma5,Lager A,Lager B
+026,Kunden-Daten in System übertragen,2024-02-26 10:50:23,Sophia Lang,91.03,Produkt J,75.0,Firma5,Lager E,Lager B
+026,Zahlvorgang abschließen,2024-02-26 11:41:23,Timo Wagner,36.05,Produkt J,75.0,Firma5,Lager D,Lager G
+026,Bestellung im System eintragen,2024-02-26 12:09:23,David Meyer,44.92,Produkt J,75.0,Firma5,Lager G,Lager D
+026,Lagerbestand überprüfen,2024-02-26 12:56:23,Emilia Wagner,63.17,Produkt J,75.0,Firma5,Lager I,Lager D
+026,Auftragsabwicklung im System starten,2024-02-26 13:25:23,Lisa Schulz,65.14,Produkt J,75.0,Firma5,Lager E,Lager D
+026,Artikel zusammenstellen,2024-02-26 13:44:23,Emilia Wagner,69.33,Produkt J,75.0,Firma5,Lager H,Lager J
+026,Ware verpacken,2024-02-26 14:04:23,Lena Mueller,77.55,Produkt J,75.0,Firma5,Lager G,Lager E
+026,Gewicht prüfen,2024-02-26 14:27:23,Laura Fischer,42.26,Produkt J,75.0,Firma5,Lager B,Lager A
+026,Anzahl der Artikel überprüfen,2024-02-26 15:25:23,Emma Weber,8.76,Produkt J,75.0,Firma5,Lager B,Lager I
+026,Verpackung prüfen,2024-02-26 15:27:23,Jonas Richter,49.62,Produkt J,75.0,Firma5,Lager H,Lager I
+026,Bezahlaufforderung an Kunde schicken,2024-02-26 16:10:23,Luca Huber,45.87,Produkt J,75.0,Firma5,Lager J,Lager C
+026,Informationen an Transporteur übermitteln,2024-02-26 16:41:23,Nico Schmidt,32.7,Produkt J,75.0,Firma5,Lager I,Lager B
+026,Paket an Transporteur übergeben,2024-02-26 17:03:23,Paul Zimmer,87.35,Produkt J,75.0,Firma5,Lager I,Lager D
+026,Bestellstatus im System ändern,2024-02-26 17:43:23,Paul Zimmer,67.46,Produkt J,75.0,Firma5,Lager D,Lager J
+027,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Lisa Schulz,66.03,Produkt G,95.0,Firma13,Lager C,Lager A
+027,Fehlende Daten ermitteln,2024-02-26 11:20:23,Sophia Lang,57.49,Produkt G,95.0,Firma13,Lager H,Lager H
+027,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:33:23,Leonie Richter,23.62,Produkt G,95.0,Firma13,Lager D,Lager G
+027,Bestellung im System eintragen,2024-02-26 12:28:23,Sarah Schmidt,5.03,Produkt G,95.0,Firma13,Lager E,Lager H
+027,Lagerbestand überprüfen,2024-02-26 12:49:23,Emilia Wagner,20.32,Produkt G,95.0,Firma13,Lager F,Lager A
+027,Artikel bestellen,2024-02-26 12:55:23,Timo Wagner,77.69,Produkt G,95.0,Firma13,Lager E,Lager F
+027,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:18:23,Laura Fischer,96.63,Produkt G,95.0,Firma13,Lager A,Lager B
+027,Auftragsabwicklung im System starten,2024-02-26 13:24:23,Nico Schmidt,66.75,Produkt G,95.0,Firma13,Lager J,Lager H
+027,Artikel zusammenstellen,2024-02-26 14:23:23,Noah Becker,39.58,Produkt G,95.0,Firma13,Lager A,Lager I
+027,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:45:23,David Meyer,83.85,Produkt G,95.0,Firma13,Lager D,Lager A
+027,Ware verpacken,2024-02-26 15:15:23,Laura Fischer,29.57,Produkt G,95.0,Firma13,Lager F,Lager J
+027,Gewicht prüfen,2024-02-26 15:44:23,Luca Huber,98.49,Produkt G,95.0,Firma13,Lager B,Lager C
+027,Anzahl der Artikel überprüfen,2024-02-26 16:08:23,Lena Mueller,60.67,Produkt G,95.0,Firma13,Lager J,Lager I
+027,Verpackung prüfen,2024-02-26 16:09:23,Noah Becker,63.04,Produkt G,95.0,Firma13,Lager I,Lager H
+027,Informationen an Transporteur übermitteln,2024-02-26 16:55:23,Lisa Schulz,64.76,Produkt G,95.0,Firma13,Lager G,Lager I
+027,Paket an Transporteur übergeben,2024-02-26 17:11:23,Timo Wagner,85.86,Produkt G,95.0,Firma13,Lager F,Lager G
+027,Bestellstatus im System ändern,2024-02-26 17:17:23,Sophia Lang,93.36,Produkt G,95.0,Firma13,Lager I,Lager D
+028,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Schulz,94.98,Produkt B,120.0,Firma3,Lager A,Lager A
+028,Kunden-Daten in System übertragen,2024-02-26 10:31:23,Lena Mueller,87.3,Produkt B,120.0,Firma3,Lager J,Lager C
+028,Rechnungsadesse aufnehmen,2024-02-26 10:38:23,Paul Zimmer,45.6,Produkt B,120.0,Firma3,Lager J,Lager G
+028,Rechnungsadesse im System eintragen,2024-02-26 11:26:23,Sophia Lang,57.02,Produkt B,120.0,Firma3,Lager G,Lager I
+028,Bestellung im System eintragen,2024-02-26 12:10:23,Lisa Mueller,44.01,Produkt B,120.0,Firma3,Lager G,Lager A
+028,Lagerbestand überprüfen,2024-02-26 13:08:23,Hannah Meyer,55.32,Produkt B,120.0,Firma3,Lager B,Lager D
+028,Auftragsabwicklung im System starten,2024-02-26 13:17:23,Sophia Lang,22.84,Produkt B,120.0,Firma3,Lager F,Lager A
+028,Artikel zusammenstellen,2024-02-26 14:03:23,Lisa Mueller,82.99,Produkt B,120.0,Firma3,Lager F,Lager B
+028,Ware verpacken,2024-02-26 14:54:23,Lisa Schulz,75.06,Produkt B,120.0,Firma3,Lager D,Lager D
+028,Gewicht prüfen,2024-02-26 15:23:23,David Meyer,48.39,Produkt B,120.0,Firma3,Lager G,Lager F
+028,Anzahl der Artikel überprüfen,2024-02-26 15:50:23,Jonas Richter,63.24,Produkt B,120.0,Firma3,Lager B,Lager E
+028,Verpackung prüfen,2024-02-26 16:26:23,Sarah Schmidt,30.08,Produkt B,120.0,Firma3,Lager B,Lager D
+028,Bezahlaufforderung an Kunde schicken,2024-02-26 17:00:23,Nico Schmidt,93.68,Produkt B,120.0,Firma3,Lager J,Lager G
+028,Informationen an Transporteur übermitteln,2024-02-26 17:52:23,Emilia Wagner,42.91,Produkt B,120.0,Firma3,Lager G,Lager D
+028,Paket an Transporteur übergeben,2024-02-26 17:58:23,Jan Becker,65.55,Produkt B,120.0,Firma3,Lager A,Lager C
+028,Bestellstatus im System ändern,2024-02-26 18:08:23,Lisa Mueller,37.1,Produkt B,120.0,Firma3,Lager E,Lager B
+029,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sophia Lang,25.28,Produkt K,110.0,Firma8,Lager J,Lager J
+029,Kunden-Daten in System übertragen,2024-02-26 10:44:23,Emma Weber,47.97,Produkt K,110.0,Firma8,Lager F,Lager D
+029,Zahlvorgang abschließen,2024-02-26 11:41:23,Lisa Mueller,28.36,Produkt K,110.0,Firma8,Lager C,Lager A
+029,Bestellung im System eintragen,2024-02-26 11:42:23,Nico Schmidt,27.06,Produkt K,110.0,Firma8,Lager E,Lager E
+029,Lagerbestand überprüfen,2024-02-26 12:08:23,Luca Huber,25.34,Produkt K,110.0,Firma8,Lager J,Lager I
+029,Auftragsabwicklung im System starten,2024-02-26 12:45:23,Luca Huber,19.17,Produkt K,110.0,Firma8,Lager B,Lager A
+029,Artikel zusammenstellen,2024-02-26 13:31:23,Max Mustermann,21.24,Produkt K,110.0,Firma8,Lager E,Lager B
+029,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:10:23,Emma Weber,11.93,Produkt K,110.0,Firma8,Lager C,Lager I
+029,Ware verpacken,2024-02-26 14:29:23,Sophia Lang,14.77,Produkt K,110.0,Firma8,Lager A,Lager A
+029,Gewicht prüfen,2024-02-26 15:26:23,Noah Becker,91.18,Produkt K,110.0,Firma8,Lager B,Lager G
+029,Anzahl der Artikel überprüfen,2024-02-26 15:34:23,Max Mustermann,56.42,Produkt K,110.0,Firma8,Lager I,Lager J
+029,Verpackung prüfen,2024-02-26 16:17:23,Noah Becker,6.97,Produkt K,110.0,Firma8,Lager B,Lager G
+029,Bezahlaufforderung an Kunde schicken,2024-02-26 16:54:23,David Meyer,26.99,Produkt K,110.0,Firma8,Lager C,Lager E
+029,Informationen an Transporteur übermitteln,2024-02-26 17:40:23,Laura Fischer,39.23,Produkt K,110.0,Firma8,Lager A,Lager D
+029,Paket an Transporteur übergeben,2024-02-26 18:37:23,Sarah Schmidt,35.59,Produkt K,110.0,Firma8,Lager G,Lager H
+029,Bestellstatus im System ändern,2024-02-26 19:07:23,Sophia Lang,66.85,Produkt K,110.0,Firma8,Lager I,Lager B
+030,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Lena Mueller,95.19,Produkt K,110.0,Firma8,Lager C,Lager B
+030,Bestellung im System eintragen,2024-02-26 10:46:23,Lisa Mueller,80.02,Produkt K,110.0,Firma8,Lager H,Lager I
+030,Lagerbestand überprüfen,2024-02-26 11:43:23,Jan Becker,24.33,Produkt K,110.0,Firma8,Lager C,Lager I
+030,Auftragsabwicklung im System starten,2024-02-26 12:38:23,Hannah Meyer,94.02,Produkt K,110.0,Firma8,Lager I,Lager C
+030,Artikel zusammenstellen,2024-02-26 13:16:23,Leonie Richter,26.79,Produkt K,110.0,Firma8,Lager D,Lager H
+030,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:09:23,Leonie Richter,96.16,Produkt K,110.0,Firma8,Lager J,Lager J
+030,Ware verpacken,2024-02-26 14:13:23,Lisa Mueller,8.27,Produkt K,110.0,Firma8,Lager F,Lager A
+030,Gewicht prüfen,2024-02-26 14:31:23,Laura Fischer,59.45,Produkt K,110.0,Firma8,Lager B,Lager C
+030,Anzahl der Artikel überprüfen,2024-02-26 15:24:23,Lisa Mueller,11.21,Produkt K,110.0,Firma8,Lager A,Lager B
+030,Verpackung prüfen,2024-02-26 15:39:23,Paul Zimmer,14.78,Produkt K,110.0,Firma8,Lager G,Lager C
+030,Paket zur Warenausgabe bringen,2024-02-26 16:08:23,David Meyer,64.55,Produkt K,110.0,Firma8,Lager C,Lager I
+030,Paket an Kunde übergeben,2024-02-26 16:12:23,David Meyer,72.58,Produkt K,110.0,Firma8,Lager E,Lager A
+030,Bestellstatus im System ändern,2024-02-26 16:49:23,Jan Becker,9.83,Produkt K,110.0,Firma8,Lager E,Lager J
+031,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Paul Zimmer,26.21,Produkt O,120.0,Firma20,Lager G,Lager F
+031,Fehlende Daten ermitteln,2024-02-26 11:13:23,Sophia Lang,8.43,Produkt O,120.0,Firma20,Lager D,Lager D
+031,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:37:23,Timo Wagner,95.79,Produkt O,120.0,Firma20,Lager C,Lager C
+031,Bestellung im System eintragen,2024-02-26 12:27:23,Laura Fischer,15.17,Produkt O,120.0,Firma20,Lager D,Lager J
+031,Lagerbestand überprüfen,2024-02-26 13:23:23,Paul Zimmer,91.95,Produkt O,120.0,Firma20,Lager J,Lager A
+031,Auftragsabwicklung im System starten,2024-02-26 13:38:23,Mia Schmitt,37.14,Produkt O,120.0,Firma20,Lager G,Lager J
+031,Artikel zusammenstellen,2024-02-26 13:55:23,Hannah Meyer,36.56,Produkt O,120.0,Firma20,Lager C,Lager F
+031,Ware verpacken,2024-02-26 14:04:23,David Meyer,30.9,Produkt O,120.0,Firma20,Lager G,Lager I
+031,Gewicht prüfen,2024-02-26 14:30:23,Nico Schmidt,77.46,Produkt O,120.0,Firma20,Lager E,Lager A
+031,Anzahl der Artikel überprüfen,2024-02-26 15:00:23,Emilia Wagner,39.82,Produkt O,120.0,Firma20,Lager F,Lager B
+031,Verpackung prüfen,2024-02-26 15:18:23,Timo Wagner,14.97,Produkt O,120.0,Firma20,Lager A,Lager C
+031,Bezahlaufforderung an Kunde schicken,2024-02-26 15:22:23,Emilia Wagner,97.22,Produkt O,120.0,Firma20,Lager J,Lager F
+031,Bezahlaufforderung an Kunde schicken,2024-02-26 15:42:23,Sarah Schmidt,55.02,Produkt O,120.0,Firma20,Lager D,Lager C
+031,Informationen an Transporteur übermitteln,2024-02-26 16:27:23,Luca Huber,98.75,Produkt O,120.0,Firma20,Lager I,Lager E
+031,Paket an Transporteur übergeben,2024-02-26 16:50:23,David Meyer,5.74,Produkt O,120.0,Firma20,Lager C,Lager G
+031,Bestellstatus im System ändern,2024-02-26 17:17:23,Paul Zimmer,24.5,Produkt O,120.0,Firma20,Lager G,Lager G
+032,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Mueller,71.3,Produkt H,130.0,Firma17,Lager F,Lager G
+032,Kunden-Daten in System übertragen,2024-02-26 11:07:23,Sarah Schmidt,33.24,Produkt H,130.0,Firma17,Lager G,Lager D
+032,Rechnungsadesse aufnehmen,2024-02-26 11:35:23,Nico Schmidt,21.96,Produkt H,130.0,Firma17,Lager F,Lager E
+032,Rechnungsadesse im System eintragen,2024-02-26 11:56:23,Noah Becker,45.91,Produkt H,130.0,Firma17,Lager A,Lager F
+032,Bestellung im System eintragen,2024-02-26 12:28:23,Lena Mueller,73.81,Produkt H,130.0,Firma17,Lager B,Lager I
+032,Lagerbestand überprüfen,2024-02-26 13:19:23,Timo Wagner,40.38,Produkt H,130.0,Firma17,Lager B,Lager E
+032,Artikel bestellen,2024-02-26 13:58:23,Jan Becker,50.63,Produkt H,130.0,Firma17,Lager J,Lager F
+032,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:46:23,Sophia Lang,65.24,Produkt H,130.0,Firma17,Lager G,Lager D
+032,Auftragsabwicklung im System starten,2024-02-26 14:51:23,Luca Huber,98.83,Produkt H,130.0,Firma17,Lager D,Lager G
+032,Artikel zusammenstellen,2024-02-26 15:40:23,Timo Wagner,68.96,Produkt H,130.0,Firma17,Lager F,Lager A
+032,Ware verpacken,2024-02-26 16:22:23,David Meyer,61.58,Produkt H,130.0,Firma17,Lager B,Lager E
+032,Gewicht prüfen,2024-02-26 16:53:23,Lisa Schulz,82.27,Produkt H,130.0,Firma17,Lager B,Lager D
+032,Anzahl der Artikel überprüfen,2024-02-26 17:06:23,Sophia Lang,41.82,Produkt H,130.0,Firma17,Lager A,Lager B
+032,Verpackung prüfen,2024-02-26 17:15:23,David Meyer,5.86,Produkt H,130.0,Firma17,Lager G,Lager F
+032,Fehler im System eintrgen,2024-02-26 17:38:23,Lena Mueller,53.88,Produkt H,130.0,Firma17,Lager A,Lager I
+032,Bestandsverwaltung informieren,2024-02-26 18:10:23,Timo Wagner,65.43,Produkt H,130.0,Firma17,Lager J,Lager E
+032,Lagerbestand überprüfen,2024-02-26 18:41:23,Sarah Schmidt,79.95,Produkt H,130.0,Firma17,Lager H,Lager I
+032,Auftragsabwicklung im System starten,2024-02-26 19:41:23,Leonie Richter,64.37,Produkt H,130.0,Firma17,Lager B,Lager J
+032,Artikel zusammenstellen,2024-02-26 20:08:23,David Meyer,27.63,Produkt H,130.0,Firma17,Lager B,Lager J
+032,Ware verpacken,2024-02-26 21:06:23,Noah Becker,83.86,Produkt H,130.0,Firma17,Lager E,Lager H
+032,Gewicht prüfen,2024-02-26 21:34:23,Paul Zimmer,53.27,Produkt H,130.0,Firma17,Lager F,Lager B
+032,Anzahl der Artikel überprüfen,2024-02-26 21:49:23,Lisa Mueller,14.05,Produkt H,130.0,Firma17,Lager B,Lager J
+032,Verpackung prüfen,2024-02-26 21:58:23,Emilia Wagner,34.42,Produkt H,130.0,Firma17,Lager G,Lager E
+032,Paket zur Warenausgabe bringen,2024-02-26 22:27:23,David Meyer,95.08,Produkt H,130.0,Firma17,Lager F,Lager F
+032,Paket an Kunde übergeben,2024-02-26 23:22:23,Emma Weber,79.29,Produkt H,130.0,Firma17,Lager A,Lager G
+032,Bestellstatus im System ändern,2024-02-26 23:28:23,Lena Mueller,91.24,Produkt H,130.0,Firma17,Lager D,Lager G
+033,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Max Mustermann,54.85,Produkt L,140.0,Firma8,Lager I,Lager C
+033,Kunden-Daten in System übertragen,2024-02-26 10:49:23,Timo Wagner,90.87,Produkt L,140.0,Firma8,Lager C,Lager J
+033,Zahlvorgang abschließen,2024-02-26 11:14:23,Paul Zimmer,72.65,Produkt L,140.0,Firma8,Lager H,Lager F
+033,Bestellung im System eintragen,2024-02-26 12:01:23,Paul Zimmer,57.62,Produkt L,140.0,Firma8,Lager F,Lager E
+033,Lagerbestand überprüfen,2024-02-26 12:11:23,Mia Schmitt,54.73,Produkt L,140.0,Firma8,Lager J,Lager F
+033,Auftragsabwicklung im System starten,2024-02-26 13:06:23,Sarah Schmidt,44.59,Produkt L,140.0,Firma8,Lager H,Lager I
+033,Artikel zusammenstellen,2024-02-26 13:09:23,Timo Wagner,79.21,Produkt L,140.0,Firma8,Lager I,Lager I
+033,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:30:23,Max Mustermann,34.88,Produkt L,140.0,Firma8,Lager E,Lager D
+033,Ware verpacken,2024-02-26 13:33:23,David Meyer,72.78,Produkt L,140.0,Firma8,Lager H,Lager C
+033,Gewicht prüfen,2024-02-26 13:45:23,Hannah Meyer,72.63,Produkt L,140.0,Firma8,Lager D,Lager I
+033,Anzahl der Artikel überprüfen,2024-02-26 14:11:23,Hannah Meyer,96.18,Produkt L,140.0,Firma8,Lager J,Lager E
+033,Verpackung prüfen,2024-02-26 14:55:23,Lisa Schulz,41.88,Produkt L,140.0,Firma8,Lager F,Lager F
+033,Paket zur Warenausgabe bringen,2024-02-26 15:47:23,Lena Mueller,94.63,Produkt L,140.0,Firma8,Lager E,Lager D
+033,Zahlungsabwicklung durchführen,2024-02-26 16:21:23,Leonie Richter,39.81,Produkt L,140.0,Firma8,Lager H,Lager I
+033,Paket an Kunde übergeben,2024-02-26 16:54:23,Nico Schmidt,66.14,Produkt L,140.0,Firma8,Lager H,Lager A
+033,Bestellstatus im System ändern,2024-02-26 17:47:23,Emma Weber,81.71,Produkt L,140.0,Firma8,Lager B,Lager D
+034,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Laura Fischer,25.22,Produkt C,80.0,Firma15,Lager H,Lager A
+034,Bestellung im System eintragen,2024-02-26 11:11:23,Nico Schmidt,84.3,Produkt C,80.0,Firma15,Lager G,Lager D
+034,Lagerbestand überprüfen,2024-02-26 12:02:23,Lisa Schulz,78.32,Produkt C,80.0,Firma15,Lager D,Lager B
+034,Artikel bestellen,2024-02-26 12:34:23,Lena Mueller,75.81,Produkt C,80.0,Firma15,Lager C,Lager A
+034,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:03:23,Paul Zimmer,88.49,Produkt C,80.0,Firma15,Lager I,Lager F
+034,Auftragsabwicklung im System starten,2024-02-26 13:15:23,Hannah Meyer,43.08,Produkt C,80.0,Firma15,Lager H,Lager C
+034,Artikel zusammenstellen,2024-02-26 13:35:23,Emma Weber,58.49,Produkt C,80.0,Firma15,Lager I,Lager G
+034,Ware verpacken,2024-02-26 14:28:23,Hannah Meyer,15.36,Produkt C,80.0,Firma15,Lager G,Lager I
+034,Gewicht prüfen,2024-02-26 15:12:23,Emma Weber,68.45,Produkt C,80.0,Firma15,Lager F,Lager D
+034,Anzahl der Artikel überprüfen,2024-02-26 16:08:23,Emilia Wagner,49.18,Produkt C,80.0,Firma15,Lager B,Lager E
+034,Verpackung prüfen,2024-02-26 16:27:23,Laura Fischer,19.75,Produkt C,80.0,Firma15,Lager G,Lager E
+034,Paket zur Warenausgabe bringen,2024-02-26 17:07:23,Timo Wagner,17.78,Produkt C,80.0,Firma15,Lager G,Lager E
+034,Paket an Kunde übergeben,2024-02-26 18:04:23,Luca Huber,36.28,Produkt C,80.0,Firma15,Lager F,Lager I
+034,Bestellstatus im System ändern,2024-02-26 18:14:23,Timo Wagner,72.03,Produkt C,80.0,Firma15,Lager G,Lager H
+035,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Emilia Wagner,43.15,Produkt K,110.0,Firma13,Lager I,Lager F
+035,Bestellung im System eintragen,2024-02-26 11:06:23,Sarah Schmidt,22.14,Produkt K,110.0,Firma13,Lager D,Lager I
+035,Lagerbestand überprüfen,2024-02-26 11:48:23,Luca Huber,40.96,Produkt K,110.0,Firma13,Lager G,Lager C
+035,Auftragsabwicklung im System starten,2024-02-26 12:37:23,Timo Wagner,76.83,Produkt K,110.0,Firma13,Lager J,Lager I
+035,Artikel zusammenstellen,2024-02-26 13:23:23,Luca Huber,39.52,Produkt K,110.0,Firma13,Lager G,Lager H
+035,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:33:23,Mia Schmitt,16.46,Produkt K,110.0,Firma13,Lager I,Lager G
+035,Ware verpacken,2024-02-26 14:33:23,Lena Mueller,26.35,Produkt K,110.0,Firma13,Lager H,Lager I
+035,Gewicht prüfen,2024-02-26 15:06:23,Hannah Meyer,54.33,Produkt K,110.0,Firma13,Lager I,Lager E
+035,Anzahl der Artikel überprüfen,2024-02-26 15:35:23,Lena Mueller,37.77,Produkt K,110.0,Firma13,Lager D,Lager D
+035,Verpackung prüfen,2024-02-26 15:52:23,Lisa Mueller,24.42,Produkt K,110.0,Firma13,Lager H,Lager H
+035,Paket zur Warenausgabe bringen,2024-02-26 16:37:23,Noah Becker,96.21,Produkt K,110.0,Firma13,Lager J,Lager G
+035,Paket an Kunde übergeben,2024-02-26 17:06:23,David Meyer,16.07,Produkt K,110.0,Firma13,Lager A,Lager C
+035,Bestellstatus im System ändern,2024-02-26 17:18:23,Emma Weber,68.25,Produkt K,110.0,Firma13,Lager I,Lager F
+036,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Mueller,49.67,Produkt M,95.0,Firma11,Lager I,Lager G
+036,Kunden-Daten in System übertragen,2024-02-26 10:32:23,Lisa Schulz,64.47,Produkt M,95.0,Firma11,Lager H,Lager D
+036,Zahlvorgang abschließen,2024-02-26 11:19:23,David Meyer,55.8,Produkt M,95.0,Firma11,Lager A,Lager C
+036,Bestellung im System eintragen,2024-02-26 11:43:23,Timo Wagner,19.44,Produkt M,95.0,Firma11,Lager F,Lager J
+036,Lagerbestand überprüfen,2024-02-26 12:06:23,Sarah Schmidt,77.42,Produkt M,95.0,Firma11,Lager A,Lager C
+036,Auftragsabwicklung im System starten,2024-02-26 13:04:23,Sarah Schmidt,55.51,Produkt M,95.0,Firma11,Lager H,Lager B
+036,Artikel zusammenstellen,2024-02-26 14:03:23,Noah Becker,22.48,Produkt M,95.0,Firma11,Lager H,Lager E
+036,Ware verpacken,2024-02-26 14:47:23,Lisa Mueller,91.38,Produkt M,95.0,Firma11,Lager H,Lager E
+036,Gewicht prüfen,2024-02-26 14:53:23,Leonie Richter,53.31,Produkt M,95.0,Firma11,Lager I,Lager C
+036,Anzahl der Artikel überprüfen,2024-02-26 14:59:23,Paul Zimmer,80.84,Produkt M,95.0,Firma11,Lager G,Lager G
+036,Verpackung prüfen,2024-02-26 15:28:23,Jan Becker,99.66,Produkt M,95.0,Firma11,Lager G,Lager F
+036,Informationen an Transporteur übermitteln,2024-02-26 16:09:23,Timo Wagner,61.98,Produkt M,95.0,Firma11,Lager J,Lager E
+036,Paket an Transporteur übergeben,2024-02-26 17:09:23,Lena Mueller,51.99,Produkt M,95.0,Firma11,Lager E,Lager B
+036,Bestellstatus im System ändern,2024-02-26 17:41:23,Paul Zimmer,43.05,Produkt M,95.0,Firma11,Lager F,Lager J
+037,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Leonie Richter,70.01,Produkt R,130.0,Firma15,Lager F,Lager H
+037,Kunden-Daten in System übertragen,2024-02-26 10:42:23,Lena Mueller,25.3,Produkt R,130.0,Firma15,Lager H,Lager A
+037,Zahlvorgang abschließen,2024-02-26 11:22:23,David Meyer,13.41,Produkt R,130.0,Firma15,Lager A,Lager E
+037,Bestellung im System eintragen,2024-02-26 11:57:23,Lena Mueller,76.86,Produkt R,130.0,Firma15,Lager I,Lager C
+037,Lagerbestand überprüfen,2024-02-26 12:15:23,Timo Wagner,78.03,Produkt R,130.0,Firma15,Lager D,Lager D
+037,Artikel bestellen,2024-02-26 12:40:23,Lisa Mueller,69.42,Produkt R,130.0,Firma15,Lager G,Lager J
+037,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:43:23,Sophia Lang,42.49,Produkt R,130.0,Firma15,Lager H,Lager A
+037,Auftragsabwicklung im System starten,2024-02-26 13:01:23,Max Mustermann,53.31,Produkt R,130.0,Firma15,Lager B,Lager H
+037,Artikel zusammenstellen,2024-02-26 13:36:23,Laura Fischer,39.34,Produkt R,130.0,Firma15,Lager D,Lager F
+037,Ware verpacken,2024-02-26 14:09:23,Laura Fischer,71.3,Produkt R,130.0,Firma15,Lager E,Lager H
+037,Gewicht prüfen,2024-02-26 15:07:23,Sophia Lang,91.38,Produkt R,130.0,Firma15,Lager I,Lager I
+037,Anzahl der Artikel überprüfen,2024-02-26 15:56:23,Nico Schmidt,57.95,Produkt R,130.0,Firma15,Lager G,Lager C
+037,Verpackung prüfen,2024-02-26 16:29:23,Mia Schmitt,78.1,Produkt R,130.0,Firma15,Lager E,Lager G
+037,Fehler im System eintrgen,2024-02-26 17:11:23,David Meyer,40.62,Produkt R,130.0,Firma15,Lager D,Lager A
+037,Bestandsverwaltung informieren,2024-02-26 17:55:23,Jonas Richter,89.36,Produkt R,130.0,Firma15,Lager E,Lager B
+037,Lagerbestand überprüfen,2024-02-26 18:18:23,Timo Wagner,40.47,Produkt R,130.0,Firma15,Lager J,Lager I
+037,Auftragsabwicklung im System starten,2024-02-26 19:18:23,Jan Becker,91.52,Produkt R,130.0,Firma15,Lager H,Lager I
+037,Artikel zusammenstellen,2024-02-26 20:07:23,Emilia Wagner,40.11,Produkt R,130.0,Firma15,Lager I,Lager J
+037,Ware verpacken,2024-02-26 21:04:23,Leonie Richter,15.24,Produkt R,130.0,Firma15,Lager E,Lager I
+037,Gewicht prüfen,2024-02-26 21:26:23,Jan Becker,46.05,Produkt R,130.0,Firma15,Lager H,Lager B
+037,Anzahl der Artikel überprüfen,2024-02-26 21:36:23,David Meyer,68.99,Produkt R,130.0,Firma15,Lager J,Lager J
+037,Verpackung prüfen,2024-02-26 21:42:23,Lena Mueller,48.21,Produkt R,130.0,Firma15,Lager G,Lager I
+037,Paket zur Warenausgabe bringen,2024-02-26 22:35:23,Nico Schmidt,85.93,Produkt R,130.0,Firma15,Lager G,Lager D
+037,Paket an Kunde übergeben,2024-02-26 23:34:23,Jan Becker,66.37,Produkt R,130.0,Firma15,Lager A,Lager F
+037,Bestellstatus im System ändern,2024-02-27 00:14:23,Jonas Richter,14.06,Produkt R,130.0,Firma15,Lager E,Lager E
+038,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,David Meyer,31.91,Produkt A,100.0,Firma16,Lager G,Lager F
+038,Bestellung im System eintragen,2024-02-26 11:04:23,Max Mustermann,35.18,Produkt A,100.0,Firma16,Lager F,Lager H
+038,Lagerbestand überprüfen,2024-02-26 11:32:23,Hannah Meyer,35.51,Produkt A,100.0,Firma16,Lager C,Lager F
+038,Auftragsabwicklung im System starten,2024-02-26 12:12:23,Jan Becker,7.26,Produkt A,100.0,Firma16,Lager D,Lager G
+038,Artikel zusammenstellen,2024-02-26 12:52:23,Hannah Meyer,53.75,Produkt A,100.0,Firma16,Lager F,Lager G
+038,Ware verpacken,2024-02-26 13:48:23,Emilia Wagner,44.21,Produkt A,100.0,Firma16,Lager J,Lager A
+038,Gewicht prüfen,2024-02-26 14:04:23,Jan Becker,51.12,Produkt A,100.0,Firma16,Lager D,Lager A
+038,Anzahl der Artikel überprüfen,2024-02-26 14:58:23,Lisa Mueller,7.39,Produkt A,100.0,Firma16,Lager C,Lager D
+038,Verpackung prüfen,2024-02-26 14:59:23,Noah Becker,72.42,Produkt A,100.0,Firma16,Lager A,Lager I
+038,Informationen an Transporteur übermitteln,2024-02-26 15:10:23,David Meyer,98.4,Produkt A,100.0,Firma16,Lager B,Lager C
+038,Paket an Transporteur übergeben,2024-02-26 15:11:23,Jonas Richter,9.31,Produkt A,100.0,Firma16,Lager J,Lager F
+038,Bestellstatus im System ändern,2024-02-26 15:29:23,Emma Weber,9.46,Produkt A,100.0,Firma16,Lager D,Lager B
+039,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sophia Lang,19.33,Produkt C,80.0,Firma3,Lager B,Lager E
+039,Kunden-Daten in System übertragen,2024-02-26 10:57:23,Jan Becker,38.93,Produkt C,80.0,Firma3,Lager B,Lager B
+039,Zahlvorgang abschließen,2024-02-26 11:16:23,Sophia Lang,89.1,Produkt C,80.0,Firma3,Lager B,Lager F
+039,Bestellung im System eintragen,2024-02-26 11:46:23,Lisa Mueller,66.51,Produkt C,80.0,Firma3,Lager C,Lager C
+039,Lagerbestand überprüfen,2024-02-26 12:05:23,Hannah Meyer,25.43,Produkt C,80.0,Firma3,Lager B,Lager I
+039,Auftragsabwicklung im System starten,2024-02-26 12:25:23,Luca Huber,10.6,Produkt C,80.0,Firma3,Lager D,Lager D
+039,Artikel zusammenstellen,2024-02-26 13:08:23,Laura Fischer,81.05,Produkt C,80.0,Firma3,Lager A,Lager J
+039,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:20:23,Paul Zimmer,88.32,Produkt C,80.0,Firma3,Lager G,Lager J
+039,Ware verpacken,2024-02-26 13:50:23,Sophia Lang,60.53,Produkt C,80.0,Firma3,Lager D,Lager C
+039,Gewicht prüfen,2024-02-26 13:53:23,Emma Weber,58.94,Produkt C,80.0,Firma3,Lager C,Lager B
+039,Anzahl der Artikel überprüfen,2024-02-26 14:16:23,Luca Huber,67.08,Produkt C,80.0,Firma3,Lager I,Lager E
+039,Verpackung prüfen,2024-02-26 14:28:23,Sophia Lang,80.24,Produkt C,80.0,Firma3,Lager G,Lager B
+039,Informationen an Transporteur übermitteln,2024-02-26 14:30:23,Jonas Richter,55.36,Produkt C,80.0,Firma3,Lager B,Lager B
+039,Paket an Transporteur übergeben,2024-02-26 14:43:23,Timo Wagner,42.61,Produkt C,80.0,Firma3,Lager C,Lager A
+039,Bestellstatus im System ändern,2024-02-26 15:12:23,Leonie Richter,58.31,Produkt C,80.0,Firma3,Lager E,Lager E
+040,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Leonie Richter,72.31,Produkt S,90.0,Firma4,Lager B,Lager E
+040,Kunden-Daten in System übertragen,2024-02-26 10:36:23,Sarah Schmidt,13.93,Produkt S,90.0,Firma4,Lager C,Lager J
+040,Zahlvorgang abschließen,2024-02-26 11:06:23,Sophia Lang,92.99,Produkt S,90.0,Firma4,Lager D,Lager H
+040,Bestellung im System eintragen,2024-02-26 11:40:23,Jan Becker,26.94,Produkt S,90.0,Firma4,Lager B,Lager J
+040,Lagerbestand überprüfen,2024-02-26 12:35:23,Noah Becker,49.46,Produkt S,90.0,Firma4,Lager H,Lager G
+040,Auftragsabwicklung im System starten,2024-02-26 13:09:23,Emma Weber,89.3,Produkt S,90.0,Firma4,Lager B,Lager E
+040,Artikel zusammenstellen,2024-02-26 13:30:23,Noah Becker,95.33,Produkt S,90.0,Firma4,Lager B,Lager I
+040,Ware verpacken,2024-02-26 14:27:23,Hannah Meyer,34.04,Produkt S,90.0,Firma4,Lager D,Lager G
+040,Gewicht prüfen,2024-02-26 14:48:23,Timo Wagner,73.15,Produkt S,90.0,Firma4,Lager J,Lager D
+040,Anzahl der Artikel überprüfen,2024-02-26 15:10:23,Emma Weber,24.85,Produkt S,90.0,Firma4,Lager J,Lager H
+040,Verpackung prüfen,2024-02-26 15:29:23,Mia Schmitt,53.81,Produkt S,90.0,Firma4,Lager I,Lager F
+040,Fehler im System eintrgen,2024-02-26 16:20:23,Sophia Lang,32.84,Produkt S,90.0,Firma4,Lager H,Lager C
+040,Bestandsverwaltung informieren,2024-02-26 17:02:23,Sarah Schmidt,25.21,Produkt S,90.0,Firma4,Lager A,Lager D
+040,Lagerbestand überprüfen,2024-02-26 17:38:23,Max Mustermann,68.57,Produkt S,90.0,Firma4,Lager C,Lager C
+040,Auftragsabwicklung im System starten,2024-02-26 17:46:23,Sarah Schmidt,37.92,Produkt S,90.0,Firma4,Lager F,Lager C
+040,Artikel zusammenstellen,2024-02-26 18:18:23,Jonas Richter,37.54,Produkt S,90.0,Firma4,Lager F,Lager D
+040,Ware verpacken,2024-02-26 18:44:23,Emma Weber,80.95,Produkt S,90.0,Firma4,Lager F,Lager H
+040,Gewicht prüfen,2024-02-26 19:20:23,Timo Wagner,98.68,Produkt S,90.0,Firma4,Lager D,Lager H
+040,Anzahl der Artikel überprüfen,2024-02-26 19:57:23,Emilia Wagner,89.27,Produkt S,90.0,Firma4,Lager F,Lager I
+040,Verpackung prüfen,2024-02-26 20:09:23,Jonas Richter,61.73,Produkt S,90.0,Firma4,Lager C,Lager B
+040,Paket zur Warenausgabe bringen,2024-02-26 21:01:23,Noah Becker,43.79,Produkt S,90.0,Firma4,Lager H,Lager J
+040,Paket an Kunde übergeben,2024-02-26 21:37:23,Timo Wagner,64.68,Produkt S,90.0,Firma4,Lager E,Lager I
+040,Bestellstatus im System ändern,2024-02-26 22:24:23,Jonas Richter,15.23,Produkt S,90.0,Firma4,Lager I,Lager G
+041,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emilia Wagner,87.09,Produkt N,75.0,Firma4,Lager I,Lager D
+041,Kunden-Daten in System übertragen,2024-02-26 11:23:23,Jan Becker,17.77,Produkt N,75.0,Firma4,Lager D,Lager A
+041,Zahlvorgang abschließen,2024-02-26 11:42:23,Emma Weber,9.48,Produkt N,75.0,Firma4,Lager E,Lager B
+041,Bestellung im System eintragen,2024-02-26 12:19:23,Sophia Lang,36.24,Produkt N,75.0,Firma4,Lager J,Lager E
+041,Lagerbestand überprüfen,2024-02-26 13:19:23,Paul Zimmer,81.55,Produkt N,75.0,Firma4,Lager E,Lager C
+041,Auftragsabwicklung im System starten,2024-02-26 13:56:23,Lena Mueller,40.42,Produkt N,75.0,Firma4,Lager I,Lager I
+041,Artikel zusammenstellen,2024-02-26 14:04:23,Timo Wagner,53.36,Produkt N,75.0,Firma4,Lager A,Lager G
+041,Ware verpacken,2024-02-26 14:12:23,Luca Huber,94.8,Produkt N,75.0,Firma4,Lager G,Lager G
+041,Gewicht prüfen,2024-02-26 14:22:23,Emilia Wagner,80.78,Produkt N,75.0,Firma4,Lager B,Lager D
+041,Anzahl der Artikel überprüfen,2024-02-26 15:00:23,Emma Weber,65.87,Produkt N,75.0,Firma4,Lager G,Lager A
+041,Verpackung prüfen,2024-02-26 15:39:23,Nico Schmidt,38.47,Produkt N,75.0,Firma4,Lager F,Lager C
+041,Informationen an Transporteur übermitteln,2024-02-26 16:03:23,Jan Becker,44.64,Produkt N,75.0,Firma4,Lager H,Lager J
+041,Paket an Transporteur übergeben,2024-02-26 16:42:23,Max Mustermann,79.5,Produkt N,75.0,Firma4,Lager H,Lager B
+041,Bestellstatus im System ändern,2024-02-26 17:36:23,Hannah Meyer,96.57,Produkt N,75.0,Firma4,Lager A,Lager H
+042,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Emma Weber,38.79,Produkt I,90.0,Firma4,Lager A,Lager H
+042,Bestellung im System eintragen,2024-02-26 11:27:23,Paul Zimmer,88.36,Produkt I,90.0,Firma4,Lager E,Lager D
+042,Lagerbestand überprüfen,2024-02-26 11:28:23,Jan Becker,87.77,Produkt I,90.0,Firma4,Lager J,Lager A
+042,Auftragsabwicklung im System starten,2024-02-26 11:29:23,Paul Zimmer,25.29,Produkt I,90.0,Firma4,Lager B,Lager I
+042,Artikel zusammenstellen,2024-02-26 12:24:23,Jan Becker,24.84,Produkt I,90.0,Firma4,Lager C,Lager A
+042,Ware verpacken,2024-02-26 12:41:23,Emilia Wagner,51.3,Produkt I,90.0,Firma4,Lager J,Lager A
+042,Gewicht prüfen,2024-02-26 13:12:23,Leonie Richter,67.77,Produkt I,90.0,Firma4,Lager D,Lager I
+042,Anzahl der Artikel überprüfen,2024-02-26 13:32:23,Max Mustermann,82.05,Produkt I,90.0,Firma4,Lager J,Lager E
+042,Verpackung prüfen,2024-02-26 14:01:23,Timo Wagner,63.54,Produkt I,90.0,Firma4,Lager A,Lager C
+042,Informationen an Transporteur übermitteln,2024-02-26 15:01:23,David Meyer,49.38,Produkt I,90.0,Firma4,Lager J,Lager I
+042,Paket an Transporteur übergeben,2024-02-26 15:42:23,Emilia Wagner,22.21,Produkt I,90.0,Firma4,Lager F,Lager J
+042,Bestellstatus im System ändern,2024-02-26 16:19:23,Emma Weber,56.1,Produkt I,90.0,Firma4,Lager H,Lager A
+043,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Noah Becker,95.2,Produkt K,110.0,Firma18,Lager E,Lager A
+043,Bestellung im System eintragen,2024-02-26 11:18:23,Leonie Richter,96.07,Produkt K,110.0,Firma18,Lager G,Lager D
+043,Lagerbestand überprüfen,2024-02-26 12:13:23,Jonas Richter,95.96,Produkt K,110.0,Firma18,Lager C,Lager G
+043,Artikel bestellen,2024-02-26 12:46:23,Lena Mueller,23.56,Produkt K,110.0,Firma18,Lager A,Lager D
+043,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:49:23,Laura Fischer,24.68,Produkt K,110.0,Firma18,Lager C,Lager I
+043,Auftragsabwicklung im System starten,2024-02-26 13:24:23,Lisa Mueller,16.63,Produkt K,110.0,Firma18,Lager E,Lager G
+043,Artikel zusammenstellen,2024-02-26 13:40:23,Hannah Meyer,93.64,Produkt K,110.0,Firma18,Lager H,Lager F
+043,Ware verpacken,2024-02-26 13:42:23,Paul Zimmer,69.44,Produkt K,110.0,Firma18,Lager E,Lager J
+043,Gewicht prüfen,2024-02-26 14:10:23,Jan Becker,36.11,Produkt K,110.0,Firma18,Lager E,Lager E
+043,Anzahl der Artikel überprüfen,2024-02-26 14:23:23,Emilia Wagner,10.84,Produkt K,110.0,Firma18,Lager G,Lager C
+043,Verpackung prüfen,2024-02-26 14:26:23,Lena Mueller,17.22,Produkt K,110.0,Firma18,Lager H,Lager A
+043,Paket zur Warenausgabe bringen,2024-02-26 14:42:23,Timo Wagner,92.69,Produkt K,110.0,Firma18,Lager F,Lager C
+043,Paket an Kunde übergeben,2024-02-26 14:56:23,Timo Wagner,21.58,Produkt K,110.0,Firma18,Lager B,Lager C
+043,Bestellstatus im System ändern,2024-02-26 15:10:23,Mia Schmitt,85.61,Produkt K,110.0,Firma18,Lager I,Lager J
+044,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,David Meyer,40.77,Produkt K,110.0,Firma16,Lager A,Lager F
+044,Bestellung im System eintragen,2024-02-26 10:47:23,Lisa Schulz,12.91,Produkt K,110.0,Firma16,Lager I,Lager F
+044,Lagerbestand überprüfen,2024-02-26 10:54:23,Mia Schmitt,69.33,Produkt K,110.0,Firma16,Lager D,Lager G
+044,Artikel bestellen,2024-02-26 11:29:23,Lisa Mueller,39.57,Produkt K,110.0,Firma16,Lager H,Lager C
+044,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 11:42:23,Noah Becker,23.7,Produkt K,110.0,Firma16,Lager F,Lager H
+044,Auftragsabwicklung im System starten,2024-02-26 11:57:23,Hannah Meyer,30.3,Produkt K,110.0,Firma16,Lager J,Lager G
+044,Artikel zusammenstellen,2024-02-26 12:20:23,David Meyer,56.7,Produkt K,110.0,Firma16,Lager J,Lager F
+044,Ware verpacken,2024-02-26 12:54:23,Lisa Schulz,8.16,Produkt K,110.0,Firma16,Lager A,Lager E
+044,Gewicht prüfen,2024-02-26 13:53:23,Paul Zimmer,29.35,Produkt K,110.0,Firma16,Lager H,Lager E
+044,Anzahl der Artikel überprüfen,2024-02-26 14:06:23,Nico Schmidt,45.55,Produkt K,110.0,Firma16,Lager A,Lager C
+044,Verpackung prüfen,2024-02-26 14:43:23,Sophia Lang,35.69,Produkt K,110.0,Firma16,Lager E,Lager G
+044,Paket zur Warenausgabe bringen,2024-02-26 15:06:23,Luca Huber,16.91,Produkt K,110.0,Firma16,Lager A,Lager I
+044,Paket an Kunde übergeben,2024-02-26 15:22:23,Sophia Lang,50.93,Produkt K,110.0,Firma16,Lager E,Lager G
+044,Bestellstatus im System ändern,2024-02-26 15:40:23,Noah Becker,87.56,Produkt K,110.0,Firma16,Lager H,Lager F
+045,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,60.44,Produkt C,80.0,Firma17,Lager B,Lager H
+045,Kunden-Daten in System übertragen,2024-02-26 11:08:23,Luca Huber,45.01,Produkt C,80.0,Firma17,Lager G,Lager H
+045,Zahlvorgang abschließen,2024-02-26 11:32:23,Mia Schmitt,8.88,Produkt C,80.0,Firma17,Lager F,Lager F
+045,Bestellung im System eintragen,2024-02-26 11:39:23,Lisa Mueller,88.92,Produkt C,80.0,Firma17,Lager C,Lager J
+045,Lagerbestand überprüfen,2024-02-26 12:03:23,Emilia Wagner,35.37,Produkt C,80.0,Firma17,Lager F,Lager B
+045,Artikel bestellen,2024-02-26 12:34:23,Luca Huber,18.38,Produkt C,80.0,Firma17,Lager G,Lager I
+045,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:34:23,Leonie Richter,80.31,Produkt C,80.0,Firma17,Lager I,Lager D
+045,Auftragsabwicklung im System starten,2024-02-26 13:49:23,Lena Mueller,86.01,Produkt C,80.0,Firma17,Lager D,Lager G
+045,Artikel zusammenstellen,2024-02-26 14:05:23,Jan Becker,47.36,Produkt C,80.0,Firma17,Lager F,Lager D
+045,Ware verpacken,2024-02-26 14:29:23,Emilia Wagner,94.18,Produkt C,80.0,Firma17,Lager F,Lager H
+045,Gewicht prüfen,2024-02-26 14:43:23,Timo Wagner,93.95,Produkt C,80.0,Firma17,Lager A,Lager C
+045,Anzahl der Artikel überprüfen,2024-02-26 15:04:23,Jonas Richter,25.48,Produkt C,80.0,Firma17,Lager F,Lager J
+045,Verpackung prüfen,2024-02-26 15:43:23,David Meyer,39.37,Produkt C,80.0,Firma17,Lager E,Lager C
+045,Paket zur Warenausgabe bringen,2024-02-26 16:02:23,Laura Fischer,99.76,Produkt C,80.0,Firma17,Lager D,Lager G
+045,Paket an Kunde übergeben,2024-02-26 16:06:23,Hannah Meyer,77.22,Produkt C,80.0,Firma17,Lager H,Lager G
+045,Bestellstatus im System ändern,2024-02-26 16:35:23,Hannah Meyer,22.51,Produkt C,80.0,Firma17,Lager G,Lager A
+046,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Timo Wagner,99.86,Produkt Q,110.0,Firma11,Lager J,Lager H
+046,Fehlende Daten ermitteln,2024-02-26 11:00:23,Lena Mueller,45.97,Produkt Q,110.0,Firma11,Lager F,Lager D
+046,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:57:23,Noah Becker,36.04,Produkt Q,110.0,Firma11,Lager B,Lager E
+046,Bestellung im System eintragen,2024-02-26 12:18:23,Jan Becker,43.76,Produkt Q,110.0,Firma11,Lager I,Lager B
+046,Lagerbestand überprüfen,2024-02-26 12:23:23,Hannah Meyer,48.25,Produkt Q,110.0,Firma11,Lager F,Lager H
+046,Artikel bestellen,2024-02-26 13:11:23,Nico Schmidt,28.86,Produkt Q,110.0,Firma11,Lager F,Lager J
+046,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:20:23,Lena Mueller,91.17,Produkt Q,110.0,Firma11,Lager I,Lager I
+046,Auftragsabwicklung im System starten,2024-02-26 14:02:23,Noah Becker,88.66,Produkt Q,110.0,Firma11,Lager J,Lager H
+046,Artikel zusammenstellen,2024-02-26 14:50:23,Sophia Lang,40.87,Produkt Q,110.0,Firma11,Lager B,Lager F
+046,Versicherungs-Bescheinigung dazulegen,2024-02-26 15:41:23,Nico Schmidt,71.07,Produkt Q,110.0,Firma11,Lager F,Lager D
+046,Ware verpacken,2024-02-26 16:01:23,Jan Becker,73.38,Produkt Q,110.0,Firma11,Lager F,Lager F
+046,Gewicht prüfen,2024-02-26 16:57:23,Noah Becker,69.03,Produkt Q,110.0,Firma11,Lager B,Lager A
+046,Anzahl der Artikel überprüfen,2024-02-26 17:05:23,Noah Becker,31.17,Produkt Q,110.0,Firma11,Lager F,Lager I
+046,Verpackung prüfen,2024-02-26 17:53:23,Timo Wagner,51.88,Produkt Q,110.0,Firma11,Lager B,Lager C
+046,Informationen an Transporteur übermitteln,2024-02-26 18:48:23,Jan Becker,60.75,Produkt Q,110.0,Firma11,Lager B,Lager D
+046,Paket an Transporteur übergeben,2024-02-26 19:10:23,Emma Weber,74.12,Produkt Q,110.0,Firma11,Lager B,Lager H
+046,Bestellstatus im System ändern,2024-02-26 20:00:23,Emilia Wagner,21.1,Produkt Q,110.0,Firma11,Lager C,Lager J
+047,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Hannah Meyer,6.91,Produkt K,110.0,Firma16,Lager B,Lager H
+047,Kunden-Daten in System übertragen,2024-02-26 10:59:23,Sarah Schmidt,87.41,Produkt K,110.0,Firma16,Lager H,Lager E
+047,Zahlvorgang abschließen,2024-02-26 11:16:23,Jonas Richter,73.67,Produkt K,110.0,Firma16,Lager G,Lager H
+047,Bestellung im System eintragen,2024-02-26 12:02:23,Sarah Schmidt,22.53,Produkt K,110.0,Firma16,Lager B,Lager D
+047,Lagerbestand überprüfen,2024-02-26 12:10:23,Lena Mueller,98.92,Produkt K,110.0,Firma16,Lager J,Lager B
+047,Auftragsabwicklung im System starten,2024-02-26 12:19:23,Max Mustermann,86.74,Produkt K,110.0,Firma16,Lager F,Lager I
+047,Artikel zusammenstellen,2024-02-26 13:12:23,Jonas Richter,9.42,Produkt K,110.0,Firma16,Lager E,Lager F
+047,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:20:23,Luca Huber,43.95,Produkt K,110.0,Firma16,Lager B,Lager J
+047,Ware verpacken,2024-02-26 13:53:23,Leonie Richter,47.72,Produkt K,110.0,Firma16,Lager E,Lager F
+047,Gewicht prüfen,2024-02-26 14:10:23,Laura Fischer,83.33,Produkt K,110.0,Firma16,Lager C,Lager C
+047,Anzahl der Artikel überprüfen,2024-02-26 14:54:23,Hannah Meyer,32.68,Produkt K,110.0,Firma16,Lager F,Lager C
+047,Verpackung prüfen,2024-02-26 15:20:23,Max Mustermann,75.86,Produkt K,110.0,Firma16,Lager J,Lager A
+047,Paket zur Warenausgabe bringen,2024-02-26 15:52:23,Paul Zimmer,28.74,Produkt K,110.0,Firma16,Lager H,Lager J
+047,Zahlungsabwicklung durchführen,2024-02-26 16:20:23,Jonas Richter,73.65,Produkt K,110.0,Firma16,Lager F,Lager E
+047,Paket an Kunde übergeben,2024-02-26 16:39:23,Lisa Schulz,73.35,Produkt K,110.0,Firma16,Lager E,Lager A
+047,Bestellstatus im System ändern,2024-02-26 17:12:23,Lisa Mueller,66.16,Produkt K,110.0,Firma16,Lager E,Lager B
+048,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emma Weber,72.74,Produkt S,90.0,Firma18,Lager E,Lager F
+048,Kunden-Daten in System übertragen,2024-02-26 10:33:23,Jan Becker,9.73,Produkt S,90.0,Firma18,Lager B,Lager A
+048,Zahlvorgang abschließen,2024-02-26 11:18:23,David Meyer,37.4,Produkt S,90.0,Firma18,Lager J,Lager A
+048,Bestellung im System eintragen,2024-02-26 12:15:23,Paul Zimmer,87.26,Produkt S,90.0,Firma18,Lager A,Lager I
+048,Lagerbestand überprüfen,2024-02-26 12:32:23,Emilia Wagner,84.45,Produkt S,90.0,Firma18,Lager F,Lager J
+048,Auftragsabwicklung im System starten,2024-02-26 13:08:23,Lisa Mueller,88.59,Produkt S,90.0,Firma18,Lager B,Lager H
+048,Artikel zusammenstellen,2024-02-26 14:06:23,Timo Wagner,38.34,Produkt S,90.0,Firma18,Lager G,Lager J
+048,Ware verpacken,2024-02-26 14:16:23,Jan Becker,52.69,Produkt S,90.0,Firma18,Lager H,Lager C
+048,Gewicht prüfen,2024-02-26 15:12:23,Hannah Meyer,89.16,Produkt S,90.0,Firma18,Lager F,Lager C
+048,Anzahl der Artikel überprüfen,2024-02-26 16:03:23,Emma Weber,29.11,Produkt S,90.0,Firma18,Lager B,Lager I
+048,Verpackung prüfen,2024-02-26 16:15:23,Sophia Lang,81.54,Produkt S,90.0,Firma18,Lager B,Lager E
+048,Bezahlaufforderung an Kunde schicken,2024-02-26 16:23:23,Noah Becker,36.55,Produkt S,90.0,Firma18,Lager J,Lager A
+048,Informationen an Transporteur übermitteln,2024-02-26 16:24:23,Timo Wagner,84.86,Produkt S,90.0,Firma18,Lager G,Lager A
+048,Paket an Transporteur übergeben,2024-02-26 16:54:23,Nico Schmidt,31.73,Produkt S,90.0,Firma18,Lager I,Lager B
+048,Bestellstatus im System ändern,2024-02-26 17:52:23,Luca Huber,26.7,Produkt S,90.0,Firma18,Lager E,Lager I
+049,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lena Mueller,31.82,Produkt H,130.0,Firma15,Lager F,Lager C
+049,Kunden-Daten in System übertragen,2024-02-26 11:07:23,Jan Becker,15.03,Produkt H,130.0,Firma15,Lager B,Lager H
+049,Rechnungsadesse aufnehmen,2024-02-26 12:06:23,Noah Becker,6.09,Produkt H,130.0,Firma15,Lager B,Lager D
+049,Rechnungsadesse im System eintragen,2024-02-26 12:50:23,Timo Wagner,49.6,Produkt H,130.0,Firma15,Lager G,Lager F
+049,Bestellung im System eintragen,2024-02-26 13:11:23,Leonie Richter,17.63,Produkt H,130.0,Firma15,Lager E,Lager H
+049,Lagerbestand überprüfen,2024-02-26 13:14:23,Noah Becker,68.25,Produkt H,130.0,Firma15,Lager A,Lager G
+049,Auftragsabwicklung im System starten,2024-02-26 14:14:23,David Meyer,89.17,Produkt H,130.0,Firma15,Lager B,Lager G
+049,Artikel zusammenstellen,2024-02-26 14:17:23,Nico Schmidt,68.61,Produkt H,130.0,Firma15,Lager G,Lager G
+049,Ware verpacken,2024-02-26 14:49:23,David Meyer,50.69,Produkt H,130.0,Firma15,Lager J,Lager J
+049,Gewicht prüfen,2024-02-26 15:31:23,Sarah Schmidt,26.01,Produkt H,130.0,Firma15,Lager G,Lager H
+049,Anzahl der Artikel überprüfen,2024-02-26 15:59:23,Sophia Lang,62.2,Produkt H,130.0,Firma15,Lager B,Lager A
+049,Verpackung prüfen,2024-02-26 16:02:23,Leonie Richter,55.26,Produkt H,130.0,Firma15,Lager I,Lager D
+049,Bezahlaufforderung an Kunde schicken,2024-02-26 16:15:23,Mia Schmitt,35.57,Produkt H,130.0,Firma15,Lager B,Lager D
+049,Informationen an Transporteur übermitteln,2024-02-26 16:54:23,Nico Schmidt,20.58,Produkt H,130.0,Firma15,Lager A,Lager C
+049,Paket an Transporteur übergeben,2024-02-26 17:19:23,Hannah Meyer,36.92,Produkt H,130.0,Firma15,Lager E,Lager C
+049,Bestellstatus im System ändern,2024-02-26 17:20:23,Emilia Wagner,26.15,Produkt H,130.0,Firma15,Lager C,Lager I
+050,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sophia Lang,58.85,Produkt K,110.0,Firma18,Lager H,Lager F
+050,Kunden-Daten in System übertragen,2024-02-26 10:53:23,Sarah Schmidt,91.37,Produkt K,110.0,Firma18,Lager G,Lager D
+050,Zahlvorgang abschließen,2024-02-26 11:43:23,Noah Becker,66.19,Produkt K,110.0,Firma18,Lager B,Lager F
+050,Bestellung im System eintragen,2024-02-26 12:15:23,Mia Schmitt,51.26,Produkt K,110.0,Firma18,Lager E,Lager E
+050,Lagerbestand überprüfen,2024-02-26 12:31:23,Emma Weber,5.26,Produkt K,110.0,Firma18,Lager I,Lager A
+050,Auftragsabwicklung im System starten,2024-02-26 13:20:23,Max Mustermann,56.83,Produkt K,110.0,Firma18,Lager I,Lager A
+050,Artikel zusammenstellen,2024-02-26 14:11:23,Lena Mueller,63.24,Produkt K,110.0,Firma18,Lager E,Lager E
+050,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:16:23,Lena Mueller,64.3,Produkt K,110.0,Firma18,Lager B,Lager D
+050,Ware verpacken,2024-02-26 14:40:23,Jonas Richter,32.07,Produkt K,110.0,Firma18,Lager B,Lager I
+050,Gewicht prüfen,2024-02-26 15:15:23,Hannah Meyer,83.96,Produkt K,110.0,Firma18,Lager A,Lager F
+050,Anzahl der Artikel überprüfen,2024-02-26 16:03:23,Laura Fischer,91.31,Produkt K,110.0,Firma18,Lager E,Lager A
+050,Verpackung prüfen,2024-02-26 16:54:23,Max Mustermann,80.03,Produkt K,110.0,Firma18,Lager H,Lager H
+050,Paket zur Warenausgabe bringen,2024-02-26 17:44:23,Noah Becker,64.95,Produkt K,110.0,Firma18,Lager C,Lager J
+050,Zahlungsabwicklung durchführen,2024-02-26 18:21:23,Max Mustermann,8.63,Produkt K,110.0,Firma18,Lager B,Lager C
+050,Paket an Kunde übergeben,2024-02-26 19:00:23,Sophia Lang,30.17,Produkt K,110.0,Firma18,Lager B,Lager I
+050,Bestellstatus im System ändern,2024-02-26 19:12:23,Noah Becker,9.47,Produkt K,110.0,Firma18,Lager G,Lager C
+051,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Leonie Richter,72.53,Produkt G,95.0,Firma8,Lager J,Lager J
+051,Fehlende Daten ermitteln,2024-02-26 11:12:23,Mia Schmitt,24.66,Produkt G,95.0,Firma8,Lager J,Lager F
+051,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:27:23,Sophia Lang,12.08,Produkt G,95.0,Firma8,Lager F,Lager F
+051,Bestellung im System eintragen,2024-02-26 12:13:23,Noah Becker,69.27,Produkt G,95.0,Firma8,Lager D,Lager H
+051,Lagerbestand überprüfen,2024-02-26 13:06:23,Sophia Lang,58.52,Produkt G,95.0,Firma8,Lager E,Lager H
+051,Artikel bestellen,2024-02-26 13:39:23,David Meyer,64.83,Produkt G,95.0,Firma8,Lager I,Lager I
+051,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:11:23,Lena Mueller,77.48,Produkt G,95.0,Firma8,Lager E,Lager F
+051,Auftragsabwicklung im System starten,2024-02-26 14:44:23,Max Mustermann,71.41,Produkt G,95.0,Firma8,Lager A,Lager E
+051,Artikel zusammenstellen,2024-02-26 15:35:23,Hannah Meyer,53.78,Produkt G,95.0,Firma8,Lager I,Lager B
+051,Versicherungs-Bescheinigung dazulegen,2024-02-26 15:48:23,Nico Schmidt,70.71,Produkt G,95.0,Firma8,Lager F,Lager D
+051,Ware verpacken,2024-02-26 16:48:23,Leonie Richter,96.01,Produkt G,95.0,Firma8,Lager J,Lager B
+051,Gewicht prüfen,2024-02-26 17:45:23,Lisa Mueller,24.5,Produkt G,95.0,Firma8,Lager H,Lager E
+051,Anzahl der Artikel überprüfen,2024-02-26 18:29:23,Noah Becker,23.91,Produkt G,95.0,Firma8,Lager E,Lager H
+051,Verpackung prüfen,2024-02-26 18:59:23,Timo Wagner,48.35,Produkt G,95.0,Firma8,Lager I,Lager G
+051,Informationen an Transporteur übermitteln,2024-02-26 19:34:23,Emilia Wagner,88.51,Produkt G,95.0,Firma8,Lager F,Lager E
+051,Paket an Transporteur übergeben,2024-02-26 19:45:23,Nico Schmidt,56.51,Produkt G,95.0,Firma8,Lager F,Lager I
+051,Bestellstatus im System ändern,2024-02-26 20:15:23,Sarah Schmidt,66.55,Produkt G,95.0,Firma8,Lager F,Lager G
+052,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Sophia Lang,32.52,Produkt E,150.0,Firma5,Lager B,Lager E
+052,Bestellung im System eintragen,2024-02-26 11:10:23,David Meyer,13.0,Produkt E,150.0,Firma5,Lager A,Lager B
+052,Lagerbestand überprüfen,2024-02-26 11:59:23,Lena Mueller,89.62,Produkt E,150.0,Firma5,Lager F,Lager E
+052,Auftragsabwicklung im System starten,2024-02-26 12:00:23,Emma Weber,70.42,Produkt E,150.0,Firma5,Lager E,Lager C
+052,Artikel zusammenstellen,2024-02-26 12:57:23,Max Mustermann,45.81,Produkt E,150.0,Firma5,Lager A,Lager E
+052,Ware verpacken,2024-02-26 13:15:23,Noah Becker,53.28,Produkt E,150.0,Firma5,Lager A,Lager C
+052,Gewicht prüfen,2024-02-26 13:37:23,Hannah Meyer,75.02,Produkt E,150.0,Firma5,Lager I,Lager F
+052,Anzahl der Artikel überprüfen,2024-02-26 14:34:23,Lisa Mueller,14.61,Produkt E,150.0,Firma5,Lager B,Lager I
+052,Verpackung prüfen,2024-02-26 14:51:23,Timo Wagner,28.64,Produkt E,150.0,Firma5,Lager H,Lager B
+052,Paket zur Warenausgabe bringen,2024-02-26 15:31:23,Lisa Schulz,76.63,Produkt E,150.0,Firma5,Lager J,Lager D
+052,Paket an Kunde übergeben,2024-02-26 16:30:23,David Meyer,43.78,Produkt E,150.0,Firma5,Lager B,Lager E
+052,Bestellstatus im System ändern,2024-02-26 16:49:23,Lisa Mueller,71.66,Produkt E,150.0,Firma5,Lager C,Lager F
+053,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,23.51,Produkt S,90.0,Firma5,Lager D,Lager I
+053,Kunden-Daten in System übertragen,2024-02-26 11:16:23,Mia Schmitt,66.85,Produkt S,90.0,Firma5,Lager G,Lager A
+053,Zahlvorgang abschließen,2024-02-26 11:59:23,Luca Huber,39.82,Produkt S,90.0,Firma5,Lager B,Lager E
+053,Bestellung im System eintragen,2024-02-26 12:27:23,Laura Fischer,64.9,Produkt S,90.0,Firma5,Lager E,Lager C
+053,Lagerbestand überprüfen,2024-02-26 13:20:23,Sarah Schmidt,51.13,Produkt S,90.0,Firma5,Lager I,Lager E
+053,Auftragsabwicklung im System starten,2024-02-26 13:56:23,Emilia Wagner,53.22,Produkt S,90.0,Firma5,Lager A,Lager I
+053,Artikel zusammenstellen,2024-02-26 14:56:23,Emma Weber,70.29,Produkt S,90.0,Firma5,Lager C,Lager H
+053,Ware verpacken,2024-02-26 15:30:23,Jan Becker,90.69,Produkt S,90.0,Firma5,Lager E,Lager D
+053,Gewicht prüfen,2024-02-26 15:44:23,Emma Weber,87.95,Produkt S,90.0,Firma5,Lager H,Lager I
+053,Anzahl der Artikel überprüfen,2024-02-26 16:09:23,Max Mustermann,81.13,Produkt S,90.0,Firma5,Lager D,Lager J
+053,Verpackung prüfen,2024-02-26 16:55:23,Noah Becker,48.15,Produkt S,90.0,Firma5,Lager I,Lager J
+053,Informationen an Transporteur übermitteln,2024-02-26 17:26:23,Leonie Richter,69.18,Produkt S,90.0,Firma5,Lager C,Lager I
+053,Paket an Transporteur übergeben,2024-02-26 17:27:23,Timo Wagner,89.98,Produkt S,90.0,Firma5,Lager C,Lager D
+053,Bestellstatus im System ändern,2024-02-26 17:57:23,Noah Becker,9.85,Produkt S,90.0,Firma5,Lager I,Lager B
+054,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Paul Zimmer,64.72,Produkt O,120.0,Firma1,Lager D,Lager F
+054,Kunden-Daten in System übertragen,2024-02-26 10:40:23,Hannah Meyer,38.39,Produkt O,120.0,Firma1,Lager B,Lager J
+054,Zahlvorgang abschließen,2024-02-26 10:52:23,Leonie Richter,33.29,Produkt O,120.0,Firma1,Lager G,Lager I
+054,Bestellung im System eintragen,2024-02-26 11:27:23,Noah Becker,92.18,Produkt O,120.0,Firma1,Lager E,Lager D
+054,Lagerbestand überprüfen,2024-02-26 12:15:23,Noah Becker,18.75,Produkt O,120.0,Firma1,Lager J,Lager B
+054,Auftragsabwicklung im System starten,2024-02-26 13:10:23,Lena Mueller,80.6,Produkt O,120.0,Firma1,Lager G,Lager H
+054,Artikel zusammenstellen,2024-02-26 13:15:23,Nico Schmidt,76.09,Produkt O,120.0,Firma1,Lager F,Lager C
+054,Ware verpacken,2024-02-26 13:59:23,Lisa Schulz,84.85,Produkt O,120.0,Firma1,Lager A,Lager D
+054,Gewicht prüfen,2024-02-26 14:54:23,Noah Becker,97.46,Produkt O,120.0,Firma1,Lager D,Lager A
+054,Anzahl der Artikel überprüfen,2024-02-26 15:53:23,Nico Schmidt,77.18,Produkt O,120.0,Firma1,Lager F,Lager I
+054,Verpackung prüfen,2024-02-26 15:57:23,Lena Mueller,8.4,Produkt O,120.0,Firma1,Lager D,Lager I
+054,Fehler im System eintrgen,2024-02-26 16:13:23,Lisa Schulz,30.93,Produkt O,120.0,Firma1,Lager B,Lager D
+054,Bestandsverwaltung informieren,2024-02-26 16:19:23,Mia Schmitt,22.89,Produkt O,120.0,Firma1,Lager E,Lager A
+054,Lagerbestand überprüfen,2024-02-26 17:19:23,Luca Huber,74.37,Produkt O,120.0,Firma1,Lager C,Lager A
+054,Auftragsabwicklung im System starten,2024-02-26 18:16:23,Luca Huber,38.08,Produkt O,120.0,Firma1,Lager H,Lager D
+054,Artikel zusammenstellen,2024-02-26 18:32:23,Emilia Wagner,83.36,Produkt O,120.0,Firma1,Lager A,Lager B
+054,Ware verpacken,2024-02-26 19:05:23,Sarah Schmidt,51.86,Produkt O,120.0,Firma1,Lager G,Lager F
+054,Gewicht prüfen,2024-02-26 19:12:23,Emma Weber,59.13,Produkt O,120.0,Firma1,Lager I,Lager I
+054,Anzahl der Artikel überprüfen,2024-02-26 19:30:23,Lisa Mueller,93.15,Produkt O,120.0,Firma1,Lager A,Lager D
+054,Verpackung prüfen,2024-02-26 20:23:23,David Meyer,33.36,Produkt O,120.0,Firma1,Lager G,Lager C
+054,Bezahlaufforderung an Kunde schicken,2024-02-26 20:52:23,Max Mustermann,13.66,Produkt O,120.0,Firma1,Lager D,Lager H
+054,Informationen an Transporteur übermitteln,2024-02-26 21:52:23,David Meyer,9.33,Produkt O,120.0,Firma1,Lager D,Lager A
+054,Paket an Transporteur übergeben,2024-02-26 22:00:23,Lisa Mueller,7.75,Produkt O,120.0,Firma1,Lager B,Lager J
+054,Bestellstatus im System ändern,2024-02-26 22:14:23,Hannah Meyer,70.69,Produkt O,120.0,Firma1,Lager G,Lager C
+055,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sophia Lang,19.36,Produkt B,120.0,Firma9,Lager J,Lager C
+055,Kunden-Daten in System übertragen,2024-02-26 10:53:23,Sophia Lang,96.68,Produkt B,120.0,Firma9,Lager J,Lager A
+055,Zahlvorgang abschließen,2024-02-26 11:12:23,Emilia Wagner,6.72,Produkt B,120.0,Firma9,Lager I,Lager F
+055,Bestellung im System eintragen,2024-02-26 11:59:23,Luca Huber,43.76,Produkt B,120.0,Firma9,Lager H,Lager E
+055,Lagerbestand überprüfen,2024-02-26 12:40:23,Timo Wagner,65.83,Produkt B,120.0,Firma9,Lager H,Lager E
+055,Auftragsabwicklung im System starten,2024-02-26 13:31:23,Lena Mueller,29.32,Produkt B,120.0,Firma9,Lager H,Lager B
+055,Artikel zusammenstellen,2024-02-26 14:14:23,Laura Fischer,89.16,Produkt B,120.0,Firma9,Lager I,Lager E
+055,Ware verpacken,2024-02-26 14:17:23,Nico Schmidt,34.67,Produkt B,120.0,Firma9,Lager D,Lager J
+055,Gewicht prüfen,2024-02-26 14:36:23,Jonas Richter,18.77,Produkt B,120.0,Firma9,Lager E,Lager A
+055,Anzahl der Artikel überprüfen,2024-02-26 15:04:23,Nico Schmidt,78.89,Produkt B,120.0,Firma9,Lager A,Lager J
+055,Verpackung prüfen,2024-02-26 15:26:23,Lisa Schulz,96.8,Produkt B,120.0,Firma9,Lager G,Lager D
+055,Fehler im System eintrgen,2024-02-26 15:58:23,Emilia Wagner,56.74,Produkt B,120.0,Firma9,Lager G,Lager A
+055,Bestandsverwaltung informieren,2024-02-26 16:27:23,Leonie Richter,45.52,Produkt B,120.0,Firma9,Lager D,Lager E
+055,Lagerbestand überprüfen,2024-02-26 17:11:23,Noah Becker,81.58,Produkt B,120.0,Firma9,Lager J,Lager E
+055,Auftragsabwicklung im System starten,2024-02-26 17:28:23,Noah Becker,31.97,Produkt B,120.0,Firma9,Lager G,Lager I
+055,Artikel zusammenstellen,2024-02-26 18:00:23,Timo Wagner,8.04,Produkt B,120.0,Firma9,Lager A,Lager E
+055,Ware verpacken,2024-02-26 18:47:23,Luca Huber,57.11,Produkt B,120.0,Firma9,Lager A,Lager C
+055,Gewicht prüfen,2024-02-26 19:02:23,Mia Schmitt,28.82,Produkt B,120.0,Firma9,Lager E,Lager E
+055,Anzahl der Artikel überprüfen,2024-02-26 19:45:23,Paul Zimmer,49.54,Produkt B,120.0,Firma9,Lager C,Lager G
+055,Verpackung prüfen,2024-02-26 20:10:23,Sophia Lang,46.29,Produkt B,120.0,Firma9,Lager B,Lager F
+055,Paket zur Warenausgabe bringen,2024-02-26 20:37:23,Luca Huber,45.45,Produkt B,120.0,Firma9,Lager B,Lager D
+055,Zahlungsabwicklung durchführen,2024-02-26 21:02:23,Timo Wagner,30.5,Produkt B,120.0,Firma9,Lager H,Lager J
+055,Paket an Kunde übergeben,2024-02-26 21:56:23,Jonas Richter,74.24,Produkt B,120.0,Firma9,Lager H,Lager E
+055,Bestellstatus im System ändern,2024-02-26 22:34:23,Jonas Richter,77.18,Produkt B,120.0,Firma9,Lager I,Lager G
+056,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Hannah Meyer,76.74,Produkt L,140.0,Firma6,Lager E,Lager G
+056,Kunden-Daten in System übertragen,2024-02-26 11:17:23,Lisa Mueller,65.43,Produkt L,140.0,Firma6,Lager C,Lager A
+056,Zahlvorgang abschließen,2024-02-26 11:45:23,Nico Schmidt,8.76,Produkt L,140.0,Firma6,Lager G,Lager C
+056,Bestellung im System eintragen,2024-02-26 12:01:23,David Meyer,25.94,Produkt L,140.0,Firma6,Lager B,Lager B
+056,Lagerbestand überprüfen,2024-02-26 12:12:23,David Meyer,18.61,Produkt L,140.0,Firma6,Lager H,Lager I
+056,Auftragsabwicklung im System starten,2024-02-26 12:55:23,Sarah Schmidt,74.14,Produkt L,140.0,Firma6,Lager D,Lager D
+056,Artikel zusammenstellen,2024-02-26 13:32:23,Jan Becker,75.34,Produkt L,140.0,Firma6,Lager D,Lager G
+056,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:54:23,Emma Weber,43.85,Produkt L,140.0,Firma6,Lager A,Lager I
+056,Ware verpacken,2024-02-26 14:13:23,Lisa Schulz,54.61,Produkt L,140.0,Firma6,Lager C,Lager G
+056,Gewicht prüfen,2024-02-26 14:49:23,Emilia Wagner,33.15,Produkt L,140.0,Firma6,Lager A,Lager D
+056,Anzahl der Artikel überprüfen,2024-02-26 15:14:23,Paul Zimmer,71.59,Produkt L,140.0,Firma6,Lager E,Lager B
+056,Verpackung prüfen,2024-02-26 15:53:23,Timo Wagner,29.64,Produkt L,140.0,Firma6,Lager J,Lager F
+056,Paket zur Warenausgabe bringen,2024-02-26 16:42:23,Emilia Wagner,28.88,Produkt L,140.0,Firma6,Lager A,Lager F
+056,Zahlungsabwicklung durchführen,2024-02-26 17:29:23,Sophia Lang,86.91,Produkt L,140.0,Firma6,Lager G,Lager H
+056,Paket an Kunde übergeben,2024-02-26 17:35:23,Jan Becker,42.64,Produkt L,140.0,Firma6,Lager E,Lager E
+056,Bestellstatus im System ändern,2024-02-26 18:29:23,David Meyer,73.87,Produkt L,140.0,Firma6,Lager C,Lager C
+057,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Luca Huber,17.66,Produkt K,110.0,Firma17,Lager C,Lager A
+057,Bestellung im System eintragen,2024-02-26 10:37:23,Noah Becker,25.0,Produkt K,110.0,Firma17,Lager B,Lager A
+057,Lagerbestand überprüfen,2024-02-26 10:43:23,Nico Schmidt,84.02,Produkt K,110.0,Firma17,Lager G,Lager B
+057,Auftragsabwicklung im System starten,2024-02-26 11:34:23,Lena Mueller,62.77,Produkt K,110.0,Firma17,Lager G,Lager H
+057,Artikel zusammenstellen,2024-02-26 11:39:23,David Meyer,88.39,Produkt K,110.0,Firma17,Lager A,Lager F
+057,Ware verpacken,2024-02-26 12:13:23,Jonas Richter,95.16,Produkt K,110.0,Firma17,Lager H,Lager F
+057,Gewicht prüfen,2024-02-26 12:31:23,Emilia Wagner,90.15,Produkt K,110.0,Firma17,Lager C,Lager B
+057,Anzahl der Artikel überprüfen,2024-02-26 12:34:23,Paul Zimmer,89.96,Produkt K,110.0,Firma17,Lager I,Lager G
+057,Verpackung prüfen,2024-02-26 13:16:23,Max Mustermann,96.13,Produkt K,110.0,Firma17,Lager I,Lager D
+057,Bezahlaufforderung an Kunde schicken,2024-02-26 13:38:23,Timo Wagner,36.34,Produkt K,110.0,Firma17,Lager J,Lager J
+057,Bezahlaufforderung an Kunde schicken,2024-02-26 14:00:23,Paul Zimmer,17.84,Produkt K,110.0,Firma17,Lager I,Lager C
+057,Informationen an Transporteur übermitteln,2024-02-26 14:35:23,Jonas Richter,74.64,Produkt K,110.0,Firma17,Lager D,Lager H
+057,Paket an Transporteur übergeben,2024-02-26 15:27:23,Max Mustermann,18.76,Produkt K,110.0,Firma17,Lager E,Lager G
+057,Bestellstatus im System ändern,2024-02-26 16:23:23,Hannah Meyer,52.28,Produkt K,110.0,Firma17,Lager H,Lager A
+058,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Timo Wagner,59.37,Produkt L,140.0,Firma20,Lager I,Lager G
+058,Bestellung im System eintragen,2024-02-26 10:45:23,Leonie Richter,83.65,Produkt L,140.0,Firma20,Lager G,Lager G
+058,Lagerbestand überprüfen,2024-02-26 11:03:23,Timo Wagner,26.86,Produkt L,140.0,Firma20,Lager J,Lager H
+058,Auftragsabwicklung im System starten,2024-02-26 11:12:23,Lena Mueller,99.01,Produkt L,140.0,Firma20,Lager H,Lager B
+058,Artikel zusammenstellen,2024-02-26 11:55:23,Lisa Schulz,70.04,Produkt L,140.0,Firma20,Lager E,Lager E
+058,Versicherungs-Bescheinigung dazulegen,2024-02-26 12:31:23,Lisa Schulz,71.37,Produkt L,140.0,Firma20,Lager H,Lager I
+058,Ware verpacken,2024-02-26 12:52:23,David Meyer,64.56,Produkt L,140.0,Firma20,Lager G,Lager B
+058,Gewicht prüfen,2024-02-26 13:44:23,Jan Becker,21.25,Produkt L,140.0,Firma20,Lager D,Lager F
+058,Anzahl der Artikel überprüfen,2024-02-26 13:46:23,Nico Schmidt,52.04,Produkt L,140.0,Firma20,Lager A,Lager C
+058,Verpackung prüfen,2024-02-26 13:59:23,Sophia Lang,67.19,Produkt L,140.0,Firma20,Lager I,Lager G
+058,Paket zur Warenausgabe bringen,2024-02-26 14:56:23,Hannah Meyer,94.62,Produkt L,140.0,Firma20,Lager H,Lager A
+058,Paket an Kunde übergeben,2024-02-26 15:12:23,Sarah Schmidt,70.09,Produkt L,140.0,Firma20,Lager I,Lager I
+058,Bestellstatus im System ändern,2024-02-26 15:55:23,Emilia Wagner,82.44,Produkt L,140.0,Firma20,Lager G,Lager C
+059,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Leonie Richter,13.42,Produkt E,150.0,Firma14,Lager E,Lager A
+059,Bestellung im System eintragen,2024-02-26 11:02:23,Lena Mueller,63.89,Produkt E,150.0,Firma14,Lager D,Lager F
+059,Lagerbestand überprüfen,2024-02-26 11:43:23,David Meyer,57.99,Produkt E,150.0,Firma14,Lager D,Lager G
+059,Auftragsabwicklung im System starten,2024-02-26 12:14:23,Emma Weber,53.65,Produkt E,150.0,Firma14,Lager B,Lager A
+059,Artikel zusammenstellen,2024-02-26 13:04:23,Sarah Schmidt,65.38,Produkt E,150.0,Firma14,Lager C,Lager G
+059,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:18:23,Luca Huber,16.95,Produkt E,150.0,Firma14,Lager D,Lager B
+059,Ware verpacken,2024-02-26 13:33:23,Laura Fischer,61.56,Produkt E,150.0,Firma14,Lager G,Lager A
+059,Gewicht prüfen,2024-02-26 14:07:23,David Meyer,47.83,Produkt E,150.0,Firma14,Lager G,Lager I
+059,Anzahl der Artikel überprüfen,2024-02-26 14:25:23,Sophia Lang,68.38,Produkt E,150.0,Firma14,Lager A,Lager E
+059,Verpackung prüfen,2024-02-26 15:13:23,Nico Schmidt,94.25,Produkt E,150.0,Firma14,Lager C,Lager B
+059,Paket zur Warenausgabe bringen,2024-02-26 15:16:23,Leonie Richter,13.51,Produkt E,150.0,Firma14,Lager A,Lager D
+059,Paket an Kunde übergeben,2024-02-26 16:14:23,Lisa Mueller,43.43,Produkt E,150.0,Firma14,Lager A,Lager I
+059,Bestellstatus im System ändern,2024-02-26 16:25:23,Lisa Mueller,10.44,Produkt E,150.0,Firma14,Lager F,Lager E
+060,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Hannah Meyer,97.27,Produkt P,100.0,Firma19,Lager A,Lager D
+060,Kunden-Daten in System übertragen,2024-02-26 10:45:23,Emma Weber,77.15,Produkt P,100.0,Firma19,Lager A,Lager E
+060,Zahlvorgang abschließen,2024-02-26 11:15:23,Jonas Richter,7.41,Produkt P,100.0,Firma19,Lager I,Lager I
+060,Bestellung im System eintragen,2024-02-26 12:09:23,Jonas Richter,88.14,Produkt P,100.0,Firma19,Lager G,Lager H
+060,Lagerbestand überprüfen,2024-02-26 12:37:23,Jan Becker,37.32,Produkt P,100.0,Firma19,Lager D,Lager D
+060,Auftragsabwicklung im System starten,2024-02-26 12:55:23,Sophia Lang,25.36,Produkt P,100.0,Firma19,Lager B,Lager H
+060,Artikel zusammenstellen,2024-02-26 13:14:23,Leonie Richter,84.38,Produkt P,100.0,Firma19,Lager G,Lager A
+060,Ware verpacken,2024-02-26 14:00:23,Jonas Richter,80.33,Produkt P,100.0,Firma19,Lager G,Lager I
+060,Gewicht prüfen,2024-02-26 14:07:23,Mia Schmitt,88.2,Produkt P,100.0,Firma19,Lager G,Lager B
+060,Anzahl der Artikel überprüfen,2024-02-26 14:24:23,Laura Fischer,86.91,Produkt P,100.0,Firma19,Lager B,Lager G
+060,Verpackung prüfen,2024-02-26 14:25:23,Hannah Meyer,68.9,Produkt P,100.0,Firma19,Lager E,Lager H
+060,Bezahlaufforderung an Kunde schicken,2024-02-26 14:41:23,David Meyer,42.91,Produkt P,100.0,Firma19,Lager I,Lager B
+060,Informationen an Transporteur übermitteln,2024-02-26 15:28:23,Luca Huber,53.3,Produkt P,100.0,Firma19,Lager E,Lager J
+060,Paket an Transporteur übergeben,2024-02-26 15:43:23,Nico Schmidt,45.29,Produkt P,100.0,Firma19,Lager H,Lager J
+060,Bestellstatus im System ändern,2024-02-26 16:25:23,Mia Schmitt,26.05,Produkt P,100.0,Firma19,Lager D,Lager H
+061,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emma Weber,25.52,Produkt B,120.0,Firma11,Lager D,Lager B
+061,Kunden-Daten in System übertragen,2024-02-26 11:09:23,Max Mustermann,98.13,Produkt B,120.0,Firma11,Lager D,Lager D
+061,Zahlvorgang abschließen,2024-02-26 11:22:23,Noah Becker,98.68,Produkt B,120.0,Firma11,Lager I,Lager J
+061,Bestellung im System eintragen,2024-02-26 12:00:23,Mia Schmitt,79.26,Produkt B,120.0,Firma11,Lager J,Lager E
+061,Lagerbestand überprüfen,2024-02-26 12:13:23,Laura Fischer,27.36,Produkt B,120.0,Firma11,Lager E,Lager I
+061,Auftragsabwicklung im System starten,2024-02-26 12:31:23,Nico Schmidt,16.42,Produkt B,120.0,Firma11,Lager F,Lager I
+061,Artikel zusammenstellen,2024-02-26 12:58:23,Mia Schmitt,59.45,Produkt B,120.0,Firma11,Lager E,Lager C
+061,Ware verpacken,2024-02-26 13:15:23,Mia Schmitt,59.01,Produkt B,120.0,Firma11,Lager E,Lager E
+061,Gewicht prüfen,2024-02-26 13:50:23,Lisa Mueller,96.98,Produkt B,120.0,Firma11,Lager E,Lager B
+061,Anzahl der Artikel überprüfen,2024-02-26 14:46:23,Max Mustermann,83.54,Produkt B,120.0,Firma11,Lager A,Lager I
+061,Verpackung prüfen,2024-02-26 14:59:23,Max Mustermann,33.21,Produkt B,120.0,Firma11,Lager A,Lager C
+061,Fehler im System eintrgen,2024-02-26 15:51:23,Leonie Richter,82.75,Produkt B,120.0,Firma11,Lager E,Lager J
+061,Bestandsverwaltung informieren,2024-02-26 15:55:23,Emilia Wagner,53.3,Produkt B,120.0,Firma11,Lager B,Lager A
+061,Lagerbestand überprüfen,2024-02-26 16:04:23,Nico Schmidt,14.34,Produkt B,120.0,Firma11,Lager I,Lager H
+061,Auftragsabwicklung im System starten,2024-02-26 16:42:23,Emilia Wagner,97.58,Produkt B,120.0,Firma11,Lager I,Lager C
+061,Artikel zusammenstellen,2024-02-26 16:46:23,Paul Zimmer,77.02,Produkt B,120.0,Firma11,Lager A,Lager H
+061,Ware verpacken,2024-02-26 17:32:23,Leonie Richter,21.83,Produkt B,120.0,Firma11,Lager B,Lager E
+061,Gewicht prüfen,2024-02-26 18:26:23,Noah Becker,52.1,Produkt B,120.0,Firma11,Lager C,Lager E
+061,Anzahl der Artikel überprüfen,2024-02-26 19:25:23,Leonie Richter,28.59,Produkt B,120.0,Firma11,Lager D,Lager E
+061,Verpackung prüfen,2024-02-26 19:40:23,Hannah Meyer,58.35,Produkt B,120.0,Firma11,Lager I,Lager J
+061,Bezahlaufforderung an Kunde schicken,2024-02-26 20:34:23,Timo Wagner,20.57,Produkt B,120.0,Firma11,Lager E,Lager H
+061,Informationen an Transporteur übermitteln,2024-02-26 20:48:23,Leonie Richter,92.16,Produkt B,120.0,Firma11,Lager J,Lager D
+061,Paket an Transporteur übergeben,2024-02-26 20:53:23,Luca Huber,35.17,Produkt B,120.0,Firma11,Lager B,Lager J
+061,Bestellstatus im System ändern,2024-02-26 20:55:23,Luca Huber,74.24,Produkt B,120.0,Firma11,Lager A,Lager I
+062,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Max Mustermann,52.69,Produkt K,110.0,Firma2,Lager C,Lager E
+062,Bestellung im System eintragen,2024-02-26 10:56:23,Leonie Richter,34.11,Produkt K,110.0,Firma2,Lager C,Lager B
+062,Lagerbestand überprüfen,2024-02-26 11:10:23,Hannah Meyer,13.95,Produkt K,110.0,Firma2,Lager D,Lager B
+062,Auftragsabwicklung im System starten,2024-02-26 12:00:23,Hannah Meyer,46.43,Produkt K,110.0,Firma2,Lager G,Lager D
+062,Artikel zusammenstellen,2024-02-26 12:57:23,Hannah Meyer,13.14,Produkt K,110.0,Firma2,Lager F,Lager J
+062,Ware verpacken,2024-02-26 13:20:23,Paul Zimmer,81.53,Produkt K,110.0,Firma2,Lager A,Lager D
+062,Gewicht prüfen,2024-02-26 14:07:23,Mia Schmitt,43.13,Produkt K,110.0,Firma2,Lager C,Lager E
+062,Anzahl der Artikel überprüfen,2024-02-26 14:48:23,Nico Schmidt,24.88,Produkt K,110.0,Firma2,Lager I,Lager G
+062,Verpackung prüfen,2024-02-26 15:01:23,Emilia Wagner,31.24,Produkt K,110.0,Firma2,Lager G,Lager I
+062,Bezahlaufforderung an Kunde schicken,2024-02-26 15:55:23,Max Mustermann,27.99,Produkt K,110.0,Firma2,Lager E,Lager G
+062,Bezahlaufforderung an Kunde schicken,2024-02-26 16:14:23,Paul Zimmer,84.63,Produkt K,110.0,Firma2,Lager I,Lager B
+062,Informationen an Transporteur übermitteln,2024-02-26 16:52:23,Timo Wagner,69.19,Produkt K,110.0,Firma2,Lager G,Lager D
+062,Paket an Transporteur übergeben,2024-02-26 17:11:23,Emma Weber,10.38,Produkt K,110.0,Firma2,Lager F,Lager E
+062,Bestellstatus im System ändern,2024-02-26 17:36:23,Emma Weber,18.3,Produkt K,110.0,Firma2,Lager J,Lager G
+063,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,71.94,Produkt D,70.0,Firma14,Lager D,Lager H
+063,Kunden-Daten in System übertragen,2024-02-26 11:14:23,Lisa Mueller,77.13,Produkt D,70.0,Firma14,Lager C,Lager A
+063,Rechnungsadesse aufnehmen,2024-02-26 11:31:23,Jan Becker,56.17,Produkt D,70.0,Firma14,Lager F,Lager F
+063,Rechnungsadesse im System eintragen,2024-02-26 12:24:23,Leonie Richter,36.1,Produkt D,70.0,Firma14,Lager B,Lager F
+063,Bestellung im System eintragen,2024-02-26 13:08:23,Emma Weber,32.86,Produkt D,70.0,Firma14,Lager C,Lager E
+063,Lagerbestand überprüfen,2024-02-26 13:48:23,Emilia Wagner,5.86,Produkt D,70.0,Firma14,Lager E,Lager E
+063,Artikel bestellen,2024-02-26 14:46:23,Jan Becker,28.5,Produkt D,70.0,Firma14,Lager H,Lager E
+063,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:58:23,Luca Huber,64.12,Produkt D,70.0,Firma14,Lager E,Lager J
+063,Auftragsabwicklung im System starten,2024-02-26 15:14:23,Nico Schmidt,90.99,Produkt D,70.0,Firma14,Lager G,Lager F
+063,Artikel zusammenstellen,2024-02-26 15:42:23,Emilia Wagner,67.25,Produkt D,70.0,Firma14,Lager G,Lager H
+063,Ware verpacken,2024-02-26 16:31:23,Noah Becker,72.14,Produkt D,70.0,Firma14,Lager G,Lager H
+063,Gewicht prüfen,2024-02-26 17:23:23,Emma Weber,14.33,Produkt D,70.0,Firma14,Lager H,Lager I
+063,Anzahl der Artikel überprüfen,2024-02-26 18:10:23,Sarah Schmidt,46.81,Produkt D,70.0,Firma14,Lager C,Lager I
+063,Verpackung prüfen,2024-02-26 18:11:23,Nico Schmidt,30.94,Produkt D,70.0,Firma14,Lager B,Lager D
+063,Fehler im System eintrgen,2024-02-26 18:48:23,Lisa Mueller,53.77,Produkt D,70.0,Firma14,Lager B,Lager I
+063,Bestandsverwaltung informieren,2024-02-26 19:25:23,Nico Schmidt,50.88,Produkt D,70.0,Firma14,Lager J,Lager H
+063,Lagerbestand überprüfen,2024-02-26 20:02:23,Mia Schmitt,90.05,Produkt D,70.0,Firma14,Lager E,Lager I
+063,Auftragsabwicklung im System starten,2024-02-26 20:35:23,Emilia Wagner,40.36,Produkt D,70.0,Firma14,Lager B,Lager I
+063,Artikel zusammenstellen,2024-02-26 21:22:23,Lisa Mueller,70.97,Produkt D,70.0,Firma14,Lager D,Lager C
+063,Ware verpacken,2024-02-26 22:12:23,Jonas Richter,42.61,Produkt D,70.0,Firma14,Lager B,Lager H
+063,Gewicht prüfen,2024-02-26 22:17:23,Lisa Schulz,15.92,Produkt D,70.0,Firma14,Lager H,Lager D
+063,Anzahl der Artikel überprüfen,2024-02-26 23:11:23,Emma Weber,7.92,Produkt D,70.0,Firma14,Lager H,Lager H
+063,Verpackung prüfen,2024-02-27 00:11:23,David Meyer,99.02,Produkt D,70.0,Firma14,Lager E,Lager B
+063,Paket zur Warenausgabe bringen,2024-02-27 00:33:23,Nico Schmidt,64.47,Produkt D,70.0,Firma14,Lager G,Lager A
+063,Paket an Kunde übergeben,2024-02-27 00:44:23,Hannah Meyer,76.17,Produkt D,70.0,Firma14,Lager B,Lager I
+063,Bestellstatus im System ändern,2024-02-27 01:39:23,Leonie Richter,81.05,Produkt D,70.0,Firma14,Lager D,Lager H
+064,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sophia Lang,27.9,Produkt K,110.0,Firma7,Lager G,Lager B
+064,Kunden-Daten in System übertragen,2024-02-26 11:26:23,Max Mustermann,23.09,Produkt K,110.0,Firma7,Lager B,Lager I
+064,Zahlvorgang abschließen,2024-02-26 12:21:23,Lena Mueller,90.64,Produkt K,110.0,Firma7,Lager A,Lager G
+064,Bestellung im System eintragen,2024-02-26 12:54:23,Paul Zimmer,18.04,Produkt K,110.0,Firma7,Lager I,Lager B
+064,Lagerbestand überprüfen,2024-02-26 13:26:23,Leonie Richter,46.44,Produkt K,110.0,Firma7,Lager E,Lager D
+064,Artikel bestellen,2024-02-26 14:17:23,Luca Huber,20.91,Produkt K,110.0,Firma7,Lager H,Lager J
+064,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:32:23,Nico Schmidt,8.28,Produkt K,110.0,Firma7,Lager B,Lager H
+064,Auftragsabwicklung im System starten,2024-02-26 14:36:23,Max Mustermann,43.84,Produkt K,110.0,Firma7,Lager E,Lager H
+064,Artikel zusammenstellen,2024-02-26 14:58:23,Laura Fischer,64.38,Produkt K,110.0,Firma7,Lager B,Lager A
+064,Ware verpacken,2024-02-26 15:30:23,Nico Schmidt,38.34,Produkt K,110.0,Firma7,Lager F,Lager A
+064,Gewicht prüfen,2024-02-26 15:32:23,Lisa Schulz,81.08,Produkt K,110.0,Firma7,Lager A,Lager C
+064,Anzahl der Artikel überprüfen,2024-02-26 16:06:23,Lena Mueller,62.41,Produkt K,110.0,Firma7,Lager G,Lager I
+064,Verpackung prüfen,2024-02-26 17:01:23,Emilia Wagner,50.31,Produkt K,110.0,Firma7,Lager C,Lager G
+064,Fehler im System eintrgen,2024-02-26 17:29:23,Max Mustermann,96.91,Produkt K,110.0,Firma7,Lager D,Lager G
+064,Bestandsverwaltung informieren,2024-02-26 18:12:23,Sarah Schmidt,39.73,Produkt K,110.0,Firma7,Lager D,Lager B
+064,Lagerbestand überprüfen,2024-02-26 19:04:23,Paul Zimmer,25.57,Produkt K,110.0,Firma7,Lager F,Lager G
+064,Auftragsabwicklung im System starten,2024-02-26 19:31:23,Mia Schmitt,78.74,Produkt K,110.0,Firma7,Lager G,Lager D
+064,Artikel zusammenstellen,2024-02-26 19:41:23,Leonie Richter,44.97,Produkt K,110.0,Firma7,Lager H,Lager F
+064,Ware verpacken,2024-02-26 20:16:23,Hannah Meyer,20.86,Produkt K,110.0,Firma7,Lager A,Lager C
+064,Gewicht prüfen,2024-02-26 20:18:23,Lena Mueller,8.31,Produkt K,110.0,Firma7,Lager F,Lager A
+064,Anzahl der Artikel überprüfen,2024-02-26 20:53:23,Paul Zimmer,74.0,Produkt K,110.0,Firma7,Lager J,Lager E
+064,Verpackung prüfen,2024-02-26 21:23:23,Nico Schmidt,41.12,Produkt K,110.0,Firma7,Lager H,Lager F
+064,Paket zur Warenausgabe bringen,2024-02-26 22:13:23,Paul Zimmer,73.09,Produkt K,110.0,Firma7,Lager G,Lager C
+064,Paket an Kunde übergeben,2024-02-26 22:57:23,Leonie Richter,53.31,Produkt K,110.0,Firma7,Lager D,Lager I
+064,Bestellstatus im System ändern,2024-02-26 23:29:23,Luca Huber,35.14,Produkt K,110.0,Firma7,Lager J,Lager J
+065,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Nico Schmidt,76.07,Produkt Q,110.0,Firma15,Lager E,Lager H
+065,Kunden-Daten in System übertragen,2024-02-26 11:28:23,Timo Wagner,74.38,Produkt Q,110.0,Firma15,Lager H,Lager C
+065,Zahlvorgang abschließen,2024-02-26 12:25:23,Lena Mueller,24.84,Produkt Q,110.0,Firma15,Lager I,Lager B
+065,Bestellung im System eintragen,2024-02-26 12:27:23,Sophia Lang,67.89,Produkt Q,110.0,Firma15,Lager A,Lager E
+065,Lagerbestand überprüfen,2024-02-26 12:34:23,Lisa Mueller,69.75,Produkt Q,110.0,Firma15,Lager F,Lager A
+065,Auftragsabwicklung im System starten,2024-02-26 13:32:23,Lisa Schulz,68.93,Produkt Q,110.0,Firma15,Lager D,Lager F
+065,Artikel zusammenstellen,2024-02-26 13:42:23,Jonas Richter,57.88,Produkt Q,110.0,Firma15,Lager C,Lager B
+065,Ware verpacken,2024-02-26 14:24:23,David Meyer,25.68,Produkt Q,110.0,Firma15,Lager F,Lager F
+065,Gewicht prüfen,2024-02-26 15:15:23,Emilia Wagner,56.16,Produkt Q,110.0,Firma15,Lager C,Lager J
+065,Anzahl der Artikel überprüfen,2024-02-26 15:42:23,Noah Becker,71.58,Produkt Q,110.0,Firma15,Lager B,Lager G
+065,Verpackung prüfen,2024-02-26 16:24:23,Lisa Mueller,20.73,Produkt Q,110.0,Firma15,Lager C,Lager E
+065,Fehler im System eintrgen,2024-02-26 16:43:23,Hannah Meyer,25.91,Produkt Q,110.0,Firma15,Lager D,Lager B
+065,Bestandsverwaltung informieren,2024-02-26 17:04:23,Hannah Meyer,83.45,Produkt Q,110.0,Firma15,Lager C,Lager G
+065,Lagerbestand überprüfen,2024-02-26 17:16:23,Laura Fischer,83.64,Produkt Q,110.0,Firma15,Lager B,Lager F
+065,Auftragsabwicklung im System starten,2024-02-26 17:53:23,Emma Weber,65.98,Produkt Q,110.0,Firma15,Lager F,Lager E
+065,Artikel zusammenstellen,2024-02-26 18:20:23,Lisa Mueller,62.67,Produkt Q,110.0,Firma15,Lager C,Lager A
+065,Ware verpacken,2024-02-26 18:37:23,Jonas Richter,17.82,Produkt Q,110.0,Firma15,Lager B,Lager F
+065,Gewicht prüfen,2024-02-26 18:47:23,Jan Becker,35.6,Produkt Q,110.0,Firma15,Lager A,Lager H
+065,Anzahl der Artikel überprüfen,2024-02-26 18:58:23,Laura Fischer,30.23,Produkt Q,110.0,Firma15,Lager A,Lager G
+065,Verpackung prüfen,2024-02-26 19:03:23,Sarah Schmidt,15.99,Produkt Q,110.0,Firma15,Lager F,Lager F
+065,Paket zur Warenausgabe bringen,2024-02-26 19:04:23,Noah Becker,91.37,Produkt Q,110.0,Firma15,Lager F,Lager J
+065,Paket an Kunde übergeben,2024-02-26 19:36:23,Lisa Schulz,93.86,Produkt Q,110.0,Firma15,Lager A,Lager H
+065,Bestellstatus im System ändern,2024-02-26 20:14:23,Timo Wagner,58.41,Produkt Q,110.0,Firma15,Lager D,Lager A
+066,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lisa Schulz,52.36,Produkt K,110.0,Firma12,Lager B,Lager A
+066,Kunden-Daten in System übertragen,2024-02-26 10:30:23,David Meyer,23.94,Produkt K,110.0,Firma12,Lager G,Lager H
+066,Rechnungsadesse aufnehmen,2024-02-26 10:42:23,Nico Schmidt,87.19,Produkt K,110.0,Firma12,Lager D,Lager G
+066,Rechnungsadesse im System eintragen,2024-02-26 11:03:23,Luca Huber,93.6,Produkt K,110.0,Firma12,Lager F,Lager H
+066,Bestellung im System eintragen,2024-02-26 11:13:23,Lisa Mueller,33.72,Produkt K,110.0,Firma12,Lager B,Lager C
+066,Lagerbestand überprüfen,2024-02-26 11:37:23,Emilia Wagner,74.47,Produkt K,110.0,Firma12,Lager C,Lager I
+066,Artikel bestellen,2024-02-26 11:50:23,Mia Schmitt,72.1,Produkt K,110.0,Firma12,Lager C,Lager F
+066,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:05:23,Noah Becker,92.77,Produkt K,110.0,Firma12,Lager D,Lager F
+066,Auftragsabwicklung im System starten,2024-02-26 12:53:23,Paul Zimmer,48.62,Produkt K,110.0,Firma12,Lager E,Lager J
+066,Artikel zusammenstellen,2024-02-26 12:54:23,Nico Schmidt,19.91,Produkt K,110.0,Firma12,Lager E,Lager A
+066,Ware verpacken,2024-02-26 12:59:23,Max Mustermann,23.44,Produkt K,110.0,Firma12,Lager C,Lager F
+066,Gewicht prüfen,2024-02-26 13:49:23,Lisa Mueller,22.81,Produkt K,110.0,Firma12,Lager G,Lager I
+066,Anzahl der Artikel überprüfen,2024-02-26 14:39:23,Emilia Wagner,18.48,Produkt K,110.0,Firma12,Lager J,Lager J
+066,Verpackung prüfen,2024-02-26 15:34:23,Sophia Lang,77.19,Produkt K,110.0,Firma12,Lager B,Lager F
+066,Fehler im System eintrgen,2024-02-26 16:26:23,Lisa Mueller,38.98,Produkt K,110.0,Firma12,Lager H,Lager G
+066,Bestandsverwaltung informieren,2024-02-26 16:43:23,Jan Becker,9.66,Produkt K,110.0,Firma12,Lager E,Lager I
+066,Lagerbestand überprüfen,2024-02-26 16:58:23,Jan Becker,95.89,Produkt K,110.0,Firma12,Lager C,Lager G
+066,Auftragsabwicklung im System starten,2024-02-26 17:53:23,Sarah Schmidt,39.59,Produkt K,110.0,Firma12,Lager F,Lager J
+066,Artikel zusammenstellen,2024-02-26 18:31:23,Max Mustermann,86.03,Produkt K,110.0,Firma12,Lager J,Lager E
+066,Ware verpacken,2024-02-26 18:41:23,Jonas Richter,30.09,Produkt K,110.0,Firma12,Lager G,Lager A
+066,Gewicht prüfen,2024-02-26 19:38:23,Sarah Schmidt,80.02,Produkt K,110.0,Firma12,Lager H,Lager H
+066,Anzahl der Artikel überprüfen,2024-02-26 19:40:23,Paul Zimmer,8.95,Produkt K,110.0,Firma12,Lager G,Lager A
+066,Verpackung prüfen,2024-02-26 20:24:23,Paul Zimmer,65.84,Produkt K,110.0,Firma12,Lager G,Lager H
+066,Paket zur Warenausgabe bringen,2024-02-26 20:25:23,Mia Schmitt,54.29,Produkt K,110.0,Firma12,Lager C,Lager H
+066,Paket an Kunde übergeben,2024-02-26 21:24:23,Emilia Wagner,42.47,Produkt K,110.0,Firma12,Lager F,Lager D
+066,Bestellstatus im System ändern,2024-02-26 21:29:23,Nico Schmidt,99.9,Produkt K,110.0,Firma12,Lager A,Lager E
+067,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Laura Fischer,90.47,Produkt M,95.0,Firma10,Lager D,Lager B
+067,Fehlende Daten ermitteln,2024-02-26 11:27:23,Laura Fischer,31.12,Produkt M,95.0,Firma10,Lager C,Lager I
+067,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:29:23,Mia Schmitt,50.99,Produkt M,95.0,Firma10,Lager D,Lager B
+067,Bestellung im System eintragen,2024-02-26 11:49:23,Nico Schmidt,26.01,Produkt M,95.0,Firma10,Lager J,Lager A
+067,Lagerbestand überprüfen,2024-02-26 11:55:23,David Meyer,97.81,Produkt M,95.0,Firma10,Lager I,Lager A
+067,Auftragsabwicklung im System starten,2024-02-26 12:09:23,Noah Becker,53.98,Produkt M,95.0,Firma10,Lager I,Lager H
+067,Artikel zusammenstellen,2024-02-26 12:22:23,Hannah Meyer,98.68,Produkt M,95.0,Firma10,Lager G,Lager F
+067,Ware verpacken,2024-02-26 13:19:23,Max Mustermann,88.57,Produkt M,95.0,Firma10,Lager H,Lager J
+067,Gewicht prüfen,2024-02-26 13:30:23,Nico Schmidt,30.11,Produkt M,95.0,Firma10,Lager C,Lager I
+067,Anzahl der Artikel überprüfen,2024-02-26 13:55:23,Emma Weber,39.36,Produkt M,95.0,Firma10,Lager H,Lager D
+067,Verpackung prüfen,2024-02-26 14:19:23,Lena Mueller,16.76,Produkt M,95.0,Firma10,Lager C,Lager H
+067,Paket zur Warenausgabe bringen,2024-02-26 14:35:23,Mia Schmitt,13.58,Produkt M,95.0,Firma10,Lager H,Lager G
+067,Paket an Kunde übergeben,2024-02-26 15:02:23,Max Mustermann,57.7,Produkt M,95.0,Firma10,Lager A,Lager F
+067,Bestellstatus im System ändern,2024-02-26 15:11:23,Max Mustermann,76.25,Produkt M,95.0,Firma10,Lager J,Lager E
+068,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Nico Schmidt,57.87,Produkt S,90.0,Firma17,Lager H,Lager F
+068,Kunden-Daten in System übertragen,2024-02-26 10:49:23,Emilia Wagner,51.88,Produkt S,90.0,Firma17,Lager A,Lager I
+068,Zahlvorgang abschließen,2024-02-26 11:10:23,Max Mustermann,86.35,Produkt S,90.0,Firma17,Lager B,Lager D
+068,Bestellung im System eintragen,2024-02-26 11:28:23,Emma Weber,80.82,Produkt S,90.0,Firma17,Lager H,Lager D
+068,Lagerbestand überprüfen,2024-02-26 12:22:23,Laura Fischer,45.49,Produkt S,90.0,Firma17,Lager E,Lager B
+068,Auftragsabwicklung im System starten,2024-02-26 12:42:23,Emilia Wagner,90.38,Produkt S,90.0,Firma17,Lager D,Lager F
+068,Artikel zusammenstellen,2024-02-26 12:48:23,Luca Huber,45.79,Produkt S,90.0,Firma17,Lager J,Lager C
+068,Ware verpacken,2024-02-26 13:06:23,Sarah Schmidt,70.45,Produkt S,90.0,Firma17,Lager A,Lager D
+068,Gewicht prüfen,2024-02-26 13:07:23,Lisa Schulz,35.57,Produkt S,90.0,Firma17,Lager C,Lager A
+068,Anzahl der Artikel überprüfen,2024-02-26 13:51:23,Sarah Schmidt,53.13,Produkt S,90.0,Firma17,Lager F,Lager H
+068,Verpackung prüfen,2024-02-26 14:10:23,Lisa Mueller,66.73,Produkt S,90.0,Firma17,Lager C,Lager J
+068,Bezahlaufforderung an Kunde schicken,2024-02-26 14:25:23,Max Mustermann,58.89,Produkt S,90.0,Firma17,Lager A,Lager E
+068,Bezahlaufforderung an Kunde schicken,2024-02-26 14:55:23,Luca Huber,61.35,Produkt S,90.0,Firma17,Lager J,Lager B
+068,Informationen an Transporteur übermitteln,2024-02-26 15:28:23,Paul Zimmer,52.27,Produkt S,90.0,Firma17,Lager H,Lager J
+068,Paket an Transporteur übergeben,2024-02-26 15:33:23,Lena Mueller,79.86,Produkt S,90.0,Firma17,Lager A,Lager E
+068,Bestellstatus im System ändern,2024-02-26 16:15:23,Emilia Wagner,12.16,Produkt S,90.0,Firma17,Lager J,Lager C
+069,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,David Meyer,90.32,Produkt M,95.0,Firma14,Lager I,Lager B
+069,Bestellung im System eintragen,2024-02-26 10:48:23,Paul Zimmer,26.53,Produkt M,95.0,Firma14,Lager D,Lager H
+069,Lagerbestand überprüfen,2024-02-26 11:05:23,Paul Zimmer,47.63,Produkt M,95.0,Firma14,Lager G,Lager I
+069,Artikel bestellen,2024-02-26 11:26:23,Laura Fischer,19.81,Produkt M,95.0,Firma14,Lager H,Lager E
+069,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:00:23,Laura Fischer,75.57,Produkt M,95.0,Firma14,Lager J,Lager B
+069,Auftragsabwicklung im System starten,2024-02-26 12:07:23,Sophia Lang,37.48,Produkt M,95.0,Firma14,Lager E,Lager I
+069,Artikel zusammenstellen,2024-02-26 12:34:23,David Meyer,25.93,Produkt M,95.0,Firma14,Lager C,Lager F
+069,Ware verpacken,2024-02-26 13:10:23,Timo Wagner,27.38,Produkt M,95.0,Firma14,Lager A,Lager J
+069,Gewicht prüfen,2024-02-26 13:47:23,Mia Schmitt,72.81,Produkt M,95.0,Firma14,Lager H,Lager I
+069,Anzahl der Artikel überprüfen,2024-02-26 13:50:23,Lisa Mueller,31.93,Produkt M,95.0,Firma14,Lager D,Lager J
+069,Verpackung prüfen,2024-02-26 14:41:23,Leonie Richter,63.1,Produkt M,95.0,Firma14,Lager A,Lager C
+069,Fehler im System eintrgen,2024-02-26 15:16:23,Lisa Mueller,45.18,Produkt M,95.0,Firma14,Lager E,Lager A
+069,Bestandsverwaltung informieren,2024-02-26 15:29:23,Lisa Mueller,17.02,Produkt M,95.0,Firma14,Lager J,Lager F
+069,Lagerbestand überprüfen,2024-02-26 15:34:23,Emilia Wagner,43.23,Produkt M,95.0,Firma14,Lager G,Lager E
+069,Auftragsabwicklung im System starten,2024-02-26 15:35:23,Lisa Schulz,34.92,Produkt M,95.0,Firma14,Lager J,Lager G
+069,Artikel zusammenstellen,2024-02-26 16:34:23,Noah Becker,16.33,Produkt M,95.0,Firma14,Lager A,Lager G
+069,Ware verpacken,2024-02-26 17:15:23,Sarah Schmidt,80.08,Produkt M,95.0,Firma14,Lager H,Lager B
+069,Gewicht prüfen,2024-02-26 17:58:23,Lisa Mueller,11.54,Produkt M,95.0,Firma14,Lager B,Lager D
+069,Anzahl der Artikel überprüfen,2024-02-26 18:21:23,Lena Mueller,27.42,Produkt M,95.0,Firma14,Lager D,Lager J
+069,Verpackung prüfen,2024-02-26 18:34:23,Lisa Mueller,92.47,Produkt M,95.0,Firma14,Lager A,Lager H
+069,Paket zur Warenausgabe bringen,2024-02-26 19:33:23,Paul Zimmer,58.17,Produkt M,95.0,Firma14,Lager G,Lager A
+069,Paket an Kunde übergeben,2024-02-26 20:08:23,Mia Schmitt,18.77,Produkt M,95.0,Firma14,Lager J,Lager B
+069,Bestellstatus im System ändern,2024-02-26 21:08:23,Max Mustermann,81.51,Produkt M,95.0,Firma14,Lager J,Lager C
+070,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Timo Wagner,28.32,Produkt D,70.0,Firma1,Lager F,Lager G
+070,Kunden-Daten in System übertragen,2024-02-26 11:05:23,Leonie Richter,78.41,Produkt D,70.0,Firma1,Lager I,Lager D
+070,Zahlvorgang abschließen,2024-02-26 11:06:23,Leonie Richter,57.77,Produkt D,70.0,Firma1,Lager E,Lager I
+070,Bestellung im System eintragen,2024-02-26 11:20:23,Paul Zimmer,17.78,Produkt D,70.0,Firma1,Lager E,Lager B
+070,Lagerbestand überprüfen,2024-02-26 11:50:23,Luca Huber,82.83,Produkt D,70.0,Firma1,Lager H,Lager G
+070,Auftragsabwicklung im System starten,2024-02-26 12:44:23,Laura Fischer,26.29,Produkt D,70.0,Firma1,Lager B,Lager A
+070,Artikel zusammenstellen,2024-02-26 13:38:23,Sophia Lang,90.03,Produkt D,70.0,Firma1,Lager D,Lager B
+070,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:45:23,Lisa Mueller,56.9,Produkt D,70.0,Firma1,Lager F,Lager I
+070,Ware verpacken,2024-02-26 13:50:23,Noah Becker,69.76,Produkt D,70.0,Firma1,Lager C,Lager A
+070,Gewicht prüfen,2024-02-26 14:10:23,Luca Huber,14.86,Produkt D,70.0,Firma1,Lager J,Lager D
+070,Anzahl der Artikel überprüfen,2024-02-26 14:24:23,Leonie Richter,50.46,Produkt D,70.0,Firma1,Lager F,Lager J
+070,Verpackung prüfen,2024-02-26 14:40:23,Sarah Schmidt,41.32,Produkt D,70.0,Firma1,Lager A,Lager E
+070,Informationen an Transporteur übermitteln,2024-02-26 15:13:23,Timo Wagner,43.29,Produkt D,70.0,Firma1,Lager A,Lager H
+070,Paket an Transporteur übergeben,2024-02-26 15:39:23,Max Mustermann,71.21,Produkt D,70.0,Firma1,Lager E,Lager F
+070,Bestellstatus im System ändern,2024-02-26 16:31:23,Hannah Meyer,88.65,Produkt D,70.0,Firma1,Lager F,Lager B
+071,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Laura Fischer,58.06,Produkt J,75.0,Firma9,Lager H,Lager I
+071,Bestellung im System eintragen,2024-02-26 10:38:23,Leonie Richter,54.66,Produkt J,75.0,Firma9,Lager C,Lager E
+071,Lagerbestand überprüfen,2024-02-26 11:27:23,Mia Schmitt,56.94,Produkt J,75.0,Firma9,Lager E,Lager A
+071,Artikel bestellen,2024-02-26 12:09:23,Nico Schmidt,48.01,Produkt J,75.0,Firma9,Lager J,Lager G
+071,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:36:23,Paul Zimmer,22.11,Produkt J,75.0,Firma9,Lager B,Lager C
+071,Auftragsabwicklung im System starten,2024-02-26 12:46:23,Emma Weber,25.39,Produkt J,75.0,Firma9,Lager F,Lager A
+071,Artikel zusammenstellen,2024-02-26 13:31:23,David Meyer,18.76,Produkt J,75.0,Firma9,Lager G,Lager F
+071,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:18:23,Max Mustermann,14.8,Produkt J,75.0,Firma9,Lager A,Lager C
+071,Ware verpacken,2024-02-26 14:23:23,Timo Wagner,13.78,Produkt J,75.0,Firma9,Lager G,Lager A
+071,Gewicht prüfen,2024-02-26 14:58:23,David Meyer,14.56,Produkt J,75.0,Firma9,Lager B,Lager C
+071,Anzahl der Artikel überprüfen,2024-02-26 15:08:23,Timo Wagner,59.38,Produkt J,75.0,Firma9,Lager C,Lager H
+071,Verpackung prüfen,2024-02-26 15:31:23,Lena Mueller,55.38,Produkt J,75.0,Firma9,Lager H,Lager C
+071,Informationen an Transporteur übermitteln,2024-02-26 15:59:23,Max Mustermann,91.69,Produkt J,75.0,Firma9,Lager H,Lager E
+071,Paket an Transporteur übergeben,2024-02-26 16:43:23,Jan Becker,19.4,Produkt J,75.0,Firma9,Lager G,Lager H
+071,Bestellstatus im System ändern,2024-02-26 17:22:23,Nico Schmidt,18.85,Produkt J,75.0,Firma9,Lager B,Lager F
+072,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Paul Zimmer,27.8,Produkt F,110.0,Firma4,Lager E,Lager C
+072,Kunden-Daten in System übertragen,2024-02-26 10:59:23,Luca Huber,82.36,Produkt F,110.0,Firma4,Lager C,Lager I
+072,Zahlvorgang abschließen,2024-02-26 11:14:23,Lisa Mueller,8.29,Produkt F,110.0,Firma4,Lager E,Lager E
+072,Bestellung im System eintragen,2024-02-26 11:15:23,Jan Becker,35.05,Produkt F,110.0,Firma4,Lager D,Lager I
+072,Lagerbestand überprüfen,2024-02-26 12:13:23,Max Mustermann,72.74,Produkt F,110.0,Firma4,Lager I,Lager E
+072,Auftragsabwicklung im System starten,2024-02-26 12:23:23,Noah Becker,22.51,Produkt F,110.0,Firma4,Lager G,Lager E
+072,Artikel zusammenstellen,2024-02-26 12:52:23,David Meyer,67.74,Produkt F,110.0,Firma4,Lager E,Lager H
+072,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:09:23,Mia Schmitt,77.24,Produkt F,110.0,Firma4,Lager G,Lager F
+072,Ware verpacken,2024-02-26 13:52:23,Lisa Schulz,95.87,Produkt F,110.0,Firma4,Lager F,Lager C
+072,Gewicht prüfen,2024-02-26 14:05:23,Sarah Schmidt,64.94,Produkt F,110.0,Firma4,Lager H,Lager G
+072,Anzahl der Artikel überprüfen,2024-02-26 14:53:23,Jan Becker,24.74,Produkt F,110.0,Firma4,Lager H,Lager J
+072,Verpackung prüfen,2024-02-26 15:35:23,Jan Becker,69.63,Produkt F,110.0,Firma4,Lager D,Lager E
+072,Paket zur Warenausgabe bringen,2024-02-26 16:03:23,Lisa Schulz,45.95,Produkt F,110.0,Firma4,Lager F,Lager H
+072,Paket an Kunde übergeben,2024-02-26 16:55:23,Sophia Lang,99.65,Produkt F,110.0,Firma4,Lager H,Lager C
+072,Bestellstatus im System ändern,2024-02-26 17:47:23,Lisa Schulz,43.17,Produkt F,110.0,Firma4,Lager I,Lager F
+073,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,9.21,Produkt A,100.0,Firma20,Lager F,Lager J
+073,Kunden-Daten in System übertragen,2024-02-26 11:14:23,Max Mustermann,41.62,Produkt A,100.0,Firma20,Lager F,Lager C
+073,Zahlvorgang abschließen,2024-02-26 11:57:23,Nico Schmidt,94.73,Produkt A,100.0,Firma20,Lager J,Lager J
+073,Bestellung im System eintragen,2024-02-26 12:26:23,Laura Fischer,86.05,Produkt A,100.0,Firma20,Lager F,Lager I
+073,Lagerbestand überprüfen,2024-02-26 12:41:23,David Meyer,60.65,Produkt A,100.0,Firma20,Lager C,Lager I
+073,Auftragsabwicklung im System starten,2024-02-26 13:02:23,Timo Wagner,67.74,Produkt A,100.0,Firma20,Lager F,Lager C
+073,Artikel zusammenstellen,2024-02-26 13:52:23,Lena Mueller,21.54,Produkt A,100.0,Firma20,Lager J,Lager G
+073,Ware verpacken,2024-02-26 14:37:23,Sophia Lang,47.53,Produkt A,100.0,Firma20,Lager G,Lager J
+073,Gewicht prüfen,2024-02-26 14:58:23,Leonie Richter,34.91,Produkt A,100.0,Firma20,Lager A,Lager B
+073,Anzahl der Artikel überprüfen,2024-02-26 15:22:23,Lena Mueller,9.26,Produkt A,100.0,Firma20,Lager C,Lager A
+073,Verpackung prüfen,2024-02-26 15:27:23,Noah Becker,42.27,Produkt A,100.0,Firma20,Lager I,Lager H
+073,Fehler im System eintrgen,2024-02-26 15:28:23,Sarah Schmidt,98.23,Produkt A,100.0,Firma20,Lager B,Lager H
+073,Bestandsverwaltung informieren,2024-02-26 15:53:23,Lisa Mueller,17.45,Produkt A,100.0,Firma20,Lager B,Lager C
+073,Lagerbestand überprüfen,2024-02-26 16:05:23,Max Mustermann,19.72,Produkt A,100.0,Firma20,Lager B,Lager F
+073,Auftragsabwicklung im System starten,2024-02-26 16:43:23,Hannah Meyer,41.69,Produkt A,100.0,Firma20,Lager D,Lager E
+073,Artikel zusammenstellen,2024-02-26 16:44:23,Jonas Richter,8.98,Produkt A,100.0,Firma20,Lager C,Lager E
+073,Ware verpacken,2024-02-26 17:08:23,Hannah Meyer,90.16,Produkt A,100.0,Firma20,Lager G,Lager J
+073,Gewicht prüfen,2024-02-26 17:46:23,Lena Mueller,16.95,Produkt A,100.0,Firma20,Lager J,Lager J
+073,Anzahl der Artikel überprüfen,2024-02-26 18:06:23,Max Mustermann,32.24,Produkt A,100.0,Firma20,Lager D,Lager A
+073,Verpackung prüfen,2024-02-26 18:43:23,Max Mustermann,29.01,Produkt A,100.0,Firma20,Lager B,Lager D
+073,Paket zur Warenausgabe bringen,2024-02-26 18:51:23,Jan Becker,76.57,Produkt A,100.0,Firma20,Lager F,Lager J
+073,Zahlungsabwicklung durchführen,2024-02-26 19:18:23,Lisa Schulz,73.66,Produkt A,100.0,Firma20,Lager J,Lager H
+073,Paket an Kunde übergeben,2024-02-26 19:54:23,Emilia Wagner,63.81,Produkt A,100.0,Firma20,Lager G,Lager G
+073,Bestellstatus im System ändern,2024-02-26 20:40:23,Leonie Richter,48.93,Produkt A,100.0,Firma20,Lager B,Lager A
+074,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Timo Wagner,43.08,Produkt G,95.0,Firma7,Lager F,Lager G
+074,Kunden-Daten in System übertragen,2024-02-26 10:48:23,Noah Becker,21.03,Produkt G,95.0,Firma7,Lager F,Lager G
+074,Rechnungsadesse aufnehmen,2024-02-26 11:24:23,Hannah Meyer,60.59,Produkt G,95.0,Firma7,Lager C,Lager G
+074,Rechnungsadesse im System eintragen,2024-02-26 12:17:23,David Meyer,32.1,Produkt G,95.0,Firma7,Lager B,Lager H
+074,Bestellung im System eintragen,2024-02-26 12:51:23,Lena Mueller,26.79,Produkt G,95.0,Firma7,Lager F,Lager D
+074,Lagerbestand überprüfen,2024-02-26 13:27:23,David Meyer,39.76,Produkt G,95.0,Firma7,Lager I,Lager B
+074,Auftragsabwicklung im System starten,2024-02-26 14:24:23,Emma Weber,11.05,Produkt G,95.0,Firma7,Lager H,Lager G
+074,Artikel zusammenstellen,2024-02-26 15:14:23,Jan Becker,83.2,Produkt G,95.0,Firma7,Lager G,Lager I
+074,Ware verpacken,2024-02-26 16:11:23,Hannah Meyer,58.46,Produkt G,95.0,Firma7,Lager G,Lager A
+074,Gewicht prüfen,2024-02-26 16:38:23,Laura Fischer,66.26,Produkt G,95.0,Firma7,Lager B,Lager J
+074,Anzahl der Artikel überprüfen,2024-02-26 17:35:23,Timo Wagner,86.95,Produkt G,95.0,Firma7,Lager E,Lager A
+074,Verpackung prüfen,2024-02-26 18:24:23,Nico Schmidt,69.78,Produkt G,95.0,Firma7,Lager G,Lager B
+074,Paket zur Warenausgabe bringen,2024-02-26 18:37:23,Lisa Schulz,29.12,Produkt G,95.0,Firma7,Lager G,Lager E
+074,Paket an Kunde übergeben,2024-02-26 18:51:23,Hannah Meyer,23.36,Produkt G,95.0,Firma7,Lager A,Lager I
+074,Bestellstatus im System ändern,2024-02-26 19:15:23,Max Mustermann,13.0,Produkt G,95.0,Firma7,Lager E,Lager G
+075,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Jonas Richter,31.51,Produkt D,70.0,Firma15,Lager C,Lager F
+075,Bestellung im System eintragen,2024-02-26 11:12:23,Lena Mueller,84.65,Produkt D,70.0,Firma15,Lager E,Lager E
+075,Lagerbestand überprüfen,2024-02-26 11:34:23,Sarah Schmidt,90.62,Produkt D,70.0,Firma15,Lager F,Lager G
+075,Auftragsabwicklung im System starten,2024-02-26 12:26:23,Lisa Mueller,77.62,Produkt D,70.0,Firma15,Lager E,Lager A
+075,Artikel zusammenstellen,2024-02-26 13:15:23,Nico Schmidt,28.13,Produkt D,70.0,Firma15,Lager A,Lager A
+075,Ware verpacken,2024-02-26 13:45:23,Paul Zimmer,11.75,Produkt D,70.0,Firma15,Lager D,Lager I
+075,Gewicht prüfen,2024-02-26 14:21:23,Max Mustermann,80.93,Produkt D,70.0,Firma15,Lager H,Lager F
+075,Anzahl der Artikel überprüfen,2024-02-26 15:07:23,Leonie Richter,17.42,Produkt D,70.0,Firma15,Lager D,Lager J
+075,Verpackung prüfen,2024-02-26 15:41:23,David Meyer,64.63,Produkt D,70.0,Firma15,Lager D,Lager C
+075,Fehler im System eintrgen,2024-02-26 15:43:23,Leonie Richter,77.95,Produkt D,70.0,Firma15,Lager H,Lager A
+075,Bestandsverwaltung informieren,2024-02-26 15:47:23,Lisa Schulz,67.49,Produkt D,70.0,Firma15,Lager B,Lager I
+075,Lagerbestand überprüfen,2024-02-26 15:51:23,Jonas Richter,74.24,Produkt D,70.0,Firma15,Lager B,Lager H
+075,Auftragsabwicklung im System starten,2024-02-26 15:52:23,Leonie Richter,59.32,Produkt D,70.0,Firma15,Lager E,Lager E
+075,Artikel zusammenstellen,2024-02-26 16:21:23,Hannah Meyer,7.4,Produkt D,70.0,Firma15,Lager G,Lager C
+075,Ware verpacken,2024-02-26 16:30:23,Emilia Wagner,11.58,Produkt D,70.0,Firma15,Lager E,Lager F
+075,Gewicht prüfen,2024-02-26 17:24:23,Noah Becker,5.74,Produkt D,70.0,Firma15,Lager E,Lager F
+075,Anzahl der Artikel überprüfen,2024-02-26 17:37:23,Lena Mueller,40.18,Produkt D,70.0,Firma15,Lager C,Lager H
+075,Verpackung prüfen,2024-02-26 18:16:23,Leonie Richter,40.09,Produkt D,70.0,Firma15,Lager G,Lager J
+075,Paket zur Warenausgabe bringen,2024-02-26 18:34:23,Hannah Meyer,33.62,Produkt D,70.0,Firma15,Lager B,Lager B
+075,Zahlungsabwicklung durchführen,2024-02-26 18:41:23,Leonie Richter,98.32,Produkt D,70.0,Firma15,Lager G,Lager D
+075,Paket an Kunde übergeben,2024-02-26 18:59:23,Sophia Lang,41.39,Produkt D,70.0,Firma15,Lager J,Lager J
+075,Bestellstatus im System ändern,2024-02-26 19:13:23,Laura Fischer,16.02,Produkt D,70.0,Firma15,Lager E,Lager C
+076,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Laura Fischer,91.26,Produkt I,90.0,Firma1,Lager J,Lager J
+076,Kunden-Daten in System übertragen,2024-02-26 11:19:23,Emilia Wagner,55.03,Produkt I,90.0,Firma1,Lager I,Lager A
+076,Zahlvorgang abschließen,2024-02-26 12:00:23,Paul Zimmer,24.99,Produkt I,90.0,Firma1,Lager H,Lager C
+076,Bestellung im System eintragen,2024-02-26 12:01:23,Sophia Lang,83.17,Produkt I,90.0,Firma1,Lager B,Lager G
+076,Lagerbestand überprüfen,2024-02-26 12:16:23,Lisa Schulz,68.18,Produkt I,90.0,Firma1,Lager E,Lager H
+076,Auftragsabwicklung im System starten,2024-02-26 13:06:23,Noah Becker,38.65,Produkt I,90.0,Firma1,Lager F,Lager D
+076,Artikel zusammenstellen,2024-02-26 13:44:23,Leonie Richter,64.8,Produkt I,90.0,Firma1,Lager F,Lager C
+076,Ware verpacken,2024-02-26 14:12:23,Luca Huber,13.54,Produkt I,90.0,Firma1,Lager A,Lager E
+076,Gewicht prüfen,2024-02-26 14:25:23,Noah Becker,90.75,Produkt I,90.0,Firma1,Lager C,Lager D
+076,Anzahl der Artikel überprüfen,2024-02-26 15:12:23,Laura Fischer,92.92,Produkt I,90.0,Firma1,Lager F,Lager E
+076,Verpackung prüfen,2024-02-26 15:50:23,Jan Becker,47.43,Produkt I,90.0,Firma1,Lager J,Lager A
+076,Fehler im System eintrgen,2024-02-26 15:55:23,Hannah Meyer,7.08,Produkt I,90.0,Firma1,Lager J,Lager F
+076,Bestandsverwaltung informieren,2024-02-26 16:53:23,Nico Schmidt,77.35,Produkt I,90.0,Firma1,Lager F,Lager E
+076,Lagerbestand überprüfen,2024-02-26 17:48:23,Noah Becker,17.94,Produkt I,90.0,Firma1,Lager C,Lager C
+076,Auftragsabwicklung im System starten,2024-02-26 18:10:23,Noah Becker,27.17,Produkt I,90.0,Firma1,Lager E,Lager A
+076,Artikel zusammenstellen,2024-02-26 18:15:23,Leonie Richter,50.35,Produkt I,90.0,Firma1,Lager I,Lager E
+076,Ware verpacken,2024-02-26 19:07:23,Jan Becker,73.08,Produkt I,90.0,Firma1,Lager I,Lager I
+076,Gewicht prüfen,2024-02-26 19:37:23,Lena Mueller,19.42,Produkt I,90.0,Firma1,Lager B,Lager E
+076,Anzahl der Artikel überprüfen,2024-02-26 19:58:23,David Meyer,89.76,Produkt I,90.0,Firma1,Lager H,Lager G
+076,Verpackung prüfen,2024-02-26 20:54:23,Emma Weber,62.21,Produkt I,90.0,Firma1,Lager A,Lager I
+076,Paket zur Warenausgabe bringen,2024-02-26 21:40:23,Nico Schmidt,54.69,Produkt I,90.0,Firma1,Lager H,Lager A
+076,Paket an Kunde übergeben,2024-02-26 22:26:23,Leonie Richter,55.14,Produkt I,90.0,Firma1,Lager E,Lager A
+076,Bestellstatus im System ändern,2024-02-26 23:14:23,Sarah Schmidt,86.84,Produkt I,90.0,Firma1,Lager G,Lager E
+077,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Nico Schmidt,62.51,Produkt S,90.0,Firma17,Lager C,Lager G
+077,Bestellung im System eintragen,2024-02-26 10:44:23,Sarah Schmidt,83.9,Produkt S,90.0,Firma17,Lager E,Lager F
+077,Lagerbestand überprüfen,2024-02-26 11:28:23,David Meyer,70.99,Produkt S,90.0,Firma17,Lager J,Lager H
+077,Artikel bestellen,2024-02-26 12:09:23,Nico Schmidt,13.61,Produkt S,90.0,Firma17,Lager D,Lager H
+077,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:16:23,Jan Becker,29.89,Produkt S,90.0,Firma17,Lager I,Lager C
+077,Auftragsabwicklung im System starten,2024-02-26 12:46:23,Leonie Richter,98.02,Produkt S,90.0,Firma17,Lager G,Lager E
+077,Artikel zusammenstellen,2024-02-26 12:57:23,Emilia Wagner,58.12,Produkt S,90.0,Firma17,Lager C,Lager D
+077,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:12:23,Luca Huber,26.08,Produkt S,90.0,Firma17,Lager D,Lager E
+077,Ware verpacken,2024-02-26 13:59:23,Jonas Richter,96.6,Produkt S,90.0,Firma17,Lager E,Lager J
+077,Gewicht prüfen,2024-02-26 14:31:23,Emilia Wagner,9.98,Produkt S,90.0,Firma17,Lager I,Lager A
+077,Anzahl der Artikel überprüfen,2024-02-26 14:58:23,Max Mustermann,50.92,Produkt S,90.0,Firma17,Lager J,Lager F
+077,Verpackung prüfen,2024-02-26 15:22:23,Lena Mueller,48.06,Produkt S,90.0,Firma17,Lager I,Lager I
+077,Informationen an Transporteur übermitteln,2024-02-26 16:06:23,Noah Becker,9.64,Produkt S,90.0,Firma17,Lager G,Lager E
+077,Paket an Transporteur übergeben,2024-02-26 16:33:23,Emilia Wagner,91.25,Produkt S,90.0,Firma17,Lager I,Lager C
+077,Bestellstatus im System ändern,2024-02-26 17:31:23,Sarah Schmidt,26.26,Produkt S,90.0,Firma17,Lager J,Lager A
+078,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Laura Fischer,70.92,Produkt M,95.0,Firma2,Lager D,Lager F
+078,Bestellung im System eintragen,2024-02-26 10:30:23,Luca Huber,77.97,Produkt M,95.0,Firma2,Lager H,Lager I
+078,Lagerbestand überprüfen,2024-02-26 11:24:23,Luca Huber,23.22,Produkt M,95.0,Firma2,Lager J,Lager E
+078,Auftragsabwicklung im System starten,2024-02-26 12:06:23,Emma Weber,39.86,Produkt M,95.0,Firma2,Lager H,Lager E
+078,Artikel zusammenstellen,2024-02-26 12:32:23,Sarah Schmidt,69.66,Produkt M,95.0,Firma2,Lager J,Lager A
+078,Ware verpacken,2024-02-26 12:36:23,Timo Wagner,74.11,Produkt M,95.0,Firma2,Lager G,Lager J
+078,Gewicht prüfen,2024-02-26 13:29:23,Mia Schmitt,83.6,Produkt M,95.0,Firma2,Lager I,Lager D
+078,Anzahl der Artikel überprüfen,2024-02-26 13:48:23,Timo Wagner,91.34,Produkt M,95.0,Firma2,Lager A,Lager E
+078,Verpackung prüfen,2024-02-26 14:23:23,Emilia Wagner,85.19,Produkt M,95.0,Firma2,Lager B,Lager B
+078,Paket zur Warenausgabe bringen,2024-02-26 14:48:23,Mia Schmitt,35.29,Produkt M,95.0,Firma2,Lager I,Lager C
+078,Paket an Kunde übergeben,2024-02-26 15:47:23,David Meyer,53.77,Produkt M,95.0,Firma2,Lager B,Lager I
+078,Bestellstatus im System ändern,2024-02-26 16:47:23,Sophia Lang,27.46,Produkt M,95.0,Firma2,Lager E,Lager B
+079,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Noah Becker,63.2,Produkt G,95.0,Firma5,Lager I,Lager H
+079,Kunden-Daten in System übertragen,2024-02-26 11:22:23,Paul Zimmer,99.63,Produkt G,95.0,Firma5,Lager G,Lager I
+079,Zahlvorgang abschließen,2024-02-26 11:56:23,David Meyer,49.17,Produkt G,95.0,Firma5,Lager J,Lager I
+079,Bestellung im System eintragen,2024-02-26 12:23:23,Lisa Schulz,28.76,Produkt G,95.0,Firma5,Lager D,Lager B
+079,Lagerbestand überprüfen,2024-02-26 13:07:23,Jonas Richter,59.67,Produkt G,95.0,Firma5,Lager J,Lager D
+079,Auftragsabwicklung im System starten,2024-02-26 13:27:23,Sophia Lang,99.1,Produkt G,95.0,Firma5,Lager E,Lager A
+079,Artikel zusammenstellen,2024-02-26 14:20:23,David Meyer,29.1,Produkt G,95.0,Firma5,Lager A,Lager H
+079,Ware verpacken,2024-02-26 15:16:23,Leonie Richter,24.5,Produkt G,95.0,Firma5,Lager A,Lager H
+079,Gewicht prüfen,2024-02-26 15:42:23,Laura Fischer,45.93,Produkt G,95.0,Firma5,Lager F,Lager E
+079,Anzahl der Artikel überprüfen,2024-02-26 16:24:23,Lisa Schulz,44.68,Produkt G,95.0,Firma5,Lager I,Lager A
+079,Verpackung prüfen,2024-02-26 17:00:23,Paul Zimmer,7.16,Produkt G,95.0,Firma5,Lager E,Lager A
+079,Bezahlaufforderung an Kunde schicken,2024-02-26 17:33:23,Max Mustermann,91.85,Produkt G,95.0,Firma5,Lager D,Lager B
+079,Informationen an Transporteur übermitteln,2024-02-26 17:36:23,Max Mustermann,18.26,Produkt G,95.0,Firma5,Lager F,Lager J
+079,Paket an Transporteur übergeben,2024-02-26 18:29:23,Timo Wagner,58.28,Produkt G,95.0,Firma5,Lager A,Lager G
+079,Bestellstatus im System ändern,2024-02-26 18:43:23,Jan Becker,75.68,Produkt G,95.0,Firma5,Lager E,Lager G
+080,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Jonas Richter,19.64,Produkt E,150.0,Firma12,Lager I,Lager C
+080,Fehlende Daten ermitteln,2024-02-26 10:55:23,Jonas Richter,49.98,Produkt E,150.0,Firma12,Lager J,Lager D
+080,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:41:23,Sarah Schmidt,97.74,Produkt E,150.0,Firma12,Lager G,Lager A
+080,Bestellung im System eintragen,2024-02-26 12:07:23,Max Mustermann,6.51,Produkt E,150.0,Firma12,Lager G,Lager G
+080,Lagerbestand überprüfen,2024-02-26 12:08:23,Luca Huber,20.21,Produkt E,150.0,Firma12,Lager A,Lager I
+080,Auftragsabwicklung im System starten,2024-02-26 12:32:23,Timo Wagner,32.07,Produkt E,150.0,Firma12,Lager F,Lager D
+080,Artikel zusammenstellen,2024-02-26 12:46:23,Emilia Wagner,60.88,Produkt E,150.0,Firma12,Lager F,Lager E
+080,Ware verpacken,2024-02-26 13:42:23,Noah Becker,90.13,Produkt E,150.0,Firma12,Lager B,Lager F
+080,Gewicht prüfen,2024-02-26 14:17:23,Timo Wagner,65.54,Produkt E,150.0,Firma12,Lager F,Lager I
+080,Anzahl der Artikel überprüfen,2024-02-26 15:01:23,Luca Huber,9.44,Produkt E,150.0,Firma12,Lager E,Lager B
+080,Verpackung prüfen,2024-02-26 15:35:23,Emilia Wagner,93.01,Produkt E,150.0,Firma12,Lager D,Lager A
+080,Bezahlaufforderung an Kunde schicken,2024-02-26 15:49:23,Laura Fischer,41.43,Produkt E,150.0,Firma12,Lager G,Lager G
+080,Bezahlaufforderung an Kunde schicken,2024-02-26 16:15:23,Paul Zimmer,58.39,Produkt E,150.0,Firma12,Lager I,Lager E
+080,Informationen an Transporteur übermitteln,2024-02-26 17:10:23,Paul Zimmer,48.47,Produkt E,150.0,Firma12,Lager B,Lager D
+080,Paket an Transporteur übergeben,2024-02-26 17:23:23,Hannah Meyer,77.32,Produkt E,150.0,Firma12,Lager B,Lager J
+080,Bestellstatus im System ändern,2024-02-26 18:20:23,Timo Wagner,47.72,Produkt E,150.0,Firma12,Lager D,Lager G
+081,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Mia Schmitt,52.61,Produkt I,90.0,Firma3,Lager H,Lager D
+081,Kunden-Daten in System übertragen,2024-02-26 10:35:23,Noah Becker,20.41,Produkt I,90.0,Firma3,Lager I,Lager D
+081,Zahlvorgang abschließen,2024-02-26 10:45:23,Jonas Richter,32.82,Produkt I,90.0,Firma3,Lager A,Lager J
+081,Bestellung im System eintragen,2024-02-26 11:31:23,Lena Mueller,63.72,Produkt I,90.0,Firma3,Lager D,Lager H
+081,Lagerbestand überprüfen,2024-02-26 11:48:23,Paul Zimmer,68.02,Produkt I,90.0,Firma3,Lager A,Lager B
+081,Artikel bestellen,2024-02-26 12:07:23,Lena Mueller,80.44,Produkt I,90.0,Firma3,Lager B,Lager F
+081,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:55:23,Timo Wagner,89.93,Produkt I,90.0,Firma3,Lager C,Lager F
+081,Auftragsabwicklung im System starten,2024-02-26 13:00:23,Emma Weber,51.74,Produkt I,90.0,Firma3,Lager D,Lager A
+081,Artikel zusammenstellen,2024-02-26 13:28:23,David Meyer,60.74,Produkt I,90.0,Firma3,Lager B,Lager H
+081,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:55:23,Luca Huber,17.3,Produkt I,90.0,Firma3,Lager H,Lager I
+081,Ware verpacken,2024-02-26 14:19:23,Hannah Meyer,82.13,Produkt I,90.0,Firma3,Lager D,Lager H
+081,Gewicht prüfen,2024-02-26 15:01:23,Emma Weber,19.18,Produkt I,90.0,Firma3,Lager G,Lager H
+081,Anzahl der Artikel überprüfen,2024-02-26 15:43:23,Lisa Mueller,40.66,Produkt I,90.0,Firma3,Lager D,Lager J
+081,Verpackung prüfen,2024-02-26 16:15:23,Lena Mueller,28.95,Produkt I,90.0,Firma3,Lager J,Lager G
+081,Informationen an Transporteur übermitteln,2024-02-26 16:20:23,Jan Becker,82.61,Produkt I,90.0,Firma3,Lager G,Lager H
+081,Paket an Transporteur übergeben,2024-02-26 17:08:23,Lisa Schulz,5.1,Produkt I,90.0,Firma3,Lager I,Lager B
+081,Bestellstatus im System ändern,2024-02-26 18:01:23,Jonas Richter,12.91,Produkt I,90.0,Firma3,Lager D,Lager G
+082,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Sophia Lang,16.71,Produkt A,100.0,Firma13,Lager H,Lager G
+082,Bestellung im System eintragen,2024-02-26 10:52:23,Lisa Schulz,77.67,Produkt A,100.0,Firma13,Lager I,Lager A
+082,Lagerbestand überprüfen,2024-02-26 11:12:23,Hannah Meyer,27.72,Produkt A,100.0,Firma13,Lager I,Lager D
+082,Auftragsabwicklung im System starten,2024-02-26 12:08:23,Nico Schmidt,74.52,Produkt A,100.0,Firma13,Lager F,Lager E
+082,Artikel zusammenstellen,2024-02-26 12:26:23,Lisa Mueller,8.11,Produkt A,100.0,Firma13,Lager F,Lager G
+082,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:07:23,Sophia Lang,73.99,Produkt A,100.0,Firma13,Lager A,Lager J
+082,Ware verpacken,2024-02-26 13:33:23,Leonie Richter,60.86,Produkt A,100.0,Firma13,Lager F,Lager A
+082,Gewicht prüfen,2024-02-26 13:36:23,David Meyer,59.05,Produkt A,100.0,Firma13,Lager A,Lager I
+082,Anzahl der Artikel überprüfen,2024-02-26 14:01:23,Sophia Lang,67.81,Produkt A,100.0,Firma13,Lager E,Lager D
+082,Verpackung prüfen,2024-02-26 14:44:23,Leonie Richter,25.75,Produkt A,100.0,Firma13,Lager H,Lager A
+082,Paket zur Warenausgabe bringen,2024-02-26 14:54:23,Leonie Richter,80.98,Produkt A,100.0,Firma13,Lager H,Lager I
+082,Paket an Kunde übergeben,2024-02-26 15:32:23,Jonas Richter,66.17,Produkt A,100.0,Firma13,Lager H,Lager B
+082,Bestellstatus im System ändern,2024-02-26 15:40:23,Laura Fischer,7.97,Produkt A,100.0,Firma13,Lager D,Lager E
+083,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Timo Wagner,22.01,Produkt M,95.0,Firma11,Lager E,Lager C
+083,Kunden-Daten in System übertragen,2024-02-26 11:05:23,Luca Huber,71.55,Produkt M,95.0,Firma11,Lager J,Lager G
+083,Zahlvorgang abschließen,2024-02-26 11:40:23,Leonie Richter,93.26,Produkt M,95.0,Firma11,Lager B,Lager C
+083,Bestellung im System eintragen,2024-02-26 11:49:23,Hannah Meyer,7.0,Produkt M,95.0,Firma11,Lager A,Lager E
+083,Lagerbestand überprüfen,2024-02-26 12:10:23,Lisa Schulz,88.05,Produkt M,95.0,Firma11,Lager D,Lager F
+083,Artikel bestellen,2024-02-26 12:15:23,Mia Schmitt,22.33,Produkt M,95.0,Firma11,Lager G,Lager D
+083,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:59:23,Nico Schmidt,18.82,Produkt M,95.0,Firma11,Lager E,Lager D
+083,Auftragsabwicklung im System starten,2024-02-26 13:21:23,Nico Schmidt,7.56,Produkt M,95.0,Firma11,Lager J,Lager G
+083,Artikel zusammenstellen,2024-02-26 13:51:23,Sarah Schmidt,50.25,Produkt M,95.0,Firma11,Lager D,Lager F
+083,Ware verpacken,2024-02-26 14:43:23,Lisa Mueller,40.11,Produkt M,95.0,Firma11,Lager H,Lager A
+083,Gewicht prüfen,2024-02-26 15:39:23,Hannah Meyer,55.01,Produkt M,95.0,Firma11,Lager C,Lager C
+083,Anzahl der Artikel überprüfen,2024-02-26 16:34:23,Jan Becker,89.49,Produkt M,95.0,Firma11,Lager F,Lager E
+083,Verpackung prüfen,2024-02-26 17:20:23,Jan Becker,49.22,Produkt M,95.0,Firma11,Lager F,Lager B
+083,Paket zur Warenausgabe bringen,2024-02-26 17:33:23,Emilia Wagner,99.8,Produkt M,95.0,Firma11,Lager C,Lager B
+083,Zahlungsabwicklung durchführen,2024-02-26 18:17:23,Emilia Wagner,15.17,Produkt M,95.0,Firma11,Lager C,Lager G
+083,Paket an Kunde übergeben,2024-02-26 19:17:23,Jan Becker,14.19,Produkt M,95.0,Firma11,Lager C,Lager B
+083,Bestellstatus im System ändern,2024-02-26 19:27:23,Nico Schmidt,17.39,Produkt M,95.0,Firma11,Lager I,Lager J
+084,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emilia Wagner,69.16,Produkt A,100.0,Firma20,Lager B,Lager F
+084,Kunden-Daten in System übertragen,2024-02-26 10:44:23,Max Mustermann,44.82,Produkt A,100.0,Firma20,Lager A,Lager A
+084,Zahlvorgang abschließen,2024-02-26 11:37:23,Noah Becker,58.27,Produkt A,100.0,Firma20,Lager E,Lager G
+084,Bestellung im System eintragen,2024-02-26 11:59:23,Laura Fischer,60.83,Produkt A,100.0,Firma20,Lager C,Lager A
+084,Lagerbestand überprüfen,2024-02-26 12:55:23,Timo Wagner,84.88,Produkt A,100.0,Firma20,Lager C,Lager C
+084,Auftragsabwicklung im System starten,2024-02-26 13:14:23,Nico Schmidt,27.59,Produkt A,100.0,Firma20,Lager B,Lager G
+084,Artikel zusammenstellen,2024-02-26 13:45:23,Max Mustermann,86.12,Produkt A,100.0,Firma20,Lager A,Lager A
+084,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:28:23,Laura Fischer,13.31,Produkt A,100.0,Firma20,Lager G,Lager G
+084,Ware verpacken,2024-02-26 15:25:23,Jan Becker,8.07,Produkt A,100.0,Firma20,Lager B,Lager H
+084,Gewicht prüfen,2024-02-26 16:15:23,Lisa Schulz,59.15,Produkt A,100.0,Firma20,Lager C,Lager J
+084,Anzahl der Artikel überprüfen,2024-02-26 16:23:23,Sarah Schmidt,64.41,Produkt A,100.0,Firma20,Lager J,Lager H
+084,Verpackung prüfen,2024-02-26 16:50:23,Noah Becker,52.29,Produkt A,100.0,Firma20,Lager D,Lager F
+084,Informationen an Transporteur übermitteln,2024-02-26 16:59:23,Mia Schmitt,63.91,Produkt A,100.0,Firma20,Lager G,Lager G
+084,Paket an Transporteur übergeben,2024-02-26 17:28:23,Lisa Schulz,95.07,Produkt A,100.0,Firma20,Lager D,Lager A
+084,Bestellstatus im System ändern,2024-02-26 18:03:23,Jonas Richter,9.03,Produkt A,100.0,Firma20,Lager C,Lager I
+085,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Lena Mueller,76.18,Produkt T,85.0,Firma5,Lager D,Lager I
+085,Kunden-Daten in System übertragen,2024-02-26 10:36:23,Max Mustermann,81.67,Produkt T,85.0,Firma5,Lager D,Lager I
+085,Zahlvorgang abschließen,2024-02-26 11:21:23,Nico Schmidt,76.46,Produkt T,85.0,Firma5,Lager E,Lager F
+085,Bestellung im System eintragen,2024-02-26 11:27:23,Lisa Schulz,68.75,Produkt T,85.0,Firma5,Lager G,Lager I
+085,Lagerbestand überprüfen,2024-02-26 12:05:23,Paul Zimmer,96.89,Produkt T,85.0,Firma5,Lager G,Lager J
+085,Auftragsabwicklung im System starten,2024-02-26 12:39:23,Noah Becker,91.09,Produkt T,85.0,Firma5,Lager B,Lager I
+085,Artikel zusammenstellen,2024-02-26 13:32:23,Paul Zimmer,7.6,Produkt T,85.0,Firma5,Lager I,Lager F
+085,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:36:23,Lena Mueller,11.66,Produkt T,85.0,Firma5,Lager J,Lager I
+085,Ware verpacken,2024-02-26 14:12:23,Timo Wagner,90.71,Produkt T,85.0,Firma5,Lager J,Lager A
+085,Gewicht prüfen,2024-02-26 15:06:23,Lisa Mueller,22.18,Produkt T,85.0,Firma5,Lager J,Lager A
+085,Anzahl der Artikel überprüfen,2024-02-26 15:29:23,Nico Schmidt,85.32,Produkt T,85.0,Firma5,Lager D,Lager H
+085,Verpackung prüfen,2024-02-26 15:52:23,Paul Zimmer,32.5,Produkt T,85.0,Firma5,Lager B,Lager B
+085,Bezahlaufforderung an Kunde schicken,2024-02-26 16:31:23,Jan Becker,7.17,Produkt T,85.0,Firma5,Lager J,Lager G
+085,Informationen an Transporteur übermitteln,2024-02-26 17:11:23,Nico Schmidt,70.28,Produkt T,85.0,Firma5,Lager E,Lager H
+085,Paket an Transporteur übergeben,2024-02-26 18:03:23,David Meyer,51.26,Produkt T,85.0,Firma5,Lager C,Lager A
+085,Bestellstatus im System ändern,2024-02-26 18:42:23,Mia Schmitt,74.58,Produkt T,85.0,Firma5,Lager D,Lager I
+086,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Max Mustermann,5.64,Produkt M,95.0,Firma2,Lager B,Lager F
+086,Bestellung im System eintragen,2024-02-26 11:25:23,Jonas Richter,70.64,Produkt M,95.0,Firma2,Lager C,Lager H
+086,Lagerbestand überprüfen,2024-02-26 12:10:23,Laura Fischer,81.22,Produkt M,95.0,Firma2,Lager J,Lager J
+086,Auftragsabwicklung im System starten,2024-02-26 13:04:23,Lisa Schulz,18.11,Produkt M,95.0,Firma2,Lager D,Lager I
+086,Artikel zusammenstellen,2024-02-26 13:17:23,Lena Mueller,89.57,Produkt M,95.0,Firma2,Lager B,Lager A
+086,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:24:23,Timo Wagner,46.2,Produkt M,95.0,Firma2,Lager C,Lager E
+086,Ware verpacken,2024-02-26 13:49:23,Lisa Mueller,85.39,Produkt M,95.0,Firma2,Lager B,Lager E
+086,Gewicht prüfen,2024-02-26 14:20:23,Hannah Meyer,61.12,Produkt M,95.0,Firma2,Lager D,Lager B
+086,Anzahl der Artikel überprüfen,2024-02-26 15:01:23,Jan Becker,89.19,Produkt M,95.0,Firma2,Lager J,Lager I
+086,Verpackung prüfen,2024-02-26 15:09:23,Timo Wagner,47.29,Produkt M,95.0,Firma2,Lager J,Lager H
+086,Paket zur Warenausgabe bringen,2024-02-26 15:52:23,Mia Schmitt,32.31,Produkt M,95.0,Firma2,Lager E,Lager E
+086,Paket an Kunde übergeben,2024-02-26 16:33:23,Nico Schmidt,63.12,Produkt M,95.0,Firma2,Lager H,Lager F
+086,Bestellstatus im System ändern,2024-02-26 17:09:23,Sophia Lang,73.69,Produkt M,95.0,Firma2,Lager F,Lager B
+087,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Luca Huber,29.41,Produkt H,130.0,Firma1,Lager G,Lager G
+087,Kunden-Daten in System übertragen,2024-02-26 10:42:23,Jonas Richter,80.15,Produkt H,130.0,Firma1,Lager B,Lager F
+087,Zahlvorgang abschließen,2024-02-26 11:06:23,Jonas Richter,59.33,Produkt H,130.0,Firma1,Lager C,Lager D
+087,Bestellung im System eintragen,2024-02-26 11:46:23,Emilia Wagner,55.27,Produkt H,130.0,Firma1,Lager D,Lager B
+087,Lagerbestand überprüfen,2024-02-26 12:25:23,David Meyer,21.25,Produkt H,130.0,Firma1,Lager B,Lager C
+087,Auftragsabwicklung im System starten,2024-02-26 13:08:23,Noah Becker,78.09,Produkt H,130.0,Firma1,Lager H,Lager D
+087,Artikel zusammenstellen,2024-02-26 13:36:23,Lena Mueller,62.53,Produkt H,130.0,Firma1,Lager E,Lager J
+087,Ware verpacken,2024-02-26 13:59:23,Jonas Richter,7.08,Produkt H,130.0,Firma1,Lager C,Lager H
+087,Gewicht prüfen,2024-02-26 14:15:23,Nico Schmidt,23.38,Produkt H,130.0,Firma1,Lager J,Lager I
+087,Anzahl der Artikel überprüfen,2024-02-26 15:02:23,Emma Weber,25.82,Produkt H,130.0,Firma1,Lager G,Lager E
+087,Verpackung prüfen,2024-02-26 15:47:23,Max Mustermann,49.78,Produkt H,130.0,Firma1,Lager G,Lager H
+087,Fehler im System eintrgen,2024-02-26 15:58:23,Sophia Lang,42.6,Produkt H,130.0,Firma1,Lager E,Lager F
+087,Bestandsverwaltung informieren,2024-02-26 16:29:23,Max Mustermann,29.86,Produkt H,130.0,Firma1,Lager C,Lager E
+087,Lagerbestand überprüfen,2024-02-26 16:41:23,Sophia Lang,82.48,Produkt H,130.0,Firma1,Lager H,Lager G
+087,Auftragsabwicklung im System starten,2024-02-26 16:54:23,Lena Mueller,89.29,Produkt H,130.0,Firma1,Lager F,Lager F
+087,Artikel zusammenstellen,2024-02-26 17:04:23,Max Mustermann,72.22,Produkt H,130.0,Firma1,Lager I,Lager F
+087,Ware verpacken,2024-02-26 17:39:23,Hannah Meyer,46.99,Produkt H,130.0,Firma1,Lager A,Lager H
+087,Gewicht prüfen,2024-02-26 18:09:23,Luca Huber,65.04,Produkt H,130.0,Firma1,Lager G,Lager D
+087,Anzahl der Artikel überprüfen,2024-02-26 18:47:23,Paul Zimmer,51.22,Produkt H,130.0,Firma1,Lager C,Lager D
+087,Verpackung prüfen,2024-02-26 19:20:23,Leonie Richter,19.41,Produkt H,130.0,Firma1,Lager F,Lager C
+087,Bezahlaufforderung an Kunde schicken,2024-02-26 19:47:23,Sophia Lang,85.79,Produkt H,130.0,Firma1,Lager A,Lager E
+087,Informationen an Transporteur übermitteln,2024-02-26 20:22:23,Jonas Richter,54.54,Produkt H,130.0,Firma1,Lager D,Lager C
+087,Paket an Transporteur übergeben,2024-02-26 20:50:23,Lisa Schulz,79.25,Produkt H,130.0,Firma1,Lager E,Lager B
+087,Bestellstatus im System ändern,2024-02-26 21:47:23,Nico Schmidt,13.94,Produkt H,130.0,Firma1,Lager C,Lager B
+088,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Jonas Richter,68.47,Produkt D,70.0,Firma10,Lager C,Lager D
+088,Kunden-Daten in System übertragen,2024-02-26 10:56:23,Nico Schmidt,32.99,Produkt D,70.0,Firma10,Lager B,Lager A
+088,Zahlvorgang abschließen,2024-02-26 11:42:23,Jonas Richter,86.89,Produkt D,70.0,Firma10,Lager I,Lager D
+088,Bestellung im System eintragen,2024-02-26 12:07:23,Lisa Schulz,64.4,Produkt D,70.0,Firma10,Lager H,Lager C
+088,Lagerbestand überprüfen,2024-02-26 12:46:23,Lisa Mueller,30.16,Produkt D,70.0,Firma10,Lager G,Lager H
+088,Auftragsabwicklung im System starten,2024-02-26 13:22:23,Jonas Richter,62.31,Produkt D,70.0,Firma10,Lager H,Lager B
+088,Artikel zusammenstellen,2024-02-26 14:16:23,Mia Schmitt,13.46,Produkt D,70.0,Firma10,Lager H,Lager I
+088,Ware verpacken,2024-02-26 14:49:23,Luca Huber,52.31,Produkt D,70.0,Firma10,Lager A,Lager D
+088,Gewicht prüfen,2024-02-26 14:57:23,Noah Becker,21.83,Produkt D,70.0,Firma10,Lager F,Lager E
+088,Anzahl der Artikel überprüfen,2024-02-26 15:18:23,Mia Schmitt,68.67,Produkt D,70.0,Firma10,Lager I,Lager D
+088,Verpackung prüfen,2024-02-26 15:42:23,Lisa Mueller,78.84,Produkt D,70.0,Firma10,Lager H,Lager B
+088,Paket zur Warenausgabe bringen,2024-02-26 16:15:23,Noah Becker,89.68,Produkt D,70.0,Firma10,Lager I,Lager A
+088,Zahlungsabwicklung durchführen,2024-02-26 17:06:23,Nico Schmidt,92.21,Produkt D,70.0,Firma10,Lager A,Lager B
+088,Paket an Kunde übergeben,2024-02-26 17:36:23,Laura Fischer,20.98,Produkt D,70.0,Firma10,Lager E,Lager I
+088,Bestellstatus im System ändern,2024-02-26 18:35:23,Lena Mueller,88.44,Produkt D,70.0,Firma10,Lager B,Lager C
+089,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Timo Wagner,6.11,Produkt D,70.0,Firma5,Lager G,Lager C
+089,Kunden-Daten in System übertragen,2024-02-26 11:03:23,Max Mustermann,28.87,Produkt D,70.0,Firma5,Lager G,Lager C
+089,Zahlvorgang abschließen,2024-02-26 12:03:23,Lisa Schulz,83.76,Produkt D,70.0,Firma5,Lager H,Lager F
+089,Bestellung im System eintragen,2024-02-26 12:38:23,Max Mustermann,52.57,Produkt D,70.0,Firma5,Lager G,Lager C
+089,Lagerbestand überprüfen,2024-02-26 12:55:23,Luca Huber,83.98,Produkt D,70.0,Firma5,Lager G,Lager D
+089,Artikel bestellen,2024-02-26 13:25:23,Luca Huber,82.62,Produkt D,70.0,Firma5,Lager E,Lager E
+089,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 14:07:23,Max Mustermann,75.76,Produkt D,70.0,Firma5,Lager A,Lager C
+089,Auftragsabwicklung im System starten,2024-02-26 14:37:23,Jonas Richter,55.26,Produkt D,70.0,Firma5,Lager G,Lager G
+089,Artikel zusammenstellen,2024-02-26 15:35:23,Noah Becker,54.4,Produkt D,70.0,Firma5,Lager H,Lager G
+089,Ware verpacken,2024-02-26 15:52:23,Mia Schmitt,19.64,Produkt D,70.0,Firma5,Lager A,Lager G
+089,Gewicht prüfen,2024-02-26 16:34:23,David Meyer,89.42,Produkt D,70.0,Firma5,Lager C,Lager E
+089,Anzahl der Artikel überprüfen,2024-02-26 16:56:23,Emilia Wagner,85.99,Produkt D,70.0,Firma5,Lager A,Lager C
+089,Verpackung prüfen,2024-02-26 17:34:23,Lisa Mueller,36.72,Produkt D,70.0,Firma5,Lager D,Lager E
+089,Paket zur Warenausgabe bringen,2024-02-26 18:15:23,Lisa Schulz,9.01,Produkt D,70.0,Firma5,Lager D,Lager C
+089,Paket an Kunde übergeben,2024-02-26 19:02:23,Sophia Lang,71.15,Produkt D,70.0,Firma5,Lager D,Lager G
+089,Bestellstatus im System ändern,2024-02-26 19:22:23,Jan Becker,70.08,Produkt D,70.0,Firma5,Lager D,Lager C
+090,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Timo Wagner,63.16,Produkt D,70.0,Firma9,Lager J,Lager D
+090,Bestellung im System eintragen,2024-02-26 11:27:23,Sarah Schmidt,98.21,Produkt D,70.0,Firma9,Lager E,Lager J
+090,Lagerbestand überprüfen,2024-02-26 11:51:23,Lisa Mueller,32.5,Produkt D,70.0,Firma9,Lager F,Lager J
+090,Artikel bestellen,2024-02-26 12:38:23,Emilia Wagner,41.96,Produkt D,70.0,Firma9,Lager E,Lager J
+090,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 13:37:23,Hannah Meyer,71.06,Produkt D,70.0,Firma9,Lager A,Lager G
+090,Auftragsabwicklung im System starten,2024-02-26 14:29:23,Leonie Richter,58.98,Produkt D,70.0,Firma9,Lager E,Lager H
+090,Artikel zusammenstellen,2024-02-26 15:01:23,Paul Zimmer,71.0,Produkt D,70.0,Firma9,Lager E,Lager F
+090,Ware verpacken,2024-02-26 15:55:23,Noah Becker,80.45,Produkt D,70.0,Firma9,Lager I,Lager F
+090,Gewicht prüfen,2024-02-26 16:15:23,Sophia Lang,8.05,Produkt D,70.0,Firma9,Lager D,Lager I
+090,Anzahl der Artikel überprüfen,2024-02-26 17:15:23,Paul Zimmer,58.08,Produkt D,70.0,Firma9,Lager B,Lager D
+090,Verpackung prüfen,2024-02-26 17:44:23,Lisa Schulz,10.28,Produkt D,70.0,Firma9,Lager F,Lager E
+090,Fehler im System eintrgen,2024-02-26 18:28:23,Jonas Richter,42.97,Produkt D,70.0,Firma9,Lager D,Lager C
+090,Bestandsverwaltung informieren,2024-02-26 18:31:23,Nico Schmidt,61.26,Produkt D,70.0,Firma9,Lager D,Lager J
+090,Lagerbestand überprüfen,2024-02-26 18:45:23,Max Mustermann,31.1,Produkt D,70.0,Firma9,Lager H,Lager D
+090,Auftragsabwicklung im System starten,2024-02-26 19:21:23,Lena Mueller,55.6,Produkt D,70.0,Firma9,Lager D,Lager A
+090,Artikel zusammenstellen,2024-02-26 20:06:23,Jonas Richter,12.86,Produkt D,70.0,Firma9,Lager G,Lager F
+090,Ware verpacken,2024-02-26 20:43:23,David Meyer,91.59,Produkt D,70.0,Firma9,Lager C,Lager F
+090,Gewicht prüfen,2024-02-26 21:22:23,Lisa Mueller,41.0,Produkt D,70.0,Firma9,Lager A,Lager A
+090,Anzahl der Artikel überprüfen,2024-02-26 21:44:23,Leonie Richter,44.19,Produkt D,70.0,Firma9,Lager A,Lager F
+090,Verpackung prüfen,2024-02-26 21:46:23,Lena Mueller,14.97,Produkt D,70.0,Firma9,Lager D,Lager I
+090,Paket zur Warenausgabe bringen,2024-02-26 22:04:23,David Meyer,15.85,Produkt D,70.0,Firma9,Lager F,Lager J
+090,Paket an Kunde übergeben,2024-02-26 22:49:23,Lisa Schulz,61.42,Produkt D,70.0,Firma9,Lager G,Lager G
+090,Bestellstatus im System ändern,2024-02-26 23:25:23,Lena Mueller,13.87,Produkt D,70.0,Firma9,Lager J,Lager C
+091,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,13.13,Produkt Q,110.0,Firma13,Lager J,Lager A
+091,Kunden-Daten in System übertragen,2024-02-26 10:50:23,Sophia Lang,45.16,Produkt Q,110.0,Firma13,Lager A,Lager G
+091,Zahlvorgang abschließen,2024-02-26 10:55:23,Lisa Mueller,76.67,Produkt Q,110.0,Firma13,Lager B,Lager C
+091,Bestellung im System eintragen,2024-02-26 10:59:23,Paul Zimmer,24.08,Produkt Q,110.0,Firma13,Lager G,Lager D
+091,Lagerbestand überprüfen,2024-02-26 11:45:23,Nico Schmidt,67.52,Produkt Q,110.0,Firma13,Lager E,Lager B
+091,Artikel bestellen,2024-02-26 11:57:23,Lisa Mueller,79.49,Produkt Q,110.0,Firma13,Lager E,Lager E
+091,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:44:23,Emma Weber,66.32,Produkt Q,110.0,Firma13,Lager E,Lager I
+091,Auftragsabwicklung im System starten,2024-02-26 13:36:23,Luca Huber,93.18,Produkt Q,110.0,Firma13,Lager B,Lager E
+091,Artikel zusammenstellen,2024-02-26 13:49:23,Nico Schmidt,22.15,Produkt Q,110.0,Firma13,Lager D,Lager C
+091,Ware verpacken,2024-02-26 13:50:23,Laura Fischer,15.96,Produkt Q,110.0,Firma13,Lager G,Lager G
+091,Gewicht prüfen,2024-02-26 13:54:23,Timo Wagner,48.06,Produkt Q,110.0,Firma13,Lager J,Lager C
+091,Anzahl der Artikel überprüfen,2024-02-26 14:23:23,Timo Wagner,84.19,Produkt Q,110.0,Firma13,Lager I,Lager G
+091,Verpackung prüfen,2024-02-26 15:09:23,Nico Schmidt,25.55,Produkt Q,110.0,Firma13,Lager I,Lager D
+091,Fehler im System eintrgen,2024-02-26 15:36:23,Emilia Wagner,25.2,Produkt Q,110.0,Firma13,Lager G,Lager A
+091,Bestandsverwaltung informieren,2024-02-26 16:24:23,Leonie Richter,8.81,Produkt Q,110.0,Firma13,Lager E,Lager J
+091,Lagerbestand überprüfen,2024-02-26 17:08:23,Timo Wagner,64.0,Produkt Q,110.0,Firma13,Lager B,Lager E
+091,Auftragsabwicklung im System starten,2024-02-26 17:45:23,Jan Becker,47.2,Produkt Q,110.0,Firma13,Lager G,Lager I
+091,Artikel zusammenstellen,2024-02-26 18:23:23,Emma Weber,30.99,Produkt Q,110.0,Firma13,Lager B,Lager I
+091,Ware verpacken,2024-02-26 18:50:23,Laura Fischer,54.3,Produkt Q,110.0,Firma13,Lager D,Lager B
+091,Gewicht prüfen,2024-02-26 19:01:23,Lisa Mueller,72.78,Produkt Q,110.0,Firma13,Lager A,Lager A
+091,Anzahl der Artikel überprüfen,2024-02-26 20:00:23,Paul Zimmer,17.51,Produkt Q,110.0,Firma13,Lager C,Lager J
+091,Verpackung prüfen,2024-02-26 20:59:23,Timo Wagner,53.01,Produkt Q,110.0,Firma13,Lager H,Lager I
+091,Paket zur Warenausgabe bringen,2024-02-26 21:10:23,Paul Zimmer,25.22,Produkt Q,110.0,Firma13,Lager C,Lager A
+091,Paket an Kunde übergeben,2024-02-26 21:59:23,Emma Weber,63.75,Produkt Q,110.0,Firma13,Lager H,Lager I
+091,Bestellstatus im System ändern,2024-02-26 22:45:23,Emma Weber,5.37,Produkt Q,110.0,Firma13,Lager H,Lager J
+092,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Lena Mueller,37.41,Produkt C,80.0,Firma7,Lager C,Lager D
+092,Bestellung im System eintragen,2024-02-26 11:07:23,Laura Fischer,48.02,Produkt C,80.0,Firma7,Lager H,Lager H
+092,Lagerbestand überprüfen,2024-02-26 11:16:23,Emilia Wagner,16.44,Produkt C,80.0,Firma7,Lager F,Lager G
+092,Auftragsabwicklung im System starten,2024-02-26 11:19:23,Noah Becker,64.0,Produkt C,80.0,Firma7,Lager F,Lager F
+092,Artikel zusammenstellen,2024-02-26 12:15:23,Max Mustermann,33.26,Produkt C,80.0,Firma7,Lager J,Lager J
+092,Ware verpacken,2024-02-26 12:43:23,Timo Wagner,52.2,Produkt C,80.0,Firma7,Lager G,Lager E
+092,Gewicht prüfen,2024-02-26 13:02:23,Emilia Wagner,20.53,Produkt C,80.0,Firma7,Lager G,Lager I
+092,Anzahl der Artikel überprüfen,2024-02-26 13:04:23,Sarah Schmidt,86.81,Produkt C,80.0,Firma7,Lager I,Lager C
+092,Verpackung prüfen,2024-02-26 14:02:23,David Meyer,87.39,Produkt C,80.0,Firma7,Lager J,Lager A
+092,Bezahlaufforderung an Kunde schicken,2024-02-26 14:17:23,Jan Becker,15.23,Produkt C,80.0,Firma7,Lager J,Lager D
+092,Bezahlaufforderung an Kunde schicken,2024-02-26 15:03:23,Nico Schmidt,24.32,Produkt C,80.0,Firma7,Lager B,Lager A
+092,Informationen an Transporteur übermitteln,2024-02-26 15:17:23,Luca Huber,58.63,Produkt C,80.0,Firma7,Lager I,Lager J
+092,Paket an Transporteur übergeben,2024-02-26 15:21:23,Sophia Lang,22.13,Produkt C,80.0,Firma7,Lager D,Lager F
+092,Bestellstatus im System ändern,2024-02-26 16:21:23,Paul Zimmer,44.49,Produkt C,80.0,Firma7,Lager A,Lager C
+093,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Sarah Schmidt,92.09,Produkt A,100.0,Firma10,Lager F,Lager E
+093,Kunden-Daten in System übertragen,2024-02-26 10:44:23,Hannah Meyer,16.72,Produkt A,100.0,Firma10,Lager A,Lager H
+093,Zahlvorgang abschließen,2024-02-26 11:41:23,Laura Fischer,61.45,Produkt A,100.0,Firma10,Lager E,Lager B
+093,Bestellung im System eintragen,2024-02-26 12:00:23,Timo Wagner,83.43,Produkt A,100.0,Firma10,Lager G,Lager G
+093,Lagerbestand überprüfen,2024-02-26 12:11:23,Lisa Mueller,71.44,Produkt A,100.0,Firma10,Lager H,Lager F
+093,Auftragsabwicklung im System starten,2024-02-26 13:09:23,Luca Huber,16.02,Produkt A,100.0,Firma10,Lager A,Lager C
+093,Artikel zusammenstellen,2024-02-26 14:07:23,Jonas Richter,51.63,Produkt A,100.0,Firma10,Lager H,Lager B
+093,Ware verpacken,2024-02-26 14:39:23,Leonie Richter,66.68,Produkt A,100.0,Firma10,Lager G,Lager F
+093,Gewicht prüfen,2024-02-26 15:14:23,Jan Becker,32.76,Produkt A,100.0,Firma10,Lager B,Lager C
+093,Anzahl der Artikel überprüfen,2024-02-26 15:30:23,Hannah Meyer,11.04,Produkt A,100.0,Firma10,Lager G,Lager G
+093,Verpackung prüfen,2024-02-26 16:09:23,Noah Becker,40.88,Produkt A,100.0,Firma10,Lager E,Lager E
+093,Informationen an Transporteur übermitteln,2024-02-26 16:35:23,Laura Fischer,10.86,Produkt A,100.0,Firma10,Lager A,Lager B
+093,Paket an Transporteur übergeben,2024-02-26 17:19:23,Lisa Mueller,37.51,Produkt A,100.0,Firma10,Lager B,Lager J
+093,Bestellstatus im System ändern,2024-02-26 17:28:23,Nico Schmidt,8.13,Produkt A,100.0,Firma10,Lager F,Lager G
+094,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Emma Weber,44.66,Produkt C,80.0,Firma15,Lager I,Lager C
+094,Kunden-Daten in System übertragen,2024-02-26 10:33:23,Sophia Lang,49.94,Produkt C,80.0,Firma15,Lager G,Lager J
+094,Zahlvorgang abschließen,2024-02-26 10:55:23,Noah Becker,93.67,Produkt C,80.0,Firma15,Lager C,Lager A
+094,Bestellung im System eintragen,2024-02-26 11:41:23,Luca Huber,21.65,Produkt C,80.0,Firma15,Lager C,Lager J
+094,Lagerbestand überprüfen,2024-02-26 11:58:23,Lena Mueller,8.44,Produkt C,80.0,Firma15,Lager B,Lager C
+094,Artikel bestellen,2024-02-26 12:03:23,Sophia Lang,67.14,Produkt C,80.0,Firma15,Lager J,Lager I
+094,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:19:23,Emilia Wagner,38.12,Produkt C,80.0,Firma15,Lager J,Lager I
+094,Auftragsabwicklung im System starten,2024-02-26 12:32:23,Jonas Richter,12.1,Produkt C,80.0,Firma15,Lager D,Lager D
+094,Artikel zusammenstellen,2024-02-26 12:45:23,Jan Becker,22.0,Produkt C,80.0,Firma15,Lager H,Lager F
+094,Ware verpacken,2024-02-26 13:40:23,Laura Fischer,5.93,Produkt C,80.0,Firma15,Lager G,Lager B
+094,Gewicht prüfen,2024-02-26 14:11:23,Lena Mueller,10.62,Produkt C,80.0,Firma15,Lager C,Lager D
+094,Anzahl der Artikel überprüfen,2024-02-26 14:46:23,Timo Wagner,5.92,Produkt C,80.0,Firma15,Lager A,Lager B
+094,Verpackung prüfen,2024-02-26 15:25:23,David Meyer,22.07,Produkt C,80.0,Firma15,Lager I,Lager C
+094,Paket zur Warenausgabe bringen,2024-02-26 15:29:23,Emma Weber,37.04,Produkt C,80.0,Firma15,Lager J,Lager F
+094,Zahlungsabwicklung durchführen,2024-02-26 15:41:23,Mia Schmitt,80.86,Produkt C,80.0,Firma15,Lager D,Lager D
+094,Paket an Kunde übergeben,2024-02-26 15:45:23,Max Mustermann,81.85,Produkt C,80.0,Firma15,Lager E,Lager D
+094,Bestellstatus im System ändern,2024-02-26 16:10:23,Lisa Schulz,70.63,Produkt C,80.0,Firma15,Lager D,Lager A
+095,Kunden-Daten abfragen (automatische Übertragung ins System),2024-02-26 10:28:23,Leonie Richter,65.12,Produkt C,80.0,Firma11,Lager B,Lager J
+095,Bestellung im System eintragen,2024-02-26 10:49:23,Lena Mueller,92.51,Produkt C,80.0,Firma11,Lager H,Lager E
+095,Lagerbestand überprüfen,2024-02-26 11:44:23,Noah Becker,14.43,Produkt C,80.0,Firma11,Lager C,Lager G
+095,Auftragsabwicklung im System starten,2024-02-26 12:13:23,Max Mustermann,24.92,Produkt C,80.0,Firma11,Lager A,Lager E
+095,Artikel zusammenstellen,2024-02-26 12:46:23,Lisa Schulz,73.51,Produkt C,80.0,Firma11,Lager E,Lager A
+095,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:15:23,Leonie Richter,13.41,Produkt C,80.0,Firma11,Lager J,Lager F
+095,Ware verpacken,2024-02-26 13:36:23,Mia Schmitt,53.67,Produkt C,80.0,Firma11,Lager I,Lager B
+095,Gewicht prüfen,2024-02-26 13:44:23,Emma Weber,6.57,Produkt C,80.0,Firma11,Lager J,Lager I
+095,Anzahl der Artikel überprüfen,2024-02-26 14:36:23,Emma Weber,72.12,Produkt C,80.0,Firma11,Lager B,Lager B
+095,Verpackung prüfen,2024-02-26 14:38:23,Sarah Schmidt,24.68,Produkt C,80.0,Firma11,Lager G,Lager C
+095,Paket zur Warenausgabe bringen,2024-02-26 15:18:23,Noah Becker,91.03,Produkt C,80.0,Firma11,Lager B,Lager H
+095,Paket an Kunde übergeben,2024-02-26 16:05:23,Mia Schmitt,69.07,Produkt C,80.0,Firma11,Lager D,Lager C
+095,Bestellstatus im System ändern,2024-02-26 16:25:23,Hannah Meyer,91.15,Produkt C,80.0,Firma11,Lager F,Lager C
+096,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Max Mustermann,62.27,Produkt E,150.0,Firma2,Lager F,Lager I
+096,Fehlende Daten ermitteln,2024-02-26 11:00:23,Jan Becker,31.54,Produkt E,150.0,Firma2,Lager G,Lager B
+096,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 11:46:23,Sarah Schmidt,61.84,Produkt E,150.0,Firma2,Lager C,Lager H
+096,Bestellung im System eintragen,2024-02-26 12:29:23,Jan Becker,17.9,Produkt E,150.0,Firma2,Lager F,Lager I
+096,Lagerbestand überprüfen,2024-02-26 12:30:23,Nico Schmidt,14.71,Produkt E,150.0,Firma2,Lager A,Lager G
+096,Auftragsabwicklung im System starten,2024-02-26 13:09:23,Jan Becker,59.3,Produkt E,150.0,Firma2,Lager C,Lager B
+096,Artikel zusammenstellen,2024-02-26 14:05:23,Nico Schmidt,56.5,Produkt E,150.0,Firma2,Lager C,Lager H
+096,Ware verpacken,2024-02-26 15:03:23,Lisa Mueller,49.36,Produkt E,150.0,Firma2,Lager J,Lager C
+096,Gewicht prüfen,2024-02-26 15:42:23,Noah Becker,38.58,Produkt E,150.0,Firma2,Lager H,Lager G
+096,Anzahl der Artikel überprüfen,2024-02-26 16:09:23,Leonie Richter,51.33,Produkt E,150.0,Firma2,Lager B,Lager F
+096,Verpackung prüfen,2024-02-26 17:01:23,Leonie Richter,24.64,Produkt E,150.0,Firma2,Lager D,Lager H
+096,Fehler im System eintrgen,2024-02-26 17:08:23,Lena Mueller,27.82,Produkt E,150.0,Firma2,Lager C,Lager E
+096,Bestandsverwaltung informieren,2024-02-26 17:29:23,Timo Wagner,85.79,Produkt E,150.0,Firma2,Lager E,Lager C
+096,Lagerbestand überprüfen,2024-02-26 18:04:23,Emilia Wagner,42.32,Produkt E,150.0,Firma2,Lager C,Lager E
+096,Auftragsabwicklung im System starten,2024-02-26 18:11:23,Hannah Meyer,49.13,Produkt E,150.0,Firma2,Lager C,Lager J
+096,Artikel zusammenstellen,2024-02-26 19:01:23,Sophia Lang,65.74,Produkt E,150.0,Firma2,Lager H,Lager H
+096,Ware verpacken,2024-02-26 19:22:23,Luca Huber,74.78,Produkt E,150.0,Firma2,Lager I,Lager B
+096,Gewicht prüfen,2024-02-26 19:46:23,Lisa Schulz,49.53,Produkt E,150.0,Firma2,Lager D,Lager I
+096,Anzahl der Artikel überprüfen,2024-02-26 19:52:23,Paul Zimmer,23.84,Produkt E,150.0,Firma2,Lager H,Lager F
+096,Verpackung prüfen,2024-02-26 20:15:23,Emilia Wagner,80.95,Produkt E,150.0,Firma2,Lager G,Lager J
+096,Informationen an Transporteur übermitteln,2024-02-26 20:45:23,Noah Becker,12.16,Produkt E,150.0,Firma2,Lager G,Lager E
+096,Paket an Transporteur übergeben,2024-02-26 21:22:23,Sophia Lang,54.06,Produkt E,150.0,Firma2,Lager F,Lager C
+096,Bestellstatus im System ändern,2024-02-26 21:30:23,Emilia Wagner,17.84,Produkt E,150.0,Firma2,Lager J,Lager J
+097,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Mia Schmitt,67.59,Produkt I,90.0,Firma13,Lager G,Lager D
+097,Fehlende Daten ermitteln,2024-02-26 10:34:23,Luca Huber,86.98,Produkt I,90.0,Firma13,Lager I,Lager D
+097,Kunden bzgl. fehlender Daten anschreiben,2024-02-26 10:39:23,Lena Mueller,99.63,Produkt I,90.0,Firma13,Lager I,Lager E
+097,Bestellung im System eintragen,2024-02-26 11:17:23,Nico Schmidt,32.98,Produkt I,90.0,Firma13,Lager A,Lager A
+097,Lagerbestand überprüfen,2024-02-26 11:44:23,Sarah Schmidt,31.98,Produkt I,90.0,Firma13,Lager I,Lager B
+097,Artikel bestellen,2024-02-26 12:08:23,Lena Mueller,6.62,Produkt I,90.0,Firma13,Lager E,Lager D
+097,Information an Kunde über verspätetet Lieferzeit verschicken,2024-02-26 12:35:23,Lisa Schulz,32.03,Produkt I,90.0,Firma13,Lager C,Lager B
+097,Auftragsabwicklung im System starten,2024-02-26 12:42:23,Emilia Wagner,78.26,Produkt I,90.0,Firma13,Lager J,Lager E
+097,Artikel zusammenstellen,2024-02-26 12:50:23,Noah Becker,86.65,Produkt I,90.0,Firma13,Lager H,Lager E
+097,Versicherungs-Bescheinigung dazulegen,2024-02-26 13:34:23,Mia Schmitt,68.57,Produkt I,90.0,Firma13,Lager J,Lager F
+097,Ware verpacken,2024-02-26 14:21:23,Sarah Schmidt,60.45,Produkt I,90.0,Firma13,Lager E,Lager D
+097,Gewicht prüfen,2024-02-26 15:00:23,Nico Schmidt,94.22,Produkt I,90.0,Firma13,Lager H,Lager F
+097,Anzahl der Artikel überprüfen,2024-02-26 15:43:23,Sarah Schmidt,66.05,Produkt I,90.0,Firma13,Lager J,Lager D
+097,Verpackung prüfen,2024-02-26 15:59:23,David Meyer,37.51,Produkt I,90.0,Firma13,Lager G,Lager J
+097,Informationen an Transporteur übermitteln,2024-02-26 16:05:23,Timo Wagner,95.25,Produkt I,90.0,Firma13,Lager J,Lager C
+097,Paket an Transporteur übergeben,2024-02-26 16:54:23,Jonas Richter,8.02,Produkt I,90.0,Firma13,Lager D,Lager D
+097,Bestellstatus im System ändern,2024-02-26 17:39:23,Sophia Lang,70.72,Produkt I,90.0,Firma13,Lager B,Lager E
+098,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Luca Huber,61.85,Produkt L,140.0,Firma10,Lager B,Lager F
+098,Kunden-Daten in System übertragen,2024-02-26 10:52:23,Max Mustermann,43.18,Produkt L,140.0,Firma10,Lager I,Lager I
+098,Zahlvorgang abschließen,2024-02-26 11:44:23,Laura Fischer,34.7,Produkt L,140.0,Firma10,Lager D,Lager E
+098,Bestellung im System eintragen,2024-02-26 12:24:23,Jan Becker,51.05,Produkt L,140.0,Firma10,Lager F,Lager I
+098,Lagerbestand überprüfen,2024-02-26 12:56:23,Timo Wagner,16.4,Produkt L,140.0,Firma10,Lager C,Lager E
+098,Auftragsabwicklung im System starten,2024-02-26 13:27:23,Nico Schmidt,36.87,Produkt L,140.0,Firma10,Lager E,Lager C
+098,Artikel zusammenstellen,2024-02-26 13:40:23,Leonie Richter,84.18,Produkt L,140.0,Firma10,Lager C,Lager B
+098,Ware verpacken,2024-02-26 14:10:23,Emma Weber,6.18,Produkt L,140.0,Firma10,Lager C,Lager B
+098,Gewicht prüfen,2024-02-26 14:16:23,Jonas Richter,49.97,Produkt L,140.0,Firma10,Lager C,Lager H
+098,Anzahl der Artikel überprüfen,2024-02-26 14:42:23,David Meyer,78.15,Produkt L,140.0,Firma10,Lager G,Lager I
+098,Verpackung prüfen,2024-02-26 15:04:23,Mia Schmitt,82.17,Produkt L,140.0,Firma10,Lager F,Lager I
+098,Bezahlaufforderung an Kunde schicken,2024-02-26 15:37:23,Sarah Schmidt,51.85,Produkt L,140.0,Firma10,Lager C,Lager A
+098,Informationen an Transporteur übermitteln,2024-02-26 16:23:23,Nico Schmidt,79.98,Produkt L,140.0,Firma10,Lager J,Lager J
+098,Paket an Transporteur übergeben,2024-02-26 16:42:23,Lena Mueller,45.37,Produkt L,140.0,Firma10,Lager B,Lager F
+098,Bestellstatus im System ändern,2024-02-26 17:20:23,Lena Mueller,86.23,Produkt L,140.0,Firma10,Lager D,Lager H
+099,Vollständigkeit der Daten prüfen,2024-02-26 10:28:23,Nico Schmidt,54.56,Produkt G,95.0,Firma12,Lager E,Lager J
+099,Bestellung im System eintragen,2024-02-26 10:54:23,Emma Weber,81.51,Produkt G,95.0,Firma12,Lager I,Lager A
+099,Lagerbestand überprüfen,2024-02-26 11:22:23,Laura Fischer,36.98,Produkt G,95.0,Firma12,Lager I,Lager B
+099,Auftragsabwicklung im System starten,2024-02-26 12:08:23,Jan Becker,90.19,Produkt G,95.0,Firma12,Lager J,Lager A
+099,Artikel zusammenstellen,2024-02-26 12:49:23,Noah Becker,68.93,Produkt G,95.0,Firma12,Lager E,Lager I
+099,Ware verpacken,2024-02-26 13:46:23,Max Mustermann,94.12,Produkt G,95.0,Firma12,Lager C,Lager E
+099,Gewicht prüfen,2024-02-26 14:12:23,Jan Becker,81.75,Produkt G,95.0,Firma12,Lager C,Lager B
+099,Anzahl der Artikel überprüfen,2024-02-26 14:37:23,Max Mustermann,92.86,Produkt G,95.0,Firma12,Lager J,Lager B
+099,Verpackung prüfen,2024-02-26 14:57:23,Timo Wagner,92.61,Produkt G,95.0,Firma12,Lager H,Lager A
+099,Paket zur Warenausgabe bringen,2024-02-26 15:27:23,Max Mustermann,44.18,Produkt G,95.0,Firma12,Lager A,Lager G
+099,Paket an Kunde übergeben,2024-02-26 15:32:23,Mia Schmitt,90.62,Produkt G,95.0,Firma12,Lager J,Lager G
+099,Bestellstatus im System ändern,2024-02-26 16:09:23,Noah Becker,75.55,Produkt G,95.0,Firma12,Lager B,Lager J
+100,Kunden-Daten aufnehmen,2024-02-26 10:28:23,Leonie Richter,55.54,Produkt O,120.0,Firma3,Lager B,Lager C
+100,Kunden-Daten in System übertragen,2024-02-26 10:30:23,Hannah Meyer,66.61,Produkt O,120.0,Firma3,Lager D,Lager I
+100,Zahlvorgang abschließen,2024-02-26 10:40:23,Hannah Meyer,20.46,Produkt O,120.0,Firma3,Lager B,Lager A
+100,Bestellung im System eintragen,2024-02-26 11:35:23,Lena Mueller,76.97,Produkt O,120.0,Firma3,Lager A,Lager H
+100,Lagerbestand überprüfen,2024-02-26 11:52:23,Emma Weber,65.9,Produkt O,120.0,Firma3,Lager E,Lager C
+100,Auftragsabwicklung im System starten,2024-02-26 12:34:23,Sophia Lang,46.68,Produkt O,120.0,Firma3,Lager I,Lager J
+100,Artikel zusammenstellen,2024-02-26 13:18:23,Noah Becker,12.27,Produkt O,120.0,Firma3,Lager A,Lager J
+100,Versicherungs-Bescheinigung dazulegen,2024-02-26 14:01:23,Lisa Schulz,10.05,Produkt O,120.0,Firma3,Lager H,Lager C
+100,Ware verpacken,2024-02-26 14:27:23,Laura Fischer,83.81,Produkt O,120.0,Firma3,Lager D,Lager B
+100,Gewicht prüfen,2024-02-26 14:35:23,Leonie Richter,53.72,Produkt O,120.0,Firma3,Lager E,Lager H
+100,Anzahl der Artikel überprüfen,2024-02-26 15:25:23,Leonie Richter,94.57,Produkt O,120.0,Firma3,Lager J,Lager J
+100,Verpackung prüfen,2024-02-26 15:44:23,Lena Mueller,63.93,Produkt O,120.0,Firma3,Lager D,Lager J
+100,Informationen an Transporteur übermitteln,2024-02-26 16:14:23,Luca Huber,39.97,Produkt O,120.0,Firma3,Lager B,Lager B
+100,Paket an Transporteur übergeben,2024-02-26 16:59:23,Sarah Schmidt,50.99,Produkt O,120.0,Firma3,Lager A,Lager I
+100,Bestellstatus im System ändern,2024-02-26 17:32:23,Hannah Meyer,96.9,Produkt O,120.0,Firma3,Lager E,Lager B
