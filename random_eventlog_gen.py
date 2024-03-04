@@ -758,7 +758,22 @@ activity_costs = {
     "Paket zur Warenausgabe bringen": (4, 9),
     "Paket an Kunde übergeben": (5, 10),
     "Bestellstatus im System ändern": (1, 3),
-    "Zahlungsabwicklung durchführen": (6, 12)
+    "Zahlungsabwicklung durchführen": (6, 12),
+    "Informationen an Transporteur übermitteln": (6, 12),
+    "Paket an Transporteur übergeben": (6, 12),
+    "Bezahlaufforderung an Kunde schicken": (6, 12),
+    "Fehler im System eintrgen": (6, 12),
+    "Bestandsverwaltung informieren": (6, 12),
+    "Versicherungs-Bescheinigung dazulegen": (6, 12),
+    "Artikel bestellen": (6, 12),
+    "Information an Kunde über verspätetet Lieferzeit verschicken": (6, 12),
+    "Kunden-Daten abfragen (automatische Übertragung ins System)": (6, 12),
+    "Rechnungsadesse aufnehmen": (6, 12),
+    "Rechnungsadesse im System eintragen": (6, 12),
+    "Vollständigkeit der Daten prüfen": (6, 12),
+    "Fehlende Daten ermitteln": (6, 12),
+    "Kunden bzgl. fehlender Daten anschreiben": (6, 12),
+    "Vollständigkeit der Daten prüfen": (6, 12)
 }
 
 # Anzahl der Ereignisse
