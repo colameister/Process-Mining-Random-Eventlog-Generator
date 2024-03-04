@@ -1,0 +1,1436 @@
+Fallnummer,Aktivität,Zeitstempel,Abteilung,Ausführende Person,Kosten (EUR),Kunde,Transportiertes Gut,Produktpreis (EUR),Abnahmeort,Abgabeort
+001,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,97",Volkswagen,Produkt T,"85,0",Lager B,Lager B
+001,Kunden-Daten in System übertragen,2024-03-04 21:11:29,Auftragsannahme,Timo Wagner,"3,75",Volkswagen,Produkt T,"85,0",Lager H,Lager B
+001,Zahlvorgang abschließen,2024-03-04 21:32:29,Auftragsannahme,Timo Wagner,"6,16",Volkswagen,Produkt T,"85,0",Lager F,Lager I
+001,Bestellung im System eintragen,2024-03-04 21:59:29,Auftragsannahme,Max Mustermann,"7,93",Volkswagen,Produkt T,"85,0",Lager F,Lager J
+001,Lagerbestand überprüfen,2024-03-04 22:15:29,Bestandsverwaltung,Nico Schmidt,"1,06",Volkswagen,Produkt T,"85,0",Lager G,Lager H
+001,Auftragsabwicklung im System starten,2024-03-04 23:08:29,Bestandsverwaltung,Lisa Mueller,"5,54",Volkswagen,Produkt T,"85,0",Lager D,Lager G
+001,Artikel zusammenstellen,2024-03-04 23:56:29,Lager,Jonas Richter,"5,84",Volkswagen,Produkt T,"85,0",Lager H,Lager H
+001,Ware verpacken,2024-03-05 00:14:29,Lager,Mia Schmitt,"4,25",Volkswagen,Produkt T,"85,0",Lager J,Lager H
+001,Gewicht prüfen,2024-03-05 00:15:29,Qualitätskontrolle,Noah Becker,"2,29",Volkswagen,Produkt T,"85,0",Lager G,Lager F
+001,Anzahl der Artikel überprüfen,2024-03-05 00:43:29,Qualitätskontrolle,Noah Becker,"2,58",Volkswagen,Produkt T,"85,0",Lager B,Lager J
+001,Verpackung prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Hannah Meyer,"4,64",Volkswagen,Produkt T,"85,0",Lager C,Lager G
+001,Paket zur Warenausgabe bringen,2024-03-05 01:11:29,Warenausgang,Leonie Richter,"7,67",Volkswagen,Produkt T,"85,0",Lager D,Lager D
+001,Zahlungsabwicklung durchführen,2024-03-05 01:53:29,Warenausgang,Sophia Lang,"10,51",Volkswagen,Produkt T,"85,0",Lager F,Lager E
+001,Paket an Kunde übergeben,2024-03-05 02:43:29,Warenausgang,Luca Huber,"7,15",Volkswagen,Produkt T,"85,0",Lager B,Lager A
+001,Bestellstatus im System ändern,2024-03-05 03:00:29,Warenausgang,David Meyer,"2,6",Volkswagen,Produkt T,"85,0",Lager C,Lager C
+002,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,08",Samsung Electronics,Produkt K,"110,0",Lager C,Lager D
+002,Kunden-Daten in System übertragen,2024-03-04 20:49:29,Auftragsannahme,Timo Wagner,"4,07",Samsung Electronics,Produkt K,"110,0",Lager D,Lager A
+002,Zahlvorgang abschließen,2024-03-04 20:53:29,Auftragsannahme,Sarah Schmidt,"5,54",Samsung Electronics,Produkt K,"110,0",Lager F,Lager B
+002,Bestellung im System eintragen,2024-03-04 21:06:29,Auftragsannahme,Sarah Schmidt,"6,94",Samsung Electronics,Produkt K,"110,0",Lager B,Lager F
+002,Lagerbestand überprüfen,2024-03-04 21:57:29,Bestandsverwaltung,Paul Zimmer,"2,88",Samsung Electronics,Produkt K,"110,0",Lager C,Lager I
+002,Auftragsabwicklung im System starten,2024-03-04 22:38:29,Bestandsverwaltung,Lisa Mueller,"5,54",Samsung Electronics,Produkt K,"110,0",Lager A,Lager J
+002,Artikel zusammenstellen,2024-03-04 23:08:29,Lager,Mia Schmitt,"3,09",Samsung Electronics,Produkt K,"110,0",Lager B,Lager J
+002,Ware verpacken,2024-03-04 23:57:29,Lager,Mia Schmitt,"5,53",Samsung Electronics,Produkt K,"110,0",Lager H,Lager H
+002,Gewicht prüfen,2024-03-05 00:22:29,Qualitätskontrolle,Emilia Wagner,"1,86",Samsung Electronics,Produkt K,"110,0",Lager I,Lager H
+002,Anzahl der Artikel überprüfen,2024-03-05 00:51:29,Qualitätskontrolle,Hannah Meyer,"2,31",Samsung Electronics,Produkt K,"110,0",Lager I,Lager F
+002,Verpackung prüfen,2024-03-05 01:44:29,Qualitätskontrolle,Hannah Meyer,"4,89",Samsung Electronics,Produkt K,"110,0",Lager A,Lager I
+002,Informationen an Transporteur übermitteln,2024-03-05 02:13:29,Warenausgang,David Meyer,"11,76",Samsung Electronics,Produkt K,"110,0",Lager B,Lager J
+002,Paket an Transporteur übergeben,2024-03-05 02:51:29,Warenausgang,Luca Huber,"11,56",Samsung Electronics,Produkt K,"110,0",Lager D,Lager B
+002,Bestellstatus im System ändern,2024-03-05 03:04:29,Warenausgang,Sophia Lang,"1,06",Samsung Electronics,Produkt K,"110,0",Lager F,Lager G
+003,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,48",Volkswagen,Produkt B,"120,0",Lager C,Lager J
+003,Kunden-Daten in System übertragen,2024-03-04 21:18:29,Auftragsannahme,Sarah Schmidt,"3,6",Volkswagen,Produkt B,"120,0",Lager J,Lager C
+003,Zahlvorgang abschließen,2024-03-04 22:02:29,Auftragsannahme,Sarah Schmidt,"5,88",Volkswagen,Produkt B,"120,0",Lager F,Lager J
+003,Bestellung im System eintragen,2024-03-04 22:44:29,Auftragsannahme,Sarah Schmidt,"8,45",Volkswagen,Produkt B,"120,0",Lager H,Lager I
+003,Lagerbestand überprüfen,2024-03-04 23:40:29,Bestandsverwaltung,Lisa Mueller,"2,22",Volkswagen,Produkt B,"120,0",Lager E,Lager H
+003,Auftragsabwicklung im System starten,2024-03-05 00:11:29,Bestandsverwaltung,Paul Zimmer,"6,23",Volkswagen,Produkt B,"120,0",Lager F,Lager J
+003,Artikel zusammenstellen,2024-03-05 00:57:29,Lager,Mia Schmitt,"5,95",Volkswagen,Produkt B,"120,0",Lager H,Lager G
+003,Ware verpacken,2024-03-05 01:40:29,Lager,Jonas Richter,"4,12",Volkswagen,Produkt B,"120,0",Lager D,Lager I
+003,Gewicht prüfen,2024-03-05 02:10:29,Qualitätskontrolle,Noah Becker,"1,23",Volkswagen,Produkt B,"120,0",Lager I,Lager G
+003,Anzahl der Artikel überprüfen,2024-03-05 02:22:29,Qualitätskontrolle,Noah Becker,"4,78",Volkswagen,Produkt B,"120,0",Lager C,Lager E
+003,Verpackung prüfen,2024-03-05 02:30:29,Qualitätskontrolle,Noah Becker,"5,94",Volkswagen,Produkt B,"120,0",Lager C,Lager G
+003,Paket zur Warenausgabe bringen,2024-03-05 02:43:29,Warenausgang,Sophia Lang,"5,62",Volkswagen,Produkt B,"120,0",Lager C,Lager H
+003,Paket an Kunde übergeben,2024-03-05 03:00:29,Warenausgang,Sophia Lang,"8,66",Volkswagen,Produkt B,"120,0",Lager D,Lager I
+003,Bestellstatus im System ändern,2024-03-05 03:45:29,Warenausgang,Sophia Lang,"2,31",Volkswagen,Produkt B,"120,0",Lager A,Lager B
+004,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,06",Honda Motor,Produkt S,"90,0",Lager G,Lager J
+004,Kunden-Daten in System übertragen,2024-03-04 21:03:29,Auftragsannahme,Lisa Schulz,"2,53",Honda Motor,Produkt S,"90,0",Lager J,Lager G
+004,Zahlvorgang abschließen,2024-03-04 21:43:29,Auftragsannahme,Timo Wagner,"4,74",Honda Motor,Produkt S,"90,0",Lager H,Lager A
+004,Bestellung im System eintragen,2024-03-04 22:38:29,Auftragsannahme,Lisa Schulz,"5,73",Honda Motor,Produkt S,"90,0",Lager E,Lager G
+004,Lagerbestand überprüfen,2024-03-04 22:59:29,Bestandsverwaltung,Paul Zimmer,"1,84",Honda Motor,Produkt S,"90,0",Lager G,Lager G
+004,Auftragsabwicklung im System starten,2024-03-04 23:04:29,Bestandsverwaltung,Lisa Mueller,"9,15",Honda Motor,Produkt S,"90,0",Lager J,Lager F
+004,Artikel zusammenstellen,2024-03-04 23:09:29,Lager,Mia Schmitt,"5,79",Honda Motor,Produkt S,"90,0",Lager B,Lager A
+004,Ware verpacken,2024-03-04 23:26:29,Lager,Jonas Richter,"3,69",Honda Motor,Produkt S,"90,0",Lager F,Lager E
+004,Gewicht prüfen,2024-03-04 23:35:29,Qualitätskontrolle,Noah Becker,"1,31",Honda Motor,Produkt S,"90,0",Lager H,Lager F
+004,Anzahl der Artikel überprüfen,2024-03-05 00:27:29,Qualitätskontrolle,Noah Becker,"4,39",Honda Motor,Produkt S,"90,0",Lager J,Lager H
+004,Verpackung prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Hannah Meyer,"3,35",Honda Motor,Produkt S,"90,0",Lager G,Lager H
+004,Paket zur Warenausgabe bringen,2024-03-05 01:58:29,Warenausgang,David Meyer,"6,08",Honda Motor,Produkt S,"90,0",Lager C,Lager A
+004,Zahlungsabwicklung durchführen,2024-03-05 02:47:29,Warenausgang,Luca Huber,"10,06",Honda Motor,Produkt S,"90,0",Lager D,Lager D
+004,Paket an Kunde übergeben,2024-03-05 03:38:29,Warenausgang,Emma Weber,"7,78",Honda Motor,Produkt S,"90,0",Lager A,Lager A
+004,Bestellstatus im System ändern,2024-03-05 04:27:29,Warenausgang,Luca Huber,"1,47",Honda Motor,Produkt S,"90,0",Lager D,Lager G
+005,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,13",Procter & Gamble,Produkt A,"100,0",Lager I,Lager F
+005,Kunden-Daten in System übertragen,2024-03-04 20:46:29,Auftragsannahme,Max Mustermann,"4,44",Procter & Gamble,Produkt A,"100,0",Lager A,Lager C
+005,Zahlvorgang abschließen,2024-03-04 21:33:29,Auftragsannahme,Lena Mueller,"4,62",Procter & Gamble,Produkt A,"100,0",Lager I,Lager H
+005,Bestellung im System eintragen,2024-03-04 22:31:29,Auftragsannahme,Lena Mueller,"6,9",Procter & Gamble,Produkt A,"100,0",Lager E,Lager J
+005,Lagerbestand überprüfen,2024-03-04 23:19:29,Bestandsverwaltung,Jan Becker,"1,71",Procter & Gamble,Produkt A,"100,0",Lager C,Lager J
+005,Auftragsabwicklung im System starten,2024-03-04 23:37:29,Bestandsverwaltung,Lisa Mueller,"8,6",Procter & Gamble,Produkt A,"100,0",Lager A,Lager H
+005,Artikel zusammenstellen,2024-03-05 00:19:29,Lager,Jonas Richter,"5,0",Procter & Gamble,Produkt A,"100,0",Lager B,Lager B
+005,Ware verpacken,2024-03-05 00:25:29,Lager,Jonas Richter,"4,21",Procter & Gamble,Produkt A,"100,0",Lager C,Lager E
+005,Gewicht prüfen,2024-03-05 00:49:29,Qualitätskontrolle,Emilia Wagner,"1,92",Procter & Gamble,Produkt A,"100,0",Lager G,Lager G
+005,Anzahl der Artikel überprüfen,2024-03-05 01:18:29,Qualitätskontrolle,Emilia Wagner,"3,89",Procter & Gamble,Produkt A,"100,0",Lager D,Lager I
+005,Verpackung prüfen,2024-03-05 02:17:29,Qualitätskontrolle,Noah Becker,"4,69",Procter & Gamble,Produkt A,"100,0",Lager B,Lager A
+005,Paket zur Warenausgabe bringen,2024-03-05 02:26:29,Warenausgang,Sophia Lang,"5,2",Procter & Gamble,Produkt A,"100,0",Lager D,Lager H
+005,Paket an Kunde übergeben,2024-03-05 03:05:29,Warenausgang,David Meyer,"8,32",Procter & Gamble,Produkt A,"100,0",Lager I,Lager I
+005,Bestellstatus im System ändern,2024-03-05 03:27:29,Warenausgang,David Meyer,"1,36",Procter & Gamble,Produkt A,"100,0",Lager E,Lager E
+006,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,6",Procter & Gamble,Produkt F,"110,0",Lager D,Lager I
+006,Kunden-Daten in System übertragen,2024-03-04 21:13:29,Auftragsannahme,Lisa Schulz,"3,18",Procter & Gamble,Produkt F,"110,0",Lager F,Lager J
+006,Zahlvorgang abschließen,2024-03-04 21:39:29,Auftragsannahme,Lisa Schulz,"5,45",Procter & Gamble,Produkt F,"110,0",Lager J,Lager E
+006,Bestellung im System eintragen,2024-03-04 21:59:29,Auftragsannahme,Timo Wagner,"5,79",Procter & Gamble,Produkt F,"110,0",Lager D,Lager E
+006,Lagerbestand überprüfen,2024-03-04 22:14:29,Bestandsverwaltung,Paul Zimmer,"1,3",Procter & Gamble,Produkt F,"110,0",Lager A,Lager C
+006,Auftragsabwicklung im System starten,2024-03-04 22:33:29,Bestandsverwaltung,Nico Schmidt,"7,78",Procter & Gamble,Produkt F,"110,0",Lager D,Lager B
+006,Artikel zusammenstellen,2024-03-04 23:22:29,Lager,Jonas Richter,"2,23",Procter & Gamble,Produkt F,"110,0",Lager E,Lager F
+006,Ware verpacken,2024-03-05 00:12:29,Lager,Jonas Richter,"6,39",Procter & Gamble,Produkt F,"110,0",Lager D,Lager I
+006,Gewicht prüfen,2024-03-05 00:20:29,Qualitätskontrolle,Emilia Wagner,"1,3",Procter & Gamble,Produkt F,"110,0",Lager J,Lager J
+006,Anzahl der Artikel überprüfen,2024-03-05 00:55:29,Qualitätskontrolle,Hannah Meyer,"3,61",Procter & Gamble,Produkt F,"110,0",Lager G,Lager C
+006,Verpackung prüfen,2024-03-05 01:07:29,Qualitätskontrolle,Emilia Wagner,"6,98",Procter & Gamble,Produkt F,"110,0",Lager J,Lager A
+006,Paket zur Warenausgabe bringen,2024-03-05 01:24:29,Warenausgang,Emma Weber,"6,9",Procter & Gamble,Produkt F,"110,0",Lager F,Lager A
+006,Paket an Kunde übergeben,2024-03-05 01:45:29,Warenausgang,Leonie Richter,"5,17",Procter & Gamble,Produkt F,"110,0",Lager A,Lager F
+006,Bestellstatus im System ändern,2024-03-05 02:18:29,Warenausgang,Sophia Lang,"1,62",Procter & Gamble,Produkt F,"110,0",Lager B,Lager B
+007,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,56",BASF,Produkt S,"90,0",Lager E,Lager C
+007,Kunden-Daten in System übertragen,2024-03-04 21:29:29,Auftragsannahme,Sarah Schmidt,"3,58",BASF,Produkt S,"90,0",Lager G,Lager C
+007,Zahlvorgang abschließen,2024-03-04 21:50:29,Auftragsannahme,Sarah Schmidt,"4,15",BASF,Produkt S,"90,0",Lager G,Lager A
+007,Bestellung im System eintragen,2024-03-04 21:53:29,Auftragsannahme,Timo Wagner,"5,04",BASF,Produkt S,"90,0",Lager E,Lager F
+007,Lagerbestand überprüfen,2024-03-04 22:28:29,Bestandsverwaltung,Lisa Mueller,"2,1",BASF,Produkt S,"90,0",Lager C,Lager D
+007,Auftragsabwicklung im System starten,2024-03-04 23:23:29,Bestandsverwaltung,Paul Zimmer,"5,79",BASF,Produkt S,"90,0",Lager C,Lager F
+007,Artikel zusammenstellen,2024-03-04 23:44:29,Lager,Jonas Richter,"5,96",BASF,Produkt S,"90,0",Lager E,Lager E
+007,Ware verpacken,2024-03-05 00:27:29,Lager,Mia Schmitt,"4,78",BASF,Produkt S,"90,0",Lager J,Lager A
+007,Gewicht prüfen,2024-03-05 01:13:29,Qualitätskontrolle,Noah Becker,"2,51",BASF,Produkt S,"90,0",Lager I,Lager A
+007,Anzahl der Artikel überprüfen,2024-03-05 01:54:29,Qualitätskontrolle,Noah Becker,"2,13",BASF,Produkt S,"90,0",Lager G,Lager D
+007,Verpackung prüfen,2024-03-05 02:34:29,Qualitätskontrolle,Emilia Wagner,"5,14",BASF,Produkt S,"90,0",Lager H,Lager I
+007,Paket zur Warenausgabe bringen,2024-03-05 02:43:29,Warenausgang,David Meyer,"5,46",BASF,Produkt S,"90,0",Lager F,Lager E
+007,Zahlungsabwicklung durchführen,2024-03-05 03:16:29,Warenausgang,David Meyer,"8,63",BASF,Produkt S,"90,0",Lager J,Lager H
+007,Paket an Kunde übergeben,2024-03-05 03:35:29,Warenausgang,Leonie Richter,"6,46",BASF,Produkt S,"90,0",Lager F,Lager I
+007,Bestellstatus im System ändern,2024-03-05 04:23:29,Warenausgang,Luca Huber,"1,54",BASF,Produkt S,"90,0",Lager D,Lager G
+008,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,86",Boeing,Produkt L,"140,0",Lager B,Lager H
+008,Kunden-Daten in System übertragen,2024-03-04 21:30:29,Auftragsannahme,Lena Mueller,"2,44",Boeing,Produkt L,"140,0",Lager I,Lager E
+008,Zahlvorgang abschließen,2024-03-04 21:43:29,Auftragsannahme,Lena Mueller,"6,93",Boeing,Produkt L,"140,0",Lager A,Lager G
+008,Bestellung im System eintragen,2024-03-04 22:35:29,Auftragsannahme,Timo Wagner,"4,32",Boeing,Produkt L,"140,0",Lager B,Lager C
+008,Lagerbestand überprüfen,2024-03-04 23:17:29,Bestandsverwaltung,Nico Schmidt,"1,42",Boeing,Produkt L,"140,0",Lager H,Lager C
+008,Auftragsabwicklung im System starten,2024-03-04 23:21:29,Bestandsverwaltung,Jan Becker,"7,89",Boeing,Produkt L,"140,0",Lager A,Lager C
+008,Artikel zusammenstellen,2024-03-04 23:41:29,Lager,Jonas Richter,"5,21",Boeing,Produkt L,"140,0",Lager B,Lager H
+008,Ware verpacken,2024-03-05 00:21:29,Lager,Mia Schmitt,"5,13",Boeing,Produkt L,"140,0",Lager G,Lager I
+008,Gewicht prüfen,2024-03-05 00:52:29,Qualitätskontrolle,Noah Becker,"2,62",Boeing,Produkt L,"140,0",Lager I,Lager B
+008,Anzahl der Artikel überprüfen,2024-03-05 01:09:29,Qualitätskontrolle,Noah Becker,"2,7",Boeing,Produkt L,"140,0",Lager E,Lager E
+008,Verpackung prüfen,2024-03-05 01:51:29,Qualitätskontrolle,Hannah Meyer,"3,9",Boeing,Produkt L,"140,0",Lager H,Lager I
+008,Paket zur Warenausgabe bringen,2024-03-05 02:39:29,Warenausgang,Leonie Richter,"8,99",Boeing,Produkt L,"140,0",Lager F,Lager G
+008,Paket an Kunde übergeben,2024-03-05 03:29:29,Warenausgang,Leonie Richter,"6,22",Boeing,Produkt L,"140,0",Lager J,Lager C
+008,Bestellstatus im System ändern,2024-03-05 04:18:29,Warenausgang,Emma Weber,"1,72",Boeing,Produkt L,"140,0",Lager G,Lager G
+009,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,69",Airbus,Produkt B,"120,0",Lager G,Lager E
+009,Kunden-Daten in System übertragen,2024-03-04 20:43:29,Auftragsannahme,Timo Wagner,"4,3",Airbus,Produkt B,"120,0",Lager E,Lager H
+009,Zahlvorgang abschließen,2024-03-04 21:02:29,Auftragsannahme,Sarah Schmidt,"6,08",Airbus,Produkt B,"120,0",Lager I,Lager I
+009,Bestellung im System eintragen,2024-03-04 21:28:29,Auftragsannahme,Lisa Schulz,"5,62",Airbus,Produkt B,"120,0",Lager B,Lager H
+009,Lagerbestand überprüfen,2024-03-04 21:36:29,Bestandsverwaltung,Jan Becker,"1,32",Airbus,Produkt B,"120,0",Lager E,Lager A
+009,Auftragsabwicklung im System starten,2024-03-04 22:00:29,Bestandsverwaltung,Lisa Mueller,"9,12",Airbus,Produkt B,"120,0",Lager I,Lager D
+009,Artikel zusammenstellen,2024-03-04 23:00:29,Lager,Jonas Richter,"2,64",Airbus,Produkt B,"120,0",Lager H,Lager D
+009,Ware verpacken,2024-03-04 23:42:29,Lager,Mia Schmitt,"5,86",Airbus,Produkt B,"120,0",Lager D,Lager E
+009,Gewicht prüfen,2024-03-05 00:04:29,Qualitätskontrolle,Noah Becker,"1,33",Airbus,Produkt B,"120,0",Lager C,Lager A
+009,Anzahl der Artikel überprüfen,2024-03-05 00:40:29,Qualitätskontrolle,Noah Becker,"4,47",Airbus,Produkt B,"120,0",Lager E,Lager E
+009,Verpackung prüfen,2024-03-05 00:46:29,Qualitätskontrolle,Hannah Meyer,"6,68",Airbus,Produkt B,"120,0",Lager F,Lager F
+009,Paket zur Warenausgabe bringen,2024-03-05 01:30:29,Warenausgang,Luca Huber,"7,49",Airbus,Produkt B,"120,0",Lager E,Lager I
+009,Paket an Kunde übergeben,2024-03-05 01:43:29,Warenausgang,Sophia Lang,"7,36",Airbus,Produkt B,"120,0",Lager D,Lager J
+009,Bestellstatus im System ändern,2024-03-05 02:12:29,Warenausgang,Leonie Richter,"1,21",Airbus,Produkt B,"120,0",Lager J,Lager B
+010,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,45",Volkswagen,Produkt Q,"110,0",Lager C,Lager J
+010,Kunden-Daten in System übertragen,2024-03-04 21:19:29,Auftragsannahme,Sarah Schmidt,"3,97",Volkswagen,Produkt Q,"110,0",Lager H,Lager B
+010,Zahlvorgang abschließen,2024-03-04 21:41:29,Auftragsannahme,Timo Wagner,"3,59",Volkswagen,Produkt Q,"110,0",Lager H,Lager F
+010,Bestellung im System eintragen,2024-03-04 22:11:29,Auftragsannahme,Sarah Schmidt,"5,86",Volkswagen,Produkt Q,"110,0",Lager B,Lager A
+010,Lagerbestand überprüfen,2024-03-04 22:55:29,Bestandsverwaltung,Paul Zimmer,"2,79",Volkswagen,Produkt Q,"110,0",Lager E,Lager B
+010,Auftragsabwicklung im System starten,2024-03-04 23:39:29,Bestandsverwaltung,Laura Fischer,"8,15",Volkswagen,Produkt Q,"110,0",Lager C,Lager H
+010,Artikel zusammenstellen,2024-03-04 23:48:29,Lager,Jonas Richter,"4,54",Volkswagen,Produkt Q,"110,0",Lager D,Lager B
+010,Ware verpacken,2024-03-05 00:39:29,Lager,Mia Schmitt,"3,97",Volkswagen,Produkt Q,"110,0",Lager C,Lager H
+010,Gewicht prüfen,2024-03-05 01:25:29,Qualitätskontrolle,Emilia Wagner,"2,95",Volkswagen,Produkt Q,"110,0",Lager J,Lager E
+010,Anzahl der Artikel überprüfen,2024-03-05 02:17:29,Qualitätskontrolle,Emilia Wagner,"4,22",Volkswagen,Produkt Q,"110,0",Lager G,Lager J
+010,Verpackung prüfen,2024-03-05 02:20:29,Qualitätskontrolle,Hannah Meyer,"4,82",Volkswagen,Produkt Q,"110,0",Lager H,Lager B
+010,Paket zur Warenausgabe bringen,2024-03-05 02:48:29,Warenausgang,Leonie Richter,"4,26",Volkswagen,Produkt Q,"110,0",Lager C,Lager E
+010,Paket an Kunde übergeben,2024-03-05 03:34:29,Warenausgang,Luca Huber,"8,08",Volkswagen,Produkt Q,"110,0",Lager E,Lager A
+010,Bestellstatus im System ändern,2024-03-05 03:40:29,Warenausgang,Sophia Lang,"2,68",Volkswagen,Produkt Q,"110,0",Lager H,Lager G
+011,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,58",Volkswagen,Produkt F,"110,0",Lager E,Lager E
+011,Kunden-Daten in System übertragen,2024-03-04 21:31:29,Auftragsannahme,Lena Mueller,"2,84",Volkswagen,Produkt F,"110,0",Lager J,Lager I
+011,Zahlvorgang abschließen,2024-03-04 22:21:29,Auftragsannahme,Max Mustermann,"6,47",Volkswagen,Produkt F,"110,0",Lager B,Lager C
+011,Bestellung im System eintragen,2024-03-04 22:57:29,Auftragsannahme,Timo Wagner,"8,7",Volkswagen,Produkt F,"110,0",Lager B,Lager E
+011,Lagerbestand überprüfen,2024-03-04 23:54:29,Bestandsverwaltung,Laura Fischer,"2,26",Volkswagen,Produkt F,"110,0",Lager F,Lager F
+011,Auftragsabwicklung im System starten,2024-03-05 00:42:29,Bestandsverwaltung,Laura Fischer,"9,24",Volkswagen,Produkt F,"110,0",Lager A,Lager E
+011,Artikel zusammenstellen,2024-03-05 01:06:29,Lager,Mia Schmitt,"2,24",Volkswagen,Produkt F,"110,0",Lager F,Lager E
+011,Ware verpacken,2024-03-05 01:24:29,Lager,Jonas Richter,"7,79",Volkswagen,Produkt F,"110,0",Lager D,Lager F
+011,Gewicht prüfen,2024-03-05 02:02:29,Qualitätskontrolle,Emilia Wagner,"1,98",Volkswagen,Produkt F,"110,0",Lager C,Lager A
+011,Anzahl der Artikel überprüfen,2024-03-05 02:12:29,Qualitätskontrolle,Hannah Meyer,"2,3",Volkswagen,Produkt F,"110,0",Lager C,Lager H
+011,Verpackung prüfen,2024-03-05 03:02:29,Qualitätskontrolle,Noah Becker,"5,77",Volkswagen,Produkt F,"110,0",Lager E,Lager G
+011,Paket zur Warenausgabe bringen,2024-03-05 03:19:29,Warenausgang,David Meyer,"6,53",Volkswagen,Produkt F,"110,0",Lager B,Lager J
+011,Zahlungsabwicklung durchführen,2024-03-05 04:17:29,Warenausgang,Luca Huber,"6,5",Volkswagen,Produkt F,"110,0",Lager A,Lager G
+011,Paket an Kunde übergeben,2024-03-05 04:22:29,Warenausgang,Sophia Lang,"6,63",Volkswagen,Produkt F,"110,0",Lager H,Lager G
+011,Bestellstatus im System ändern,2024-03-05 04:41:29,Warenausgang,Emma Weber,"1,93",Volkswagen,Produkt F,"110,0",Lager D,Lager I
+012,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,12",Ford Motor,Produkt B,"120,0",Lager E,Lager I
+012,Kunden-Daten in System übertragen,2024-03-04 21:38:29,Auftragsannahme,Lena Mueller,"4,94",Ford Motor,Produkt B,"120,0",Lager H,Lager B
+012,Zahlvorgang abschließen,2024-03-04 21:51:29,Auftragsannahme,Max Mustermann,"4,35",Ford Motor,Produkt B,"120,0",Lager F,Lager G
+012,Bestellung im System eintragen,2024-03-04 22:11:29,Auftragsannahme,Timo Wagner,"7,62",Ford Motor,Produkt B,"120,0",Lager I,Lager D
+012,Lagerbestand überprüfen,2024-03-04 23:05:29,Bestandsverwaltung,Jan Becker,"1,42",Ford Motor,Produkt B,"120,0",Lager G,Lager F
+012,Auftragsabwicklung im System starten,2024-03-04 23:53:29,Bestandsverwaltung,Lisa Mueller,"6,59",Ford Motor,Produkt B,"120,0",Lager J,Lager G
+012,Artikel zusammenstellen,2024-03-05 00:21:29,Lager,Jonas Richter,"2,21",Ford Motor,Produkt B,"120,0",Lager H,Lager C
+012,Ware verpacken,2024-03-05 00:50:29,Lager,Jonas Richter,"6,19",Ford Motor,Produkt B,"120,0",Lager I,Lager C
+012,Gewicht prüfen,2024-03-05 01:45:29,Qualitätskontrolle,Hannah Meyer,"1,41",Ford Motor,Produkt B,"120,0",Lager H,Lager D
+012,Anzahl der Artikel überprüfen,2024-03-05 02:39:29,Qualitätskontrolle,Hannah Meyer,"2,12",Ford Motor,Produkt B,"120,0",Lager H,Lager E
+012,Verpackung prüfen,2024-03-05 03:06:29,Qualitätskontrolle,Noah Becker,"6,37",Ford Motor,Produkt B,"120,0",Lager I,Lager F
+012,Paket zur Warenausgabe bringen,2024-03-05 04:04:29,Warenausgang,Emma Weber,"8,81",Ford Motor,Produkt B,"120,0",Lager C,Lager H
+012,Zahlungsabwicklung durchführen,2024-03-05 04:24:29,Warenausgang,Sophia Lang,"8,29",Ford Motor,Produkt B,"120,0",Lager J,Lager I
+012,Paket an Kunde übergeben,2024-03-05 04:43:29,Warenausgang,Emma Weber,"8,33",Ford Motor,Produkt B,"120,0",Lager E,Lager D
+012,Bestellstatus im System ändern,2024-03-05 05:25:29,Warenausgang,Luca Huber,"2,44",Ford Motor,Produkt B,"120,0",Lager I,Lager C
+013,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,27",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager B
+013,Kunden-Daten in System übertragen,2024-03-04 20:56:29,Auftragsannahme,Sarah Schmidt,"4,4",Mitsubishi Electric,Produkt F,"110,0",Lager B,Lager J
+013,Zahlvorgang abschließen,2024-03-04 21:19:29,Auftragsannahme,Sarah Schmidt,"6,82",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager D
+013,Bestellung im System eintragen,2024-03-04 21:57:29,Auftragsannahme,Lisa Schulz,"8,14",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager F
+013,Lagerbestand überprüfen,2024-03-04 22:26:29,Bestandsverwaltung,Nico Schmidt,"1,91",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager A
+013,Auftragsabwicklung im System starten,2024-03-04 22:41:29,Bestandsverwaltung,Jan Becker,"5,73",Mitsubishi Electric,Produkt F,"110,0",Lager D,Lager F
+013,Artikel zusammenstellen,2024-03-04 22:49:29,Lager,Jonas Richter,"5,67",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager J
+013,Ware verpacken,2024-03-04 23:19:29,Lager,Jonas Richter,"5,75",Mitsubishi Electric,Produkt F,"110,0",Lager B,Lager B
+013,Gewicht prüfen,2024-03-04 23:36:29,Qualitätskontrolle,Hannah Meyer,"2,72",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager H
+013,Anzahl der Artikel überprüfen,2024-03-05 00:16:29,Qualitätskontrolle,Emilia Wagner,"2,52",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager B
+013,Verpackung prüfen,2024-03-05 00:32:29,Qualitätskontrolle,Emilia Wagner,"5,74",Mitsubishi Electric,Produkt F,"110,0",Lager E,Lager I
+013,Paket zur Warenausgabe bringen,2024-03-05 00:34:29,Warenausgang,Leonie Richter,"8,98",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager A
+013,Zahlungsabwicklung durchführen,2024-03-05 01:31:29,Warenausgang,Sophia Lang,"11,63",Mitsubishi Electric,Produkt F,"110,0",Lager E,Lager J
+013,Paket an Kunde übergeben,2024-03-05 02:24:29,Warenausgang,Luca Huber,"6,4",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager G
+013,Bestellstatus im System ändern,2024-03-05 02:46:29,Warenausgang,Luca Huber,"2,28",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager F
+014,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,96",Daimler AG,Produkt J,"75,0",Lager G,Lager E
+014,Kunden-Daten in System übertragen,2024-03-04 20:53:29,Auftragsannahme,Timo Wagner,"3,54",Daimler AG,Produkt J,"75,0",Lager D,Lager G
+014,Zahlvorgang abschließen,2024-03-04 21:10:29,Auftragsannahme,Max Mustermann,"3,65",Daimler AG,Produkt J,"75,0",Lager H,Lager B
+014,Bestellung im System eintragen,2024-03-04 21:25:29,Auftragsannahme,Lena Mueller,"5,18",Daimler AG,Produkt J,"75,0",Lager I,Lager G
+014,Lagerbestand überprüfen,2024-03-04 22:22:29,Bestandsverwaltung,Lisa Mueller,"2,7",Daimler AG,Produkt J,"75,0",Lager A,Lager B
+014,Auftragsabwicklung im System starten,2024-03-04 23:10:29,Bestandsverwaltung,Laura Fischer,"5,34",Daimler AG,Produkt J,"75,0",Lager F,Lager G
+014,Artikel zusammenstellen,2024-03-04 23:22:29,Lager,Mia Schmitt,"5,26",Daimler AG,Produkt J,"75,0",Lager I,Lager B
+014,Ware verpacken,2024-03-04 23:41:29,Lager,Jonas Richter,"6,93",Daimler AG,Produkt J,"75,0",Lager G,Lager J
+014,Gewicht prüfen,2024-03-04 23:51:29,Qualitätskontrolle,Emilia Wagner,"2,14",Daimler AG,Produkt J,"75,0",Lager B,Lager G
+014,Anzahl der Artikel überprüfen,2024-03-05 00:30:29,Qualitätskontrolle,Hannah Meyer,"4,04",Daimler AG,Produkt J,"75,0",Lager C,Lager D
+014,Verpackung prüfen,2024-03-05 00:57:29,Qualitätskontrolle,Emilia Wagner,"4,48",Daimler AG,Produkt J,"75,0",Lager H,Lager C
+014,Informationen an Transporteur übermitteln,2024-03-05 01:33:29,Warenausgang,Leonie Richter,"6,24",Daimler AG,Produkt J,"75,0",Lager F,Lager I
+014,Paket an Transporteur übergeben,2024-03-05 01:35:29,Warenausgang,David Meyer,"8,84",Daimler AG,Produkt J,"75,0",Lager E,Lager B
+014,Bestellstatus im System ändern,2024-03-05 01:38:29,Warenausgang,Emma Weber,"2,09",Daimler AG,Produkt J,"75,0",Lager H,Lager A
+015,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,56",Toyota,Produkt D,"70,0",Lager J,Lager E
+015,Kunden-Daten in System übertragen,2024-03-04 21:39:29,Auftragsannahme,Sarah Schmidt,"2,03",Toyota,Produkt D,"70,0",Lager B,Lager D
+015,Zahlvorgang abschließen,2024-03-04 22:37:29,Auftragsannahme,Lisa Schulz,"4,95",Toyota,Produkt D,"70,0",Lager J,Lager A
+015,Bestellung im System eintragen,2024-03-04 22:54:29,Auftragsannahme,Sarah Schmidt,"5,03",Toyota,Produkt D,"70,0",Lager E,Lager J
+015,Lagerbestand überprüfen,2024-03-04 23:54:29,Bestandsverwaltung,Nico Schmidt,"2,42",Toyota,Produkt D,"70,0",Lager H,Lager G
+015,Auftragsabwicklung im System starten,2024-03-05 00:04:29,Bestandsverwaltung,Nico Schmidt,"9,5",Toyota,Produkt D,"70,0",Lager I,Lager D
+015,Artikel zusammenstellen,2024-03-05 00:23:29,Lager,Mia Schmitt,"3,01",Toyota,Produkt D,"70,0",Lager A,Lager J
+015,Ware verpacken,2024-03-05 00:54:29,Lager,Jonas Richter,"6,23",Toyota,Produkt D,"70,0",Lager E,Lager I
+015,Gewicht prüfen,2024-03-05 01:18:29,Qualitätskontrolle,Emilia Wagner,"1,49",Toyota,Produkt D,"70,0",Lager A,Lager A
+015,Anzahl der Artikel überprüfen,2024-03-05 02:00:29,Qualitätskontrolle,Hannah Meyer,"3,65",Toyota,Produkt D,"70,0",Lager B,Lager H
+015,Verpackung prüfen,2024-03-05 02:16:29,Qualitätskontrolle,Noah Becker,"5,5",Toyota,Produkt D,"70,0",Lager J,Lager D
+015,Paket zur Warenausgabe bringen,2024-03-05 02:33:29,Warenausgang,Sophia Lang,"6,74",Toyota,Produkt D,"70,0",Lager C,Lager D
+015,Paket an Kunde übergeben,2024-03-05 03:14:29,Warenausgang,David Meyer,"5,18",Toyota,Produkt D,"70,0",Lager C,Lager H
+015,Bestellstatus im System ändern,2024-03-05 03:37:29,Warenausgang,Emma Weber,"2,05",Toyota,Produkt D,"70,0",Lager C,Lager D
+016,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,31",Samsung Electronics,Produkt M,"95,0",Lager H,Lager B
+016,Kunden-Daten in System übertragen,2024-03-04 20:44:29,Auftragsannahme,Sarah Schmidt,"2,95",Samsung Electronics,Produkt M,"95,0",Lager J,Lager F
+016,Zahlvorgang abschließen,2024-03-04 21:07:29,Auftragsannahme,Lena Mueller,"6,61",Samsung Electronics,Produkt M,"95,0",Lager E,Lager F
+016,Bestellung im System eintragen,2024-03-04 21:33:29,Auftragsannahme,Timo Wagner,"5,56",Samsung Electronics,Produkt M,"95,0",Lager J,Lager I
+016,Lagerbestand überprüfen,2024-03-04 21:34:29,Bestandsverwaltung,Nico Schmidt,"2,63",Samsung Electronics,Produkt M,"95,0",Lager I,Lager G
+016,Auftragsabwicklung im System starten,2024-03-04 22:33:29,Bestandsverwaltung,Laura Fischer,"8,66",Samsung Electronics,Produkt M,"95,0",Lager E,Lager D
+016,Artikel zusammenstellen,2024-03-04 23:29:29,Lager,Jonas Richter,"5,04",Samsung Electronics,Produkt M,"95,0",Lager F,Lager G
+016,Ware verpacken,2024-03-05 00:19:29,Lager,Mia Schmitt,"3,37",Samsung Electronics,Produkt M,"95,0",Lager I,Lager B
+016,Gewicht prüfen,2024-03-05 00:20:29,Qualitätskontrolle,Hannah Meyer,"2,29",Samsung Electronics,Produkt M,"95,0",Lager C,Lager I
+016,Anzahl der Artikel überprüfen,2024-03-05 00:21:29,Qualitätskontrolle,Emilia Wagner,"3,83",Samsung Electronics,Produkt M,"95,0",Lager H,Lager D
+016,Verpackung prüfen,2024-03-05 00:56:29,Qualitätskontrolle,Hannah Meyer,"3,64",Samsung Electronics,Produkt M,"95,0",Lager B,Lager J
+016,Informationen an Transporteur übermitteln,2024-03-05 01:54:29,Warenausgang,Leonie Richter,"6,26",Samsung Electronics,Produkt M,"95,0",Lager F,Lager B
+016,Paket an Transporteur übergeben,2024-03-05 02:51:29,Warenausgang,Leonie Richter,"9,53",Samsung Electronics,Produkt M,"95,0",Lager B,Lager D
+016,Bestellstatus im System ändern,2024-03-05 02:58:29,Warenausgang,David Meyer,"2,81",Samsung Electronics,Produkt M,"95,0",Lager C,Lager I
+017,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,23",Intel,Produkt E,"150,0",Lager D,Lager A
+017,Kunden-Daten in System übertragen,2024-03-04 21:12:29,Auftragsannahme,Lisa Schulz,"2,69",Intel,Produkt E,"150,0",Lager H,Lager I
+017,Zahlvorgang abschließen,2024-03-04 21:14:29,Auftragsannahme,Max Mustermann,"5,81",Intel,Produkt E,"150,0",Lager B,Lager G
+017,Bestellung im System eintragen,2024-03-04 22:01:29,Auftragsannahme,Timo Wagner,"6,42",Intel,Produkt E,"150,0",Lager J,Lager H
+017,Lagerbestand überprüfen,2024-03-04 22:48:29,Bestandsverwaltung,Paul Zimmer,"2,09",Intel,Produkt E,"150,0",Lager J,Lager I
+017,Auftragsabwicklung im System starten,2024-03-04 22:56:29,Bestandsverwaltung,Jan Becker,"7,58",Intel,Produkt E,"150,0",Lager E,Lager F
+017,Artikel zusammenstellen,2024-03-04 23:21:29,Lager,Mia Schmitt,"5,63",Intel,Produkt E,"150,0",Lager J,Lager C
+017,Ware verpacken,2024-03-05 00:06:29,Lager,Mia Schmitt,"7,78",Intel,Produkt E,"150,0",Lager J,Lager F
+017,Gewicht prüfen,2024-03-05 01:01:29,Qualitätskontrolle,Emilia Wagner,"1,29",Intel,Produkt E,"150,0",Lager H,Lager D
+017,Anzahl der Artikel überprüfen,2024-03-05 01:56:29,Qualitätskontrolle,Noah Becker,"2,19",Intel,Produkt E,"150,0",Lager C,Lager D
+017,Verpackung prüfen,2024-03-05 02:47:29,Qualitätskontrolle,Emilia Wagner,"4,79",Intel,Produkt E,"150,0",Lager E,Lager G
+017,Informationen an Transporteur übermitteln,2024-03-05 02:56:29,Warenausgang,Luca Huber,"11,23",Intel,Produkt E,"150,0",Lager B,Lager B
+017,Paket an Transporteur übergeben,2024-03-05 03:38:29,Warenausgang,Emma Weber,"8,42",Intel,Produkt E,"150,0",Lager F,Lager C
+017,Bestellstatus im System ändern,2024-03-05 04:29:29,Warenausgang,Emma Weber,"1,33",Intel,Produkt E,"150,0",Lager F,Lager B
+018,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,36",Ford Motor,Produkt B,"120,0",Lager A,Lager E
+018,Kunden-Daten in System übertragen,2024-03-04 21:10:29,Auftragsannahme,Timo Wagner,"4,48",Ford Motor,Produkt B,"120,0",Lager J,Lager B
+018,Zahlvorgang abschließen,2024-03-04 21:45:29,Auftragsannahme,Lisa Schulz,"5,17",Ford Motor,Produkt B,"120,0",Lager J,Lager J
+018,Bestellung im System eintragen,2024-03-04 22:02:29,Auftragsannahme,Sarah Schmidt,"5,31",Ford Motor,Produkt B,"120,0",Lager H,Lager J
+018,Lagerbestand überprüfen,2024-03-04 22:53:29,Bestandsverwaltung,Nico Schmidt,"1,69",Ford Motor,Produkt B,"120,0",Lager H,Lager B
+018,Auftragsabwicklung im System starten,2024-03-04 23:50:29,Bestandsverwaltung,Laura Fischer,"6,74",Ford Motor,Produkt B,"120,0",Lager J,Lager H
+018,Artikel zusammenstellen,2024-03-05 00:20:29,Lager,Jonas Richter,"3,35",Ford Motor,Produkt B,"120,0",Lager G,Lager E
+018,Ware verpacken,2024-03-05 01:09:29,Lager,Jonas Richter,"7,86",Ford Motor,Produkt B,"120,0",Lager J,Lager G
+018,Gewicht prüfen,2024-03-05 01:47:29,Qualitätskontrolle,Emilia Wagner,"2,4",Ford Motor,Produkt B,"120,0",Lager J,Lager A
+018,Anzahl der Artikel überprüfen,2024-03-05 02:02:29,Qualitätskontrolle,Hannah Meyer,"3,73",Ford Motor,Produkt B,"120,0",Lager J,Lager C
+018,Verpackung prüfen,2024-03-05 03:02:29,Qualitätskontrolle,Noah Becker,"6,2",Ford Motor,Produkt B,"120,0",Lager A,Lager E
+018,Informationen an Transporteur übermitteln,2024-03-05 04:00:29,Warenausgang,Luca Huber,"6,2",Ford Motor,Produkt B,"120,0",Lager H,Lager D
+018,Paket an Transporteur übergeben,2024-03-05 04:26:29,Warenausgang,Leonie Richter,"7,62",Ford Motor,Produkt B,"120,0",Lager I,Lager A
+018,Bestellstatus im System ändern,2024-03-05 04:27:29,Warenausgang,David Meyer,"1,46",Ford Motor,Produkt B,"120,0",Lager B,Lager E
+019,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,58",Procter & Gamble,Produkt S,"90,0",Lager E,Lager H
+019,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Timo Wagner,"3,61",Procter & Gamble,Produkt S,"90,0",Lager I,Lager J
+019,Zahlvorgang abschließen,2024-03-04 21:02:29,Auftragsannahme,Lena Mueller,"6,76",Procter & Gamble,Produkt S,"90,0",Lager J,Lager C
+019,Bestellung im System eintragen,2024-03-04 21:35:29,Auftragsannahme,Timo Wagner,"5,29",Procter & Gamble,Produkt S,"90,0",Lager G,Lager C
+019,Lagerbestand überprüfen,2024-03-04 22:16:29,Bestandsverwaltung,Laura Fischer,"1,43",Procter & Gamble,Produkt S,"90,0",Lager C,Lager G
+019,Auftragsabwicklung im System starten,2024-03-04 22:34:29,Bestandsverwaltung,Nico Schmidt,"9,4",Procter & Gamble,Produkt S,"90,0",Lager I,Lager J
+019,Artikel zusammenstellen,2024-03-04 22:46:29,Lager,Mia Schmitt,"4,28",Procter & Gamble,Produkt S,"90,0",Lager G,Lager H
+019,Ware verpacken,2024-03-04 23:28:29,Lager,Jonas Richter,"4,21",Procter & Gamble,Produkt S,"90,0",Lager I,Lager A
+019,Gewicht prüfen,2024-03-04 23:52:29,Qualitätskontrolle,Hannah Meyer,"2,12",Procter & Gamble,Produkt S,"90,0",Lager G,Lager C
+019,Anzahl der Artikel überprüfen,2024-03-05 00:16:29,Qualitätskontrolle,Hannah Meyer,"4,53",Procter & Gamble,Produkt S,"90,0",Lager A,Lager C
+019,Verpackung prüfen,2024-03-05 00:36:29,Qualitätskontrolle,Hannah Meyer,"5,09",Procter & Gamble,Produkt S,"90,0",Lager F,Lager I
+019,Paket zur Warenausgabe bringen,2024-03-05 01:18:29,Warenausgang,Leonie Richter,"8,71",Procter & Gamble,Produkt S,"90,0",Lager C,Lager G
+019,Zahlungsabwicklung durchführen,2024-03-05 02:00:29,Warenausgang,Emma Weber,"11,78",Procter & Gamble,Produkt S,"90,0",Lager H,Lager H
+019,Paket an Kunde übergeben,2024-03-05 02:43:29,Warenausgang,Emma Weber,"6,56",Procter & Gamble,Produkt S,"90,0",Lager F,Lager D
+019,Bestellstatus im System ändern,2024-03-05 03:15:29,Warenausgang,Sophia Lang,"2,49",Procter & Gamble,Produkt S,"90,0",Lager I,Lager G
+020,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,53",Mitsubishi Electric,Produkt O,"120,0",Lager G,Lager J
+020,Kunden-Daten in System übertragen,2024-03-04 21:17:29,Auftragsannahme,Lisa Schulz,"3,03",Mitsubishi Electric,Produkt O,"120,0",Lager C,Lager I
+020,Zahlvorgang abschließen,2024-03-04 21:43:29,Auftragsannahme,Max Mustermann,"4,72",Mitsubishi Electric,Produkt O,"120,0",Lager I,Lager D
+020,Bestellung im System eintragen,2024-03-04 22:18:29,Auftragsannahme,Lena Mueller,"7,01",Mitsubishi Electric,Produkt O,"120,0",Lager E,Lager E
+020,Lagerbestand überprüfen,2024-03-04 23:05:29,Bestandsverwaltung,Lisa Mueller,"2,34",Mitsubishi Electric,Produkt O,"120,0",Lager E,Lager I
+020,Auftragsabwicklung im System starten,2024-03-04 23:36:29,Bestandsverwaltung,Jan Becker,"5,23",Mitsubishi Electric,Produkt O,"120,0",Lager F,Lager F
+020,Artikel zusammenstellen,2024-03-05 00:36:29,Lager,Jonas Richter,"4,14",Mitsubishi Electric,Produkt O,"120,0",Lager E,Lager I
+020,Ware verpacken,2024-03-05 01:33:29,Lager,Jonas Richter,"4,89",Mitsubishi Electric,Produkt O,"120,0",Lager A,Lager J
+020,Gewicht prüfen,2024-03-05 01:40:29,Qualitätskontrolle,Hannah Meyer,"1,28",Mitsubishi Electric,Produkt O,"120,0",Lager J,Lager J
+020,Anzahl der Artikel überprüfen,2024-03-05 02:12:29,Qualitätskontrolle,Noah Becker,"4,02",Mitsubishi Electric,Produkt O,"120,0",Lager D,Lager E
+020,Verpackung prüfen,2024-03-05 03:12:29,Qualitätskontrolle,Hannah Meyer,"4,18",Mitsubishi Electric,Produkt O,"120,0",Lager A,Lager J
+020,Paket zur Warenausgabe bringen,2024-03-05 03:34:29,Warenausgang,Luca Huber,"8,6",Mitsubishi Electric,Produkt O,"120,0",Lager F,Lager D
+020,Zahlungsabwicklung durchführen,2024-03-05 04:06:29,Warenausgang,Sophia Lang,"8,33",Mitsubishi Electric,Produkt O,"120,0",Lager D,Lager A
+020,Paket an Kunde übergeben,2024-03-05 04:12:29,Warenausgang,David Meyer,"9,72",Mitsubishi Electric,Produkt O,"120,0",Lager I,Lager J
+020,Bestellstatus im System ändern,2024-03-05 04:45:29,Warenausgang,Luca Huber,"1,49",Mitsubishi Electric,Produkt O,"120,0",Lager G,Lager C
+021,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,42",Samsung Electronics,Produkt B,"120,0",Lager D,Lager C
+021,Kunden-Daten in System übertragen,2024-03-04 21:26:29,Auftragsannahme,Timo Wagner,"3,27",Samsung Electronics,Produkt B,"120,0",Lager I,Lager C
+021,Zahlvorgang abschließen,2024-03-04 22:20:29,Auftragsannahme,Timo Wagner,"5,58",Samsung Electronics,Produkt B,"120,0",Lager E,Lager H
+021,Bestellung im System eintragen,2024-03-04 23:15:29,Auftragsannahme,Sarah Schmidt,"6,08",Samsung Electronics,Produkt B,"120,0",Lager D,Lager I
+021,Lagerbestand überprüfen,2024-03-04 23:21:29,Bestandsverwaltung,Paul Zimmer,"1,95",Samsung Electronics,Produkt B,"120,0",Lager G,Lager G
+021,Auftragsabwicklung im System starten,2024-03-04 23:45:29,Bestandsverwaltung,Jan Becker,"9,41",Samsung Electronics,Produkt B,"120,0",Lager B,Lager F
+021,Artikel zusammenstellen,2024-03-04 23:57:29,Lager,Mia Schmitt,"5,13",Samsung Electronics,Produkt B,"120,0",Lager A,Lager H
+021,Ware verpacken,2024-03-05 00:32:29,Lager,Jonas Richter,"6,9",Samsung Electronics,Produkt B,"120,0",Lager C,Lager H
+021,Gewicht prüfen,2024-03-05 01:04:29,Qualitätskontrolle,Emilia Wagner,"2,05",Samsung Electronics,Produkt B,"120,0",Lager B,Lager A
+021,Anzahl der Artikel überprüfen,2024-03-05 01:27:29,Qualitätskontrolle,Emilia Wagner,"4,82",Samsung Electronics,Produkt B,"120,0",Lager A,Lager C
+021,Verpackung prüfen,2024-03-05 01:47:29,Qualitätskontrolle,Emilia Wagner,"3,76",Samsung Electronics,Produkt B,"120,0",Lager C,Lager E
+021,Paket zur Warenausgabe bringen,2024-03-05 02:41:29,Warenausgang,Leonie Richter,"6,7",Samsung Electronics,Produkt B,"120,0",Lager F,Lager B
+021,Zahlungsabwicklung durchführen,2024-03-05 03:41:29,Warenausgang,Luca Huber,"8,66",Samsung Electronics,Produkt B,"120,0",Lager B,Lager C
+021,Paket an Kunde übergeben,2024-03-05 04:32:29,Warenausgang,Emma Weber,"9,97",Samsung Electronics,Produkt B,"120,0",Lager A,Lager G
+021,Bestellstatus im System ändern,2024-03-05 05:32:29,Warenausgang,Sophia Lang,"2,12",Samsung Electronics,Produkt B,"120,0",Lager G,Lager G
+022,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,93",BASF,Produkt B,"120,0",Lager G,Lager A
+022,Kunden-Daten in System übertragen,2024-03-04 21:37:29,Auftragsannahme,Sarah Schmidt,"3,75",BASF,Produkt B,"120,0",Lager F,Lager F
+022,Zahlvorgang abschließen,2024-03-04 21:47:29,Auftragsannahme,Sarah Schmidt,"5,9",BASF,Produkt B,"120,0",Lager E,Lager E
+022,Bestellung im System eintragen,2024-03-04 22:12:29,Auftragsannahme,Timo Wagner,"8,17",BASF,Produkt B,"120,0",Lager E,Lager E
+022,Lagerbestand überprüfen,2024-03-04 22:22:29,Bestandsverwaltung,Laura Fischer,"1,59",BASF,Produkt B,"120,0",Lager H,Lager I
+022,Auftragsabwicklung im System starten,2024-03-04 22:50:29,Bestandsverwaltung,Paul Zimmer,"9,97",BASF,Produkt B,"120,0",Lager H,Lager D
+022,Artikel zusammenstellen,2024-03-04 22:52:29,Lager,Jonas Richter,"2,11",BASF,Produkt B,"120,0",Lager H,Lager D
+022,Ware verpacken,2024-03-04 23:15:29,Lager,Jonas Richter,"3,77",BASF,Produkt B,"120,0",Lager C,Lager A
+022,Gewicht prüfen,2024-03-04 23:22:29,Qualitätskontrolle,Noah Becker,"2,63",BASF,Produkt B,"120,0",Lager J,Lager G
+022,Anzahl der Artikel überprüfen,2024-03-05 00:20:29,Qualitätskontrolle,Noah Becker,"2,44",BASF,Produkt B,"120,0",Lager G,Lager B
+022,Verpackung prüfen,2024-03-05 00:21:29,Qualitätskontrolle,Hannah Meyer,"5,36",BASF,Produkt B,"120,0",Lager H,Lager J
+022,Paket zur Warenausgabe bringen,2024-03-05 00:55:29,Warenausgang,Sophia Lang,"5,58",BASF,Produkt B,"120,0",Lager F,Lager C
+022,Paket an Kunde übergeben,2024-03-05 01:03:29,Warenausgang,Sophia Lang,"8,53",BASF,Produkt B,"120,0",Lager D,Lager D
+022,Bestellstatus im System ändern,2024-03-05 01:49:29,Warenausgang,Luca Huber,"1,96",BASF,Produkt B,"120,0",Lager B,Lager J
+023,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,48",Boeing,Produkt R,"130,0",Lager E,Lager F
+023,Kunden-Daten in System übertragen,2024-03-04 21:34:29,Auftragsannahme,Sarah Schmidt,"4,96",Boeing,Produkt R,"130,0",Lager F,Lager C
+023,Zahlvorgang abschließen,2024-03-04 21:56:29,Auftragsannahme,Lena Mueller,"5,42",Boeing,Produkt R,"130,0",Lager I,Lager B
+023,Bestellung im System eintragen,2024-03-04 22:38:29,Auftragsannahme,Lisa Schulz,"8,2",Boeing,Produkt R,"130,0",Lager D,Lager D
+023,Lagerbestand überprüfen,2024-03-04 23:06:29,Bestandsverwaltung,Jan Becker,"1,32",Boeing,Produkt R,"130,0",Lager C,Lager I
+023,Auftragsabwicklung im System starten,2024-03-04 23:54:29,Bestandsverwaltung,Jan Becker,"9,08",Boeing,Produkt R,"130,0",Lager H,Lager G
+023,Artikel zusammenstellen,2024-03-05 00:01:29,Lager,Mia Schmitt,"2,83",Boeing,Produkt R,"130,0",Lager C,Lager G
+023,Ware verpacken,2024-03-05 00:43:29,Lager,Mia Schmitt,"5,28",Boeing,Produkt R,"130,0",Lager C,Lager A
+023,Gewicht prüfen,2024-03-05 01:35:29,Qualitätskontrolle,Hannah Meyer,"1,25",Boeing,Produkt R,"130,0",Lager C,Lager D
+023,Anzahl der Artikel überprüfen,2024-03-05 01:40:29,Qualitätskontrolle,Noah Becker,"4,23",Boeing,Produkt R,"130,0",Lager G,Lager G
+023,Verpackung prüfen,2024-03-05 01:46:29,Qualitätskontrolle,Noah Becker,"4,73",Boeing,Produkt R,"130,0",Lager J,Lager A
+023,Paket zur Warenausgabe bringen,2024-03-05 01:58:29,Warenausgang,Emma Weber,"8,15",Boeing,Produkt R,"130,0",Lager J,Lager F
+023,Paket an Kunde übergeben,2024-03-05 02:45:29,Warenausgang,Sophia Lang,"8,56",Boeing,Produkt R,"130,0",Lager E,Lager G
+023,Bestellstatus im System ändern,2024-03-05 03:07:29,Warenausgang,Emma Weber,"2,97",Boeing,Produkt R,"130,0",Lager I,Lager I
+024,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,45",Volkswagen,Produkt R,"130,0",Lager D,Lager B
+024,Kunden-Daten in System übertragen,2024-03-04 21:22:29,Auftragsannahme,Timo Wagner,"2,37",Volkswagen,Produkt R,"130,0",Lager E,Lager H
+024,Zahlvorgang abschließen,2024-03-04 21:23:29,Auftragsannahme,Lena Mueller,"6,96",Volkswagen,Produkt R,"130,0",Lager H,Lager D
+024,Bestellung im System eintragen,2024-03-04 21:47:29,Auftragsannahme,Lisa Schulz,"7,89",Volkswagen,Produkt R,"130,0",Lager J,Lager J
+024,Lagerbestand überprüfen,2024-03-04 21:58:29,Bestandsverwaltung,Jan Becker,"1,41",Volkswagen,Produkt R,"130,0",Lager F,Lager D
+024,Auftragsabwicklung im System starten,2024-03-04 22:09:29,Bestandsverwaltung,Nico Schmidt,"5,88",Volkswagen,Produkt R,"130,0",Lager D,Lager F
+024,Artikel zusammenstellen,2024-03-04 22:47:29,Lager,Mia Schmitt,"2,37",Volkswagen,Produkt R,"130,0",Lager J,Lager C
+024,Ware verpacken,2024-03-04 23:09:29,Lager,Mia Schmitt,"6,29",Volkswagen,Produkt R,"130,0",Lager I,Lager J
+024,Gewicht prüfen,2024-03-05 00:05:29,Qualitätskontrolle,Emilia Wagner,"1,01",Volkswagen,Produkt R,"130,0",Lager H,Lager D
+024,Anzahl der Artikel überprüfen,2024-03-05 00:09:29,Qualitätskontrolle,Noah Becker,"3,4",Volkswagen,Produkt R,"130,0",Lager F,Lager G
+024,Verpackung prüfen,2024-03-05 00:34:29,Qualitätskontrolle,Emilia Wagner,"4,98",Volkswagen,Produkt R,"130,0",Lager H,Lager G
+024,Paket zur Warenausgabe bringen,2024-03-05 01:33:29,Warenausgang,Luca Huber,"8,55",Volkswagen,Produkt R,"130,0",Lager G,Lager C
+024,Zahlungsabwicklung durchführen,2024-03-05 02:12:29,Warenausgang,Emma Weber,"7,8",Volkswagen,Produkt R,"130,0",Lager J,Lager C
+024,Paket an Kunde übergeben,2024-03-05 02:56:29,Warenausgang,Sophia Lang,"8,96",Volkswagen,Produkt R,"130,0",Lager D,Lager F
+024,Bestellstatus im System ändern,2024-03-05 03:48:29,Warenausgang,Leonie Richter,"2,96",Volkswagen,Produkt R,"130,0",Lager C,Lager D
+025,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,47",Airbus,Produkt Q,"110,0",Lager F,Lager G
+025,Kunden-Daten in System übertragen,2024-03-04 21:14:29,Auftragsannahme,Timo Wagner,"4,97",Airbus,Produkt Q,"110,0",Lager C,Lager C
+025,Zahlvorgang abschließen,2024-03-04 21:59:29,Auftragsannahme,Timo Wagner,"5,89",Airbus,Produkt Q,"110,0",Lager J,Lager F
+025,Bestellung im System eintragen,2024-03-04 22:24:29,Auftragsannahme,Timo Wagner,"6,14",Airbus,Produkt Q,"110,0",Lager E,Lager J
+025,Lagerbestand überprüfen,2024-03-04 22:25:29,Bestandsverwaltung,Paul Zimmer,"2,65",Airbus,Produkt Q,"110,0",Lager A,Lager J
+025,Auftragsabwicklung im System starten,2024-03-04 22:26:29,Bestandsverwaltung,Jan Becker,"6,76",Airbus,Produkt Q,"110,0",Lager I,Lager B
+025,Artikel zusammenstellen,2024-03-04 23:03:29,Lager,Jonas Richter,"4,44",Airbus,Produkt Q,"110,0",Lager J,Lager E
+025,Ware verpacken,2024-03-04 23:15:29,Lager,Mia Schmitt,"6,57",Airbus,Produkt Q,"110,0",Lager B,Lager A
+025,Gewicht prüfen,2024-03-05 00:14:29,Qualitätskontrolle,Noah Becker,"1,41",Airbus,Produkt Q,"110,0",Lager G,Lager D
+025,Anzahl der Artikel überprüfen,2024-03-05 00:51:29,Qualitätskontrolle,Hannah Meyer,"3,53",Airbus,Produkt Q,"110,0",Lager H,Lager H
+025,Verpackung prüfen,2024-03-05 01:07:29,Qualitätskontrolle,Hannah Meyer,"5,59",Airbus,Produkt Q,"110,0",Lager E,Lager I
+025,Informationen an Transporteur übermitteln,2024-03-05 02:07:29,Warenausgang,Luca Huber,"6,92",Airbus,Produkt Q,"110,0",Lager I,Lager H
+025,Paket an Transporteur übergeben,2024-03-05 02:21:29,Warenausgang,Luca Huber,"10,05",Airbus,Produkt Q,"110,0",Lager C,Lager B
+025,Bestellstatus im System ändern,2024-03-05 02:28:29,Warenausgang,Leonie Richter,"1,51",Airbus,Produkt Q,"110,0",Lager E,Lager H
+026,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,72",Boeing,Produkt K,"110,0",Lager A,Lager E
+026,Kunden-Daten in System übertragen,2024-03-04 21:28:29,Auftragsannahme,Sarah Schmidt,"2,06",Boeing,Produkt K,"110,0",Lager H,Lager D
+026,Zahlvorgang abschließen,2024-03-04 22:09:29,Auftragsannahme,Lena Mueller,"4,1",Boeing,Produkt K,"110,0",Lager H,Lager G
+026,Bestellung im System eintragen,2024-03-04 22:43:29,Auftragsannahme,Timo Wagner,"7,19",Boeing,Produkt K,"110,0",Lager F,Lager F
+026,Lagerbestand überprüfen,2024-03-04 22:50:29,Bestandsverwaltung,Laura Fischer,"1,56",Boeing,Produkt K,"110,0",Lager G,Lager J
+026,Auftragsabwicklung im System starten,2024-03-04 22:54:29,Bestandsverwaltung,Lisa Mueller,"6,3",Boeing,Produkt K,"110,0",Lager H,Lager A
+026,Artikel zusammenstellen,2024-03-04 23:22:29,Lager,Mia Schmitt,"4,97",Boeing,Produkt K,"110,0",Lager I,Lager A
+026,Ware verpacken,2024-03-04 23:45:29,Lager,Jonas Richter,"3,35",Boeing,Produkt K,"110,0",Lager E,Lager D
+026,Gewicht prüfen,2024-03-05 00:36:29,Qualitätskontrolle,Hannah Meyer,"1,35",Boeing,Produkt K,"110,0",Lager A,Lager G
+026,Anzahl der Artikel überprüfen,2024-03-05 01:26:29,Qualitätskontrolle,Emilia Wagner,"3,67",Boeing,Produkt K,"110,0",Lager A,Lager I
+026,Verpackung prüfen,2024-03-05 02:04:29,Qualitätskontrolle,Emilia Wagner,"4,04",Boeing,Produkt K,"110,0",Lager G,Lager J
+026,Informationen an Transporteur übermitteln,2024-03-05 02:12:29,Warenausgang,Emma Weber,"7,21",Boeing,Produkt K,"110,0",Lager G,Lager J
+026,Paket an Transporteur übergeben,2024-03-05 02:54:29,Warenausgang,Luca Huber,"6,33",Boeing,Produkt K,"110,0",Lager J,Lager J
+026,Bestellstatus im System ändern,2024-03-05 03:27:29,Warenausgang,Sophia Lang,"1,94",Boeing,Produkt K,"110,0",Lager H,Lager J
+027,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,54",Siemens,Produkt N,"75,0",Lager I,Lager I
+027,Kunden-Daten in System übertragen,2024-03-04 21:11:29,Auftragsannahme,Sarah Schmidt,"3,71",Siemens,Produkt N,"75,0",Lager F,Lager G
+027,Zahlvorgang abschließen,2024-03-04 21:58:29,Auftragsannahme,Max Mustermann,"7,0",Siemens,Produkt N,"75,0",Lager E,Lager H
+027,Bestellung im System eintragen,2024-03-04 22:49:29,Auftragsannahme,Sarah Schmidt,"8,02",Siemens,Produkt N,"75,0",Lager B,Lager A
+027,Lagerbestand überprüfen,2024-03-04 23:35:29,Bestandsverwaltung,Nico Schmidt,"2,99",Siemens,Produkt N,"75,0",Lager C,Lager A
+027,Auftragsabwicklung im System starten,2024-03-05 00:21:29,Bestandsverwaltung,Paul Zimmer,"7,58",Siemens,Produkt N,"75,0",Lager B,Lager F
+027,Artikel zusammenstellen,2024-03-05 01:02:29,Lager,Jonas Richter,"2,3",Siemens,Produkt N,"75,0",Lager E,Lager E
+027,Ware verpacken,2024-03-05 01:45:29,Lager,Mia Schmitt,"6,07",Siemens,Produkt N,"75,0",Lager J,Lager J
+027,Gewicht prüfen,2024-03-05 02:38:29,Qualitätskontrolle,Hannah Meyer,"2,27",Siemens,Produkt N,"75,0",Lager H,Lager F
+027,Anzahl der Artikel überprüfen,2024-03-05 03:33:29,Qualitätskontrolle,Emilia Wagner,"2,87",Siemens,Produkt N,"75,0",Lager H,Lager G
+027,Verpackung prüfen,2024-03-05 04:02:29,Qualitätskontrolle,Noah Becker,"5,47",Siemens,Produkt N,"75,0",Lager E,Lager G
+027,Paket zur Warenausgabe bringen,2024-03-05 04:29:29,Warenausgang,David Meyer,"4,36",Siemens,Produkt N,"75,0",Lager I,Lager D
+027,Paket an Kunde übergeben,2024-03-05 05:04:29,Warenausgang,Sophia Lang,"9,81",Siemens,Produkt N,"75,0",Lager J,Lager A
+027,Bestellstatus im System ändern,2024-03-05 05:59:29,Warenausgang,Luca Huber,"1,42",Siemens,Produkt N,"75,0",Lager A,Lager C
+028,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,82",Volkswagen,Produkt P,"100,0",Lager D,Lager A
+028,Kunden-Daten in System übertragen,2024-03-04 21:07:29,Auftragsannahme,Lisa Schulz,"2,47",Volkswagen,Produkt P,"100,0",Lager B,Lager H
+028,Zahlvorgang abschließen,2024-03-04 21:16:29,Auftragsannahme,Max Mustermann,"6,1",Volkswagen,Produkt P,"100,0",Lager H,Lager H
+028,Bestellung im System eintragen,2024-03-04 22:03:29,Auftragsannahme,Timo Wagner,"4,18",Volkswagen,Produkt P,"100,0",Lager I,Lager D
+028,Lagerbestand überprüfen,2024-03-04 22:46:29,Bestandsverwaltung,Jan Becker,"1,37",Volkswagen,Produkt P,"100,0",Lager C,Lager F
+028,Auftragsabwicklung im System starten,2024-03-04 23:33:29,Bestandsverwaltung,Lisa Mueller,"6,41",Volkswagen,Produkt P,"100,0",Lager J,Lager D
+028,Artikel zusammenstellen,2024-03-05 00:23:29,Lager,Mia Schmitt,"3,0",Volkswagen,Produkt P,"100,0",Lager G,Lager B
+028,Ware verpacken,2024-03-05 01:22:29,Lager,Mia Schmitt,"7,68",Volkswagen,Produkt P,"100,0",Lager I,Lager F
+028,Gewicht prüfen,2024-03-05 01:37:29,Qualitätskontrolle,Noah Becker,"1,14",Volkswagen,Produkt P,"100,0",Lager B,Lager H
+028,Anzahl der Artikel überprüfen,2024-03-05 01:50:29,Qualitätskontrolle,Emilia Wagner,"2,54",Volkswagen,Produkt P,"100,0",Lager A,Lager G
+028,Verpackung prüfen,2024-03-05 01:59:29,Qualitätskontrolle,Noah Becker,"5,7",Volkswagen,Produkt P,"100,0",Lager E,Lager E
+028,Paket zur Warenausgabe bringen,2024-03-05 02:22:29,Warenausgang,Leonie Richter,"8,28",Volkswagen,Produkt P,"100,0",Lager C,Lager G
+028,Paket an Kunde übergeben,2024-03-05 02:33:29,Warenausgang,David Meyer,"6,5",Volkswagen,Produkt P,"100,0",Lager J,Lager H
+028,Bestellstatus im System ändern,2024-03-05 02:49:29,Warenausgang,Luca Huber,"1,49",Volkswagen,Produkt P,"100,0",Lager F,Lager A
+029,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,93",Toyota,Produkt E,"150,0",Lager I,Lager I
+029,Kunden-Daten in System übertragen,2024-03-04 20:51:29,Auftragsannahme,Lisa Schulz,"3,65",Toyota,Produkt E,"150,0",Lager G,Lager B
+029,Zahlvorgang abschließen,2024-03-04 21:42:29,Auftragsannahme,Lisa Schulz,"4,35",Toyota,Produkt E,"150,0",Lager I,Lager J
+029,Bestellung im System eintragen,2024-03-04 21:54:29,Auftragsannahme,Lena Mueller,"4,69",Toyota,Produkt E,"150,0",Lager H,Lager E
+029,Lagerbestand überprüfen,2024-03-04 22:13:29,Bestandsverwaltung,Lisa Mueller,"1,44",Toyota,Produkt E,"150,0",Lager C,Lager J
+029,Auftragsabwicklung im System starten,2024-03-04 22:24:29,Bestandsverwaltung,Lisa Mueller,"5,5",Toyota,Produkt E,"150,0",Lager A,Lager A
+029,Artikel zusammenstellen,2024-03-04 22:25:29,Lager,Mia Schmitt,"3,32",Toyota,Produkt E,"150,0",Lager J,Lager F
+029,Ware verpacken,2024-03-04 22:40:29,Lager,Mia Schmitt,"4,69",Toyota,Produkt E,"150,0",Lager J,Lager D
+029,Gewicht prüfen,2024-03-04 23:00:29,Qualitätskontrolle,Hannah Meyer,"1,82",Toyota,Produkt E,"150,0",Lager D,Lager J
+029,Anzahl der Artikel überprüfen,2024-03-04 23:13:29,Qualitätskontrolle,Noah Becker,"4,57",Toyota,Produkt E,"150,0",Lager H,Lager C
+029,Verpackung prüfen,2024-03-04 23:26:29,Qualitätskontrolle,Hannah Meyer,"4,19",Toyota,Produkt E,"150,0",Lager I,Lager H
+029,Paket zur Warenausgabe bringen,2024-03-04 23:36:29,Warenausgang,Luca Huber,"5,85",Toyota,Produkt E,"150,0",Lager B,Lager B
+029,Paket an Kunde übergeben,2024-03-05 00:02:29,Warenausgang,Luca Huber,"7,43",Toyota,Produkt E,"150,0",Lager C,Lager E
+029,Bestellstatus im System ändern,2024-03-05 00:05:29,Warenausgang,Luca Huber,"1,87",Toyota,Produkt E,"150,0",Lager D,Lager E
+030,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,32",Siemens,Produkt G,"95,0",Lager J,Lager F
+030,Kunden-Daten in System übertragen,2024-03-04 21:27:29,Auftragsannahme,Max Mustermann,"2,16",Siemens,Produkt G,"95,0",Lager G,Lager E
+030,Zahlvorgang abschließen,2024-03-04 21:51:29,Auftragsannahme,Timo Wagner,"4,54",Siemens,Produkt G,"95,0",Lager A,Lager G
+030,Bestellung im System eintragen,2024-03-04 22:25:29,Auftragsannahme,Max Mustermann,"4,59",Siemens,Produkt G,"95,0",Lager F,Lager I
+030,Lagerbestand überprüfen,2024-03-04 22:52:29,Bestandsverwaltung,Paul Zimmer,"1,97",Siemens,Produkt G,"95,0",Lager A,Lager G
+030,Auftragsabwicklung im System starten,2024-03-04 23:46:29,Bestandsverwaltung,Paul Zimmer,"9,68",Siemens,Produkt G,"95,0",Lager I,Lager E
+030,Artikel zusammenstellen,2024-03-05 00:36:29,Lager,Mia Schmitt,"4,97",Siemens,Produkt G,"95,0",Lager H,Lager H
+030,Ware verpacken,2024-03-05 01:17:29,Lager,Jonas Richter,"5,77",Siemens,Produkt G,"95,0",Lager G,Lager A
+030,Gewicht prüfen,2024-03-05 01:41:29,Qualitätskontrolle,Noah Becker,"2,34",Siemens,Produkt G,"95,0",Lager H,Lager B
+030,Anzahl der Artikel überprüfen,2024-03-05 02:10:29,Qualitätskontrolle,Noah Becker,"2,08",Siemens,Produkt G,"95,0",Lager A,Lager F
+030,Verpackung prüfen,2024-03-05 03:00:29,Qualitätskontrolle,Hannah Meyer,"4,31",Siemens,Produkt G,"95,0",Lager B,Lager E
+030,Paket zur Warenausgabe bringen,2024-03-05 03:06:29,Warenausgang,Emma Weber,"4,58",Siemens,Produkt G,"95,0",Lager H,Lager D
+030,Zahlungsabwicklung durchführen,2024-03-05 03:58:29,Warenausgang,Sophia Lang,"9,0",Siemens,Produkt G,"95,0",Lager G,Lager H
+030,Paket an Kunde übergeben,2024-03-05 04:08:29,Warenausgang,David Meyer,"5,43",Siemens,Produkt G,"95,0",Lager E,Lager B
+030,Bestellstatus im System ändern,2024-03-05 04:16:29,Warenausgang,Emma Weber,"1,78",Siemens,Produkt G,"95,0",Lager B,Lager A
+031,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,57",Toyota,Produkt G,"95,0",Lager B,Lager J
+031,Kunden-Daten in System übertragen,2024-03-04 21:29:29,Auftragsannahme,Max Mustermann,"4,01",Toyota,Produkt G,"95,0",Lager J,Lager F
+031,Zahlvorgang abschließen,2024-03-04 21:51:29,Auftragsannahme,Sarah Schmidt,"6,28",Toyota,Produkt G,"95,0",Lager J,Lager J
+031,Bestellung im System eintragen,2024-03-04 22:51:29,Auftragsannahme,Lena Mueller,"8,79",Toyota,Produkt G,"95,0",Lager D,Lager J
+031,Lagerbestand überprüfen,2024-03-04 23:42:29,Bestandsverwaltung,Laura Fischer,"2,86",Toyota,Produkt G,"95,0",Lager F,Lager I
+031,Auftragsabwicklung im System starten,2024-03-04 23:56:29,Bestandsverwaltung,Laura Fischer,"6,29",Toyota,Produkt G,"95,0",Lager B,Lager B
+031,Artikel zusammenstellen,2024-03-05 00:33:29,Lager,Mia Schmitt,"3,24",Toyota,Produkt G,"95,0",Lager G,Lager D
+031,Ware verpacken,2024-03-05 00:45:29,Lager,Mia Schmitt,"4,54",Toyota,Produkt G,"95,0",Lager A,Lager E
+031,Gewicht prüfen,2024-03-05 01:44:29,Qualitätskontrolle,Hannah Meyer,"1,64",Toyota,Produkt G,"95,0",Lager F,Lager F
+031,Anzahl der Artikel überprüfen,2024-03-05 01:53:29,Qualitätskontrolle,Emilia Wagner,"4,89",Toyota,Produkt G,"95,0",Lager I,Lager F
+031,Verpackung prüfen,2024-03-05 02:35:29,Qualitätskontrolle,Emilia Wagner,"6,95",Toyota,Produkt G,"95,0",Lager H,Lager A
+031,Paket zur Warenausgabe bringen,2024-03-05 02:52:29,Warenausgang,Emma Weber,"5,55",Toyota,Produkt G,"95,0",Lager I,Lager D
+031,Zahlungsabwicklung durchführen,2024-03-05 03:30:29,Warenausgang,Luca Huber,"11,13",Toyota,Produkt G,"95,0",Lager B,Lager H
+031,Paket an Kunde übergeben,2024-03-05 03:54:29,Warenausgang,David Meyer,"9,27",Toyota,Produkt G,"95,0",Lager J,Lager H
+031,Bestellstatus im System ändern,2024-03-05 04:23:29,Warenausgang,David Meyer,"1,99",Toyota,Produkt G,"95,0",Lager G,Lager J
+032,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,71",Samsung Electronics,Produkt R,"130,0",Lager I,Lager E
+032,Kunden-Daten in System übertragen,2024-03-04 21:19:29,Auftragsannahme,Lena Mueller,"3,87",Samsung Electronics,Produkt R,"130,0",Lager F,Lager B
+032,Zahlvorgang abschließen,2024-03-04 21:27:29,Auftragsannahme,Sarah Schmidt,"4,58",Samsung Electronics,Produkt R,"130,0",Lager D,Lager B
+032,Bestellung im System eintragen,2024-03-04 21:53:29,Auftragsannahme,Lena Mueller,"5,17",Samsung Electronics,Produkt R,"130,0",Lager B,Lager I
+032,Lagerbestand überprüfen,2024-03-04 22:31:29,Bestandsverwaltung,Laura Fischer,"2,06",Samsung Electronics,Produkt R,"130,0",Lager A,Lager F
+032,Auftragsabwicklung im System starten,2024-03-04 23:16:29,Bestandsverwaltung,Lisa Mueller,"9,89",Samsung Electronics,Produkt R,"130,0",Lager B,Lager D
+032,Artikel zusammenstellen,2024-03-04 23:32:29,Lager,Mia Schmitt,"5,24",Samsung Electronics,Produkt R,"130,0",Lager G,Lager A
+032,Ware verpacken,2024-03-04 23:44:29,Lager,Jonas Richter,"7,22",Samsung Electronics,Produkt R,"130,0",Lager H,Lager B
+032,Gewicht prüfen,2024-03-04 23:54:29,Qualitätskontrolle,Hannah Meyer,"1,52",Samsung Electronics,Produkt R,"130,0",Lager A,Lager I
+032,Anzahl der Artikel überprüfen,2024-03-05 00:37:29,Qualitätskontrolle,Emilia Wagner,"3,01",Samsung Electronics,Produkt R,"130,0",Lager J,Lager C
+032,Verpackung prüfen,2024-03-05 00:49:29,Qualitätskontrolle,Emilia Wagner,"3,92",Samsung Electronics,Produkt R,"130,0",Lager C,Lager I
+032,Informationen an Transporteur übermitteln,2024-03-05 01:26:29,Warenausgang,Sophia Lang,"11,78",Samsung Electronics,Produkt R,"130,0",Lager J,Lager D
+032,Paket an Transporteur übergeben,2024-03-05 01:59:29,Warenausgang,Luca Huber,"11,94",Samsung Electronics,Produkt R,"130,0",Lager C,Lager I
+032,Bestellstatus im System ändern,2024-03-05 02:43:29,Warenausgang,Emma Weber,"1,69",Samsung Electronics,Produkt R,"130,0",Lager H,Lager F
+033,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,98",BASF,Produkt N,"75,0",Lager F,Lager F
+033,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Timo Wagner,"4,39",BASF,Produkt N,"75,0",Lager C,Lager C
+033,Zahlvorgang abschließen,2024-03-04 21:57:29,Auftragsannahme,Lena Mueller,"3,07",BASF,Produkt N,"75,0",Lager A,Lager E
+033,Bestellung im System eintragen,2024-03-04 22:37:29,Auftragsannahme,Lisa Schulz,"5,7",BASF,Produkt N,"75,0",Lager D,Lager D
+033,Lagerbestand überprüfen,2024-03-04 23:15:29,Bestandsverwaltung,Lisa Mueller,"2,14",BASF,Produkt N,"75,0",Lager J,Lager D
+033,Auftragsabwicklung im System starten,2024-03-04 23:47:29,Bestandsverwaltung,Paul Zimmer,"7,42",BASF,Produkt N,"75,0",Lager A,Lager J
+033,Artikel zusammenstellen,2024-03-05 00:46:29,Lager,Mia Schmitt,"5,73",BASF,Produkt N,"75,0",Lager D,Lager G
+033,Ware verpacken,2024-03-05 01:03:29,Lager,Mia Schmitt,"6,04",BASF,Produkt N,"75,0",Lager C,Lager C
+033,Gewicht prüfen,2024-03-05 01:17:29,Qualitätskontrolle,Noah Becker,"1,71",BASF,Produkt N,"75,0",Lager C,Lager C
+033,Anzahl der Artikel überprüfen,2024-03-05 01:26:29,Qualitätskontrolle,Noah Becker,"2,99",BASF,Produkt N,"75,0",Lager C,Lager G
+033,Verpackung prüfen,2024-03-05 01:36:29,Qualitätskontrolle,Emilia Wagner,"3,45",BASF,Produkt N,"75,0",Lager E,Lager E
+033,Paket zur Warenausgabe bringen,2024-03-05 02:02:29,Warenausgang,Sophia Lang,"6,1",BASF,Produkt N,"75,0",Lager B,Lager I
+033,Paket an Kunde übergeben,2024-03-05 02:48:29,Warenausgang,Leonie Richter,"8,6",BASF,Produkt N,"75,0",Lager B,Lager F
+033,Bestellstatus im System ändern,2024-03-05 02:56:29,Warenausgang,Emma Weber,"2,51",BASF,Produkt N,"75,0",Lager F,Lager D
+034,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,62",Hitachi,Produkt J,"75,0",Lager I,Lager A
+034,Kunden-Daten in System übertragen,2024-03-04 21:29:29,Auftragsannahme,Timo Wagner,"4,21",Hitachi,Produkt J,"75,0",Lager H,Lager H
+034,Zahlvorgang abschließen,2024-03-04 22:28:29,Auftragsannahme,Timo Wagner,"6,61",Hitachi,Produkt J,"75,0",Lager C,Lager B
+034,Bestellung im System eintragen,2024-03-04 22:36:29,Auftragsannahme,Lena Mueller,"7,31",Hitachi,Produkt J,"75,0",Lager I,Lager J
+034,Lagerbestand überprüfen,2024-03-04 23:10:29,Bestandsverwaltung,Laura Fischer,"2,51",Hitachi,Produkt J,"75,0",Lager C,Lager D
+034,Auftragsabwicklung im System starten,2024-03-05 00:08:29,Bestandsverwaltung,Nico Schmidt,"6,3",Hitachi,Produkt J,"75,0",Lager A,Lager C
+034,Artikel zusammenstellen,2024-03-05 01:06:29,Lager,Jonas Richter,"2,26",Hitachi,Produkt J,"75,0",Lager C,Lager J
+034,Ware verpacken,2024-03-05 02:03:29,Lager,Jonas Richter,"6,98",Hitachi,Produkt J,"75,0",Lager B,Lager A
+034,Gewicht prüfen,2024-03-05 02:53:29,Qualitätskontrolle,Noah Becker,"2,22",Hitachi,Produkt J,"75,0",Lager G,Lager C
+034,Anzahl der Artikel überprüfen,2024-03-05 03:03:29,Qualitätskontrolle,Hannah Meyer,"2,23",Hitachi,Produkt J,"75,0",Lager D,Lager A
+034,Verpackung prüfen,2024-03-05 04:01:29,Qualitätskontrolle,Hannah Meyer,"6,2",Hitachi,Produkt J,"75,0",Lager E,Lager C
+034,Informationen an Transporteur übermitteln,2024-03-05 04:22:29,Warenausgang,Emma Weber,"8,69",Hitachi,Produkt J,"75,0",Lager D,Lager A
+034,Paket an Transporteur übergeben,2024-03-05 04:56:29,Warenausgang,Sophia Lang,"8,05",Hitachi,Produkt J,"75,0",Lager B,Lager I
+034,Bestellstatus im System ändern,2024-03-05 05:00:29,Warenausgang,David Meyer,"1,66",Hitachi,Produkt J,"75,0",Lager J,Lager J
+035,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,28",Intel,Produkt S,"90,0",Lager A,Lager G
+035,Kunden-Daten in System übertragen,2024-03-04 20:58:29,Auftragsannahme,Max Mustermann,"3,26",Intel,Produkt S,"90,0",Lager I,Lager H
+035,Zahlvorgang abschließen,2024-03-04 21:57:29,Auftragsannahme,Lisa Schulz,"5,98",Intel,Produkt S,"90,0",Lager C,Lager I
+035,Bestellung im System eintragen,2024-03-04 22:27:29,Auftragsannahme,Lisa Schulz,"5,04",Intel,Produkt S,"90,0",Lager F,Lager A
+035,Lagerbestand überprüfen,2024-03-04 22:31:29,Bestandsverwaltung,Nico Schmidt,"1,57",Intel,Produkt S,"90,0",Lager G,Lager F
+035,Auftragsabwicklung im System starten,2024-03-04 23:03:29,Bestandsverwaltung,Laura Fischer,"9,73",Intel,Produkt S,"90,0",Lager A,Lager F
+035,Artikel zusammenstellen,2024-03-04 23:31:29,Lager,Jonas Richter,"5,81",Intel,Produkt S,"90,0",Lager E,Lager C
+035,Ware verpacken,2024-03-05 00:02:29,Lager,Jonas Richter,"3,52",Intel,Produkt S,"90,0",Lager A,Lager J
+035,Gewicht prüfen,2024-03-05 00:33:29,Qualitätskontrolle,Noah Becker,"2,72",Intel,Produkt S,"90,0",Lager H,Lager A
+035,Anzahl der Artikel überprüfen,2024-03-05 01:25:29,Qualitätskontrolle,Emilia Wagner,"4,7",Intel,Produkt S,"90,0",Lager C,Lager C
+035,Verpackung prüfen,2024-03-05 01:28:29,Qualitätskontrolle,Emilia Wagner,"5,09",Intel,Produkt S,"90,0",Lager B,Lager D
+035,Informationen an Transporteur übermitteln,2024-03-05 01:54:29,Warenausgang,Luca Huber,"6,04",Intel,Produkt S,"90,0",Lager F,Lager A
+035,Paket an Transporteur übergeben,2024-03-05 02:00:29,Warenausgang,Sophia Lang,"8,85",Intel,Produkt S,"90,0",Lager I,Lager C
+035,Bestellstatus im System ändern,2024-03-05 02:52:29,Warenausgang,Sophia Lang,"1,63",Intel,Produkt S,"90,0",Lager H,Lager E
+036,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,36",Mitsubishi Electric,Produkt P,"100,0",Lager E,Lager H
+036,Kunden-Daten in System übertragen,2024-03-04 21:20:29,Auftragsannahme,Lisa Schulz,"3,34",Mitsubishi Electric,Produkt P,"100,0",Lager E,Lager F
+036,Zahlvorgang abschließen,2024-03-04 21:54:29,Auftragsannahme,Sarah Schmidt,"6,67",Mitsubishi Electric,Produkt P,"100,0",Lager E,Lager A
+036,Bestellung im System eintragen,2024-03-04 22:39:29,Auftragsannahme,Sarah Schmidt,"8,77",Mitsubishi Electric,Produkt P,"100,0",Lager B,Lager G
+036,Lagerbestand überprüfen,2024-03-04 22:59:29,Bestandsverwaltung,Nico Schmidt,"2,13",Mitsubishi Electric,Produkt P,"100,0",Lager A,Lager C
+036,Auftragsabwicklung im System starten,2024-03-04 23:46:29,Bestandsverwaltung,Lisa Mueller,"9,74",Mitsubishi Electric,Produkt P,"100,0",Lager B,Lager D
+036,Artikel zusammenstellen,2024-03-05 00:45:29,Lager,Jonas Richter,"5,98",Mitsubishi Electric,Produkt P,"100,0",Lager G,Lager I
+036,Ware verpacken,2024-03-05 00:52:29,Lager,Jonas Richter,"7,17",Mitsubishi Electric,Produkt P,"100,0",Lager D,Lager J
+036,Gewicht prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Emilia Wagner,"2,25",Mitsubishi Electric,Produkt P,"100,0",Lager I,Lager B
+036,Anzahl der Artikel überprüfen,2024-03-05 01:51:29,Qualitätskontrolle,Emilia Wagner,"3,15",Mitsubishi Electric,Produkt P,"100,0",Lager E,Lager G
+036,Verpackung prüfen,2024-03-05 01:52:29,Qualitätskontrolle,Noah Becker,"6,95",Mitsubishi Electric,Produkt P,"100,0",Lager C,Lager A
+036,Paket zur Warenausgabe bringen,2024-03-05 02:42:29,Warenausgang,David Meyer,"6,13",Mitsubishi Electric,Produkt P,"100,0",Lager D,Lager I
+036,Paket an Kunde übergeben,2024-03-05 03:27:29,Warenausgang,Emma Weber,"5,11",Mitsubishi Electric,Produkt P,"100,0",Lager J,Lager H
+036,Bestellstatus im System ändern,2024-03-05 04:02:29,Warenausgang,Sophia Lang,"2,19",Mitsubishi Electric,Produkt P,"100,0",Lager D,Lager D
+037,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,14",Toyota,Produkt K,"110,0",Lager I,Lager D
+037,Kunden-Daten in System übertragen,2024-03-04 21:27:29,Auftragsannahme,Max Mustermann,"2,82",Toyota,Produkt K,"110,0",Lager J,Lager E
+037,Zahlvorgang abschließen,2024-03-04 22:07:29,Auftragsannahme,Sarah Schmidt,"6,58",Toyota,Produkt K,"110,0",Lager E,Lager F
+037,Bestellung im System eintragen,2024-03-04 22:56:29,Auftragsannahme,Max Mustermann,"5,65",Toyota,Produkt K,"110,0",Lager C,Lager J
+037,Lagerbestand überprüfen,2024-03-04 23:42:29,Bestandsverwaltung,Paul Zimmer,"1,26",Toyota,Produkt K,"110,0",Lager C,Lager J
+037,Auftragsabwicklung im System starten,2024-03-04 23:48:29,Bestandsverwaltung,Lisa Mueller,"6,96",Toyota,Produkt K,"110,0",Lager I,Lager B
+037,Artikel zusammenstellen,2024-03-05 00:40:29,Lager,Mia Schmitt,"2,22",Toyota,Produkt K,"110,0",Lager D,Lager I
+037,Ware verpacken,2024-03-05 00:44:29,Lager,Mia Schmitt,"5,54",Toyota,Produkt K,"110,0",Lager F,Lager E
+037,Gewicht prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Hannah Meyer,"2,55",Toyota,Produkt K,"110,0",Lager A,Lager I
+037,Anzahl der Artikel überprüfen,2024-03-05 01:46:29,Qualitätskontrolle,Emilia Wagner,"2,09",Toyota,Produkt K,"110,0",Lager D,Lager B
+037,Verpackung prüfen,2024-03-05 02:29:29,Qualitätskontrolle,Emilia Wagner,"4,97",Toyota,Produkt K,"110,0",Lager F,Lager E
+037,Paket zur Warenausgabe bringen,2024-03-05 03:04:29,Warenausgang,Emma Weber,"7,22",Toyota,Produkt K,"110,0",Lager G,Lager F
+037,Zahlungsabwicklung durchführen,2024-03-05 03:09:29,Warenausgang,Leonie Richter,"9,77",Toyota,Produkt K,"110,0",Lager C,Lager I
+037,Paket an Kunde übergeben,2024-03-05 03:49:29,Warenausgang,Sophia Lang,"7,97",Toyota,Produkt K,"110,0",Lager I,Lager J
+037,Bestellstatus im System ändern,2024-03-05 04:49:29,Warenausgang,David Meyer,"2,91",Toyota,Produkt K,"110,0",Lager G,Lager I
+038,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,49",Siemens,Produkt I,"90,0",Lager H,Lager E
+038,Kunden-Daten in System übertragen,2024-03-04 21:30:29,Auftragsannahme,Lisa Schulz,"3,25",Siemens,Produkt I,"90,0",Lager H,Lager D
+038,Zahlvorgang abschließen,2024-03-04 22:15:29,Auftragsannahme,Max Mustermann,"6,0",Siemens,Produkt I,"90,0",Lager B,Lager J
+038,Bestellung im System eintragen,2024-03-04 23:10:29,Auftragsannahme,Timo Wagner,"4,22",Siemens,Produkt I,"90,0",Lager A,Lager I
+038,Lagerbestand überprüfen,2024-03-04 23:17:29,Bestandsverwaltung,Paul Zimmer,"2,47",Siemens,Produkt I,"90,0",Lager E,Lager G
+038,Auftragsabwicklung im System starten,2024-03-04 23:51:29,Bestandsverwaltung,Nico Schmidt,"7,04",Siemens,Produkt I,"90,0",Lager G,Lager I
+038,Artikel zusammenstellen,2024-03-05 00:29:29,Lager,Mia Schmitt,"4,07",Siemens,Produkt I,"90,0",Lager J,Lager C
+038,Ware verpacken,2024-03-05 00:34:29,Lager,Mia Schmitt,"4,75",Siemens,Produkt I,"90,0",Lager E,Lager A
+038,Gewicht prüfen,2024-03-05 00:56:29,Qualitätskontrolle,Emilia Wagner,"2,88",Siemens,Produkt I,"90,0",Lager G,Lager D
+038,Anzahl der Artikel überprüfen,2024-03-05 01:41:29,Qualitätskontrolle,Emilia Wagner,"2,25",Siemens,Produkt I,"90,0",Lager J,Lager E
+038,Verpackung prüfen,2024-03-05 02:10:29,Qualitätskontrolle,Emilia Wagner,"4,68",Siemens,Produkt I,"90,0",Lager G,Lager A
+038,Paket zur Warenausgabe bringen,2024-03-05 02:43:29,Warenausgang,Sophia Lang,"5,04",Siemens,Produkt I,"90,0",Lager H,Lager I
+038,Paket an Kunde übergeben,2024-03-05 02:52:29,Warenausgang,Luca Huber,"5,64",Siemens,Produkt I,"90,0",Lager C,Lager B
+038,Bestellstatus im System ändern,2024-03-05 03:27:29,Warenausgang,Leonie Richter,"2,31",Siemens,Produkt I,"90,0",Lager G,Lager J
+039,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,49",Sony,Produkt S,"90,0",Lager F,Lager J
+039,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Timo Wagner,"2,7",Sony,Produkt S,"90,0",Lager C,Lager E
+039,Zahlvorgang abschließen,2024-03-04 22:02:29,Auftragsannahme,Timo Wagner,"5,98",Sony,Produkt S,"90,0",Lager B,Lager F
+039,Bestellung im System eintragen,2024-03-04 22:06:29,Auftragsannahme,Timo Wagner,"4,86",Sony,Produkt S,"90,0",Lager J,Lager A
+039,Lagerbestand überprüfen,2024-03-04 22:33:29,Bestandsverwaltung,Nico Schmidt,"1,23",Sony,Produkt S,"90,0",Lager D,Lager G
+039,Auftragsabwicklung im System starten,2024-03-04 22:37:29,Bestandsverwaltung,Laura Fischer,"6,96",Sony,Produkt S,"90,0",Lager H,Lager E
+039,Artikel zusammenstellen,2024-03-04 23:23:29,Lager,Jonas Richter,"4,54",Sony,Produkt S,"90,0",Lager A,Lager D
+039,Ware verpacken,2024-03-04 23:47:29,Lager,Jonas Richter,"4,1",Sony,Produkt S,"90,0",Lager H,Lager H
+039,Gewicht prüfen,2024-03-05 00:18:29,Qualitätskontrolle,Noah Becker,"2,37",Sony,Produkt S,"90,0",Lager G,Lager B
+039,Anzahl der Artikel überprüfen,2024-03-05 00:23:29,Qualitätskontrolle,Emilia Wagner,"2,5",Sony,Produkt S,"90,0",Lager G,Lager E
+039,Verpackung prüfen,2024-03-05 00:30:29,Qualitätskontrolle,Noah Becker,"5,71",Sony,Produkt S,"90,0",Lager D,Lager I
+039,Paket zur Warenausgabe bringen,2024-03-05 00:51:29,Warenausgang,Luca Huber,"6,14",Sony,Produkt S,"90,0",Lager F,Lager A
+039,Zahlungsabwicklung durchführen,2024-03-05 01:16:29,Warenausgang,Leonie Richter,"8,55",Sony,Produkt S,"90,0",Lager B,Lager B
+039,Paket an Kunde übergeben,2024-03-05 01:59:29,Warenausgang,Leonie Richter,"6,95",Sony,Produkt S,"90,0",Lager A,Lager I
+039,Bestellstatus im System ändern,2024-03-05 02:04:29,Warenausgang,Leonie Richter,"1,78",Sony,Produkt S,"90,0",Lager I,Lager C
+040,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,8",Ford Motor,Produkt P,"100,0",Lager D,Lager B
+040,Kunden-Daten in System übertragen,2024-03-04 21:32:29,Auftragsannahme,Max Mustermann,"4,34",Ford Motor,Produkt P,"100,0",Lager C,Lager F
+040,Zahlvorgang abschließen,2024-03-04 21:50:29,Auftragsannahme,Sarah Schmidt,"3,83",Ford Motor,Produkt P,"100,0",Lager F,Lager D
+040,Bestellung im System eintragen,2024-03-04 22:37:29,Auftragsannahme,Lisa Schulz,"6,91",Ford Motor,Produkt P,"100,0",Lager F,Lager A
+040,Lagerbestand überprüfen,2024-03-04 22:38:29,Bestandsverwaltung,Paul Zimmer,"1,17",Ford Motor,Produkt P,"100,0",Lager H,Lager D
+040,Auftragsabwicklung im System starten,2024-03-04 22:47:29,Bestandsverwaltung,Laura Fischer,"8,4",Ford Motor,Produkt P,"100,0",Lager B,Lager E
+040,Artikel zusammenstellen,2024-03-04 23:17:29,Lager,Mia Schmitt,"2,71",Ford Motor,Produkt P,"100,0",Lager E,Lager J
+040,Ware verpacken,2024-03-05 00:15:29,Lager,Mia Schmitt,"5,0",Ford Motor,Produkt P,"100,0",Lager E,Lager D
+040,Gewicht prüfen,2024-03-05 01:13:29,Qualitätskontrolle,Noah Becker,"2,24",Ford Motor,Produkt P,"100,0",Lager H,Lager E
+040,Anzahl der Artikel überprüfen,2024-03-05 01:28:29,Qualitätskontrolle,Hannah Meyer,"4,04",Ford Motor,Produkt P,"100,0",Lager J,Lager E
+040,Verpackung prüfen,2024-03-05 01:35:29,Qualitätskontrolle,Emilia Wagner,"4,09",Ford Motor,Produkt P,"100,0",Lager A,Lager J
+040,Paket zur Warenausgabe bringen,2024-03-05 02:05:29,Warenausgang,Emma Weber,"7,8",Ford Motor,Produkt P,"100,0",Lager C,Lager B
+040,Zahlungsabwicklung durchführen,2024-03-05 02:30:29,Warenausgang,Sophia Lang,"8,62",Ford Motor,Produkt P,"100,0",Lager F,Lager I
+040,Paket an Kunde übergeben,2024-03-05 02:43:29,Warenausgang,Sophia Lang,"9,92",Ford Motor,Produkt P,"100,0",Lager A,Lager D
+040,Bestellstatus im System ändern,2024-03-05 02:49:29,Warenausgang,Emma Weber,"1,83",Ford Motor,Produkt P,"100,0",Lager I,Lager C
+041,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,56",Mitsubishi Electric,Produkt H,"130,0",Lager F,Lager I
+041,Kunden-Daten in System übertragen,2024-03-04 21:13:29,Auftragsannahme,Lisa Schulz,"4,04",Mitsubishi Electric,Produkt H,"130,0",Lager I,Lager B
+041,Zahlvorgang abschließen,2024-03-04 21:19:29,Auftragsannahme,Timo Wagner,"4,6",Mitsubishi Electric,Produkt H,"130,0",Lager A,Lager B
+041,Bestellung im System eintragen,2024-03-04 21:30:29,Auftragsannahme,Sarah Schmidt,"5,07",Mitsubishi Electric,Produkt H,"130,0",Lager H,Lager A
+041,Lagerbestand überprüfen,2024-03-04 21:33:29,Bestandsverwaltung,Jan Becker,"1,72",Mitsubishi Electric,Produkt H,"130,0",Lager G,Lager B
+041,Auftragsabwicklung im System starten,2024-03-04 22:15:29,Bestandsverwaltung,Nico Schmidt,"7,74",Mitsubishi Electric,Produkt H,"130,0",Lager J,Lager D
+041,Artikel zusammenstellen,2024-03-04 22:17:29,Lager,Mia Schmitt,"3,96",Mitsubishi Electric,Produkt H,"130,0",Lager F,Lager B
+041,Ware verpacken,2024-03-04 22:53:29,Lager,Mia Schmitt,"3,46",Mitsubishi Electric,Produkt H,"130,0",Lager D,Lager I
+041,Gewicht prüfen,2024-03-04 23:18:29,Qualitätskontrolle,Hannah Meyer,"2,84",Mitsubishi Electric,Produkt H,"130,0",Lager F,Lager G
+041,Anzahl der Artikel überprüfen,2024-03-04 23:55:29,Qualitätskontrolle,Hannah Meyer,"3,32",Mitsubishi Electric,Produkt H,"130,0",Lager E,Lager I
+041,Verpackung prüfen,2024-03-05 00:24:29,Qualitätskontrolle,Hannah Meyer,"5,84",Mitsubishi Electric,Produkt H,"130,0",Lager J,Lager D
+041,Paket zur Warenausgabe bringen,2024-03-05 01:08:29,Warenausgang,Emma Weber,"6,47",Mitsubishi Electric,Produkt H,"130,0",Lager I,Lager E
+041,Paket an Kunde übergeben,2024-03-05 01:37:29,Warenausgang,Sophia Lang,"7,13",Mitsubishi Electric,Produkt H,"130,0",Lager C,Lager E
+041,Bestellstatus im System ändern,2024-03-05 01:52:29,Warenausgang,David Meyer,"2,11",Mitsubishi Electric,Produkt H,"130,0",Lager H,Lager F
+042,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,2",Intel,Produkt H,"130,0",Lager G,Lager A
+042,Kunden-Daten in System übertragen,2024-03-04 20:53:29,Auftragsannahme,Lisa Schulz,"4,26",Intel,Produkt H,"130,0",Lager I,Lager J
+042,Zahlvorgang abschließen,2024-03-04 21:52:29,Auftragsannahme,Max Mustermann,"6,51",Intel,Produkt H,"130,0",Lager A,Lager J
+042,Bestellung im System eintragen,2024-03-04 22:42:29,Auftragsannahme,Lena Mueller,"7,97",Intel,Produkt H,"130,0",Lager B,Lager I
+042,Lagerbestand überprüfen,2024-03-04 23:39:29,Bestandsverwaltung,Paul Zimmer,"2,17",Intel,Produkt H,"130,0",Lager I,Lager E
+042,Auftragsabwicklung im System starten,2024-03-05 00:22:29,Bestandsverwaltung,Nico Schmidt,"9,11",Intel,Produkt H,"130,0",Lager B,Lager B
+042,Artikel zusammenstellen,2024-03-05 00:41:29,Lager,Jonas Richter,"5,02",Intel,Produkt H,"130,0",Lager D,Lager C
+042,Ware verpacken,2024-03-05 00:51:29,Lager,Mia Schmitt,"3,3",Intel,Produkt H,"130,0",Lager F,Lager G
+042,Gewicht prüfen,2024-03-05 01:27:29,Qualitätskontrolle,Noah Becker,"2,52",Intel,Produkt H,"130,0",Lager J,Lager J
+042,Anzahl der Artikel überprüfen,2024-03-05 02:05:29,Qualitätskontrolle,Hannah Meyer,"4,79",Intel,Produkt H,"130,0",Lager E,Lager E
+042,Verpackung prüfen,2024-03-05 02:36:29,Qualitätskontrolle,Hannah Meyer,"6,63",Intel,Produkt H,"130,0",Lager A,Lager H
+042,Paket zur Warenausgabe bringen,2024-03-05 02:39:29,Warenausgang,David Meyer,"8,68",Intel,Produkt H,"130,0",Lager A,Lager G
+042,Zahlungsabwicklung durchführen,2024-03-05 02:49:29,Warenausgang,Leonie Richter,"10,17",Intel,Produkt H,"130,0",Lager I,Lager H
+042,Paket an Kunde übergeben,2024-03-05 03:43:29,Warenausgang,David Meyer,"7,16",Intel,Produkt H,"130,0",Lager H,Lager J
+042,Bestellstatus im System ändern,2024-03-05 03:52:29,Warenausgang,David Meyer,"1,01",Intel,Produkt H,"130,0",Lager A,Lager A
+043,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,55",Airbus,Produkt F,"110,0",Lager F,Lager A
+043,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Lena Mueller,"4,41",Airbus,Produkt F,"110,0",Lager A,Lager G
+043,Zahlvorgang abschließen,2024-03-04 21:35:29,Auftragsannahme,Lisa Schulz,"3,19",Airbus,Produkt F,"110,0",Lager I,Lager A
+043,Bestellung im System eintragen,2024-03-04 22:31:29,Auftragsannahme,Lena Mueller,"7,11",Airbus,Produkt F,"110,0",Lager H,Lager B
+043,Lagerbestand überprüfen,2024-03-04 22:42:29,Bestandsverwaltung,Paul Zimmer,"1,47",Airbus,Produkt F,"110,0",Lager C,Lager I
+043,Auftragsabwicklung im System starten,2024-03-04 23:40:29,Bestandsverwaltung,Lisa Mueller,"9,43",Airbus,Produkt F,"110,0",Lager C,Lager G
+043,Artikel zusammenstellen,2024-03-05 00:23:29,Lager,Mia Schmitt,"2,94",Airbus,Produkt F,"110,0",Lager C,Lager D
+043,Ware verpacken,2024-03-05 00:24:29,Lager,Jonas Richter,"3,24",Airbus,Produkt F,"110,0",Lager D,Lager B
+043,Gewicht prüfen,2024-03-05 01:10:29,Qualitätskontrolle,Hannah Meyer,"1,34",Airbus,Produkt F,"110,0",Lager H,Lager I
+043,Anzahl der Artikel überprüfen,2024-03-05 01:19:29,Qualitätskontrolle,Hannah Meyer,"2,16",Airbus,Produkt F,"110,0",Lager J,Lager I
+043,Verpackung prüfen,2024-03-05 02:01:29,Qualitätskontrolle,Emilia Wagner,"6,92",Airbus,Produkt F,"110,0",Lager A,Lager D
+043,Paket zur Warenausgabe bringen,2024-03-05 02:02:29,Warenausgang,Emma Weber,"6,69",Airbus,Produkt F,"110,0",Lager I,Lager H
+043,Zahlungsabwicklung durchführen,2024-03-05 02:21:29,Warenausgang,Leonie Richter,"8,89",Airbus,Produkt F,"110,0",Lager J,Lager E
+043,Paket an Kunde übergeben,2024-03-05 02:35:29,Warenausgang,David Meyer,"7,59",Airbus,Produkt F,"110,0",Lager A,Lager G
+043,Bestellstatus im System ändern,2024-03-05 03:31:29,Warenausgang,Leonie Richter,"1,32",Airbus,Produkt F,"110,0",Lager B,Lager I
+044,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,23",General Motors,Produkt H,"130,0",Lager A,Lager A
+044,Kunden-Daten in System übertragen,2024-03-04 21:03:29,Auftragsannahme,Max Mustermann,"4,3",General Motors,Produkt H,"130,0",Lager A,Lager J
+044,Zahlvorgang abschließen,2024-03-04 21:13:29,Auftragsannahme,Lena Mueller,"4,57",General Motors,Produkt H,"130,0",Lager D,Lager A
+044,Bestellung im System eintragen,2024-03-04 21:31:29,Auftragsannahme,Timo Wagner,"8,98",General Motors,Produkt H,"130,0",Lager D,Lager J
+044,Lagerbestand überprüfen,2024-03-04 22:01:29,Bestandsverwaltung,Laura Fischer,"2,05",General Motors,Produkt H,"130,0",Lager D,Lager D
+044,Auftragsabwicklung im System starten,2024-03-04 22:28:29,Bestandsverwaltung,Lisa Mueller,"7,98",General Motors,Produkt H,"130,0",Lager J,Lager I
+044,Artikel zusammenstellen,2024-03-04 22:38:29,Lager,Mia Schmitt,"3,73",General Motors,Produkt H,"130,0",Lager H,Lager A
+044,Ware verpacken,2024-03-04 23:14:29,Lager,Jonas Richter,"7,28",General Motors,Produkt H,"130,0",Lager E,Lager J
+044,Gewicht prüfen,2024-03-04 23:44:29,Qualitätskontrolle,Emilia Wagner,"2,18",General Motors,Produkt H,"130,0",Lager E,Lager C
+044,Anzahl der Artikel überprüfen,2024-03-05 00:10:29,Qualitätskontrolle,Emilia Wagner,"3,74",General Motors,Produkt H,"130,0",Lager I,Lager J
+044,Verpackung prüfen,2024-03-05 00:22:29,Qualitätskontrolle,Hannah Meyer,"5,97",General Motors,Produkt H,"130,0",Lager D,Lager A
+044,Paket zur Warenausgabe bringen,2024-03-05 00:40:29,Warenausgang,Sophia Lang,"7,06",General Motors,Produkt H,"130,0",Lager F,Lager I
+044,Zahlungsabwicklung durchführen,2024-03-05 00:48:29,Warenausgang,Sophia Lang,"9,11",General Motors,Produkt H,"130,0",Lager A,Lager C
+044,Paket an Kunde übergeben,2024-03-05 01:14:29,Warenausgang,Emma Weber,"5,45",General Motors,Produkt H,"130,0",Lager G,Lager J
+044,Bestellstatus im System ändern,2024-03-05 02:13:29,Warenausgang,Emma Weber,"1,19",General Motors,Produkt H,"130,0",Lager F,Lager F
+045,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,06",Volkswagen,Produkt P,"100,0",Lager D,Lager B
+045,Kunden-Daten in System übertragen,2024-03-04 21:17:29,Auftragsannahme,Lena Mueller,"4,36",Volkswagen,Produkt P,"100,0",Lager E,Lager G
+045,Zahlvorgang abschließen,2024-03-04 21:35:29,Auftragsannahme,Lisa Schulz,"4,26",Volkswagen,Produkt P,"100,0",Lager A,Lager E
+045,Bestellung im System eintragen,2024-03-04 21:48:29,Auftragsannahme,Lisa Schulz,"5,37",Volkswagen,Produkt P,"100,0",Lager H,Lager I
+045,Lagerbestand überprüfen,2024-03-04 22:45:29,Bestandsverwaltung,Jan Becker,"1,69",Volkswagen,Produkt P,"100,0",Lager G,Lager I
+045,Auftragsabwicklung im System starten,2024-03-04 23:18:29,Bestandsverwaltung,Lisa Mueller,"8,99",Volkswagen,Produkt P,"100,0",Lager J,Lager F
+045,Artikel zusammenstellen,2024-03-04 23:25:29,Lager,Mia Schmitt,"5,4",Volkswagen,Produkt P,"100,0",Lager J,Lager B
+045,Ware verpacken,2024-03-05 00:20:29,Lager,Jonas Richter,"4,74",Volkswagen,Produkt P,"100,0",Lager G,Lager C
+045,Gewicht prüfen,2024-03-05 01:06:29,Qualitätskontrolle,Emilia Wagner,"1,3",Volkswagen,Produkt P,"100,0",Lager D,Lager G
+045,Anzahl der Artikel überprüfen,2024-03-05 01:24:29,Qualitätskontrolle,Hannah Meyer,"4,01",Volkswagen,Produkt P,"100,0",Lager A,Lager G
+045,Verpackung prüfen,2024-03-05 01:44:29,Qualitätskontrolle,Hannah Meyer,"3,81",Volkswagen,Produkt P,"100,0",Lager D,Lager E
+045,Informationen an Transporteur übermitteln,2024-03-05 02:11:29,Warenausgang,Luca Huber,"7,43",Volkswagen,Produkt P,"100,0",Lager C,Lager A
+045,Paket an Transporteur übergeben,2024-03-05 02:17:29,Warenausgang,Sophia Lang,"10,96",Volkswagen,Produkt P,"100,0",Lager J,Lager B
+045,Bestellstatus im System ändern,2024-03-05 03:04:29,Warenausgang,Luca Huber,"1,36",Volkswagen,Produkt P,"100,0",Lager F,Lager I
+046,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,31",General Electric,Produkt N,"75,0",Lager H,Lager G
+046,Kunden-Daten in System übertragen,2024-03-04 21:13:29,Auftragsannahme,Lena Mueller,"4,9",General Electric,Produkt N,"75,0",Lager D,Lager D
+046,Zahlvorgang abschließen,2024-03-04 21:19:29,Auftragsannahme,Timo Wagner,"3,25",General Electric,Produkt N,"75,0",Lager E,Lager H
+046,Bestellung im System eintragen,2024-03-04 21:52:29,Auftragsannahme,Max Mustermann,"4,55",General Electric,Produkt N,"75,0",Lager B,Lager J
+046,Lagerbestand überprüfen,2024-03-04 22:21:29,Bestandsverwaltung,Paul Zimmer,"1,6",General Electric,Produkt N,"75,0",Lager B,Lager J
+046,Auftragsabwicklung im System starten,2024-03-04 23:01:29,Bestandsverwaltung,Nico Schmidt,"7,55",General Electric,Produkt N,"75,0",Lager J,Lager B
+046,Artikel zusammenstellen,2024-03-04 23:48:29,Lager,Mia Schmitt,"4,84",General Electric,Produkt N,"75,0",Lager G,Lager B
+046,Ware verpacken,2024-03-05 00:30:29,Lager,Jonas Richter,"4,19",General Electric,Produkt N,"75,0",Lager I,Lager C
+046,Gewicht prüfen,2024-03-05 00:54:29,Qualitätskontrolle,Hannah Meyer,"1,66",General Electric,Produkt N,"75,0",Lager D,Lager E
+046,Anzahl der Artikel überprüfen,2024-03-05 01:36:29,Qualitätskontrolle,Emilia Wagner,"4,03",General Electric,Produkt N,"75,0",Lager H,Lager A
+046,Verpackung prüfen,2024-03-05 02:26:29,Qualitätskontrolle,Emilia Wagner,"3,75",General Electric,Produkt N,"75,0",Lager I,Lager B
+046,Informationen an Transporteur übermitteln,2024-03-05 02:27:29,Warenausgang,Leonie Richter,"11,51",General Electric,Produkt N,"75,0",Lager A,Lager J
+046,Paket an Transporteur übergeben,2024-03-05 02:37:29,Warenausgang,Emma Weber,"8,51",General Electric,Produkt N,"75,0",Lager J,Lager A
+046,Bestellstatus im System ändern,2024-03-05 02:56:29,Warenausgang,Sophia Lang,"2,49",General Electric,Produkt N,"75,0",Lager D,Lager A
+047,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,06",BASF,Produkt N,"75,0",Lager J,Lager B
+047,Kunden-Daten in System übertragen,2024-03-04 20:59:29,Auftragsannahme,Max Mustermann,"4,13",BASF,Produkt N,"75,0",Lager F,Lager F
+047,Zahlvorgang abschließen,2024-03-04 21:19:29,Auftragsannahme,Lena Mueller,"6,57",BASF,Produkt N,"75,0",Lager C,Lager H
+047,Bestellung im System eintragen,2024-03-04 21:52:29,Auftragsannahme,Timo Wagner,"4,94",BASF,Produkt N,"75,0",Lager H,Lager F
+047,Lagerbestand überprüfen,2024-03-04 22:52:29,Bestandsverwaltung,Jan Becker,"2,28",BASF,Produkt N,"75,0",Lager A,Lager G
+047,Auftragsabwicklung im System starten,2024-03-04 23:31:29,Bestandsverwaltung,Jan Becker,"6,31",BASF,Produkt N,"75,0",Lager B,Lager E
+047,Artikel zusammenstellen,2024-03-04 23:36:29,Lager,Jonas Richter,"2,19",BASF,Produkt N,"75,0",Lager J,Lager E
+047,Ware verpacken,2024-03-05 00:04:29,Lager,Mia Schmitt,"3,14",BASF,Produkt N,"75,0",Lager G,Lager H
+047,Gewicht prüfen,2024-03-05 00:06:29,Qualitätskontrolle,Emilia Wagner,"1,62",BASF,Produkt N,"75,0",Lager J,Lager G
+047,Anzahl der Artikel überprüfen,2024-03-05 00:40:29,Qualitätskontrolle,Emilia Wagner,"3,26",BASF,Produkt N,"75,0",Lager G,Lager C
+047,Verpackung prüfen,2024-03-05 01:38:29,Qualitätskontrolle,Emilia Wagner,"5,97",BASF,Produkt N,"75,0",Lager A,Lager A
+047,Paket zur Warenausgabe bringen,2024-03-05 01:56:29,Warenausgang,Leonie Richter,"6,52",BASF,Produkt N,"75,0",Lager H,Lager C
+047,Zahlungsabwicklung durchführen,2024-03-05 02:43:29,Warenausgang,Sophia Lang,"10,04",BASF,Produkt N,"75,0",Lager D,Lager H
+047,Paket an Kunde übergeben,2024-03-05 03:02:29,Warenausgang,David Meyer,"5,36",BASF,Produkt N,"75,0",Lager A,Lager H
+047,Bestellstatus im System ändern,2024-03-05 03:51:29,Warenausgang,Luca Huber,"2,61",BASF,Produkt N,"75,0",Lager A,Lager D
+048,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,66",Daimler AG,Produkt N,"75,0",Lager E,Lager D
+048,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Lisa Schulz,"3,38",Daimler AG,Produkt N,"75,0",Lager F,Lager B
+048,Zahlvorgang abschließen,2024-03-04 21:14:29,Auftragsannahme,Sarah Schmidt,"5,8",Daimler AG,Produkt N,"75,0",Lager B,Lager H
+048,Bestellung im System eintragen,2024-03-04 21:25:29,Auftragsannahme,Max Mustermann,"8,71",Daimler AG,Produkt N,"75,0",Lager H,Lager C
+048,Lagerbestand überprüfen,2024-03-04 21:46:29,Bestandsverwaltung,Jan Becker,"1,61",Daimler AG,Produkt N,"75,0",Lager F,Lager D
+048,Auftragsabwicklung im System starten,2024-03-04 22:18:29,Bestandsverwaltung,Jan Becker,"9,91",Daimler AG,Produkt N,"75,0",Lager C,Lager D
+048,Artikel zusammenstellen,2024-03-04 22:29:29,Lager,Jonas Richter,"5,94",Daimler AG,Produkt N,"75,0",Lager A,Lager C
+048,Ware verpacken,2024-03-04 23:09:29,Lager,Mia Schmitt,"7,76",Daimler AG,Produkt N,"75,0",Lager D,Lager I
+048,Gewicht prüfen,2024-03-04 23:52:29,Qualitätskontrolle,Emilia Wagner,"1,84",Daimler AG,Produkt N,"75,0",Lager C,Lager A
+048,Anzahl der Artikel überprüfen,2024-03-05 00:40:29,Qualitätskontrolle,Hannah Meyer,"2,47",Daimler AG,Produkt N,"75,0",Lager F,Lager I
+048,Verpackung prüfen,2024-03-05 01:04:29,Qualitätskontrolle,Noah Becker,"6,87",Daimler AG,Produkt N,"75,0",Lager A,Lager I
+048,Informationen an Transporteur übermitteln,2024-03-05 01:07:29,Warenausgang,David Meyer,"10,68",Daimler AG,Produkt N,"75,0",Lager I,Lager D
+048,Paket an Transporteur übergeben,2024-03-05 02:01:29,Warenausgang,Emma Weber,"7,84",Daimler AG,Produkt N,"75,0",Lager G,Lager G
+048,Bestellstatus im System ändern,2024-03-05 02:06:29,Warenausgang,Luca Huber,"1,52",Daimler AG,Produkt N,"75,0",Lager G,Lager D
+049,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,84",Volkswagen,Produkt H,"130,0",Lager C,Lager D
+049,Kunden-Daten in System übertragen,2024-03-04 20:47:29,Auftragsannahme,Timo Wagner,"4,15",Volkswagen,Produkt H,"130,0",Lager A,Lager B
+049,Zahlvorgang abschließen,2024-03-04 21:07:29,Auftragsannahme,Lena Mueller,"5,81",Volkswagen,Produkt H,"130,0",Lager I,Lager C
+049,Bestellung im System eintragen,2024-03-04 21:29:29,Auftragsannahme,Timo Wagner,"4,22",Volkswagen,Produkt H,"130,0",Lager H,Lager E
+049,Lagerbestand überprüfen,2024-03-04 21:40:29,Bestandsverwaltung,Lisa Mueller,"2,98",Volkswagen,Produkt H,"130,0",Lager C,Lager H
+049,Auftragsabwicklung im System starten,2024-03-04 21:52:29,Bestandsverwaltung,Nico Schmidt,"6,82",Volkswagen,Produkt H,"130,0",Lager D,Lager D
+049,Artikel zusammenstellen,2024-03-04 22:30:29,Lager,Mia Schmitt,"2,26",Volkswagen,Produkt H,"130,0",Lager C,Lager G
+049,Ware verpacken,2024-03-04 22:33:29,Lager,Mia Schmitt,"3,65",Volkswagen,Produkt H,"130,0",Lager J,Lager E
+049,Gewicht prüfen,2024-03-04 22:34:29,Qualitätskontrolle,Emilia Wagner,"2,92",Volkswagen,Produkt H,"130,0",Lager C,Lager I
+049,Anzahl der Artikel überprüfen,2024-03-04 23:09:29,Qualitätskontrolle,Emilia Wagner,"3,35",Volkswagen,Produkt H,"130,0",Lager F,Lager H
+049,Verpackung prüfen,2024-03-04 23:26:29,Qualitätskontrolle,Hannah Meyer,"4,86",Volkswagen,Produkt H,"130,0",Lager G,Lager H
+049,Informationen an Transporteur übermitteln,2024-03-04 23:29:29,Warenausgang,David Meyer,"8,06",Volkswagen,Produkt H,"130,0",Lager I,Lager F
+049,Paket an Transporteur übergeben,2024-03-04 23:30:29,Warenausgang,Sophia Lang,"8,6",Volkswagen,Produkt H,"130,0",Lager H,Lager A
+049,Bestellstatus im System ändern,2024-03-05 00:25:29,Warenausgang,Sophia Lang,"1,81",Volkswagen,Produkt H,"130,0",Lager A,Lager I
+050,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,98",Boeing,Produkt A,"100,0",Lager A,Lager A
+050,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Sarah Schmidt,"4,44",Boeing,Produkt A,"100,0",Lager G,Lager H
+050,Zahlvorgang abschließen,2024-03-04 21:51:29,Auftragsannahme,Lena Mueller,"4,36",Boeing,Produkt A,"100,0",Lager C,Lager I
+050,Bestellung im System eintragen,2024-03-04 22:20:29,Auftragsannahme,Timo Wagner,"7,51",Boeing,Produkt A,"100,0",Lager A,Lager H
+050,Lagerbestand überprüfen,2024-03-04 23:13:29,Bestandsverwaltung,Nico Schmidt,"2,03",Boeing,Produkt A,"100,0",Lager F,Lager G
+050,Auftragsabwicklung im System starten,2024-03-04 23:43:29,Bestandsverwaltung,Laura Fischer,"6,76",Boeing,Produkt A,"100,0",Lager J,Lager G
+050,Artikel zusammenstellen,2024-03-05 00:00:29,Lager,Jonas Richter,"3,03",Boeing,Produkt A,"100,0",Lager G,Lager B
+050,Ware verpacken,2024-03-05 00:28:29,Lager,Mia Schmitt,"7,12",Boeing,Produkt A,"100,0",Lager D,Lager H
+050,Gewicht prüfen,2024-03-05 00:37:29,Qualitätskontrolle,Hannah Meyer,"1,86",Boeing,Produkt A,"100,0",Lager B,Lager E
+050,Anzahl der Artikel überprüfen,2024-03-05 01:13:29,Qualitätskontrolle,Noah Becker,"3,19",Boeing,Produkt A,"100,0",Lager C,Lager C
+050,Verpackung prüfen,2024-03-05 02:01:29,Qualitätskontrolle,Hannah Meyer,"6,19",Boeing,Produkt A,"100,0",Lager B,Lager H
+050,Paket zur Warenausgabe bringen,2024-03-05 02:20:29,Warenausgang,Sophia Lang,"5,87",Boeing,Produkt A,"100,0",Lager I,Lager F
+050,Paket an Kunde übergeben,2024-03-05 02:34:29,Warenausgang,Leonie Richter,"9,04",Boeing,Produkt A,"100,0",Lager G,Lager F
+050,Bestellstatus im System ändern,2024-03-05 03:17:29,Warenausgang,Leonie Richter,"1,15",Boeing,Produkt A,"100,0",Lager B,Lager B
+051,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,05",PepsiCo,Produkt H,"130,0",Lager C,Lager H
+051,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Lena Mueller,"2,57",PepsiCo,Produkt H,"130,0",Lager H,Lager H
+051,Zahlvorgang abschließen,2024-03-04 21:43:29,Auftragsannahme,Timo Wagner,"6,0",PepsiCo,Produkt H,"130,0",Lager G,Lager B
+051,Bestellung im System eintragen,2024-03-04 22:26:29,Auftragsannahme,Max Mustermann,"5,63",PepsiCo,Produkt H,"130,0",Lager G,Lager F
+051,Lagerbestand überprüfen,2024-03-04 23:13:29,Bestandsverwaltung,Laura Fischer,"2,23",PepsiCo,Produkt H,"130,0",Lager D,Lager H
+051,Auftragsabwicklung im System starten,2024-03-04 23:45:29,Bestandsverwaltung,Paul Zimmer,"6,25",PepsiCo,Produkt H,"130,0",Lager I,Lager I
+051,Artikel zusammenstellen,2024-03-05 00:23:29,Lager,Jonas Richter,"2,05",PepsiCo,Produkt H,"130,0",Lager D,Lager B
+051,Ware verpacken,2024-03-05 00:41:29,Lager,Mia Schmitt,"7,39",PepsiCo,Produkt H,"130,0",Lager D,Lager G
+051,Gewicht prüfen,2024-03-05 00:43:29,Qualitätskontrolle,Hannah Meyer,"2,75",PepsiCo,Produkt H,"130,0",Lager H,Lager C
+051,Anzahl der Artikel überprüfen,2024-03-05 00:56:29,Qualitätskontrolle,Hannah Meyer,"3,43",PepsiCo,Produkt H,"130,0",Lager H,Lager I
+051,Verpackung prüfen,2024-03-05 01:34:29,Qualitätskontrolle,Emilia Wagner,"5,88",PepsiCo,Produkt H,"130,0",Lager H,Lager D
+051,Informationen an Transporteur übermitteln,2024-03-05 02:15:29,Warenausgang,Emma Weber,"9,86",PepsiCo,Produkt H,"130,0",Lager B,Lager I
+051,Paket an Transporteur übergeben,2024-03-05 02:41:29,Warenausgang,Sophia Lang,"10,7",PepsiCo,Produkt H,"130,0",Lager A,Lager A
+051,Bestellstatus im System ändern,2024-03-05 03:30:29,Warenausgang,Leonie Richter,"2,18",PepsiCo,Produkt H,"130,0",Lager E,Lager H
+052,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,36",Bayer,Produkt F,"110,0",Lager H,Lager A
+052,Kunden-Daten in System übertragen,2024-03-04 21:26:29,Auftragsannahme,Max Mustermann,"4,03",Bayer,Produkt F,"110,0",Lager B,Lager H
+052,Zahlvorgang abschließen,2024-03-04 21:44:29,Auftragsannahme,Timo Wagner,"6,34",Bayer,Produkt F,"110,0",Lager D,Lager H
+052,Bestellung im System eintragen,2024-03-04 22:04:29,Auftragsannahme,Lisa Schulz,"6,79",Bayer,Produkt F,"110,0",Lager F,Lager A
+052,Lagerbestand überprüfen,2024-03-04 22:13:29,Bestandsverwaltung,Lisa Mueller,"2,72",Bayer,Produkt F,"110,0",Lager J,Lager I
+052,Auftragsabwicklung im System starten,2024-03-04 23:06:29,Bestandsverwaltung,Lisa Mueller,"7,68",Bayer,Produkt F,"110,0",Lager C,Lager H
+052,Artikel zusammenstellen,2024-03-05 00:01:29,Lager,Mia Schmitt,"3,18",Bayer,Produkt F,"110,0",Lager A,Lager J
+052,Ware verpacken,2024-03-05 00:23:29,Lager,Jonas Richter,"7,7",Bayer,Produkt F,"110,0",Lager J,Lager G
+052,Gewicht prüfen,2024-03-05 01:02:29,Qualitätskontrolle,Emilia Wagner,"2,07",Bayer,Produkt F,"110,0",Lager I,Lager G
+052,Anzahl der Artikel überprüfen,2024-03-05 01:16:29,Qualitätskontrolle,Hannah Meyer,"4,42",Bayer,Produkt F,"110,0",Lager F,Lager J
+052,Verpackung prüfen,2024-03-05 01:46:29,Qualitätskontrolle,Emilia Wagner,"6,77",Bayer,Produkt F,"110,0",Lager D,Lager E
+052,Paket zur Warenausgabe bringen,2024-03-05 01:55:29,Warenausgang,Luca Huber,"8,47",Bayer,Produkt F,"110,0",Lager G,Lager H
+052,Paket an Kunde übergeben,2024-03-05 02:22:29,Warenausgang,Emma Weber,"7,59",Bayer,Produkt F,"110,0",Lager B,Lager A
+052,Bestellstatus im System ändern,2024-03-05 03:09:29,Warenausgang,Leonie Richter,"2,87",Bayer,Produkt F,"110,0",Lager H,Lager I
+053,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,96",Hitachi,Produkt L,"140,0",Lager B,Lager J
+053,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Sarah Schmidt,"4,39",Hitachi,Produkt L,"140,0",Lager D,Lager D
+053,Zahlvorgang abschließen,2024-03-04 21:18:29,Auftragsannahme,Lena Mueller,"5,1",Hitachi,Produkt L,"140,0",Lager A,Lager E
+053,Bestellung im System eintragen,2024-03-04 22:00:29,Auftragsannahme,Sarah Schmidt,"6,55",Hitachi,Produkt L,"140,0",Lager D,Lager J
+053,Lagerbestand überprüfen,2024-03-04 22:06:29,Bestandsverwaltung,Lisa Mueller,"2,1",Hitachi,Produkt L,"140,0",Lager G,Lager D
+053,Auftragsabwicklung im System starten,2024-03-04 23:00:29,Bestandsverwaltung,Nico Schmidt,"7,47",Hitachi,Produkt L,"140,0",Lager B,Lager C
+053,Artikel zusammenstellen,2024-03-04 23:24:29,Lager,Jonas Richter,"3,04",Hitachi,Produkt L,"140,0",Lager I,Lager I
+053,Ware verpacken,2024-03-05 00:15:29,Lager,Mia Schmitt,"6,37",Hitachi,Produkt L,"140,0",Lager I,Lager B
+053,Gewicht prüfen,2024-03-05 01:10:29,Qualitätskontrolle,Emilia Wagner,"2,79",Hitachi,Produkt L,"140,0",Lager C,Lager I
+053,Anzahl der Artikel überprüfen,2024-03-05 02:09:29,Qualitätskontrolle,Emilia Wagner,"3,79",Hitachi,Produkt L,"140,0",Lager F,Lager D
+053,Verpackung prüfen,2024-03-05 02:10:29,Qualitätskontrolle,Hannah Meyer,"5,51",Hitachi,Produkt L,"140,0",Lager E,Lager G
+053,Paket zur Warenausgabe bringen,2024-03-05 02:17:29,Warenausgang,Emma Weber,"9,0",Hitachi,Produkt L,"140,0",Lager H,Lager A
+053,Zahlungsabwicklung durchführen,2024-03-05 02:54:29,Warenausgang,Leonie Richter,"8,01",Hitachi,Produkt L,"140,0",Lager C,Lager J
+053,Paket an Kunde übergeben,2024-03-05 03:51:29,Warenausgang,Sophia Lang,"9,13",Hitachi,Produkt L,"140,0",Lager G,Lager J
+053,Bestellstatus im System ändern,2024-03-05 04:03:29,Warenausgang,Luca Huber,"1,84",Hitachi,Produkt L,"140,0",Lager I,Lager I
+054,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,58",Daimler AG,Produkt A,"100,0",Lager B,Lager B
+054,Kunden-Daten in System übertragen,2024-03-04 21:17:29,Auftragsannahme,Max Mustermann,"3,57",Daimler AG,Produkt A,"100,0",Lager J,Lager D
+054,Zahlvorgang abschließen,2024-03-04 21:58:29,Auftragsannahme,Max Mustermann,"3,99",Daimler AG,Produkt A,"100,0",Lager E,Lager B
+054,Bestellung im System eintragen,2024-03-04 22:07:29,Auftragsannahme,Max Mustermann,"8,72",Daimler AG,Produkt A,"100,0",Lager C,Lager I
+054,Lagerbestand überprüfen,2024-03-04 22:44:29,Bestandsverwaltung,Nico Schmidt,"2,75",Daimler AG,Produkt A,"100,0",Lager B,Lager B
+054,Auftragsabwicklung im System starten,2024-03-04 23:37:29,Bestandsverwaltung,Paul Zimmer,"7,82",Daimler AG,Produkt A,"100,0",Lager F,Lager A
+054,Artikel zusammenstellen,2024-03-05 00:23:29,Lager,Mia Schmitt,"4,82",Daimler AG,Produkt A,"100,0",Lager J,Lager J
+054,Ware verpacken,2024-03-05 00:26:29,Lager,Mia Schmitt,"3,46",Daimler AG,Produkt A,"100,0",Lager D,Lager I
+054,Gewicht prüfen,2024-03-05 00:58:29,Qualitätskontrolle,Noah Becker,"2,17",Daimler AG,Produkt A,"100,0",Lager D,Lager I
+054,Anzahl der Artikel überprüfen,2024-03-05 01:33:29,Qualitätskontrolle,Emilia Wagner,"4,83",Daimler AG,Produkt A,"100,0",Lager H,Lager E
+054,Verpackung prüfen,2024-03-05 01:45:29,Qualitätskontrolle,Hannah Meyer,"4,24",Daimler AG,Produkt A,"100,0",Lager H,Lager F
+054,Paket zur Warenausgabe bringen,2024-03-05 02:40:29,Warenausgang,Sophia Lang,"6,24",Daimler AG,Produkt A,"100,0",Lager B,Lager A
+054,Paket an Kunde übergeben,2024-03-05 02:55:29,Warenausgang,David Meyer,"6,91",Daimler AG,Produkt A,"100,0",Lager D,Lager E
+054,Bestellstatus im System ändern,2024-03-05 03:33:29,Warenausgang,Sophia Lang,"2,6",Daimler AG,Produkt A,"100,0",Lager G,Lager E
+055,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,28",Hitachi,Produkt T,"85,0",Lager C,Lager E
+055,Kunden-Daten in System übertragen,2024-03-04 21:37:29,Auftragsannahme,Sarah Schmidt,"4,17",Hitachi,Produkt T,"85,0",Lager E,Lager A
+055,Zahlvorgang abschließen,2024-03-04 22:28:29,Auftragsannahme,Lisa Schulz,"3,95",Hitachi,Produkt T,"85,0",Lager I,Lager I
+055,Bestellung im System eintragen,2024-03-04 23:00:29,Auftragsannahme,Sarah Schmidt,"5,36",Hitachi,Produkt T,"85,0",Lager I,Lager G
+055,Lagerbestand überprüfen,2024-03-04 23:39:29,Bestandsverwaltung,Lisa Mueller,"2,12",Hitachi,Produkt T,"85,0",Lager F,Lager E
+055,Auftragsabwicklung im System starten,2024-03-05 00:16:29,Bestandsverwaltung,Nico Schmidt,"5,81",Hitachi,Produkt T,"85,0",Lager C,Lager B
+055,Artikel zusammenstellen,2024-03-05 00:43:29,Lager,Jonas Richter,"5,81",Hitachi,Produkt T,"85,0",Lager C,Lager D
+055,Ware verpacken,2024-03-05 01:40:29,Lager,Jonas Richter,"3,61",Hitachi,Produkt T,"85,0",Lager J,Lager B
+055,Gewicht prüfen,2024-03-05 02:28:29,Qualitätskontrolle,Hannah Meyer,"2,25",Hitachi,Produkt T,"85,0",Lager B,Lager D
+055,Anzahl der Artikel überprüfen,2024-03-05 03:12:29,Qualitätskontrolle,Emilia Wagner,"2,8",Hitachi,Produkt T,"85,0",Lager E,Lager E
+055,Verpackung prüfen,2024-03-05 03:52:29,Qualitätskontrolle,Emilia Wagner,"5,55",Hitachi,Produkt T,"85,0",Lager C,Lager G
+055,Paket zur Warenausgabe bringen,2024-03-05 04:47:29,Warenausgang,Emma Weber,"6,37",Hitachi,Produkt T,"85,0",Lager F,Lager I
+055,Paket an Kunde übergeben,2024-03-05 04:54:29,Warenausgang,Emma Weber,"5,89",Hitachi,Produkt T,"85,0",Lager E,Lager H
+055,Bestellstatus im System ändern,2024-03-05 05:06:29,Warenausgang,David Meyer,"1,04",Hitachi,Produkt T,"85,0",Lager B,Lager J
+056,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,95",BASF,Produkt M,"95,0",Lager D,Lager H
+056,Kunden-Daten in System übertragen,2024-03-04 21:22:29,Auftragsannahme,Sarah Schmidt,"2,6",BASF,Produkt M,"95,0",Lager H,Lager C
+056,Zahlvorgang abschließen,2024-03-04 21:57:29,Auftragsannahme,Max Mustermann,"5,6",BASF,Produkt M,"95,0",Lager I,Lager J
+056,Bestellung im System eintragen,2024-03-04 22:38:29,Auftragsannahme,Timo Wagner,"6,35",BASF,Produkt M,"95,0",Lager D,Lager H
+056,Lagerbestand überprüfen,2024-03-04 23:31:29,Bestandsverwaltung,Paul Zimmer,"1,72",BASF,Produkt M,"95,0",Lager E,Lager B
+056,Auftragsabwicklung im System starten,2024-03-04 23:32:29,Bestandsverwaltung,Jan Becker,"8,23",BASF,Produkt M,"95,0",Lager D,Lager C
+056,Artikel zusammenstellen,2024-03-05 00:07:29,Lager,Jonas Richter,"4,55",BASF,Produkt M,"95,0",Lager A,Lager J
+056,Ware verpacken,2024-03-05 00:46:29,Lager,Mia Schmitt,"6,69",BASF,Produkt M,"95,0",Lager B,Lager F
+056,Gewicht prüfen,2024-03-05 01:19:29,Qualitätskontrolle,Hannah Meyer,"2,63",BASF,Produkt M,"95,0",Lager J,Lager I
+056,Anzahl der Artikel überprüfen,2024-03-05 01:48:29,Qualitätskontrolle,Noah Becker,"3,59",BASF,Produkt M,"95,0",Lager E,Lager B
+056,Verpackung prüfen,2024-03-05 02:05:29,Qualitätskontrolle,Noah Becker,"5,3",BASF,Produkt M,"95,0",Lager E,Lager D
+056,Paket zur Warenausgabe bringen,2024-03-05 02:58:29,Warenausgang,Leonie Richter,"7,14",BASF,Produkt M,"95,0",Lager B,Lager C
+056,Paket an Kunde übergeben,2024-03-05 03:27:29,Warenausgang,Luca Huber,"8,35",BASF,Produkt M,"95,0",Lager A,Lager A
+056,Bestellstatus im System ändern,2024-03-05 04:00:29,Warenausgang,Leonie Richter,"1,97",BASF,Produkt M,"95,0",Lager E,Lager J
+057,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,47",Daimler AG,Produkt H,"130,0",Lager H,Lager G
+057,Kunden-Daten in System übertragen,2024-03-04 21:05:29,Auftragsannahme,Lena Mueller,"3,68",Daimler AG,Produkt H,"130,0",Lager D,Lager D
+057,Zahlvorgang abschließen,2024-03-04 21:56:29,Auftragsannahme,Timo Wagner,"3,48",Daimler AG,Produkt H,"130,0",Lager G,Lager I
+057,Bestellung im System eintragen,2024-03-04 22:21:29,Auftragsannahme,Max Mustermann,"6,52",Daimler AG,Produkt H,"130,0",Lager A,Lager E
+057,Lagerbestand überprüfen,2024-03-04 22:42:29,Bestandsverwaltung,Laura Fischer,"1,76",Daimler AG,Produkt H,"130,0",Lager G,Lager C
+057,Auftragsabwicklung im System starten,2024-03-04 23:08:29,Bestandsverwaltung,Nico Schmidt,"7,16",Daimler AG,Produkt H,"130,0",Lager G,Lager G
+057,Artikel zusammenstellen,2024-03-04 23:17:29,Lager,Mia Schmitt,"4,94",Daimler AG,Produkt H,"130,0",Lager E,Lager I
+057,Ware verpacken,2024-03-04 23:53:29,Lager,Jonas Richter,"6,44",Daimler AG,Produkt H,"130,0",Lager D,Lager C
+057,Gewicht prüfen,2024-03-05 00:31:29,Qualitätskontrolle,Noah Becker,"2,2",Daimler AG,Produkt H,"130,0",Lager C,Lager A
+057,Anzahl der Artikel überprüfen,2024-03-05 00:56:29,Qualitätskontrolle,Hannah Meyer,"3,42",Daimler AG,Produkt H,"130,0",Lager I,Lager C
+057,Verpackung prüfen,2024-03-05 01:33:29,Qualitätskontrolle,Hannah Meyer,"6,8",Daimler AG,Produkt H,"130,0",Lager F,Lager B
+057,Paket zur Warenausgabe bringen,2024-03-05 01:42:29,Warenausgang,Sophia Lang,"7,47",Daimler AG,Produkt H,"130,0",Lager B,Lager A
+057,Paket an Kunde übergeben,2024-03-05 01:43:29,Warenausgang,Luca Huber,"6,73",Daimler AG,Produkt H,"130,0",Lager D,Lager I
+057,Bestellstatus im System ändern,2024-03-05 01:58:29,Warenausgang,Leonie Richter,"2,03",Daimler AG,Produkt H,"130,0",Lager H,Lager A
+058,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,33",Airbus,Produkt M,"95,0",Lager I,Lager F
+058,Kunden-Daten in System übertragen,2024-03-04 21:26:29,Auftragsannahme,Lena Mueller,"4,68",Airbus,Produkt M,"95,0",Lager E,Lager D
+058,Zahlvorgang abschließen,2024-03-04 22:01:29,Auftragsannahme,Sarah Schmidt,"6,97",Airbus,Produkt M,"95,0",Lager E,Lager B
+058,Bestellung im System eintragen,2024-03-04 22:23:29,Auftragsannahme,Lisa Schulz,"5,48",Airbus,Produkt M,"95,0",Lager F,Lager H
+058,Lagerbestand überprüfen,2024-03-04 22:24:29,Bestandsverwaltung,Lisa Mueller,"2,87",Airbus,Produkt M,"95,0",Lager B,Lager C
+058,Auftragsabwicklung im System starten,2024-03-04 22:25:29,Bestandsverwaltung,Laura Fischer,"8,5",Airbus,Produkt M,"95,0",Lager A,Lager A
+058,Artikel zusammenstellen,2024-03-04 23:09:29,Lager,Mia Schmitt,"5,8",Airbus,Produkt M,"95,0",Lager B,Lager H
+058,Ware verpacken,2024-03-04 23:11:29,Lager,Mia Schmitt,"4,04",Airbus,Produkt M,"95,0",Lager F,Lager F
+058,Gewicht prüfen,2024-03-04 23:45:29,Qualitätskontrolle,Emilia Wagner,"1,4",Airbus,Produkt M,"95,0",Lager C,Lager D
+058,Anzahl der Artikel überprüfen,2024-03-05 00:12:29,Qualitätskontrolle,Emilia Wagner,"2,45",Airbus,Produkt M,"95,0",Lager A,Lager H
+058,Verpackung prüfen,2024-03-05 00:13:29,Qualitätskontrolle,Noah Becker,"6,22",Airbus,Produkt M,"95,0",Lager B,Lager A
+058,Paket zur Warenausgabe bringen,2024-03-05 00:37:29,Warenausgang,Luca Huber,"6,72",Airbus,Produkt M,"95,0",Lager D,Lager C
+058,Zahlungsabwicklung durchführen,2024-03-05 01:23:29,Warenausgang,David Meyer,"7,95",Airbus,Produkt M,"95,0",Lager I,Lager G
+058,Paket an Kunde übergeben,2024-03-05 02:18:29,Warenausgang,David Meyer,"8,22",Airbus,Produkt M,"95,0",Lager C,Lager D
+058,Bestellstatus im System ändern,2024-03-05 02:31:29,Warenausgang,David Meyer,"2,64",Airbus,Produkt M,"95,0",Lager J,Lager D
+059,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,65",Sony,Produkt P,"100,0",Lager D,Lager J
+059,Kunden-Daten in System übertragen,2024-03-04 20:51:29,Auftragsannahme,Lisa Schulz,"3,44",Sony,Produkt P,"100,0",Lager H,Lager H
+059,Zahlvorgang abschließen,2024-03-04 21:06:29,Auftragsannahme,Sarah Schmidt,"4,66",Sony,Produkt P,"100,0",Lager A,Lager D
+059,Bestellung im System eintragen,2024-03-04 21:26:29,Auftragsannahme,Lena Mueller,"7,32",Sony,Produkt P,"100,0",Lager G,Lager C
+059,Lagerbestand überprüfen,2024-03-04 22:10:29,Bestandsverwaltung,Nico Schmidt,"2,63",Sony,Produkt P,"100,0",Lager B,Lager F
+059,Auftragsabwicklung im System starten,2024-03-04 22:32:29,Bestandsverwaltung,Jan Becker,"5,68",Sony,Produkt P,"100,0",Lager B,Lager E
+059,Artikel zusammenstellen,2024-03-04 23:11:29,Lager,Mia Schmitt,"3,15",Sony,Produkt P,"100,0",Lager B,Lager B
+059,Ware verpacken,2024-03-04 23:17:29,Lager,Mia Schmitt,"5,38",Sony,Produkt P,"100,0",Lager I,Lager G
+059,Gewicht prüfen,2024-03-04 23:52:29,Qualitätskontrolle,Noah Becker,"2,74",Sony,Produkt P,"100,0",Lager C,Lager I
+059,Anzahl der Artikel überprüfen,2024-03-05 00:43:29,Qualitätskontrolle,Noah Becker,"3,22",Sony,Produkt P,"100,0",Lager E,Lager I
+059,Verpackung prüfen,2024-03-05 00:44:29,Qualitätskontrolle,Emilia Wagner,"3,36",Sony,Produkt P,"100,0",Lager G,Lager D
+059,Paket zur Warenausgabe bringen,2024-03-05 00:50:29,Warenausgang,Luca Huber,"6,95",Sony,Produkt P,"100,0",Lager E,Lager E
+059,Paket an Kunde übergeben,2024-03-05 01:42:29,Warenausgang,Leonie Richter,"6,31",Sony,Produkt P,"100,0",Lager F,Lager H
+059,Bestellstatus im System ändern,2024-03-05 01:56:29,Warenausgang,Leonie Richter,"2,51",Sony,Produkt P,"100,0",Lager A,Lager H
+060,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,01",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager D
+060,Kunden-Daten in System übertragen,2024-03-04 21:31:29,Auftragsannahme,Max Mustermann,"3,56",Mitsubishi Electric,Produkt F,"110,0",Lager D,Lager H
+060,Zahlvorgang abschließen,2024-03-04 22:14:29,Auftragsannahme,Lena Mueller,"5,31",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager B
+060,Bestellung im System eintragen,2024-03-04 22:45:29,Auftragsannahme,Lisa Schulz,"6,74",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager E
+060,Lagerbestand überprüfen,2024-03-04 23:39:29,Bestandsverwaltung,Lisa Mueller,"2,24",Mitsubishi Electric,Produkt F,"110,0",Lager D,Lager E
+060,Auftragsabwicklung im System starten,2024-03-05 00:19:29,Bestandsverwaltung,Laura Fischer,"5,32",Mitsubishi Electric,Produkt F,"110,0",Lager E,Lager F
+060,Artikel zusammenstellen,2024-03-05 00:51:29,Lager,Mia Schmitt,"2,3",Mitsubishi Electric,Produkt F,"110,0",Lager A,Lager F
+060,Ware verpacken,2024-03-05 01:28:29,Lager,Jonas Richter,"3,45",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager H
+060,Gewicht prüfen,2024-03-05 02:15:29,Qualitätskontrolle,Hannah Meyer,"1,41",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager E
+060,Anzahl der Artikel überprüfen,2024-03-05 02:37:29,Qualitätskontrolle,Hannah Meyer,"3,22",Mitsubishi Electric,Produkt F,"110,0",Lager D,Lager D
+060,Verpackung prüfen,2024-03-05 02:39:29,Qualitätskontrolle,Hannah Meyer,"5,22",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager F
+060,Informationen an Transporteur übermitteln,2024-03-05 03:30:29,Warenausgang,Sophia Lang,"8,21",Mitsubishi Electric,Produkt F,"110,0",Lager B,Lager C
+060,Paket an Transporteur übergeben,2024-03-05 03:47:29,Warenausgang,Leonie Richter,"11,9",Mitsubishi Electric,Produkt F,"110,0",Lager A,Lager H
+060,Bestellstatus im System ändern,2024-03-05 03:56:29,Warenausgang,Emma Weber,"2,64",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager B
+061,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,86",Toyota,Produkt D,"70,0",Lager F,Lager B
+061,Kunden-Daten in System übertragen,2024-03-04 20:44:29,Auftragsannahme,Sarah Schmidt,"4,68",Toyota,Produkt D,"70,0",Lager I,Lager E
+061,Zahlvorgang abschließen,2024-03-04 21:29:29,Auftragsannahme,Sarah Schmidt,"3,41",Toyota,Produkt D,"70,0",Lager A,Lager G
+061,Bestellung im System eintragen,2024-03-04 21:48:29,Auftragsannahme,Sarah Schmidt,"4,65",Toyota,Produkt D,"70,0",Lager I,Lager E
+061,Lagerbestand überprüfen,2024-03-04 22:26:29,Bestandsverwaltung,Jan Becker,"1,59",Toyota,Produkt D,"70,0",Lager D,Lager F
+061,Auftragsabwicklung im System starten,2024-03-04 23:20:29,Bestandsverwaltung,Jan Becker,"9,71",Toyota,Produkt D,"70,0",Lager J,Lager B
+061,Artikel zusammenstellen,2024-03-05 00:20:29,Lager,Mia Schmitt,"4,89",Toyota,Produkt D,"70,0",Lager C,Lager G
+061,Ware verpacken,2024-03-05 00:59:29,Lager,Jonas Richter,"5,39",Toyota,Produkt D,"70,0",Lager C,Lager C
+061,Gewicht prüfen,2024-03-05 01:57:29,Qualitätskontrolle,Hannah Meyer,"1,19",Toyota,Produkt D,"70,0",Lager E,Lager J
+061,Anzahl der Artikel überprüfen,2024-03-05 02:23:29,Qualitätskontrolle,Emilia Wagner,"4,31",Toyota,Produkt D,"70,0",Lager A,Lager E
+061,Verpackung prüfen,2024-03-05 03:11:29,Qualitätskontrolle,Noah Becker,"5,45",Toyota,Produkt D,"70,0",Lager C,Lager A
+061,Paket zur Warenausgabe bringen,2024-03-05 04:02:29,Warenausgang,Luca Huber,"7,46",Toyota,Produkt D,"70,0",Lager E,Lager E
+061,Zahlungsabwicklung durchführen,2024-03-05 04:48:29,Warenausgang,Luca Huber,"11,77",Toyota,Produkt D,"70,0",Lager E,Lager C
+061,Paket an Kunde übergeben,2024-03-05 05:15:29,Warenausgang,Sophia Lang,"5,42",Toyota,Produkt D,"70,0",Lager H,Lager C
+061,Bestellstatus im System ändern,2024-03-05 05:49:29,Warenausgang,David Meyer,"2,73",Toyota,Produkt D,"70,0",Lager E,Lager F
+062,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,95",Airbus,Produkt D,"70,0",Lager E,Lager J
+062,Kunden-Daten in System übertragen,2024-03-04 21:26:29,Auftragsannahme,Lena Mueller,"4,54",Airbus,Produkt D,"70,0",Lager A,Lager E
+062,Zahlvorgang abschließen,2024-03-04 22:04:29,Auftragsannahme,Lena Mueller,"6,36",Airbus,Produkt D,"70,0",Lager G,Lager F
+062,Bestellung im System eintragen,2024-03-04 22:21:29,Auftragsannahme,Lisa Schulz,"4,71",Airbus,Produkt D,"70,0",Lager I,Lager G
+062,Lagerbestand überprüfen,2024-03-04 22:40:29,Bestandsverwaltung,Lisa Mueller,"2,57",Airbus,Produkt D,"70,0",Lager J,Lager H
+062,Auftragsabwicklung im System starten,2024-03-04 22:42:29,Bestandsverwaltung,Paul Zimmer,"8,29",Airbus,Produkt D,"70,0",Lager A,Lager B
+062,Artikel zusammenstellen,2024-03-04 23:29:29,Lager,Mia Schmitt,"2,98",Airbus,Produkt D,"70,0",Lager H,Lager F
+062,Ware verpacken,2024-03-05 00:13:29,Lager,Mia Schmitt,"5,05",Airbus,Produkt D,"70,0",Lager J,Lager J
+062,Gewicht prüfen,2024-03-05 00:34:29,Qualitätskontrolle,Hannah Meyer,"1,82",Airbus,Produkt D,"70,0",Lager I,Lager G
+062,Anzahl der Artikel überprüfen,2024-03-05 00:42:29,Qualitätskontrolle,Noah Becker,"4,48",Airbus,Produkt D,"70,0",Lager H,Lager A
+062,Verpackung prüfen,2024-03-05 01:28:29,Qualitätskontrolle,Hannah Meyer,"5,9",Airbus,Produkt D,"70,0",Lager D,Lager E
+062,Informationen an Transporteur übermitteln,2024-03-05 02:22:29,Warenausgang,Leonie Richter,"6,79",Airbus,Produkt D,"70,0",Lager H,Lager I
+062,Paket an Transporteur übergeben,2024-03-05 02:38:29,Warenausgang,Luca Huber,"10,98",Airbus,Produkt D,"70,0",Lager A,Lager H
+062,Bestellstatus im System ändern,2024-03-05 02:56:29,Warenausgang,Emma Weber,"2,24",Airbus,Produkt D,"70,0",Lager J,Lager I
+063,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,59",BASF,Produkt R,"130,0",Lager D,Lager A
+063,Kunden-Daten in System übertragen,2024-03-04 20:55:29,Auftragsannahme,Timo Wagner,"2,26",BASF,Produkt R,"130,0",Lager D,Lager D
+063,Zahlvorgang abschließen,2024-03-04 21:55:29,Auftragsannahme,Max Mustermann,"6,17",BASF,Produkt R,"130,0",Lager C,Lager B
+063,Bestellung im System eintragen,2024-03-04 22:44:29,Auftragsannahme,Max Mustermann,"4,02",BASF,Produkt R,"130,0",Lager A,Lager A
+063,Lagerbestand überprüfen,2024-03-04 22:52:29,Bestandsverwaltung,Paul Zimmer,"1,95",BASF,Produkt R,"130,0",Lager C,Lager A
+063,Auftragsabwicklung im System starten,2024-03-04 22:57:29,Bestandsverwaltung,Nico Schmidt,"5,79",BASF,Produkt R,"130,0",Lager G,Lager E
+063,Artikel zusammenstellen,2024-03-04 23:04:29,Lager,Mia Schmitt,"4,36",BASF,Produkt R,"130,0",Lager F,Lager C
+063,Ware verpacken,2024-03-04 23:09:29,Lager,Mia Schmitt,"3,92",BASF,Produkt R,"130,0",Lager J,Lager B
+063,Gewicht prüfen,2024-03-05 00:01:29,Qualitätskontrolle,Noah Becker,"1,97",BASF,Produkt R,"130,0",Lager G,Lager A
+063,Anzahl der Artikel überprüfen,2024-03-05 00:46:29,Qualitätskontrolle,Noah Becker,"3,14",BASF,Produkt R,"130,0",Lager E,Lager F
+063,Verpackung prüfen,2024-03-05 00:50:29,Qualitätskontrolle,Emilia Wagner,"5,91",BASF,Produkt R,"130,0",Lager F,Lager J
+063,Paket zur Warenausgabe bringen,2024-03-05 01:33:29,Warenausgang,David Meyer,"5,38",BASF,Produkt R,"130,0",Lager G,Lager C
+063,Paket an Kunde übergeben,2024-03-05 02:18:29,Warenausgang,Luca Huber,"9,32",BASF,Produkt R,"130,0",Lager G,Lager B
+063,Bestellstatus im System ändern,2024-03-05 02:52:29,Warenausgang,David Meyer,"1,59",BASF,Produkt R,"130,0",Lager G,Lager C
+064,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,91",Ford Motor,Produkt G,"95,0",Lager F,Lager H
+064,Kunden-Daten in System übertragen,2024-03-04 21:11:29,Auftragsannahme,Timo Wagner,"2,2",Ford Motor,Produkt G,"95,0",Lager A,Lager H
+064,Zahlvorgang abschließen,2024-03-04 21:17:29,Auftragsannahme,Lena Mueller,"6,17",Ford Motor,Produkt G,"95,0",Lager A,Lager G
+064,Bestellung im System eintragen,2024-03-04 22:15:29,Auftragsannahme,Lena Mueller,"5,05",Ford Motor,Produkt G,"95,0",Lager B,Lager B
+064,Lagerbestand überprüfen,2024-03-04 23:00:29,Bestandsverwaltung,Paul Zimmer,"2,6",Ford Motor,Produkt G,"95,0",Lager D,Lager F
+064,Auftragsabwicklung im System starten,2024-03-04 23:50:29,Bestandsverwaltung,Laura Fischer,"6,67",Ford Motor,Produkt G,"95,0",Lager H,Lager C
+064,Artikel zusammenstellen,2024-03-05 00:47:29,Lager,Mia Schmitt,"3,04",Ford Motor,Produkt G,"95,0",Lager I,Lager G
+064,Ware verpacken,2024-03-05 01:22:29,Lager,Jonas Richter,"4,11",Ford Motor,Produkt G,"95,0",Lager F,Lager A
+064,Gewicht prüfen,2024-03-05 02:07:29,Qualitätskontrolle,Noah Becker,"2,21",Ford Motor,Produkt G,"95,0",Lager G,Lager J
+064,Anzahl der Artikel überprüfen,2024-03-05 03:05:29,Qualitätskontrolle,Hannah Meyer,"2,16",Ford Motor,Produkt G,"95,0",Lager H,Lager H
+064,Verpackung prüfen,2024-03-05 04:03:29,Qualitätskontrolle,Hannah Meyer,"4,66",Ford Motor,Produkt G,"95,0",Lager I,Lager B
+064,Informationen an Transporteur übermitteln,2024-03-05 04:09:29,Warenausgang,Leonie Richter,"7,56",Ford Motor,Produkt G,"95,0",Lager E,Lager I
+064,Paket an Transporteur übergeben,2024-03-05 04:31:29,Warenausgang,Luca Huber,"11,78",Ford Motor,Produkt G,"95,0",Lager B,Lager I
+064,Bestellstatus im System ändern,2024-03-05 04:49:29,Warenausgang,Emma Weber,"1,69",Ford Motor,Produkt G,"95,0",Lager J,Lager H
+065,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,68",Ford Motor,Produkt S,"90,0",Lager I,Lager A
+065,Kunden-Daten in System übertragen,2024-03-04 21:21:29,Auftragsannahme,Lisa Schulz,"4,73",Ford Motor,Produkt S,"90,0",Lager J,Lager C
+065,Zahlvorgang abschließen,2024-03-04 21:47:29,Auftragsannahme,Timo Wagner,"6,86",Ford Motor,Produkt S,"90,0",Lager E,Lager G
+065,Bestellung im System eintragen,2024-03-04 22:46:29,Auftragsannahme,Sarah Schmidt,"4,63",Ford Motor,Produkt S,"90,0",Lager G,Lager E
+065,Lagerbestand überprüfen,2024-03-04 23:29:29,Bestandsverwaltung,Laura Fischer,"2,68",Ford Motor,Produkt S,"90,0",Lager F,Lager J
+065,Auftragsabwicklung im System starten,2024-03-05 00:09:29,Bestandsverwaltung,Lisa Mueller,"5,9",Ford Motor,Produkt S,"90,0",Lager B,Lager C
+065,Artikel zusammenstellen,2024-03-05 00:59:29,Lager,Jonas Richter,"5,73",Ford Motor,Produkt S,"90,0",Lager F,Lager E
+065,Ware verpacken,2024-03-05 01:46:29,Lager,Jonas Richter,"6,24",Ford Motor,Produkt S,"90,0",Lager D,Lager F
+065,Gewicht prüfen,2024-03-05 01:56:29,Qualitätskontrolle,Emilia Wagner,"1,58",Ford Motor,Produkt S,"90,0",Lager A,Lager B
+065,Anzahl der Artikel überprüfen,2024-03-05 02:02:29,Qualitätskontrolle,Noah Becker,"3,25",Ford Motor,Produkt S,"90,0",Lager E,Lager I
+065,Verpackung prüfen,2024-03-05 02:45:29,Qualitätskontrolle,Hannah Meyer,"3,32",Ford Motor,Produkt S,"90,0",Lager G,Lager J
+065,Informationen an Transporteur übermitteln,2024-03-05 03:40:29,Warenausgang,Emma Weber,"10,18",Ford Motor,Produkt S,"90,0",Lager F,Lager A
+065,Paket an Transporteur übergeben,2024-03-05 03:52:29,Warenausgang,Sophia Lang,"9,0",Ford Motor,Produkt S,"90,0",Lager C,Lager A
+065,Bestellstatus im System ändern,2024-03-05 03:58:29,Warenausgang,David Meyer,"1,46",Ford Motor,Produkt S,"90,0",Lager A,Lager I
+066,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,21",Hitachi,Produkt K,"110,0",Lager E,Lager H
+066,Kunden-Daten in System übertragen,2024-03-04 21:24:29,Auftragsannahme,Max Mustermann,"2,5",Hitachi,Produkt K,"110,0",Lager F,Lager C
+066,Zahlvorgang abschließen,2024-03-04 21:28:29,Auftragsannahme,Max Mustermann,"3,17",Hitachi,Produkt K,"110,0",Lager E,Lager J
+066,Bestellung im System eintragen,2024-03-04 22:15:29,Auftragsannahme,Lisa Schulz,"4,66",Hitachi,Produkt K,"110,0",Lager B,Lager G
+066,Lagerbestand überprüfen,2024-03-04 22:47:29,Bestandsverwaltung,Jan Becker,"1,22",Hitachi,Produkt K,"110,0",Lager F,Lager C
+066,Auftragsabwicklung im System starten,2024-03-04 23:37:29,Bestandsverwaltung,Paul Zimmer,"5,39",Hitachi,Produkt K,"110,0",Lager I,Lager A
+066,Artikel zusammenstellen,2024-03-04 23:44:29,Lager,Jonas Richter,"3,54",Hitachi,Produkt K,"110,0",Lager B,Lager E
+066,Ware verpacken,2024-03-05 00:43:29,Lager,Jonas Richter,"3,04",Hitachi,Produkt K,"110,0",Lager B,Lager J
+066,Gewicht prüfen,2024-03-05 01:19:29,Qualitätskontrolle,Emilia Wagner,"1,95",Hitachi,Produkt K,"110,0",Lager B,Lager H
+066,Anzahl der Artikel überprüfen,2024-03-05 02:02:29,Qualitätskontrolle,Emilia Wagner,"4,88",Hitachi,Produkt K,"110,0",Lager D,Lager G
+066,Verpackung prüfen,2024-03-05 03:00:29,Qualitätskontrolle,Hannah Meyer,"4,55",Hitachi,Produkt K,"110,0",Lager I,Lager C
+066,Informationen an Transporteur übermitteln,2024-03-05 03:40:29,Warenausgang,David Meyer,"11,69",Hitachi,Produkt K,"110,0",Lager E,Lager E
+066,Paket an Transporteur übergeben,2024-03-05 04:13:29,Warenausgang,Leonie Richter,"6,3",Hitachi,Produkt K,"110,0",Lager J,Lager G
+066,Bestellstatus im System ändern,2024-03-05 05:07:29,Warenausgang,Luca Huber,"2,3",Hitachi,Produkt K,"110,0",Lager G,Lager J
+067,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,72",Bayer,Produkt J,"75,0",Lager G,Lager G
+067,Kunden-Daten in System übertragen,2024-03-04 21:09:29,Auftragsannahme,Sarah Schmidt,"2,17",Bayer,Produkt J,"75,0",Lager J,Lager I
+067,Zahlvorgang abschließen,2024-03-04 21:40:29,Auftragsannahme,Lisa Schulz,"5,84",Bayer,Produkt J,"75,0",Lager B,Lager A
+067,Bestellung im System eintragen,2024-03-04 22:35:29,Auftragsannahme,Max Mustermann,"7,55",Bayer,Produkt J,"75,0",Lager E,Lager E
+067,Lagerbestand überprüfen,2024-03-04 22:45:29,Bestandsverwaltung,Lisa Mueller,"2,45",Bayer,Produkt J,"75,0",Lager E,Lager E
+067,Auftragsabwicklung im System starten,2024-03-04 23:13:29,Bestandsverwaltung,Paul Zimmer,"7,71",Bayer,Produkt J,"75,0",Lager E,Lager H
+067,Artikel zusammenstellen,2024-03-04 23:51:29,Lager,Jonas Richter,"2,92",Bayer,Produkt J,"75,0",Lager F,Lager G
+067,Ware verpacken,2024-03-05 00:17:29,Lager,Jonas Richter,"7,56",Bayer,Produkt J,"75,0",Lager A,Lager J
+067,Gewicht prüfen,2024-03-05 00:39:29,Qualitätskontrolle,Hannah Meyer,"1,03",Bayer,Produkt J,"75,0",Lager B,Lager I
+067,Anzahl der Artikel überprüfen,2024-03-05 01:36:29,Qualitätskontrolle,Emilia Wagner,"2,92",Bayer,Produkt J,"75,0",Lager E,Lager A
+067,Verpackung prüfen,2024-03-05 02:13:29,Qualitätskontrolle,Noah Becker,"3,3",Bayer,Produkt J,"75,0",Lager E,Lager E
+067,Paket zur Warenausgabe bringen,2024-03-05 02:50:29,Warenausgang,Luca Huber,"8,04",Bayer,Produkt J,"75,0",Lager I,Lager E
+067,Zahlungsabwicklung durchführen,2024-03-05 03:16:29,Warenausgang,David Meyer,"9,05",Bayer,Produkt J,"75,0",Lager C,Lager E
+067,Paket an Kunde übergeben,2024-03-05 03:30:29,Warenausgang,Emma Weber,"9,17",Bayer,Produkt J,"75,0",Lager A,Lager E
+067,Bestellstatus im System ändern,2024-03-05 04:27:29,Warenausgang,Luca Huber,"2,25",Bayer,Produkt J,"75,0",Lager J,Lager I
+068,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,09",Sony,Produkt O,"120,0",Lager F,Lager F
+068,Kunden-Daten in System übertragen,2024-03-04 21:37:29,Auftragsannahme,Timo Wagner,"2,64",Sony,Produkt O,"120,0",Lager E,Lager E
+068,Zahlvorgang abschließen,2024-03-04 21:57:29,Auftragsannahme,Lena Mueller,"4,48",Sony,Produkt O,"120,0",Lager E,Lager E
+068,Bestellung im System eintragen,2024-03-04 22:20:29,Auftragsannahme,Max Mustermann,"8,43",Sony,Produkt O,"120,0",Lager H,Lager H
+068,Lagerbestand überprüfen,2024-03-04 23:09:29,Bestandsverwaltung,Paul Zimmer,"1,88",Sony,Produkt O,"120,0",Lager C,Lager J
+068,Auftragsabwicklung im System starten,2024-03-05 00:00:29,Bestandsverwaltung,Paul Zimmer,"8,17",Sony,Produkt O,"120,0",Lager G,Lager H
+068,Artikel zusammenstellen,2024-03-05 00:01:29,Lager,Jonas Richter,"5,66",Sony,Produkt O,"120,0",Lager E,Lager H
+068,Ware verpacken,2024-03-05 00:07:29,Lager,Mia Schmitt,"7,74",Sony,Produkt O,"120,0",Lager C,Lager D
+068,Gewicht prüfen,2024-03-05 00:13:29,Qualitätskontrolle,Hannah Meyer,"2,53",Sony,Produkt O,"120,0",Lager A,Lager D
+068,Anzahl der Artikel überprüfen,2024-03-05 00:27:29,Qualitätskontrolle,Noah Becker,"3,08",Sony,Produkt O,"120,0",Lager I,Lager G
+068,Verpackung prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Noah Becker,"4,81",Sony,Produkt O,"120,0",Lager B,Lager I
+068,Paket zur Warenausgabe bringen,2024-03-05 01:24:29,Warenausgang,Emma Weber,"5,94",Sony,Produkt O,"120,0",Lager E,Lager H
+068,Zahlungsabwicklung durchführen,2024-03-05 01:55:29,Warenausgang,Luca Huber,"8,46",Sony,Produkt O,"120,0",Lager D,Lager G
+068,Paket an Kunde übergeben,2024-03-05 02:55:29,Warenausgang,Leonie Richter,"8,56",Sony,Produkt O,"120,0",Lager D,Lager E
+068,Bestellstatus im System ändern,2024-03-05 03:06:29,Warenausgang,Luca Huber,"1,43",Sony,Produkt O,"120,0",Lager I,Lager G
+069,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,65",Nestlé,Produkt S,"90,0",Lager C,Lager J
+069,Kunden-Daten in System übertragen,2024-03-04 20:49:29,Auftragsannahme,Lisa Schulz,"2,75",Nestlé,Produkt S,"90,0",Lager C,Lager H
+069,Zahlvorgang abschließen,2024-03-04 21:32:29,Auftragsannahme,Lisa Schulz,"3,1",Nestlé,Produkt S,"90,0",Lager J,Lager B
+069,Bestellung im System eintragen,2024-03-04 22:02:29,Auftragsannahme,Lena Mueller,"6,19",Nestlé,Produkt S,"90,0",Lager C,Lager F
+069,Lagerbestand überprüfen,2024-03-04 22:11:29,Bestandsverwaltung,Nico Schmidt,"1,04",Nestlé,Produkt S,"90,0",Lager C,Lager J
+069,Auftragsabwicklung im System starten,2024-03-04 23:10:29,Bestandsverwaltung,Nico Schmidt,"6,27",Nestlé,Produkt S,"90,0",Lager H,Lager E
+069,Artikel zusammenstellen,2024-03-04 23:46:29,Lager,Jonas Richter,"3,22",Nestlé,Produkt S,"90,0",Lager G,Lager A
+069,Ware verpacken,2024-03-05 00:32:29,Lager,Jonas Richter,"6,14",Nestlé,Produkt S,"90,0",Lager D,Lager I
+069,Gewicht prüfen,2024-03-05 01:23:29,Qualitätskontrolle,Emilia Wagner,"2,28",Nestlé,Produkt S,"90,0",Lager I,Lager C
+069,Anzahl der Artikel überprüfen,2024-03-05 02:21:29,Qualitätskontrolle,Hannah Meyer,"4,29",Nestlé,Produkt S,"90,0",Lager C,Lager D
+069,Verpackung prüfen,2024-03-05 02:32:29,Qualitätskontrolle,Hannah Meyer,"4,1",Nestlé,Produkt S,"90,0",Lager H,Lager I
+069,Paket zur Warenausgabe bringen,2024-03-05 02:59:29,Warenausgang,Luca Huber,"4,55",Nestlé,Produkt S,"90,0",Lager D,Lager A
+069,Zahlungsabwicklung durchführen,2024-03-05 03:03:29,Warenausgang,Emma Weber,"11,55",Nestlé,Produkt S,"90,0",Lager D,Lager I
+069,Paket an Kunde übergeben,2024-03-05 03:49:29,Warenausgang,Luca Huber,"5,11",Nestlé,Produkt S,"90,0",Lager F,Lager J
+069,Bestellstatus im System ändern,2024-03-05 04:08:29,Warenausgang,Luca Huber,"1,15",Nestlé,Produkt S,"90,0",Lager I,Lager G
+070,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,2",Bayer,Produkt N,"75,0",Lager J,Lager G
+070,Kunden-Daten in System übertragen,2024-03-04 21:25:29,Auftragsannahme,Timo Wagner,"4,2",Bayer,Produkt N,"75,0",Lager F,Lager I
+070,Zahlvorgang abschließen,2024-03-04 21:27:29,Auftragsannahme,Timo Wagner,"6,82",Bayer,Produkt N,"75,0",Lager J,Lager F
+070,Bestellung im System eintragen,2024-03-04 21:40:29,Auftragsannahme,Sarah Schmidt,"6,09",Bayer,Produkt N,"75,0",Lager A,Lager E
+070,Lagerbestand überprüfen,2024-03-04 22:06:29,Bestandsverwaltung,Nico Schmidt,"1,59",Bayer,Produkt N,"75,0",Lager A,Lager B
+070,Auftragsabwicklung im System starten,2024-03-04 22:29:29,Bestandsverwaltung,Lisa Mueller,"8,51",Bayer,Produkt N,"75,0",Lager A,Lager J
+070,Artikel zusammenstellen,2024-03-04 23:25:29,Lager,Mia Schmitt,"4,83",Bayer,Produkt N,"75,0",Lager D,Lager D
+070,Ware verpacken,2024-03-04 23:45:29,Lager,Jonas Richter,"4,85",Bayer,Produkt N,"75,0",Lager C,Lager H
+070,Gewicht prüfen,2024-03-05 00:37:29,Qualitätskontrolle,Emilia Wagner,"1,68",Bayer,Produkt N,"75,0",Lager H,Lager J
+070,Anzahl der Artikel überprüfen,2024-03-05 00:43:29,Qualitätskontrolle,Noah Becker,"3,87",Bayer,Produkt N,"75,0",Lager I,Lager I
+070,Verpackung prüfen,2024-03-05 01:17:29,Qualitätskontrolle,Hannah Meyer,"4,53",Bayer,Produkt N,"75,0",Lager I,Lager D
+070,Informationen an Transporteur übermitteln,2024-03-05 01:54:29,Warenausgang,Sophia Lang,"8,83",Bayer,Produkt N,"75,0",Lager F,Lager E
+070,Paket an Transporteur übergeben,2024-03-05 02:18:29,Warenausgang,Leonie Richter,"10,83",Bayer,Produkt N,"75,0",Lager J,Lager B
+070,Bestellstatus im System ändern,2024-03-05 02:57:29,Warenausgang,Sophia Lang,"2,38",Bayer,Produkt N,"75,0",Lager A,Lager A
+071,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,74",Daimler AG,Produkt J,"75,0",Lager H,Lager F
+071,Kunden-Daten in System übertragen,2024-03-04 20:51:29,Auftragsannahme,Lisa Schulz,"4,65",Daimler AG,Produkt J,"75,0",Lager I,Lager G
+071,Zahlvorgang abschließen,2024-03-04 21:24:29,Auftragsannahme,Max Mustermann,"3,98",Daimler AG,Produkt J,"75,0",Lager J,Lager H
+071,Bestellung im System eintragen,2024-03-04 21:29:29,Auftragsannahme,Sarah Schmidt,"6,64",Daimler AG,Produkt J,"75,0",Lager J,Lager D
+071,Lagerbestand überprüfen,2024-03-04 21:37:29,Bestandsverwaltung,Jan Becker,"1,1",Daimler AG,Produkt J,"75,0",Lager J,Lager A
+071,Auftragsabwicklung im System starten,2024-03-04 22:20:29,Bestandsverwaltung,Lisa Mueller,"6,69",Daimler AG,Produkt J,"75,0",Lager J,Lager D
+071,Artikel zusammenstellen,2024-03-04 22:31:29,Lager,Mia Schmitt,"5,48",Daimler AG,Produkt J,"75,0",Lager A,Lager E
+071,Ware verpacken,2024-03-04 23:31:29,Lager,Mia Schmitt,"7,13",Daimler AG,Produkt J,"75,0",Lager C,Lager A
+071,Gewicht prüfen,2024-03-05 00:07:29,Qualitätskontrolle,Emilia Wagner,"1,85",Daimler AG,Produkt J,"75,0",Lager C,Lager F
+071,Anzahl der Artikel überprüfen,2024-03-05 00:10:29,Qualitätskontrolle,Noah Becker,"3,29",Daimler AG,Produkt J,"75,0",Lager D,Lager A
+071,Verpackung prüfen,2024-03-05 00:25:29,Qualitätskontrolle,Noah Becker,"6,94",Daimler AG,Produkt J,"75,0",Lager A,Lager G
+071,Informationen an Transporteur übermitteln,2024-03-05 00:31:29,Warenausgang,Emma Weber,"11,62",Daimler AG,Produkt J,"75,0",Lager G,Lager H
+071,Paket an Transporteur übergeben,2024-03-05 00:42:29,Warenausgang,Luca Huber,"8,5",Daimler AG,Produkt J,"75,0",Lager D,Lager I
+071,Bestellstatus im System ändern,2024-03-05 01:30:29,Warenausgang,David Meyer,"2,11",Daimler AG,Produkt J,"75,0",Lager D,Lager D
+072,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,91",Nestlé,Produkt K,"110,0",Lager B,Lager C
+072,Kunden-Daten in System übertragen,2024-03-04 20:56:29,Auftragsannahme,Timo Wagner,"2,97",Nestlé,Produkt K,"110,0",Lager D,Lager F
+072,Zahlvorgang abschließen,2024-03-04 21:03:29,Auftragsannahme,Sarah Schmidt,"4,47",Nestlé,Produkt K,"110,0",Lager A,Lager D
+072,Bestellung im System eintragen,2024-03-04 21:15:29,Auftragsannahme,Sarah Schmidt,"6,16",Nestlé,Produkt K,"110,0",Lager E,Lager B
+072,Lagerbestand überprüfen,2024-03-04 22:00:29,Bestandsverwaltung,Laura Fischer,"2,35",Nestlé,Produkt K,"110,0",Lager C,Lager J
+072,Auftragsabwicklung im System starten,2024-03-04 22:04:29,Bestandsverwaltung,Jan Becker,"7,32",Nestlé,Produkt K,"110,0",Lager J,Lager D
+072,Artikel zusammenstellen,2024-03-04 22:24:29,Lager,Jonas Richter,"3,01",Nestlé,Produkt K,"110,0",Lager B,Lager H
+072,Ware verpacken,2024-03-04 22:41:29,Lager,Mia Schmitt,"6,52",Nestlé,Produkt K,"110,0",Lager A,Lager B
+072,Gewicht prüfen,2024-03-04 22:47:29,Qualitätskontrolle,Hannah Meyer,"1,02",Nestlé,Produkt K,"110,0",Lager E,Lager G
+072,Anzahl der Artikel überprüfen,2024-03-04 23:18:29,Qualitätskontrolle,Hannah Meyer,"3,57",Nestlé,Produkt K,"110,0",Lager B,Lager G
+072,Verpackung prüfen,2024-03-04 23:48:29,Qualitätskontrolle,Emilia Wagner,"3,72",Nestlé,Produkt K,"110,0",Lager D,Lager A
+072,Paket zur Warenausgabe bringen,2024-03-05 00:42:29,Warenausgang,Leonie Richter,"5,34",Nestlé,Produkt K,"110,0",Lager F,Lager I
+072,Paket an Kunde übergeben,2024-03-05 01:17:29,Warenausgang,Luca Huber,"6,38",Nestlé,Produkt K,"110,0",Lager B,Lager F
+072,Bestellstatus im System ändern,2024-03-05 01:50:29,Warenausgang,Luca Huber,"1,11",Nestlé,Produkt K,"110,0",Lager D,Lager G
+073,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,33",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager G
+073,Kunden-Daten in System übertragen,2024-03-04 20:54:29,Auftragsannahme,Lisa Schulz,"4,02",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager J
+073,Zahlvorgang abschließen,2024-03-04 21:42:29,Auftragsannahme,Timo Wagner,"5,43",Mitsubishi Electric,Produkt F,"110,0",Lager B,Lager A
+073,Bestellung im System eintragen,2024-03-04 21:53:29,Auftragsannahme,Max Mustermann,"5,7",Mitsubishi Electric,Produkt F,"110,0",Lager A,Lager F
+073,Lagerbestand überprüfen,2024-03-04 22:40:29,Bestandsverwaltung,Laura Fischer,"1,14",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager F
+073,Auftragsabwicklung im System starten,2024-03-04 22:51:29,Bestandsverwaltung,Laura Fischer,"7,56",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager E
+073,Artikel zusammenstellen,2024-03-04 23:16:29,Lager,Mia Schmitt,"5,84",Mitsubishi Electric,Produkt F,"110,0",Lager D,Lager C
+073,Ware verpacken,2024-03-05 00:10:29,Lager,Jonas Richter,"4,06",Mitsubishi Electric,Produkt F,"110,0",Lager G,Lager G
+073,Gewicht prüfen,2024-03-05 00:51:29,Qualitätskontrolle,Emilia Wagner,"2,65",Mitsubishi Electric,Produkt F,"110,0",Lager E,Lager B
+073,Anzahl der Artikel überprüfen,2024-03-05 01:47:29,Qualitätskontrolle,Hannah Meyer,"3,96",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager J
+073,Verpackung prüfen,2024-03-05 02:38:29,Qualitätskontrolle,Emilia Wagner,"6,0",Mitsubishi Electric,Produkt F,"110,0",Lager H,Lager H
+073,Informationen an Transporteur übermitteln,2024-03-05 02:58:29,Warenausgang,David Meyer,"10,44",Mitsubishi Electric,Produkt F,"110,0",Lager C,Lager G
+073,Paket an Transporteur übergeben,2024-03-05 03:10:29,Warenausgang,Leonie Richter,"10,18",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager J
+073,Bestellstatus im System ändern,2024-03-05 03:19:29,Warenausgang,Sophia Lang,"1,83",Mitsubishi Electric,Produkt F,"110,0",Lager F,Lager D
+074,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,87",Siemens,Produkt R,"130,0",Lager E,Lager A
+074,Kunden-Daten in System übertragen,2024-03-04 20:49:29,Auftragsannahme,Timo Wagner,"3,71",Siemens,Produkt R,"130,0",Lager H,Lager I
+074,Zahlvorgang abschließen,2024-03-04 21:17:29,Auftragsannahme,Max Mustermann,"4,59",Siemens,Produkt R,"130,0",Lager E,Lager B
+074,Bestellung im System eintragen,2024-03-04 21:27:29,Auftragsannahme,Lisa Schulz,"8,56",Siemens,Produkt R,"130,0",Lager G,Lager C
+074,Lagerbestand überprüfen,2024-03-04 22:04:29,Bestandsverwaltung,Nico Schmidt,"1,9",Siemens,Produkt R,"130,0",Lager A,Lager A
+074,Auftragsabwicklung im System starten,2024-03-04 22:56:29,Bestandsverwaltung,Paul Zimmer,"5,07",Siemens,Produkt R,"130,0",Lager E,Lager A
+074,Artikel zusammenstellen,2024-03-04 23:55:29,Lager,Mia Schmitt,"4,04",Siemens,Produkt R,"130,0",Lager C,Lager B
+074,Ware verpacken,2024-03-05 00:06:29,Lager,Mia Schmitt,"6,56",Siemens,Produkt R,"130,0",Lager I,Lager B
+074,Gewicht prüfen,2024-03-05 00:22:29,Qualitätskontrolle,Noah Becker,"1,84",Siemens,Produkt R,"130,0",Lager C,Lager H
+074,Anzahl der Artikel überprüfen,2024-03-05 00:35:29,Qualitätskontrolle,Noah Becker,"4,52",Siemens,Produkt R,"130,0",Lager C,Lager I
+074,Verpackung prüfen,2024-03-05 01:14:29,Qualitätskontrolle,Noah Becker,"3,85",Siemens,Produkt R,"130,0",Lager F,Lager I
+074,Paket zur Warenausgabe bringen,2024-03-05 02:06:29,Warenausgang,Emma Weber,"7,67",Siemens,Produkt R,"130,0",Lager C,Lager J
+074,Paket an Kunde übergeben,2024-03-05 02:33:29,Warenausgang,David Meyer,"8,21",Siemens,Produkt R,"130,0",Lager B,Lager H
+074,Bestellstatus im System ändern,2024-03-05 03:00:29,Warenausgang,David Meyer,"1,72",Siemens,Produkt R,"130,0",Lager J,Lager E
+075,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,18",Honda Motor,Produkt C,"80,0",Lager C,Lager D
+075,Kunden-Daten in System übertragen,2024-03-04 21:37:29,Auftragsannahme,Lisa Schulz,"3,34",Honda Motor,Produkt C,"80,0",Lager D,Lager G
+075,Zahlvorgang abschließen,2024-03-04 22:10:29,Auftragsannahme,Max Mustermann,"4,56",Honda Motor,Produkt C,"80,0",Lager B,Lager E
+075,Bestellung im System eintragen,2024-03-04 23:03:29,Auftragsannahme,Max Mustermann,"6,15",Honda Motor,Produkt C,"80,0",Lager H,Lager C
+075,Lagerbestand überprüfen,2024-03-04 23:41:29,Bestandsverwaltung,Laura Fischer,"2,92",Honda Motor,Produkt C,"80,0",Lager I,Lager B
+075,Auftragsabwicklung im System starten,2024-03-05 00:05:29,Bestandsverwaltung,Jan Becker,"9,88",Honda Motor,Produkt C,"80,0",Lager J,Lager F
+075,Artikel zusammenstellen,2024-03-05 00:43:29,Lager,Jonas Richter,"5,41",Honda Motor,Produkt C,"80,0",Lager E,Lager E
+075,Ware verpacken,2024-03-05 01:01:29,Lager,Mia Schmitt,"7,92",Honda Motor,Produkt C,"80,0",Lager J,Lager E
+075,Gewicht prüfen,2024-03-05 01:54:29,Qualitätskontrolle,Emilia Wagner,"1,18",Honda Motor,Produkt C,"80,0",Lager I,Lager D
+075,Anzahl der Artikel überprüfen,2024-03-05 02:19:29,Qualitätskontrolle,Noah Becker,"4,67",Honda Motor,Produkt C,"80,0",Lager I,Lager E
+075,Verpackung prüfen,2024-03-05 02:30:29,Qualitätskontrolle,Noah Becker,"6,72",Honda Motor,Produkt C,"80,0",Lager E,Lager E
+075,Paket zur Warenausgabe bringen,2024-03-05 02:35:29,Warenausgang,Leonie Richter,"6,56",Honda Motor,Produkt C,"80,0",Lager D,Lager B
+075,Zahlungsabwicklung durchführen,2024-03-05 03:04:29,Warenausgang,Leonie Richter,"9,33",Honda Motor,Produkt C,"80,0",Lager D,Lager A
+075,Paket an Kunde übergeben,2024-03-05 03:53:29,Warenausgang,Sophia Lang,"5,98",Honda Motor,Produkt C,"80,0",Lager D,Lager C
+075,Bestellstatus im System ändern,2024-03-05 04:51:29,Warenausgang,David Meyer,"1,1",Honda Motor,Produkt C,"80,0",Lager F,Lager C
+076,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,19",BASF,Produkt G,"95,0",Lager E,Lager D
+076,Kunden-Daten in System übertragen,2024-03-04 21:41:29,Auftragsannahme,Lena Mueller,"3,6",BASF,Produkt G,"95,0",Lager A,Lager G
+076,Zahlvorgang abschließen,2024-03-04 21:45:29,Auftragsannahme,Lena Mueller,"5,8",BASF,Produkt G,"95,0",Lager J,Lager J
+076,Bestellung im System eintragen,2024-03-04 22:29:29,Auftragsannahme,Timo Wagner,"7,66",BASF,Produkt G,"95,0",Lager H,Lager I
+076,Lagerbestand überprüfen,2024-03-04 22:38:29,Bestandsverwaltung,Laura Fischer,"2,69",BASF,Produkt G,"95,0",Lager F,Lager E
+076,Auftragsabwicklung im System starten,2024-03-04 23:05:29,Bestandsverwaltung,Jan Becker,"9,68",BASF,Produkt G,"95,0",Lager I,Lager A
+076,Artikel zusammenstellen,2024-03-04 23:13:29,Lager,Mia Schmitt,"3,39",BASF,Produkt G,"95,0",Lager F,Lager J
+076,Ware verpacken,2024-03-04 23:53:29,Lager,Mia Schmitt,"7,23",BASF,Produkt G,"95,0",Lager D,Lager G
+076,Gewicht prüfen,2024-03-04 23:54:29,Qualitätskontrolle,Hannah Meyer,"2,04",BASF,Produkt G,"95,0",Lager G,Lager F
+076,Anzahl der Artikel überprüfen,2024-03-05 00:51:29,Qualitätskontrolle,Hannah Meyer,"4,96",BASF,Produkt G,"95,0",Lager I,Lager C
+076,Verpackung prüfen,2024-03-05 01:11:29,Qualitätskontrolle,Noah Becker,"6,33",BASF,Produkt G,"95,0",Lager C,Lager A
+076,Paket zur Warenausgabe bringen,2024-03-05 01:12:29,Warenausgang,Leonie Richter,"5,21",BASF,Produkt G,"95,0",Lager D,Lager E
+076,Zahlungsabwicklung durchführen,2024-03-05 01:28:29,Warenausgang,Leonie Richter,"10,21",BASF,Produkt G,"95,0",Lager G,Lager F
+076,Paket an Kunde übergeben,2024-03-05 01:30:29,Warenausgang,David Meyer,"5,4",BASF,Produkt G,"95,0",Lager E,Lager G
+076,Bestellstatus im System ändern,2024-03-05 02:15:29,Warenausgang,Sophia Lang,"2,17",BASF,Produkt G,"95,0",Lager D,Lager B
+077,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,49",Boeing,Produkt D,"70,0",Lager J,Lager F
+077,Kunden-Daten in System übertragen,2024-03-04 21:34:29,Auftragsannahme,Timo Wagner,"2,4",Boeing,Produkt D,"70,0",Lager A,Lager G
+077,Zahlvorgang abschließen,2024-03-04 21:55:29,Auftragsannahme,Max Mustermann,"6,77",Boeing,Produkt D,"70,0",Lager F,Lager B
+077,Bestellung im System eintragen,2024-03-04 22:51:29,Auftragsannahme,Lena Mueller,"5,08",Boeing,Produkt D,"70,0",Lager A,Lager I
+077,Lagerbestand überprüfen,2024-03-04 23:17:29,Bestandsverwaltung,Lisa Mueller,"1,84",Boeing,Produkt D,"70,0",Lager F,Lager F
+077,Auftragsabwicklung im System starten,2024-03-04 23:37:29,Bestandsverwaltung,Paul Zimmer,"5,23",Boeing,Produkt D,"70,0",Lager D,Lager H
+077,Artikel zusammenstellen,2024-03-04 23:54:29,Lager,Jonas Richter,"5,48",Boeing,Produkt D,"70,0",Lager C,Lager G
+077,Ware verpacken,2024-03-05 00:24:29,Lager,Jonas Richter,"3,6",Boeing,Produkt D,"70,0",Lager G,Lager G
+077,Gewicht prüfen,2024-03-05 00:50:29,Qualitätskontrolle,Hannah Meyer,"1,86",Boeing,Produkt D,"70,0",Lager B,Lager G
+077,Anzahl der Artikel überprüfen,2024-03-05 01:30:29,Qualitätskontrolle,Emilia Wagner,"3,55",Boeing,Produkt D,"70,0",Lager C,Lager J
+077,Verpackung prüfen,2024-03-05 02:11:29,Qualitätskontrolle,Emilia Wagner,"6,6",Boeing,Produkt D,"70,0",Lager E,Lager G
+077,Paket zur Warenausgabe bringen,2024-03-05 02:44:29,Warenausgang,Leonie Richter,"8,02",Boeing,Produkt D,"70,0",Lager F,Lager D
+077,Zahlungsabwicklung durchführen,2024-03-05 03:05:29,Warenausgang,David Meyer,"6,74",Boeing,Produkt D,"70,0",Lager C,Lager J
+077,Paket an Kunde übergeben,2024-03-05 03:51:29,Warenausgang,David Meyer,"7,42",Boeing,Produkt D,"70,0",Lager A,Lager J
+077,Bestellstatus im System ändern,2024-03-05 04:01:29,Warenausgang,Leonie Richter,"1,11",Boeing,Produkt D,"70,0",Lager J,Lager G
+078,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,36",Daimler AG,Produkt O,"120,0",Lager J,Lager F
+078,Kunden-Daten in System übertragen,2024-03-04 20:51:29,Auftragsannahme,Sarah Schmidt,"3,56",Daimler AG,Produkt O,"120,0",Lager F,Lager F
+078,Zahlvorgang abschließen,2024-03-04 21:50:29,Auftragsannahme,Timo Wagner,"5,06",Daimler AG,Produkt O,"120,0",Lager H,Lager J
+078,Bestellung im System eintragen,2024-03-04 22:24:29,Auftragsannahme,Lena Mueller,"5,99",Daimler AG,Produkt O,"120,0",Lager G,Lager G
+078,Lagerbestand überprüfen,2024-03-04 22:59:29,Bestandsverwaltung,Nico Schmidt,"1,71",Daimler AG,Produkt O,"120,0",Lager F,Lager E
+078,Auftragsabwicklung im System starten,2024-03-04 23:54:29,Bestandsverwaltung,Lisa Mueller,"7,44",Daimler AG,Produkt O,"120,0",Lager E,Lager I
+078,Artikel zusammenstellen,2024-03-05 00:09:29,Lager,Jonas Richter,"3,41",Daimler AG,Produkt O,"120,0",Lager A,Lager A
+078,Ware verpacken,2024-03-05 00:17:29,Lager,Jonas Richter,"3,79",Daimler AG,Produkt O,"120,0",Lager G,Lager D
+078,Gewicht prüfen,2024-03-05 00:30:29,Qualitätskontrolle,Hannah Meyer,"2,81",Daimler AG,Produkt O,"120,0",Lager B,Lager H
+078,Anzahl der Artikel überprüfen,2024-03-05 00:45:29,Qualitätskontrolle,Hannah Meyer,"2,41",Daimler AG,Produkt O,"120,0",Lager C,Lager H
+078,Verpackung prüfen,2024-03-05 01:41:29,Qualitätskontrolle,Hannah Meyer,"3,17",Daimler AG,Produkt O,"120,0",Lager H,Lager F
+078,Informationen an Transporteur übermitteln,2024-03-05 02:24:29,Warenausgang,David Meyer,"8,61",Daimler AG,Produkt O,"120,0",Lager I,Lager F
+078,Paket an Transporteur übergeben,2024-03-05 03:07:29,Warenausgang,Leonie Richter,"7,97",Daimler AG,Produkt O,"120,0",Lager J,Lager D
+078,Bestellstatus im System ändern,2024-03-05 03:37:29,Warenausgang,David Meyer,"1,6",Daimler AG,Produkt O,"120,0",Lager A,Lager G
+079,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,02",Boeing,Produkt Q,"110,0",Lager C,Lager E
+079,Kunden-Daten in System übertragen,2024-03-04 21:07:29,Auftragsannahme,Max Mustermann,"2,54",Boeing,Produkt Q,"110,0",Lager J,Lager D
+079,Zahlvorgang abschließen,2024-03-04 21:54:29,Auftragsannahme,Lisa Schulz,"5,32",Boeing,Produkt Q,"110,0",Lager I,Lager E
+079,Bestellung im System eintragen,2024-03-04 22:04:29,Auftragsannahme,Max Mustermann,"6,42",Boeing,Produkt Q,"110,0",Lager D,Lager D
+079,Lagerbestand überprüfen,2024-03-04 22:37:29,Bestandsverwaltung,Jan Becker,"1,27",Boeing,Produkt Q,"110,0",Lager H,Lager J
+079,Auftragsabwicklung im System starten,2024-03-04 23:12:29,Bestandsverwaltung,Lisa Mueller,"9,49",Boeing,Produkt Q,"110,0",Lager H,Lager G
+079,Artikel zusammenstellen,2024-03-04 23:53:29,Lager,Mia Schmitt,"3,29",Boeing,Produkt Q,"110,0",Lager A,Lager D
+079,Ware verpacken,2024-03-05 00:39:29,Lager,Mia Schmitt,"5,09",Boeing,Produkt Q,"110,0",Lager A,Lager F
+079,Gewicht prüfen,2024-03-05 01:31:29,Qualitätskontrolle,Noah Becker,"1,69",Boeing,Produkt Q,"110,0",Lager I,Lager J
+079,Anzahl der Artikel überprüfen,2024-03-05 01:39:29,Qualitätskontrolle,Hannah Meyer,"2,23",Boeing,Produkt Q,"110,0",Lager E,Lager A
+079,Verpackung prüfen,2024-03-05 02:02:29,Qualitätskontrolle,Hannah Meyer,"5,64",Boeing,Produkt Q,"110,0",Lager B,Lager I
+079,Paket zur Warenausgabe bringen,2024-03-05 02:38:29,Warenausgang,Luca Huber,"7,36",Boeing,Produkt Q,"110,0",Lager D,Lager I
+079,Zahlungsabwicklung durchführen,2024-03-05 02:59:29,Warenausgang,Leonie Richter,"11,49",Boeing,Produkt Q,"110,0",Lager H,Lager B
+079,Paket an Kunde übergeben,2024-03-05 03:13:29,Warenausgang,Emma Weber,"9,6",Boeing,Produkt Q,"110,0",Lager H,Lager A
+079,Bestellstatus im System ändern,2024-03-05 03:15:29,Warenausgang,Sophia Lang,"1,2",Boeing,Produkt Q,"110,0",Lager C,Lager I
+080,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"1,24",Samsung Electronics,Produkt R,"130,0",Lager B,Lager E
+080,Kunden-Daten in System übertragen,2024-03-04 20:46:29,Auftragsannahme,Timo Wagner,"4,62",Samsung Electronics,Produkt R,"130,0",Lager G,Lager A
+080,Zahlvorgang abschließen,2024-03-04 21:40:29,Auftragsannahme,Sarah Schmidt,"6,0",Samsung Electronics,Produkt R,"130,0",Lager H,Lager B
+080,Bestellung im System eintragen,2024-03-04 22:15:29,Auftragsannahme,Timo Wagner,"6,23",Samsung Electronics,Produkt R,"130,0",Lager D,Lager H
+080,Lagerbestand überprüfen,2024-03-04 22:40:29,Bestandsverwaltung,Nico Schmidt,"1,41",Samsung Electronics,Produkt R,"130,0",Lager D,Lager J
+080,Auftragsabwicklung im System starten,2024-03-04 23:17:29,Bestandsverwaltung,Nico Schmidt,"6,41",Samsung Electronics,Produkt R,"130,0",Lager F,Lager F
+080,Artikel zusammenstellen,2024-03-04 23:53:29,Lager,Jonas Richter,"5,97",Samsung Electronics,Produkt R,"130,0",Lager E,Lager G
+080,Ware verpacken,2024-03-05 00:18:29,Lager,Jonas Richter,"5,13",Samsung Electronics,Produkt R,"130,0",Lager A,Lager A
+080,Gewicht prüfen,2024-03-05 00:36:29,Qualitätskontrolle,Noah Becker,"1,67",Samsung Electronics,Produkt R,"130,0",Lager J,Lager H
+080,Anzahl der Artikel überprüfen,2024-03-05 00:59:29,Qualitätskontrolle,Emilia Wagner,"3,45",Samsung Electronics,Produkt R,"130,0",Lager C,Lager F
+080,Verpackung prüfen,2024-03-05 01:37:29,Qualitätskontrolle,Noah Becker,"6,05",Samsung Electronics,Produkt R,"130,0",Lager G,Lager A
+080,Informationen an Transporteur übermitteln,2024-03-05 01:44:29,Warenausgang,Sophia Lang,"10,49",Samsung Electronics,Produkt R,"130,0",Lager A,Lager A
+080,Paket an Transporteur übergeben,2024-03-05 02:32:29,Warenausgang,David Meyer,"6,58",Samsung Electronics,Produkt R,"130,0",Lager A,Lager J
+080,Bestellstatus im System ändern,2024-03-05 03:06:29,Warenausgang,Sophia Lang,"1,01",Samsung Electronics,Produkt R,"130,0",Lager J,Lager A
+081,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,04",Samsung Electronics,Produkt E,"150,0",Lager B,Lager E
+081,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Lisa Schulz,"4,68",Samsung Electronics,Produkt E,"150,0",Lager B,Lager B
+081,Zahlvorgang abschließen,2024-03-04 21:18:29,Auftragsannahme,Sarah Schmidt,"4,48",Samsung Electronics,Produkt E,"150,0",Lager F,Lager I
+081,Bestellung im System eintragen,2024-03-04 21:35:29,Auftragsannahme,Sarah Schmidt,"5,48",Samsung Electronics,Produkt E,"150,0",Lager J,Lager H
+081,Lagerbestand überprüfen,2024-03-04 22:03:29,Bestandsverwaltung,Laura Fischer,"2,92",Samsung Electronics,Produkt E,"150,0",Lager B,Lager B
+081,Auftragsabwicklung im System starten,2024-03-04 22:15:29,Bestandsverwaltung,Lisa Mueller,"6,19",Samsung Electronics,Produkt E,"150,0",Lager B,Lager D
+081,Artikel zusammenstellen,2024-03-04 23:10:29,Lager,Mia Schmitt,"2,21",Samsung Electronics,Produkt E,"150,0",Lager J,Lager J
+081,Ware verpacken,2024-03-04 23:27:29,Lager,Mia Schmitt,"4,84",Samsung Electronics,Produkt E,"150,0",Lager B,Lager B
+081,Gewicht prüfen,2024-03-04 23:54:29,Qualitätskontrolle,Noah Becker,"2,84",Samsung Electronics,Produkt E,"150,0",Lager B,Lager A
+081,Anzahl der Artikel überprüfen,2024-03-05 00:54:29,Qualitätskontrolle,Noah Becker,"4,79",Samsung Electronics,Produkt E,"150,0",Lager A,Lager A
+081,Verpackung prüfen,2024-03-05 01:40:29,Qualitätskontrolle,Emilia Wagner,"6,59",Samsung Electronics,Produkt E,"150,0",Lager E,Lager D
+081,Informationen an Transporteur übermitteln,2024-03-05 02:40:29,Warenausgang,Sophia Lang,"11,72",Samsung Electronics,Produkt E,"150,0",Lager H,Lager H
+081,Paket an Transporteur übergeben,2024-03-05 02:57:29,Warenausgang,Leonie Richter,"9,77",Samsung Electronics,Produkt E,"150,0",Lager F,Lager E
+081,Bestellstatus im System ändern,2024-03-05 03:28:29,Warenausgang,Emma Weber,"1,32",Samsung Electronics,Produkt E,"150,0",Lager G,Lager G
+082,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,11",Mitsubishi Electric,Produkt K,"110,0",Lager E,Lager H
+082,Kunden-Daten in System übertragen,2024-03-04 21:04:29,Auftragsannahme,Sarah Schmidt,"2,28",Mitsubishi Electric,Produkt K,"110,0",Lager H,Lager H
+082,Zahlvorgang abschließen,2024-03-04 21:26:29,Auftragsannahme,Lena Mueller,"6,44",Mitsubishi Electric,Produkt K,"110,0",Lager C,Lager A
+082,Bestellung im System eintragen,2024-03-04 21:44:29,Auftragsannahme,Max Mustermann,"8,49",Mitsubishi Electric,Produkt K,"110,0",Lager I,Lager A
+082,Lagerbestand überprüfen,2024-03-04 22:37:29,Bestandsverwaltung,Jan Becker,"2,38",Mitsubishi Electric,Produkt K,"110,0",Lager G,Lager A
+082,Auftragsabwicklung im System starten,2024-03-04 23:12:29,Bestandsverwaltung,Nico Schmidt,"6,63",Mitsubishi Electric,Produkt K,"110,0",Lager F,Lager E
+082,Artikel zusammenstellen,2024-03-04 23:21:29,Lager,Mia Schmitt,"4,63",Mitsubishi Electric,Produkt K,"110,0",Lager D,Lager E
+082,Ware verpacken,2024-03-05 00:05:29,Lager,Mia Schmitt,"3,47",Mitsubishi Electric,Produkt K,"110,0",Lager B,Lager C
+082,Gewicht prüfen,2024-03-05 00:45:29,Qualitätskontrolle,Emilia Wagner,"2,5",Mitsubishi Electric,Produkt K,"110,0",Lager G,Lager E
+082,Anzahl der Artikel überprüfen,2024-03-05 01:24:29,Qualitätskontrolle,Noah Becker,"2,75",Mitsubishi Electric,Produkt K,"110,0",Lager F,Lager J
+082,Verpackung prüfen,2024-03-05 02:13:29,Qualitätskontrolle,Emilia Wagner,"4,04",Mitsubishi Electric,Produkt K,"110,0",Lager B,Lager C
+082,Paket zur Warenausgabe bringen,2024-03-05 02:40:29,Warenausgang,Emma Weber,"4,62",Mitsubishi Electric,Produkt K,"110,0",Lager A,Lager E
+082,Paket an Kunde übergeben,2024-03-05 03:32:29,Warenausgang,Emma Weber,"5,57",Mitsubishi Electric,Produkt K,"110,0",Lager I,Lager J
+082,Bestellstatus im System ändern,2024-03-05 04:31:29,Warenausgang,Sophia Lang,"2,06",Mitsubishi Electric,Produkt K,"110,0",Lager F,Lager D
+083,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"2,36",PepsiCo,Produkt I,"90,0",Lager I,Lager H
+083,Kunden-Daten in System übertragen,2024-03-04 21:06:29,Auftragsannahme,Lisa Schulz,"3,12",PepsiCo,Produkt I,"90,0",Lager F,Lager F
+083,Zahlvorgang abschließen,2024-03-04 21:14:29,Auftragsannahme,Lisa Schulz,"4,2",PepsiCo,Produkt I,"90,0",Lager E,Lager G
+083,Bestellung im System eintragen,2024-03-04 21:27:29,Auftragsannahme,Sarah Schmidt,"8,21",PepsiCo,Produkt I,"90,0",Lager C,Lager E
+083,Lagerbestand überprüfen,2024-03-04 22:23:29,Bestandsverwaltung,Nico Schmidt,"1,39",PepsiCo,Produkt I,"90,0",Lager I,Lager A
+083,Auftragsabwicklung im System starten,2024-03-04 22:30:29,Bestandsverwaltung,Lisa Mueller,"7,8",PepsiCo,Produkt I,"90,0",Lager J,Lager C
+083,Artikel zusammenstellen,2024-03-04 22:40:29,Lager,Mia Schmitt,"5,45",PepsiCo,Produkt I,"90,0",Lager H,Lager B
+083,Ware verpacken,2024-03-04 23:00:29,Lager,Mia Schmitt,"7,14",PepsiCo,Produkt I,"90,0",Lager H,Lager I
+083,Gewicht prüfen,2024-03-04 23:22:29,Qualitätskontrolle,Noah Becker,"2,71",PepsiCo,Produkt I,"90,0",Lager E,Lager H
+083,Anzahl der Artikel überprüfen,2024-03-05 00:17:29,Qualitätskontrolle,Emilia Wagner,"4,91",PepsiCo,Produkt I,"90,0",Lager A,Lager H
+083,Verpackung prüfen,2024-03-05 00:57:29,Qualitätskontrolle,Hannah Meyer,"6,94",PepsiCo,Produkt I,"90,0",Lager F,Lager B
+083,Paket zur Warenausgabe bringen,2024-03-05 01:24:29,Warenausgang,Emma Weber,"6,82",PepsiCo,Produkt I,"90,0",Lager I,Lager I
+083,Paket an Kunde übergeben,2024-03-05 02:16:29,Warenausgang,Leonie Richter,"7,33",PepsiCo,Produkt I,"90,0",Lager J,Lager B
+083,Bestellstatus im System ändern,2024-03-05 02:27:29,Warenausgang,Sophia Lang,"2,84",PepsiCo,Produkt I,"90,0",Lager J,Lager A
+084,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,21",Sony,Produkt A,"100,0",Lager G,Lager H
+084,Kunden-Daten in System übertragen,2024-03-04 21:38:29,Auftragsannahme,Max Mustermann,"2,41",Sony,Produkt A,"100,0",Lager F,Lager D
+084,Zahlvorgang abschließen,2024-03-04 22:18:29,Auftragsannahme,Sarah Schmidt,"4,49",Sony,Produkt A,"100,0",Lager G,Lager I
+084,Bestellung im System eintragen,2024-03-04 22:29:29,Auftragsannahme,Lena Mueller,"6,95",Sony,Produkt A,"100,0",Lager F,Lager D
+084,Lagerbestand überprüfen,2024-03-04 22:46:29,Bestandsverwaltung,Paul Zimmer,"1,74",Sony,Produkt A,"100,0",Lager A,Lager B
+084,Auftragsabwicklung im System starten,2024-03-04 22:51:29,Bestandsverwaltung,Laura Fischer,"7,77",Sony,Produkt A,"100,0",Lager D,Lager H
+084,Artikel zusammenstellen,2024-03-04 22:57:29,Lager,Mia Schmitt,"4,49",Sony,Produkt A,"100,0",Lager F,Lager D
+084,Ware verpacken,2024-03-04 23:20:29,Lager,Jonas Richter,"4,88",Sony,Produkt A,"100,0",Lager E,Lager B
+084,Gewicht prüfen,2024-03-05 00:13:29,Qualitätskontrolle,Emilia Wagner,"1,81",Sony,Produkt A,"100,0",Lager C,Lager G
+084,Anzahl der Artikel überprüfen,2024-03-05 01:13:29,Qualitätskontrolle,Hannah Meyer,"3,16",Sony,Produkt A,"100,0",Lager E,Lager J
+084,Verpackung prüfen,2024-03-05 01:29:29,Qualitätskontrolle,Hannah Meyer,"4,72",Sony,Produkt A,"100,0",Lager D,Lager B
+084,Paket zur Warenausgabe bringen,2024-03-05 01:41:29,Warenausgang,David Meyer,"5,84",Sony,Produkt A,"100,0",Lager I,Lager I
+084,Zahlungsabwicklung durchführen,2024-03-05 01:49:29,Warenausgang,Luca Huber,"10,29",Sony,Produkt A,"100,0",Lager I,Lager C
+084,Paket an Kunde übergeben,2024-03-05 02:16:29,Warenausgang,Luca Huber,"5,08",Sony,Produkt A,"100,0",Lager H,Lager H
+084,Bestellstatus im System ändern,2024-03-05 03:02:29,Warenausgang,Luca Huber,"2,49",Sony,Produkt A,"100,0",Lager D,Lager E
+085,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,97",BASF,Produkt P,"100,0",Lager F,Lager G
+085,Kunden-Daten in System übertragen,2024-03-04 20:43:29,Auftragsannahme,Lisa Schulz,"3,92",BASF,Produkt P,"100,0",Lager E,Lager G
+085,Zahlvorgang abschließen,2024-03-04 21:12:29,Auftragsannahme,Timo Wagner,"4,34",BASF,Produkt P,"100,0",Lager B,Lager F
+085,Bestellung im System eintragen,2024-03-04 22:04:29,Auftragsannahme,Lena Mueller,"4,29",BASF,Produkt P,"100,0",Lager F,Lager A
+085,Lagerbestand überprüfen,2024-03-04 22:24:29,Bestandsverwaltung,Nico Schmidt,"1,75",BASF,Produkt P,"100,0",Lager F,Lager H
+085,Auftragsabwicklung im System starten,2024-03-04 23:04:29,Bestandsverwaltung,Lisa Mueller,"5,98",BASF,Produkt P,"100,0",Lager D,Lager J
+085,Artikel zusammenstellen,2024-03-04 23:49:29,Lager,Jonas Richter,"5,39",BASF,Produkt P,"100,0",Lager B,Lager J
+085,Ware verpacken,2024-03-05 00:47:29,Lager,Jonas Richter,"3,9",BASF,Produkt P,"100,0",Lager B,Lager D
+085,Gewicht prüfen,2024-03-05 00:56:29,Qualitätskontrolle,Emilia Wagner,"2,42",BASF,Produkt P,"100,0",Lager G,Lager D
+085,Anzahl der Artikel überprüfen,2024-03-05 01:46:29,Qualitätskontrolle,Emilia Wagner,"4,31",BASF,Produkt P,"100,0",Lager H,Lager E
+085,Verpackung prüfen,2024-03-05 01:53:29,Qualitätskontrolle,Emilia Wagner,"3,31",BASF,Produkt P,"100,0",Lager E,Lager J
+085,Paket zur Warenausgabe bringen,2024-03-05 01:58:29,Warenausgang,Luca Huber,"7,13",BASF,Produkt P,"100,0",Lager C,Lager C
+085,Zahlungsabwicklung durchführen,2024-03-05 01:59:29,Warenausgang,Luca Huber,"8,37",BASF,Produkt P,"100,0",Lager I,Lager H
+085,Paket an Kunde übergeben,2024-03-05 02:09:29,Warenausgang,Emma Weber,"8,21",BASF,Produkt P,"100,0",Lager C,Lager C
+085,Bestellstatus im System ändern,2024-03-05 02:18:29,Warenausgang,Leonie Richter,"2,69",BASF,Produkt P,"100,0",Lager G,Lager B
+086,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,66",Volkswagen,Produkt Q,"110,0",Lager H,Lager B
+086,Kunden-Daten in System übertragen,2024-03-04 20:45:29,Auftragsannahme,Lisa Schulz,"2,29",Volkswagen,Produkt Q,"110,0",Lager B,Lager E
+086,Zahlvorgang abschließen,2024-03-04 21:06:29,Auftragsannahme,Timo Wagner,"5,56",Volkswagen,Produkt Q,"110,0",Lager F,Lager J
+086,Bestellung im System eintragen,2024-03-04 21:28:29,Auftragsannahme,Lena Mueller,"7,34",Volkswagen,Produkt Q,"110,0",Lager E,Lager I
+086,Lagerbestand überprüfen,2024-03-04 21:38:29,Bestandsverwaltung,Nico Schmidt,"1,42",Volkswagen,Produkt Q,"110,0",Lager A,Lager D
+086,Auftragsabwicklung im System starten,2024-03-04 22:31:29,Bestandsverwaltung,Jan Becker,"7,61",Volkswagen,Produkt Q,"110,0",Lager G,Lager D
+086,Artikel zusammenstellen,2024-03-04 22:57:29,Lager,Jonas Richter,"3,12",Volkswagen,Produkt Q,"110,0",Lager J,Lager D
+086,Ware verpacken,2024-03-04 23:33:29,Lager,Jonas Richter,"4,6",Volkswagen,Produkt Q,"110,0",Lager J,Lager J
+086,Gewicht prüfen,2024-03-05 00:10:29,Qualitätskontrolle,Hannah Meyer,"2,49",Volkswagen,Produkt Q,"110,0",Lager C,Lager B
+086,Anzahl der Artikel überprüfen,2024-03-05 00:42:29,Qualitätskontrolle,Hannah Meyer,"3,22",Volkswagen,Produkt Q,"110,0",Lager I,Lager I
+086,Verpackung prüfen,2024-03-05 01:27:29,Qualitätskontrolle,Hannah Meyer,"5,94",Volkswagen,Produkt Q,"110,0",Lager D,Lager D
+086,Paket zur Warenausgabe bringen,2024-03-05 01:54:29,Warenausgang,David Meyer,"5,75",Volkswagen,Produkt Q,"110,0",Lager C,Lager H
+086,Paket an Kunde übergeben,2024-03-05 02:39:29,Warenausgang,Leonie Richter,"5,89",Volkswagen,Produkt Q,"110,0",Lager E,Lager C
+086,Bestellstatus im System ändern,2024-03-05 03:26:29,Warenausgang,David Meyer,"2,37",Volkswagen,Produkt Q,"110,0",Lager A,Lager C
+087,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,77",Bayer,Produkt L,"140,0",Lager G,Lager D
+087,Kunden-Daten in System übertragen,2024-03-04 20:43:29,Auftragsannahme,Max Mustermann,"4,59",Bayer,Produkt L,"140,0",Lager I,Lager A
+087,Zahlvorgang abschließen,2024-03-04 21:22:29,Auftragsannahme,Lena Mueller,"5,72",Bayer,Produkt L,"140,0",Lager C,Lager D
+087,Bestellung im System eintragen,2024-03-04 21:47:29,Auftragsannahme,Timo Wagner,"5,37",Bayer,Produkt L,"140,0",Lager I,Lager D
+087,Lagerbestand überprüfen,2024-03-04 21:54:29,Bestandsverwaltung,Paul Zimmer,"2,21",Bayer,Produkt L,"140,0",Lager J,Lager I
+087,Auftragsabwicklung im System starten,2024-03-04 22:46:29,Bestandsverwaltung,Paul Zimmer,"8,18",Bayer,Produkt L,"140,0",Lager F,Lager I
+087,Artikel zusammenstellen,2024-03-04 23:12:29,Lager,Jonas Richter,"5,8",Bayer,Produkt L,"140,0",Lager F,Lager B
+087,Ware verpacken,2024-03-05 00:04:29,Lager,Jonas Richter,"3,12",Bayer,Produkt L,"140,0",Lager H,Lager F
+087,Gewicht prüfen,2024-03-05 00:22:29,Qualitätskontrolle,Hannah Meyer,"2,54",Bayer,Produkt L,"140,0",Lager A,Lager C
+087,Anzahl der Artikel überprüfen,2024-03-05 01:16:29,Qualitätskontrolle,Emilia Wagner,"2,74",Bayer,Produkt L,"140,0",Lager F,Lager A
+087,Verpackung prüfen,2024-03-05 01:41:29,Qualitätskontrolle,Hannah Meyer,"5,85",Bayer,Produkt L,"140,0",Lager G,Lager I
+087,Paket zur Warenausgabe bringen,2024-03-05 01:55:29,Warenausgang,Luca Huber,"8,51",Bayer,Produkt L,"140,0",Lager F,Lager F
+087,Paket an Kunde übergeben,2024-03-05 02:42:29,Warenausgang,Leonie Richter,"5,72",Bayer,Produkt L,"140,0",Lager J,Lager D
+087,Bestellstatus im System ändern,2024-03-05 02:48:29,Warenausgang,Emma Weber,"2,74",Bayer,Produkt L,"140,0",Lager B,Lager I
+088,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,82",Hitachi,Produkt N,"75,0",Lager B,Lager G
+088,Kunden-Daten in System übertragen,2024-03-04 21:02:29,Auftragsannahme,Lisa Schulz,"2,38",Hitachi,Produkt N,"75,0",Lager H,Lager I
+088,Zahlvorgang abschließen,2024-03-04 21:37:29,Auftragsannahme,Sarah Schmidt,"5,72",Hitachi,Produkt N,"75,0",Lager H,Lager G
+088,Bestellung im System eintragen,2024-03-04 21:59:29,Auftragsannahme,Sarah Schmidt,"8,61",Hitachi,Produkt N,"75,0",Lager H,Lager C
+088,Lagerbestand überprüfen,2024-03-04 22:48:29,Bestandsverwaltung,Paul Zimmer,"1,81",Hitachi,Produkt N,"75,0",Lager H,Lager I
+088,Auftragsabwicklung im System starten,2024-03-04 23:13:29,Bestandsverwaltung,Nico Schmidt,"8,06",Hitachi,Produkt N,"75,0",Lager J,Lager I
+088,Artikel zusammenstellen,2024-03-04 23:49:29,Lager,Jonas Richter,"4,29",Hitachi,Produkt N,"75,0",Lager I,Lager F
+088,Ware verpacken,2024-03-04 23:56:29,Lager,Jonas Richter,"7,4",Hitachi,Produkt N,"75,0",Lager C,Lager C
+088,Gewicht prüfen,2024-03-05 00:31:29,Qualitätskontrolle,Hannah Meyer,"1,92",Hitachi,Produkt N,"75,0",Lager A,Lager A
+088,Anzahl der Artikel überprüfen,2024-03-05 01:26:29,Qualitätskontrolle,Noah Becker,"4,73",Hitachi,Produkt N,"75,0",Lager F,Lager G
+088,Verpackung prüfen,2024-03-05 01:57:29,Qualitätskontrolle,Emilia Wagner,"6,66",Hitachi,Produkt N,"75,0",Lager B,Lager H
+088,Paket zur Warenausgabe bringen,2024-03-05 02:57:29,Warenausgang,Sophia Lang,"8,21",Hitachi,Produkt N,"75,0",Lager F,Lager H
+088,Paket an Kunde übergeben,2024-03-05 03:48:29,Warenausgang,Emma Weber,"6,79",Hitachi,Produkt N,"75,0",Lager J,Lager J
+088,Bestellstatus im System ändern,2024-03-05 03:51:29,Warenausgang,David Meyer,"2,88",Hitachi,Produkt N,"75,0",Lager I,Lager C
+089,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Max Mustermann,"2,16",Volkswagen,Produkt R,"130,0",Lager D,Lager B
+089,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Timo Wagner,"3,92",Volkswagen,Produkt R,"130,0",Lager B,Lager E
+089,Zahlvorgang abschließen,2024-03-04 21:39:29,Auftragsannahme,Timo Wagner,"6,51",Volkswagen,Produkt R,"130,0",Lager H,Lager C
+089,Bestellung im System eintragen,2024-03-04 22:01:29,Auftragsannahme,Sarah Schmidt,"8,89",Volkswagen,Produkt R,"130,0",Lager F,Lager H
+089,Lagerbestand überprüfen,2024-03-04 22:12:29,Bestandsverwaltung,Lisa Mueller,"2,47",Volkswagen,Produkt R,"130,0",Lager I,Lager C
+089,Auftragsabwicklung im System starten,2024-03-04 23:08:29,Bestandsverwaltung,Laura Fischer,"8,84",Volkswagen,Produkt R,"130,0",Lager I,Lager D
+089,Artikel zusammenstellen,2024-03-04 23:31:29,Lager,Jonas Richter,"2,95",Volkswagen,Produkt R,"130,0",Lager B,Lager C
+089,Ware verpacken,2024-03-04 23:33:29,Lager,Mia Schmitt,"6,11",Volkswagen,Produkt R,"130,0",Lager D,Lager F
+089,Gewicht prüfen,2024-03-05 00:27:29,Qualitätskontrolle,Hannah Meyer,"1,38",Volkswagen,Produkt R,"130,0",Lager D,Lager E
+089,Anzahl der Artikel überprüfen,2024-03-05 00:43:29,Qualitätskontrolle,Emilia Wagner,"3,46",Volkswagen,Produkt R,"130,0",Lager D,Lager F
+089,Verpackung prüfen,2024-03-05 01:22:29,Qualitätskontrolle,Noah Becker,"5,28",Volkswagen,Produkt R,"130,0",Lager I,Lager D
+089,Paket zur Warenausgabe bringen,2024-03-05 01:58:29,Warenausgang,Leonie Richter,"8,53",Volkswagen,Produkt R,"130,0",Lager A,Lager F
+089,Paket an Kunde übergeben,2024-03-05 02:02:29,Warenausgang,Luca Huber,"7,33",Volkswagen,Produkt R,"130,0",Lager H,Lager A
+089,Bestellstatus im System ändern,2024-03-05 02:13:29,Warenausgang,Emma Weber,"1,51",Volkswagen,Produkt R,"130,0",Lager H,Lager G
+090,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lisa Schulz,"1,67",Procter & Gamble,Produkt H,"130,0",Lager J,Lager H
+090,Kunden-Daten in System übertragen,2024-03-04 21:01:29,Auftragsannahme,Sarah Schmidt,"4,76",Procter & Gamble,Produkt H,"130,0",Lager F,Lager A
+090,Zahlvorgang abschließen,2024-03-04 21:21:29,Auftragsannahme,Max Mustermann,"6,46",Procter & Gamble,Produkt H,"130,0",Lager F,Lager B
+090,Bestellung im System eintragen,2024-03-04 22:07:29,Auftragsannahme,Lisa Schulz,"4,91",Procter & Gamble,Produkt H,"130,0",Lager F,Lager D
+090,Lagerbestand überprüfen,2024-03-04 22:14:29,Bestandsverwaltung,Nico Schmidt,"2,49",Procter & Gamble,Produkt H,"130,0",Lager E,Lager F
+090,Auftragsabwicklung im System starten,2024-03-04 22:20:29,Bestandsverwaltung,Laura Fischer,"5,19",Procter & Gamble,Produkt H,"130,0",Lager E,Lager B
+090,Artikel zusammenstellen,2024-03-04 23:05:29,Lager,Mia Schmitt,"3,96",Procter & Gamble,Produkt H,"130,0",Lager G,Lager A
+090,Ware verpacken,2024-03-04 23:50:29,Lager,Mia Schmitt,"4,58",Procter & Gamble,Produkt H,"130,0",Lager H,Lager F
+090,Gewicht prüfen,2024-03-05 00:14:29,Qualitätskontrolle,Hannah Meyer,"2,05",Procter & Gamble,Produkt H,"130,0",Lager F,Lager E
+090,Anzahl der Artikel überprüfen,2024-03-05 01:10:29,Qualitätskontrolle,Emilia Wagner,"3,72",Procter & Gamble,Produkt H,"130,0",Lager J,Lager B
+090,Verpackung prüfen,2024-03-05 01:56:29,Qualitätskontrolle,Emilia Wagner,"5,05",Procter & Gamble,Produkt H,"130,0",Lager I,Lager B
+090,Paket zur Warenausgabe bringen,2024-03-05 02:45:29,Warenausgang,David Meyer,"6,39",Procter & Gamble,Produkt H,"130,0",Lager C,Lager A
+090,Zahlungsabwicklung durchführen,2024-03-05 03:07:29,Warenausgang,Emma Weber,"7,33",Procter & Gamble,Produkt H,"130,0",Lager J,Lager I
+090,Paket an Kunde übergeben,2024-03-05 03:32:29,Warenausgang,Sophia Lang,"6,13",Procter & Gamble,Produkt H,"130,0",Lager A,Lager C
+090,Bestellstatus im System ändern,2024-03-05 04:31:29,Warenausgang,Luca Huber,"1,23",Procter & Gamble,Produkt H,"130,0",Lager J,Lager C
+091,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,41",Procter & Gamble,Produkt B,"120,0",Lager F,Lager I
+091,Kunden-Daten in System übertragen,2024-03-04 21:03:29,Auftragsannahme,Sarah Schmidt,"3,62",Procter & Gamble,Produkt B,"120,0",Lager D,Lager B
+091,Zahlvorgang abschließen,2024-03-04 21:08:29,Auftragsannahme,Lena Mueller,"3,78",Procter & Gamble,Produkt B,"120,0",Lager C,Lager B
+091,Bestellung im System eintragen,2024-03-04 21:29:29,Auftragsannahme,Max Mustermann,"6,89",Procter & Gamble,Produkt B,"120,0",Lager G,Lager D
+091,Lagerbestand überprüfen,2024-03-04 21:57:29,Bestandsverwaltung,Nico Schmidt,"2,56",Procter & Gamble,Produkt B,"120,0",Lager I,Lager J
+091,Auftragsabwicklung im System starten,2024-03-04 21:58:29,Bestandsverwaltung,Paul Zimmer,"9,02",Procter & Gamble,Produkt B,"120,0",Lager C,Lager H
+091,Artikel zusammenstellen,2024-03-04 22:09:29,Lager,Mia Schmitt,"5,61",Procter & Gamble,Produkt B,"120,0",Lager B,Lager E
+091,Ware verpacken,2024-03-04 22:48:29,Lager,Jonas Richter,"4,73",Procter & Gamble,Produkt B,"120,0",Lager H,Lager A
+091,Gewicht prüfen,2024-03-04 23:13:29,Qualitätskontrolle,Emilia Wagner,"2,08",Procter & Gamble,Produkt B,"120,0",Lager H,Lager J
+091,Anzahl der Artikel überprüfen,2024-03-04 23:39:29,Qualitätskontrolle,Emilia Wagner,"4,8",Procter & Gamble,Produkt B,"120,0",Lager G,Lager E
+091,Verpackung prüfen,2024-03-05 00:32:29,Qualitätskontrolle,Hannah Meyer,"6,98",Procter & Gamble,Produkt B,"120,0",Lager C,Lager F
+091,Paket zur Warenausgabe bringen,2024-03-05 00:45:29,Warenausgang,Luca Huber,"7,69",Procter & Gamble,Produkt B,"120,0",Lager F,Lager I
+091,Paket an Kunde übergeben,2024-03-05 01:22:29,Warenausgang,Emma Weber,"8,42",Procter & Gamble,Produkt B,"120,0",Lager A,Lager I
+091,Bestellstatus im System ändern,2024-03-05 01:51:29,Warenausgang,Luca Huber,"1,02",Procter & Gamble,Produkt B,"120,0",Lager B,Lager F
+092,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"2,99",Intel,Produkt T,"85,0",Lager F,Lager E
+092,Kunden-Daten in System übertragen,2024-03-04 21:22:29,Auftragsannahme,Max Mustermann,"2,88",Intel,Produkt T,"85,0",Lager G,Lager B
+092,Zahlvorgang abschließen,2024-03-04 21:44:29,Auftragsannahme,Max Mustermann,"5,73",Intel,Produkt T,"85,0",Lager J,Lager J
+092,Bestellung im System eintragen,2024-03-04 22:33:29,Auftragsannahme,Lena Mueller,"4,45",Intel,Produkt T,"85,0",Lager J,Lager H
+092,Lagerbestand überprüfen,2024-03-04 22:47:29,Bestandsverwaltung,Nico Schmidt,"2,18",Intel,Produkt T,"85,0",Lager D,Lager J
+092,Auftragsabwicklung im System starten,2024-03-04 22:54:29,Bestandsverwaltung,Lisa Mueller,"7,81",Intel,Produkt T,"85,0",Lager J,Lager A
+092,Artikel zusammenstellen,2024-03-04 22:57:29,Lager,Jonas Richter,"5,31",Intel,Produkt T,"85,0",Lager A,Lager F
+092,Ware verpacken,2024-03-04 23:00:29,Lager,Mia Schmitt,"5,77",Intel,Produkt T,"85,0",Lager E,Lager D
+092,Gewicht prüfen,2024-03-04 23:47:29,Qualitätskontrolle,Emilia Wagner,"2,91",Intel,Produkt T,"85,0",Lager C,Lager J
+092,Anzahl der Artikel überprüfen,2024-03-05 00:16:29,Qualitätskontrolle,Noah Becker,"4,18",Intel,Produkt T,"85,0",Lager J,Lager J
+092,Verpackung prüfen,2024-03-05 01:04:29,Qualitätskontrolle,Noah Becker,"5,57",Intel,Produkt T,"85,0",Lager C,Lager J
+092,Informationen an Transporteur übermitteln,2024-03-05 01:57:29,Warenausgang,David Meyer,"11,18",Intel,Produkt T,"85,0",Lager J,Lager D
+092,Paket an Transporteur übergeben,2024-03-05 02:16:29,Warenausgang,Luca Huber,"11,4",Intel,Produkt T,"85,0",Lager E,Lager D
+092,Bestellstatus im System ändern,2024-03-05 02:17:29,Warenausgang,Leonie Richter,"1,03",Intel,Produkt T,"85,0",Lager E,Lager A
+093,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,0",Ford Motor,Produkt Q,"110,0",Lager A,Lager D
+093,Kunden-Daten in System übertragen,2024-03-04 20:48:29,Auftragsannahme,Lena Mueller,"4,39",Ford Motor,Produkt Q,"110,0",Lager G,Lager A
+093,Zahlvorgang abschließen,2024-03-04 21:41:29,Auftragsannahme,Sarah Schmidt,"5,65",Ford Motor,Produkt Q,"110,0",Lager G,Lager D
+093,Bestellung im System eintragen,2024-03-04 21:57:29,Auftragsannahme,Sarah Schmidt,"4,4",Ford Motor,Produkt Q,"110,0",Lager B,Lager D
+093,Lagerbestand überprüfen,2024-03-04 22:33:29,Bestandsverwaltung,Nico Schmidt,"2,71",Ford Motor,Produkt Q,"110,0",Lager F,Lager C
+093,Auftragsabwicklung im System starten,2024-03-04 22:57:29,Bestandsverwaltung,Lisa Mueller,"9,25",Ford Motor,Produkt Q,"110,0",Lager I,Lager B
+093,Artikel zusammenstellen,2024-03-04 23:03:29,Lager,Jonas Richter,"2,56",Ford Motor,Produkt Q,"110,0",Lager F,Lager A
+093,Ware verpacken,2024-03-04 23:21:29,Lager,Jonas Richter,"6,25",Ford Motor,Produkt Q,"110,0",Lager G,Lager C
+093,Gewicht prüfen,2024-03-05 00:20:29,Qualitätskontrolle,Noah Becker,"1,18",Ford Motor,Produkt Q,"110,0",Lager H,Lager B
+093,Anzahl der Artikel überprüfen,2024-03-05 00:59:29,Qualitätskontrolle,Emilia Wagner,"4,78",Ford Motor,Produkt Q,"110,0",Lager B,Lager I
+093,Verpackung prüfen,2024-03-05 01:28:29,Qualitätskontrolle,Hannah Meyer,"3,87",Ford Motor,Produkt Q,"110,0",Lager F,Lager H
+093,Paket zur Warenausgabe bringen,2024-03-05 01:55:29,Warenausgang,Luca Huber,"8,58",Ford Motor,Produkt Q,"110,0",Lager H,Lager H
+093,Zahlungsabwicklung durchführen,2024-03-05 02:50:29,Warenausgang,David Meyer,"7,47",Ford Motor,Produkt Q,"110,0",Lager A,Lager C
+093,Paket an Kunde übergeben,2024-03-05 03:07:29,Warenausgang,Luca Huber,"8,71",Ford Motor,Produkt Q,"110,0",Lager D,Lager H
+093,Bestellstatus im System ändern,2024-03-05 04:04:29,Warenausgang,Luca Huber,"1,42",Ford Motor,Produkt Q,"110,0",Lager B,Lager C
+094,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,62",Airbus,Produkt O,"120,0",Lager I,Lager I
+094,Kunden-Daten in System übertragen,2024-03-04 21:30:29,Auftragsannahme,Max Mustermann,"4,55",Airbus,Produkt O,"120,0",Lager D,Lager D
+094,Zahlvorgang abschließen,2024-03-04 22:03:29,Auftragsannahme,Timo Wagner,"4,75",Airbus,Produkt O,"120,0",Lager B,Lager C
+094,Bestellung im System eintragen,2024-03-04 22:19:29,Auftragsannahme,Max Mustermann,"4,63",Airbus,Produkt O,"120,0",Lager I,Lager A
+094,Lagerbestand überprüfen,2024-03-04 22:51:29,Bestandsverwaltung,Nico Schmidt,"1,47",Airbus,Produkt O,"120,0",Lager F,Lager B
+094,Auftragsabwicklung im System starten,2024-03-04 23:47:29,Bestandsverwaltung,Laura Fischer,"7,98",Airbus,Produkt O,"120,0",Lager E,Lager D
+094,Artikel zusammenstellen,2024-03-05 00:17:29,Lager,Mia Schmitt,"2,72",Airbus,Produkt O,"120,0",Lager B,Lager F
+094,Ware verpacken,2024-03-05 01:08:29,Lager,Jonas Richter,"7,38",Airbus,Produkt O,"120,0",Lager D,Lager J
+094,Gewicht prüfen,2024-03-05 01:47:29,Qualitätskontrolle,Hannah Meyer,"1,26",Airbus,Produkt O,"120,0",Lager D,Lager I
+094,Anzahl der Artikel überprüfen,2024-03-05 02:24:29,Qualitätskontrolle,Hannah Meyer,"4,73",Airbus,Produkt O,"120,0",Lager C,Lager E
+094,Verpackung prüfen,2024-03-05 02:49:29,Qualitätskontrolle,Emilia Wagner,"4,91",Airbus,Produkt O,"120,0",Lager J,Lager A
+094,Paket zur Warenausgabe bringen,2024-03-05 03:31:29,Warenausgang,Emma Weber,"5,89",Airbus,Produkt O,"120,0",Lager I,Lager J
+094,Paket an Kunde übergeben,2024-03-05 03:45:29,Warenausgang,Luca Huber,"9,59",Airbus,Produkt O,"120,0",Lager D,Lager J
+094,Bestellstatus im System ändern,2024-03-05 04:04:29,Warenausgang,Luca Huber,"2,07",Airbus,Produkt O,"120,0",Lager H,Lager J
+095,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,43",Boeing,Produkt A,"100,0",Lager D,Lager D
+095,Kunden-Daten in System übertragen,2024-03-04 21:09:29,Auftragsannahme,Timo Wagner,"2,37",Boeing,Produkt A,"100,0",Lager B,Lager F
+095,Zahlvorgang abschließen,2024-03-04 21:15:29,Auftragsannahme,Lisa Schulz,"4,97",Boeing,Produkt A,"100,0",Lager J,Lager D
+095,Bestellung im System eintragen,2024-03-04 21:27:29,Auftragsannahme,Lena Mueller,"5,75",Boeing,Produkt A,"100,0",Lager F,Lager G
+095,Lagerbestand überprüfen,2024-03-04 22:05:29,Bestandsverwaltung,Lisa Mueller,"2,84",Boeing,Produkt A,"100,0",Lager G,Lager D
+095,Auftragsabwicklung im System starten,2024-03-04 23:01:29,Bestandsverwaltung,Jan Becker,"6,47",Boeing,Produkt A,"100,0",Lager J,Lager G
+095,Artikel zusammenstellen,2024-03-04 23:41:29,Lager,Jonas Richter,"5,03",Boeing,Produkt A,"100,0",Lager A,Lager G
+095,Ware verpacken,2024-03-05 00:26:29,Lager,Jonas Richter,"6,88",Boeing,Produkt A,"100,0",Lager J,Lager B
+095,Gewicht prüfen,2024-03-05 00:49:29,Qualitätskontrolle,Noah Becker,"2,91",Boeing,Produkt A,"100,0",Lager I,Lager G
+095,Anzahl der Artikel überprüfen,2024-03-05 01:01:29,Qualitätskontrolle,Emilia Wagner,"3,38",Boeing,Produkt A,"100,0",Lager I,Lager E
+095,Verpackung prüfen,2024-03-05 01:05:29,Qualitätskontrolle,Emilia Wagner,"4,22",Boeing,Produkt A,"100,0",Lager F,Lager C
+095,Paket zur Warenausgabe bringen,2024-03-05 01:20:29,Warenausgang,David Meyer,"5,64",Boeing,Produkt A,"100,0",Lager I,Lager F
+095,Zahlungsabwicklung durchführen,2024-03-05 02:15:29,Warenausgang,Leonie Richter,"8,78",Boeing,Produkt A,"100,0",Lager B,Lager D
+095,Paket an Kunde übergeben,2024-03-05 02:46:29,Warenausgang,Luca Huber,"7,28",Boeing,Produkt A,"100,0",Lager E,Lager B
+095,Bestellstatus im System ändern,2024-03-05 03:12:29,Warenausgang,David Meyer,"1,18",Boeing,Produkt A,"100,0",Lager E,Lager G
+096,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Sarah Schmidt,"1,63",PepsiCo,Produkt G,"95,0",Lager F,Lager A
+096,Kunden-Daten in System übertragen,2024-03-04 20:46:29,Auftragsannahme,Sarah Schmidt,"4,24",PepsiCo,Produkt G,"95,0",Lager F,Lager A
+096,Zahlvorgang abschließen,2024-03-04 21:20:29,Auftragsannahme,Lena Mueller,"5,37",PepsiCo,Produkt G,"95,0",Lager I,Lager I
+096,Bestellung im System eintragen,2024-03-04 21:29:29,Auftragsannahme,Timo Wagner,"7,73",PepsiCo,Produkt G,"95,0",Lager D,Lager F
+096,Lagerbestand überprüfen,2024-03-04 21:33:29,Bestandsverwaltung,Paul Zimmer,"2,35",PepsiCo,Produkt G,"95,0",Lager H,Lager I
+096,Auftragsabwicklung im System starten,2024-03-04 22:15:29,Bestandsverwaltung,Laura Fischer,"6,98",PepsiCo,Produkt G,"95,0",Lager D,Lager B
+096,Artikel zusammenstellen,2024-03-04 23:08:29,Lager,Jonas Richter,"2,52",PepsiCo,Produkt G,"95,0",Lager A,Lager G
+096,Ware verpacken,2024-03-05 00:00:29,Lager,Jonas Richter,"5,6",PepsiCo,Produkt G,"95,0",Lager H,Lager G
+096,Gewicht prüfen,2024-03-05 00:29:29,Qualitätskontrolle,Emilia Wagner,"2,28",PepsiCo,Produkt G,"95,0",Lager A,Lager A
+096,Anzahl der Artikel überprüfen,2024-03-05 01:21:29,Qualitätskontrolle,Emilia Wagner,"4,27",PepsiCo,Produkt G,"95,0",Lager G,Lager G
+096,Verpackung prüfen,2024-03-05 01:44:29,Qualitätskontrolle,Noah Becker,"4,48",PepsiCo,Produkt G,"95,0",Lager D,Lager F
+096,Informationen an Transporteur übermitteln,2024-03-05 02:35:29,Warenausgang,Emma Weber,"10,14",PepsiCo,Produkt G,"95,0",Lager H,Lager B
+096,Paket an Transporteur übergeben,2024-03-05 02:46:29,Warenausgang,Emma Weber,"6,77",PepsiCo,Produkt G,"95,0",Lager J,Lager H
+096,Bestellstatus im System ändern,2024-03-05 03:44:29,Warenausgang,Luca Huber,"1,61",PepsiCo,Produkt G,"95,0",Lager D,Lager F
+097,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"2,83",Hitachi,Produkt D,"70,0",Lager D,Lager B
+097,Kunden-Daten in System übertragen,2024-03-04 21:22:29,Auftragsannahme,Timo Wagner,"3,73",Hitachi,Produkt D,"70,0",Lager C,Lager C
+097,Zahlvorgang abschließen,2024-03-04 21:53:29,Auftragsannahme,Sarah Schmidt,"4,96",Hitachi,Produkt D,"70,0",Lager E,Lager B
+097,Bestellung im System eintragen,2024-03-04 22:12:29,Auftragsannahme,Max Mustermann,"7,17",Hitachi,Produkt D,"70,0",Lager J,Lager E
+097,Lagerbestand überprüfen,2024-03-04 22:18:29,Bestandsverwaltung,Paul Zimmer,"2,4",Hitachi,Produkt D,"70,0",Lager D,Lager B
+097,Auftragsabwicklung im System starten,2024-03-04 23:06:29,Bestandsverwaltung,Lisa Mueller,"9,98",Hitachi,Produkt D,"70,0",Lager D,Lager B
+097,Artikel zusammenstellen,2024-03-04 23:59:29,Lager,Mia Schmitt,"5,47",Hitachi,Produkt D,"70,0",Lager C,Lager G
+097,Ware verpacken,2024-03-05 00:59:29,Lager,Jonas Richter,"6,94",Hitachi,Produkt D,"70,0",Lager A,Lager I
+097,Gewicht prüfen,2024-03-05 01:31:29,Qualitätskontrolle,Emilia Wagner,"1,78",Hitachi,Produkt D,"70,0",Lager A,Lager C
+097,Anzahl der Artikel überprüfen,2024-03-05 01:54:29,Qualitätskontrolle,Emilia Wagner,"3,3",Hitachi,Produkt D,"70,0",Lager D,Lager I
+097,Verpackung prüfen,2024-03-05 02:07:29,Qualitätskontrolle,Hannah Meyer,"5,54",Hitachi,Produkt D,"70,0",Lager A,Lager A
+097,Paket zur Warenausgabe bringen,2024-03-05 02:39:29,Warenausgang,Leonie Richter,"7,5",Hitachi,Produkt D,"70,0",Lager G,Lager C
+097,Paket an Kunde übergeben,2024-03-05 03:30:29,Warenausgang,Emma Weber,"9,97",Hitachi,Produkt D,"70,0",Lager C,Lager H
+097,Bestellstatus im System ändern,2024-03-05 03:52:29,Warenausgang,Leonie Richter,"2,4",Hitachi,Produkt D,"70,0",Lager B,Lager D
+098,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Lena Mueller,"1,21",Toyota,Produkt R,"130,0",Lager I,Lager F
+098,Kunden-Daten in System übertragen,2024-03-04 20:44:29,Auftragsannahme,Lena Mueller,"4,9",Toyota,Produkt R,"130,0",Lager B,Lager B
+098,Zahlvorgang abschließen,2024-03-04 21:44:29,Auftragsannahme,Sarah Schmidt,"5,67",Toyota,Produkt R,"130,0",Lager B,Lager H
+098,Bestellung im System eintragen,2024-03-04 21:46:29,Auftragsannahme,Max Mustermann,"5,81",Toyota,Produkt R,"130,0",Lager B,Lager H
+098,Lagerbestand überprüfen,2024-03-04 22:27:29,Bestandsverwaltung,Laura Fischer,"2,68",Toyota,Produkt R,"130,0",Lager B,Lager G
+098,Auftragsabwicklung im System starten,2024-03-04 22:55:29,Bestandsverwaltung,Paul Zimmer,"5,63",Toyota,Produkt R,"130,0",Lager A,Lager C
+098,Artikel zusammenstellen,2024-03-04 23:11:29,Lager,Jonas Richter,"4,74",Toyota,Produkt R,"130,0",Lager G,Lager F
+098,Ware verpacken,2024-03-05 00:11:29,Lager,Jonas Richter,"5,14",Toyota,Produkt R,"130,0",Lager C,Lager C
+098,Gewicht prüfen,2024-03-05 01:08:29,Qualitätskontrolle,Hannah Meyer,"1,89",Toyota,Produkt R,"130,0",Lager G,Lager E
+098,Anzahl der Artikel überprüfen,2024-03-05 01:35:29,Qualitätskontrolle,Noah Becker,"2,7",Toyota,Produkt R,"130,0",Lager F,Lager B
+098,Verpackung prüfen,2024-03-05 02:33:29,Qualitätskontrolle,Emilia Wagner,"3,13",Toyota,Produkt R,"130,0",Lager H,Lager G
+098,Paket zur Warenausgabe bringen,2024-03-05 03:14:29,Warenausgang,Luca Huber,"4,59",Toyota,Produkt R,"130,0",Lager I,Lager G
+098,Paket an Kunde übergeben,2024-03-05 03:20:29,Warenausgang,Leonie Richter,"9,29",Toyota,Produkt R,"130,0",Lager G,Lager I
+098,Bestellstatus im System ändern,2024-03-05 04:00:29,Warenausgang,Emma Weber,"2,21",Toyota,Produkt R,"130,0",Lager I,Lager I
+099,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"1,84",Ford Motor,Produkt Q,"110,0",Lager F,Lager J
+099,Kunden-Daten in System übertragen,2024-03-04 21:21:29,Auftragsannahme,Max Mustermann,"2,63",Ford Motor,Produkt Q,"110,0",Lager E,Lager G
+099,Zahlvorgang abschließen,2024-03-04 22:00:29,Auftragsannahme,Sarah Schmidt,"5,15",Ford Motor,Produkt Q,"110,0",Lager G,Lager C
+099,Bestellung im System eintragen,2024-03-04 22:43:29,Auftragsannahme,Lisa Schulz,"5,83",Ford Motor,Produkt Q,"110,0",Lager A,Lager E
+099,Lagerbestand überprüfen,2024-03-04 23:12:29,Bestandsverwaltung,Laura Fischer,"1,52",Ford Motor,Produkt Q,"110,0",Lager J,Lager E
+099,Auftragsabwicklung im System starten,2024-03-04 23:14:29,Bestandsverwaltung,Lisa Mueller,"9,51",Ford Motor,Produkt Q,"110,0",Lager H,Lager J
+099,Artikel zusammenstellen,2024-03-04 23:42:29,Lager,Jonas Richter,"5,99",Ford Motor,Produkt Q,"110,0",Lager H,Lager F
+099,Ware verpacken,2024-03-04 23:57:29,Lager,Jonas Richter,"4,69",Ford Motor,Produkt Q,"110,0",Lager H,Lager C
+099,Gewicht prüfen,2024-03-05 00:33:29,Qualitätskontrolle,Emilia Wagner,"1,74",Ford Motor,Produkt Q,"110,0",Lager C,Lager J
+099,Anzahl der Artikel überprüfen,2024-03-05 01:25:29,Qualitätskontrolle,Hannah Meyer,"2,68",Ford Motor,Produkt Q,"110,0",Lager G,Lager G
+099,Verpackung prüfen,2024-03-05 01:53:29,Qualitätskontrolle,Emilia Wagner,"5,03",Ford Motor,Produkt Q,"110,0",Lager F,Lager F
+099,Paket zur Warenausgabe bringen,2024-03-05 02:29:29,Warenausgang,David Meyer,"8,31",Ford Motor,Produkt Q,"110,0",Lager J,Lager E
+099,Paket an Kunde übergeben,2024-03-05 03:00:29,Warenausgang,Emma Weber,"7,84",Ford Motor,Produkt Q,"110,0",Lager A,Lager G
+099,Bestellstatus im System ändern,2024-03-05 03:59:29,Warenausgang,Sophia Lang,"2,75",Ford Motor,Produkt Q,"110,0",Lager F,Lager C
+100,Kunden-Daten aufnehmen,2024-03-04 20:42:29,Auftragsannahme,Timo Wagner,"2,8",Sony,Produkt Q,"110,0",Lager C,Lager H
+100,Kunden-Daten in System übertragen,2024-03-04 21:11:29,Auftragsannahme,Max Mustermann,"3,15",Sony,Produkt Q,"110,0",Lager J,Lager I
+100,Zahlvorgang abschließen,2024-03-04 21:46:29,Auftragsannahme,Max Mustermann,"5,63",Sony,Produkt Q,"110,0",Lager H,Lager B
+100,Bestellung im System eintragen,2024-03-04 22:26:29,Auftragsannahme,Max Mustermann,"5,57",Sony,Produkt Q,"110,0",Lager H,Lager D
+100,Lagerbestand überprüfen,2024-03-04 23:21:29,Bestandsverwaltung,Laura Fischer,"1,89",Sony,Produkt Q,"110,0",Lager H,Lager E
+100,Auftragsabwicklung im System starten,2024-03-04 23:44:29,Bestandsverwaltung,Lisa Mueller,"5,7",Sony,Produkt Q,"110,0",Lager E,Lager D
+100,Artikel zusammenstellen,2024-03-05 00:30:29,Lager,Mia Schmitt,"5,09",Sony,Produkt Q,"110,0",Lager I,Lager A
+100,Ware verpacken,2024-03-05 01:25:29,Lager,Jonas Richter,"5,09",Sony,Produkt Q,"110,0",Lager D,Lager C
+100,Gewicht prüfen,2024-03-05 01:27:29,Qualitätskontrolle,Emilia Wagner,"1,22",Sony,Produkt Q,"110,0",Lager B,Lager J
+100,Anzahl der Artikel überprüfen,2024-03-05 02:26:29,Qualitätskontrolle,Hannah Meyer,"3,41",Sony,Produkt Q,"110,0",Lager I,Lager E
+100,Verpackung prüfen,2024-03-05 02:29:29,Qualitätskontrolle,Emilia Wagner,"4,18",Sony,Produkt Q,"110,0",Lager D,Lager B
+100,Paket zur Warenausgabe bringen,2024-03-05 03:19:29,Warenausgang,Sophia Lang,"8,37",Sony,Produkt Q,"110,0",Lager B,Lager I
+100,Zahlungsabwicklung durchführen,2024-03-05 03:59:29,Warenausgang,Emma Weber,"11,02",Sony,Produkt Q,"110,0",Lager F,Lager G
+100,Paket an Kunde übergeben,2024-03-05 04:59:29,Warenausgang,Emma Weber,"5,28",Sony,Produkt Q,"110,0",Lager B,Lager I
+100,Bestellstatus im System ändern,2024-03-05 05:28:29,Warenausgang,David Meyer,"2,76",Sony,Produkt Q,"110,0",Lager I,Lager E

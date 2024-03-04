@@ -190,6 +190,20 @@ abteilungen_zuordnung = {
     ]
 }
 
+# Definition der Zuordnung von Abteilungen zu spezifischen Personen
+abteilungen_personen_zuordnung = {
+    "Auftragsannahme": ["Max Mustermann", "Sarah Schmidt", "Lena Mueller", "Timo Wagner", "Lisa Schulz"],
+    "Bestandsverwaltung": ["Jan Becker", "Laura Fischer", "Paul Zimmer", "Lisa Mueller", "Nico Schmidt"],
+    "Warenausgang": ["Emma Weber", "Leonie Richter", "David Meyer", "Sophia Lang", "Luca Huber"],
+    "Lager": ["Mia Schmitt", "Jonas Richter"],
+    "Qualitätskontrolle": ["Emilia Wagner", "Noah Becker", "Hannah Meyer"],
+}
+
+# Ich definiere eine Hilfsfunktion, um die ausführende Person basierend auf der Abteilung zu ermitteln.
+def ermittle_person(abteilung):
+    return random.choice(abteilungen_personen_zuordnung.get(abteilung, []))
+
+
 # Ich definiere eine Hilfsfunktion, um die Abteilung basierend auf der Aktivität zu ermitteln.
 def ermittle_abteilung(aktivitaet):
     for abteilung, aktivitaeten in abteilungen_zuordnung.items():
@@ -211,36 +225,29 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     for i in range(1, num_events + 1):
         case_number = str(i).zfill(3)
         selected_path = random.choice(list(paths.values()))
-        # Für jeden Fall ein Produkt und einen Kunden auswählen
         product_tuple = random.choice(products)
         product_name, product_price = product_tuple
-        # Ersetze Punkt durch Komma für die Ausgabe in der CSV-Datei
         product_price_for_csv = str(product_price).replace(".", ",")
         customer = random.choice(customers)
 
         timestamp = datetime.now()
-        for activity in selected_path:  # Durchlaufe die Aktivitäten des ausgewählten Pfades
-            person = random.choice(people)
+        for activity in selected_path:
+            abteilung = ermittle_abteilung(activity)  # Ermittle die Abteilung für die aktuelle Aktivität
+            person = ermittle_person(abteilung)  # Ermittle die ausführende Person basierend auf der Abteilung
+
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
-            abteilung = ermittle_abteilung(activity)  # Ermittle die Abteilung für die aktuelle Aktivität
-
-            # Kostenrahmen für die aktuelle Aktivität
             min_cost, max_cost = activity_costs.get(activity, (1, 10))
-            # Zufällige Kosten innerhalb des Kostenrahmens generieren
             cost = round(random.uniform(min_cost, max_cost), 2)
             cost_for_csv = str(cost).replace(".", ",")
-            # Speichern / Schreiben in CSV-Datei, inklusive der Abteilung
+
             writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, pickup_location, delivery_location])
 
-            # Zeitstempel für die nächste Aktivität inkrementieren
             timestamp += timedelta(minutes=random.randint(1, 60))
 
-    # Speichern der aktualisierten Revisionsnummer in der JSON-Datei
     with open(revision_file_path, 'w') as file:
         json.dump({'revision_number': revision_number}, file)
-        logging.debug(f"Revisionsnummer aktualisiert und gespeichert: {revision_number}")
+    logging.debug(f"Revisionsnummer aktualisiert und gespeichert: {revision_number}")
 
-# Fertigstellungslog
 print(f"Die CSV-Datei 'event_log_rev{revision_number}.csv' wurde erfolgreich erstellt.")
 logging.debug(f"CSV-Datei erfolgreich erstellt: event_log_rev{revision_number}.csv")
