@@ -116,35 +116,35 @@ locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "
 
 # Kostenrahmen für jede Aktivität
 activity_costs = {
-    "Kunden-Daten aufnehmen": (1, 3),
-    "Kunden-Daten in System übertragen": (2, 5),
-    "Zahlvorgang abschließen": (3, 7),
+    "Kunden-Daten aufnehmen": (2, 4),
+    "Kunden-Daten in System übertragen": (1, 3),
+    "Zahlvorgang abschließen": (2, 3),
     "Bestellung im System eintragen": (4, 9),
-    "Lagerbestand überprüfen": (1, 3),
-    "Auftragsabwicklung im System starten": (5, 10),
-    "Artikel zusammenstellen": (2, 6),
+    "Lagerbestand überprüfen": (2, 8),
+    "Auftragsabwicklung im System starten": (3, 6),
+    "Artikel zusammenstellen": (8, 15),
     "Ware verpacken": (3, 8),
     "Gewicht prüfen": (1, 3),
     "Anzahl der Artikel überprüfen": (2, 5),
-    "Verpackung prüfen": (3, 7),
+    "Verpackung prüfen": (2, 4),
     "Paket zur Warenausgabe bringen": (4, 9),
-    "Paket an Kunde übergeben": (5, 10),
+    "Paket an Kunde übergeben": (2, 3),
     "Bestellstatus im System ändern": (1, 3),
-    "Zahlungsabwicklung durchführen": (6, 12),
-    "Informationen an Transporteur übermitteln": (6, 12),
+    "Zahlungsabwicklung durchführen": (2, 3),
+    "Informationen an Transporteur übermitteln": (2, 6),
     "Paket an Transporteur übergeben": (6, 12),
-    "Bezahlaufforderung an Kunde schicken": (6, 12),
-    "Fehler im System eintrgen": (6, 12),
-    "Bestandsverwaltung informieren": (6, 12),
-    "Versicherungs-Bescheinigung dazulegen": (6, 12),
-    "Artikel bestellen": (6, 12),
-    "Information an Kunde über verspätetet Lieferzeit verschicken": (6, 12),
-    "Kunden-Daten abfragen (automatische Übertragung ins System)": (6, 12),
-    "Rechnungsadesse aufnehmen": (6, 12),
-    "Rechnungsadesse im System eintragen": (6, 12),
-    "Fehlende Daten ermitteln": (6, 12),
+    "Bezahlaufforderung an Kunde schicken": (1, 3),
+    "Fehler im System eintragen": (5, 8),
+    "Bestandsverwaltung informieren": (2, 4),
+    "Versicherungs-Bescheinigung dazulegen": (1, 2),
+    "Artikel bestellen": (6, 9),
+    "Information an Kunde über verspätetet Lieferzeit verschicken": (1, 3),
+    "Kunden-Daten abfragen (automatische Übertragung ins System)": (3, 7),
+    "Rechnungsadesse aufnehmen": (1, 2),
+    "Rechnungsadesse im System eintragen": (1, 3),
+    "Fehlende Daten ermitteln": (5, 8),
     "Kunden bzgl. fehlender Daten anschreiben": (6, 12),
-    "Vollständigkeit der Daten prüfen": (6, 12)
+    "Vollständigkeit der Daten prüfen": (4, 8)
 }
 
 # Zuerst lege ich die Zuordnung der Aktivitäten zu den Abteilungen fest.
@@ -199,6 +199,39 @@ abteilungen_personen_zuordnung = {
     "Qualitätskontrolle": ["Emilia Wagner", "Noah Becker", "Hannah Meyer"],
 }
 
+# Aktivitätsabhängige Ortszuordnungen
+aktivitaetsabhaengige_orte = {
+    "Kunden-Daten aufnehmen": ["Schalter"],
+    "Kunden-Daten in System übertragen": ["online"],
+    "Zahlvorgang abschließen": ["Schalter"],
+    "Bestellung im System eintragen": ["online"],
+    "Lagerbestand überprüfen": ["online"],
+    "Auftragsabwicklung im System starten": ["online"],
+    "Artikel zusammenstellen": ["Lager A", "Lager B", "Lager C"],
+    "Ware verpacken": ["Lager C"],
+    "Gewicht prüfen": ["Lager C"],
+    "Anzahl der Artikel überprüfen": ["Lager C"],
+    "Verpackung prüfen": ["Lager C"],
+    "Paket zur Warenausgabe bringen": ["Warenausgabe 1", "Warenausgabe 2"],
+    "Paket an Kunde übergeben": ["Warenausgabe 1", "Warenausgabe 2"],
+    "Bestellstatus im System ändern": ["online"],
+    "Zahlungsabwicklung durchführen": ["Warenausgabe 1", "Warenausgabe 2"],
+    "Informationen an Transporteur übermitteln": ["online"],
+    "Paket an Transporteur übergeben": ["Warenausgabe 3"],
+    "Bezahlaufforderung an Kunde schicken": ["online"],
+    "Fehler im System eintragen": ["online"],
+    "Bestandsverwaltung informieren": ["online"],
+    "Versicherungs-Bescheinigung dazulegen": ["Lager C"],
+    "Artikel bestellen": ["online"],
+    "Information an Kunde über verspätetet Lieferzeit verschicken": ["online"],
+    "Kunden-Daten abfragen (automatische Übertragung ins System)": ["online"],
+    "Rechnungsadesse aufnehmen": ["Schalter"],
+    "Rechnungsadesse im System eintragen": ["online"],
+    "Fehlende Daten ermitteln": ["online"],
+    "Kunden bzgl. fehlender Daten anschreiben": ["online"],
+    "Vollständigkeit der Daten prüfen": ["online"],
+}
+
 # Ich definiere eine Hilfsfunktion, um die ausführende Person basierend auf der Abteilung zu ermitteln.
 def ermittle_person(abteilung):
     return random.choice(abteilungen_personen_zuordnung.get(abteilung, []))
@@ -220,7 +253,8 @@ revision_number += 1
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
-    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Abteilung", "Ausführende Person", "Kosten (EUR)", "Kunde", "Transportiertes Gut", "Produktpreis (EUR)", "Abnahmeort", "Abgabeort"])
+    # Aktualisierte Spaltenüberschriften
+    writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Abteilung", "Ausführende Person", "Kosten (EUR)", "Kunde", "Transportiertes Gut", "Produktpreis (EUR)", "Ort"])
 
     for i in range(1, num_events + 1):
         case_number = str(i).zfill(3)
@@ -232,16 +266,15 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
 
         timestamp = datetime.now()
         for activity in selected_path:
-            abteilung = ermittle_abteilung(activity)  # Ermittle die Abteilung für die aktuelle Aktivität
-            person = ermittle_person(abteilung)  # Ermittle die ausführende Person basierend auf der Abteilung
-
-            pickup_location = random.choice(locations)
-            delivery_location = random.choice(locations)
+            abteilung = ermittle_abteilung(activity)
+            person = ermittle_person(abteilung)
             min_cost, max_cost = activity_costs.get(activity, (1, 10))
             cost = round(random.uniform(min_cost, max_cost), 2)
             cost_for_csv = str(cost).replace(".", ",")
+            ort = random.choice(aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"]))
 
-            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, pickup_location, delivery_location])
+            # Aktualisierte Zeilendaten ohne "Abnahmeort" und "Abgabeort", stattdessen "Ort"
+            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, ort])
 
             timestamp += timedelta(minutes=random.randint(1, 60))
 
