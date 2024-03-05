@@ -74,12 +74,6 @@ paths = {
     ],
 }
 
-# Liste von Personen ohne Umlaute
-people = ["Max Mustermann", "Sarah Schmidt", "Lena Mueller", "Timo Wagner", "Lisa Schulz",
-          "Jan Becker", "Laura Fischer", "Paul Zimmer", "Lisa Mueller", "Nico Schmidt",
-          "Emma Weber", "Leonie Richter", "David Meyer", "Sophia Lang", "Luca Huber",
-          "Mia Schmitt", "Jonas Richter", "Emilia Wagner", "Noah Becker", "Hannah Meyer"]
-
 # Liste von Produkten und ihren Preisen
 products = [("Produkt A", 100.00), ("Produkt B", 120.00), ("Produkt C", 80.00), ("Produkt D", 70.00),
             ("Produkt E", 150.00), ("Produkt F", 110.00), ("Produkt G", 95.00), ("Produkt H", 130.00),
