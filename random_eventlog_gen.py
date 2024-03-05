@@ -244,6 +244,20 @@ def ermittle_abteilung(aktivitaet):
             return abteilung
     return "Unbekannt"
 
+
+# Zuordnung von Warenausgabe für jede Fallnummer
+warenausgabe_zuordnung = {}
+
+def ermittle_ort(activity, case_number):
+    if activity in ["Paket zur Warenausgabe bringen", "Paket an Kunde übergeben", "Zahlungsabwicklung durchführen"]:
+        if case_number not in warenausgabe_zuordnung:
+            warenausgabe_zuordnung[case_number] = random.choice(["Warenausgabe 1", "Warenausgabe 2"])
+        return warenausgabe_zuordnung[case_number]
+    else:
+        ort_options = aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"])
+        return random.choice(ort_options)
+
+
 # Anzahl der Ereignisse
 num_events = 100
 
@@ -271,7 +285,7 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
             min_cost, max_cost = activity_costs.get(activity, (1, 10))
             cost = round(random.uniform(min_cost, max_cost), 2)
             cost_for_csv = str(cost).replace(".", ",")
-            ort = random.choice(aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"]))
+            ort = ermittle_ort(activity, case_number)
 
             # Aktualisierte Zeilendaten ohne "Abnahmeort" und "Abgabeort", stattdessen "Ort"
             writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, ort])
