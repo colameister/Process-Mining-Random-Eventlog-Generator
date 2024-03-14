@@ -939,8 +939,11 @@ gegenteil_warenausgabe = {"Warenausgabe 1": "Warenausgabe 2", "Warenausgabe 2": 
 
 
 # Ich definiere eine Hilfsfunktion, um die ausführende Person basierend auf der Abteilung zu ermitteln.
-def ermittle_person(abteilung):
-    return random.choice(abteilungen_personen_zuordnung.get(abteilung, []))
+def ermittle_person(abteilung, case_number, abteilung_person_zuweisung):
+    if abteilung in ["Qualitätskontrolle", "Warenausgang"] and case_number in abteilung_person_zuweisung[abteilung]:
+        return abteilung_person_zuweisung[abteilung][case_number]
+    else:
+        return random.choice(abteilungen_personen_zuordnung[abteilung])
 
 
 # Ich definiere eine Hilfsfunktion, um die Abteilung basierend auf der Aktivität zu ermitteln.
@@ -984,7 +987,7 @@ def naechster_zeitstempel(startzeit):
 
 # Funktion zur Einstellung eines Startzeitpunkts für jede neue Fallnummer mit zufälliger Abweichung
 def startzeit_fuer_neue_fallnummer(basiszeit):
-    abweichung = random.randint(-5, 5)  # Zufällige Abweichung von bis zu +/- 5 Minuten
+    abweichung = random.randint(-5, 15)  # Zufällige Abweichung von bis zu +/- 5 Minuten
     neue_startzeit = basiszeit + timedelta(minutes=abweichung)
     if 8 <= neue_startzeit.hour < 17:
         return neue_startzeit
@@ -1006,6 +1009,8 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     basiszeit = datetime.now().replace(hour=8, minute=0, second=0, microsecond=0)  # Initialer Startzeitpunkt
     startzeit = basiszeit
 
+    abteilung_person_zuweisung = {"Qualitätskontrolle": {}, "Warenausgang": {}}
+
     for i in range(1, num_events + 1):
         if i > 1:  # Für die zweite und jede weitere Fallnummer die Startzeit anpassen
             startzeit = startzeit_fuer_neue_fallnummer(basiszeit)
@@ -1020,7 +1025,9 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
 
         for activity in selected_path:
             abteilung = ermittle_abteilung(activity)
-            person = ermittle_person(abteilung)
+            person = ermittle_person(abteilung, case_number, abteilung_person_zuweisung)
+            if abteilung in ["Qualitätskontrolle", "Warenausgang"]:
+                abteilung_person_zuweisung[abteilung][case_number] = person
             min_cost, max_cost = activity_costs.get(activity, (1, 10))
             cost = round(random.uniform(min_cost, max_cost), 2)
             cost_for_csv = str(cost).replace(".", ",")
