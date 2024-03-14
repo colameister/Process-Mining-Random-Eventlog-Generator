@@ -974,6 +974,24 @@ def ermittle_ort(activity, case_number):
     return warenausgabe_zuordnung.get(case_number, random.choice(aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"])))
 
 
+# Funktion zur Generierung des nächsten Zeitstempels innerhalb der Arbeitszeiten
+def naechster_zeitstempel(startzeit):
+    if startzeit.hour >= 17:
+        return datetime(startzeit.year, startzeit.month, startzeit.day, 8, 0) + timedelta(days=1)
+    else:
+        return startzeit
+
+
+# Funktion zur Einstellung eines Startzeitpunkts für jede neue Fallnummer mit zufälliger Abweichung
+def startzeit_fuer_neue_fallnummer(basiszeit):
+    abweichung = random.randint(-5, 5)  # Zufällige Abweichung von bis zu +/- 5 Minuten
+    neue_startzeit = basiszeit + timedelta(minutes=abweichung)
+    if 8 <= neue_startzeit.hour < 17:
+        return neue_startzeit
+    else:
+        return basiszeit.replace(hour=8, minute=0) + timedelta(days=1)
+
+
 # Anzahl der Ereignisse
 num_events = 100
 
@@ -983,10 +1001,16 @@ revision_number += 1
 # CSV-Datei öffnen und schreiben
 with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
-    # Aktualisierte Spaltenüberschriften
     writer.writerow(["Fallnummer", "Aktivität", "Zeitstempel", "Abteilung", "Ausführende Person", "Kosten (EUR)", "Kunde", "Transportiertes Gut", "Produktpreis (EUR)", "Ort"])
 
+    basiszeit = datetime.now().replace(hour=8, minute=0, second=0, microsecond=0)  # Initialer Startzeitpunkt
+    startzeit = basiszeit
+
     for i in range(1, num_events + 1):
+        if i > 1:  # Für die zweite und jede weitere Fallnummer die Startzeit anpassen
+            startzeit = startzeit_fuer_neue_fallnummer(basiszeit)
+            basiszeit = startzeit  # Aktualisiere die Basiszeit für die nächste Iteration
+
         case_number = str(i).zfill(3)
         selected_path = random.choice(list(paths.values()))
         product_tuple = random.choice(products)
@@ -994,7 +1018,6 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
         product_price_for_csv = str(product_price).replace(".", ",")
         customer = random.choice(customers)
 
-        timestamp = datetime.now()
         for activity in selected_path:
             abteilung = ermittle_abteilung(activity)
             person = ermittle_person(abteilung)
@@ -1003,10 +1026,10 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
             cost_for_csv = str(cost).replace(".", ",")
             ort = ermittle_ort(activity, case_number)
 
-            # Aktualisierte Zeilendaten ohne "Abnahmeort" und "Abgabeort", stattdessen "Ort"
-            writer.writerow([case_number, activity, timestamp.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, ort])
+            writer.writerow([case_number, activity, startzeit.strftime("%Y-%m-%d %H:%M:%S"), abteilung, person, cost_for_csv, customer, product_name, product_price_for_csv, ort])
 
-            timestamp += timedelta(minutes=random.randint(1, 60))
+            startzeit += timedelta(minutes=random.randint(1, 60))  # Inkrementiere den Zeitstempel für die nächste Aktivität
+            startzeit = naechster_zeitstempel(startzeit)  # Stelle sicher, dass der Zeitstempel innerhalb der Arbeitszeiten liegt
 
     with open(revision_file_path, 'w') as file:
         json.dump({'revision_number': revision_number}, file)
