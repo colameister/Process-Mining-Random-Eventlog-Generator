@@ -25,6 +25,7 @@ except FileNotFoundError:
 paths = {
     'Custom Pfad 1': [  # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -41,6 +42,7 @@ paths = {
     ],
     'Custom Pfad 2': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -58,6 +60,8 @@ paths = {
     ],
     'Custom Pfad 3': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -74,6 +78,7 @@ paths = {
     ],
     'Custom Pfad 4': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -91,6 +96,7 @@ paths = {
     ],
      'Custom Pfad 5': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde noch nicht bezahlt, dopplete Nachfrage notwendig)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -109,6 +115,8 @@ paths = {
     ],
     'Custom Pfad 6': [  # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -134,6 +142,7 @@ paths = {
     ],
    'Custom Pfad 7': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -160,6 +169,7 @@ paths = {
     ],
     'Custom Pfad 8': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung nein) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -185,6 +195,8 @@ paths = {
     ],
     'Custom Pfad 9': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung nein) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -211,6 +223,7 @@ paths = {
     ],
     'Custom Pfad 10': [  # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert über 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -228,6 +241,7 @@ paths = {
     ],
     'Custom Pfad 11': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert über 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -246,6 +260,7 @@ paths = {
     ],
     'Custom Pfad 12': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert über EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -263,6 +278,8 @@ paths = {
     ],
     'Custom Pfad 13': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Alle Artikel vorhanden) (Warenwert über 50 EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -281,6 +298,7 @@ paths = {
     ],
      'Custom Pfad 14': [  # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Nicht alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -299,6 +317,7 @@ paths = {
     ],
     'Custom Pfad 15': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Nicht alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -318,6 +337,8 @@ paths = {
     ],
     'Custom Pfad 16': [  # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Nicht alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -345,6 +366,7 @@ paths = {
     ],
     'Custom Pfad 17': [ # (Kunde bestellt im Laden) (Kunde bezahlt direkt) (Nicht alle Artikel vorhanden) (Warenwert über EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -451,6 +473,7 @@ paths = {
     ],
      'Custom Pfad 23': [  # (Kunde bestellt im Laden) (Kunde bezahlt nicht direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Rechnungsadesse aufnehmen",
         "Rechnungsadesse im System eintragen",
@@ -468,6 +491,8 @@ paths = {
     ],
     'Custom Pfad 24': [ # (Kunde bestellt im Laden) (Kunde bezahlt nicht direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht Bestellung) (Selbstabholung nein) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Rechnungsadesse aufnehmen",
         "Rechnungsadesse im System eintragen",
@@ -486,6 +511,7 @@ paths = {
     ],
     'Custom Pfad 25': [ # (Kunde bestellt im Laden) (Kunde bezahlt nicht direkt) (Alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung nein) (Kunde noch nicht bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Rechnungsadesse aufnehmen",
         "Rechnungsadesse im System eintragen",
@@ -513,6 +539,7 @@ paths = {
     ],
     'Custom Pfad 26': [  # (Kunde bestellt im Laden) (Kunde bezahlt nicht direkt) (Nicht alle Artikel vorhanden) (Warenwert unter 50 EUR) (Ware entspricht nicht Bestellung; erneuter Durchlauf) (Selbstabholung) (Kunde schon bezahlt)
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
         "Kunden-Daten in System übertragen",
         "Rechnungsadesse aufnehmen",
         "Rechnungsadesse im System eintragen",
@@ -733,12 +760,12 @@ customers = [
     "Sony",             # Elektronik
 ]
 
-# Liste von Abnahme- und Abgabeorten
-locations = ["Lager A", "Lager B", "Lager C", "Lager D", "Lager E", "Lager F", "Lager G", "Lager H", "Lager I", "Lager J"]
 
 # Kostenrahmen für jede Aktivität
 activity_costs = {
-    "Kunden-Daten aufnehmen": (2, 4),
+    "Kunden-Daten aufnehmen": (2, 5),
+    "Kunden-Daten auf Richtigkeit prüfen": (1, 2),
+    "Kunden-Daten korrigieren": (2, 4),
     "Kunden-Daten in System übertragen": (1, 3),
     "Zahlvorgang abschließen": (2, 3),
     "Bestellung im System eintragen": (4, 9),
@@ -773,6 +800,8 @@ activity_costs = {
 abteilungen_zuordnung = {
     "Auftragsannahme": [
         "Kunden-Daten aufnehmen",
+        "Kunden-Daten auf Richtigkeit prüfen",
+        "Kunden-Daten korrigieren",
         "Kunden-Daten in System übertragen",
         "Zahlvorgang abschließen",
         "Bestellung im System eintragen",
@@ -824,6 +853,8 @@ abteilungen_personen_zuordnung = {
 # Aktivitätsabhängige Ortszuordnungen
 aktivitaetsabhaengige_orte = {
     "Kunden-Daten aufnehmen": ["Schalter"],
+    "Kunden-Daten auf Richtigkeit prüfen": ["Schalter"],
+    "Kunden-Daten korrigieren": ["Schalter"],
     "Kunden-Daten in System übertragen": ["online"],
     "Zahlvorgang abschließen": ["Schalter"],
     "Bestellung im System eintragen": ["online"],
