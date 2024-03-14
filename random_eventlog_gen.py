@@ -673,6 +673,7 @@ paths = {
         "Alte Verpackung entfernen",
         "Ware neu verpacken",
         "Paket zur Warenausgabe bringen",
+        "Paket zur anderen Warenausgabe bringen",
         "Paket an Kunde übergeben",
         "Bestellstatus im System ändern"
     ],
@@ -689,6 +690,7 @@ paths = {
         "Anzahl der Artikel überprüfen",
         "Verpackung prüfen",
         "Paket zur Warenausgabe bringen",
+        "Paket zur anderen Warenausgabe bringen",
         "Paket an Kunde übergeben",
         "Bestellstatus im System ändern"
     ],
@@ -810,6 +812,7 @@ activity_costs = {
     "Alte Verpackung entfernen": (2, 6),
     "Ware neu verpacken": (3, 8),
     "Paket zur Warenausgabe bringen": (4, 9),
+    "Paket zur anderen Warenausgabe bringen": (3, 6),
     "Paket an Kunde übergeben": (2, 3),
     "Bestellstatus im System ändern": (1, 3),
     "Zahlungsabwicklung durchführen": (2, 3),
@@ -871,6 +874,7 @@ abteilungen_zuordnung = {
     ],
     "Warenausgang": [
         "Paket zur Warenausgabe bringen",
+        "Paket zur anderen Warenausgabe bringen",
         "Paket an Kunde übergeben",
         "Bestellstatus im System ändern",
         "Zahlungsabwicklung durchführen",
@@ -907,6 +911,7 @@ aktivitaetsabhaengige_orte = {
     "Alte Verpackung entfernen": ["Lager C"],
     "Ware neu verpacken": ["Lager C"],
     "Paket zur Warenausgabe bringen": ["Warenausgabe 1", "Warenausgabe 2"],
+    "Paket zur anderen Warenausgabe bringen": ["Warenausgabe 1", "Warenausgabe 2"],
     "Paket an Kunde übergeben": ["Warenausgabe 1", "Warenausgabe 2"],
     "Bestellstatus im System ändern": ["online"],
     "Zahlungsabwicklung durchführen": ["Warenausgabe 1", "Warenausgabe 2"],
@@ -928,6 +933,11 @@ aktivitaetsabhaengige_orte = {
     "Vollständigkeit der Daten prüfen": ["online"],
 }
 
+
+warenausgabe_zuordnung = {}
+gegenteil_warenausgabe = {"Warenausgabe 1": "Warenausgabe 2", "Warenausgabe 2": "Warenausgabe 1"}
+
+
 # Ich definiere eine Hilfsfunktion, um die ausführende Person basierend auf der Abteilung zu ermitteln.
 def ermittle_person(abteilung):
     return random.choice(abteilungen_personen_zuordnung.get(abteilung, []))
@@ -944,14 +954,24 @@ def ermittle_abteilung(aktivitaet):
 # Zuordnung von Warenausgabe für jede Fallnummer
 warenausgabe_zuordnung = {}
 
+
 def ermittle_ort(activity, case_number):
-    if activity in ["Paket zur Warenausgabe bringen", "Paket an Kunde übergeben", "Zahlungsabwicklung durchführen"]:
+    global warenausgabe_zuordnung
+    if activity == "Paket zur anderen Warenausgabe bringen":
+        if case_number in warenausgabe_zuordnung:
+            # Wählen Sie den gegenteiligen Ort zu dem bereits festgelegten
+            warenausgabe_zuordnung[case_number] = gegenteil_warenausgabe[warenausgabe_zuordnung[case_number]]
+        else:
+            # Wenn "Paket zur anderen Warenausgabe bringen" die erste Aktivität ist, wählen Sie zufällig
+            warenausgabe_zuordnung[case_number] = random.choice(list(gegenteil_warenausgabe.keys()))
+    elif activity in ["Paket zur Warenausgabe bringen", "Paket an Kunde übergeben", "Zahlungsabwicklung durchführen"]:
         if case_number not in warenausgabe_zuordnung:
             warenausgabe_zuordnung[case_number] = random.choice(["Warenausgabe 1", "Warenausgabe 2"])
-        return warenausgabe_zuordnung[case_number]
     else:
-        ort_options = aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"])
-        return random.choice(ort_options)
+        if case_number in warenausgabe_zuordnung and activity not in aktivitaetsabhaengige_orte:
+            # Nach der "Paket zur anderen Warenausgabe bringen" Aktivität, verwenden Sie den festgelegten Ort
+            return warenausgabe_zuordnung[case_number]
+    return warenausgabe_zuordnung.get(case_number, random.choice(aktivitaetsabhaengige_orte.get(activity, ["Unbekannt"])))
 
 
 # Anzahl der Ereignisse
