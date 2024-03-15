@@ -940,7 +940,9 @@ gegenteil_warenausgabe = {"Warenausgabe 1": "Warenausgabe 2", "Warenausgabe 2": 
 
 # Ich definiere eine Hilfsfunktion, um die ausführende Person basierend auf der Abteilung zu ermitteln.
 def ermittle_person(abteilung, case_number, abteilung_person_zuweisung):
-    if abteilung in ["Qualitätskontrolle", "Warenausgang"] and case_number in abteilung_person_zuweisung[abteilung]:
+    if abteilung in ["Qualitätskontrolle", "Warenausgang", "Auftragsannahme"]:
+        if case_number not in abteilung_person_zuweisung[abteilung]:
+            abteilung_person_zuweisung[abteilung][case_number] = random.choice(abteilungen_personen_zuordnung[abteilung])
         return abteilung_person_zuweisung[abteilung][case_number]
     else:
         return random.choice(abteilungen_personen_zuordnung[abteilung])
@@ -1009,7 +1011,7 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
     basiszeit = datetime.now().replace(hour=8, minute=0, second=0, microsecond=0)  # Initialer Startzeitpunkt
     startzeit = basiszeit
 
-    abteilung_person_zuweisung = {"Qualitätskontrolle": {}, "Warenausgang": {}}
+    abteilung_person_zuweisung = {"Qualitätskontrolle": {}, "Warenausgang": {}, "Auftragsannahme": {}}
 
     for i in range(1, num_events + 1):
         if i > 1:  # Für die zweite und jede weitere Fallnummer die Startzeit anpassen
