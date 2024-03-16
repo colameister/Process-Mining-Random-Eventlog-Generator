@@ -17,8 +17,8 @@ try:
         revision_number = data['revision_number']
     logging.debug(f"Aktuelle Revisionsnummer geladen: {revision_number}")
 except FileNotFoundError:
-    # Falls die Datei nicht existiert, starte mit bestimmter Revision
-    revision_number = 10
+    # Falls die Datei nicht existiert, starte mit Revisionsnummer 1
+    revision_number = 1
     logging.debug("Revision_file_path nicht gefunden.")
 
 # Definierte logische Pfade
