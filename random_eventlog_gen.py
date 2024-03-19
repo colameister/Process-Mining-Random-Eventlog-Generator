@@ -1022,6 +1022,7 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
         selected_path = random.choice(list(paths.values()))
         product_tuple = random.choice(products)
         product_name, product_price = product_tuple
+        # Ersetze Punkt durch Komma für die Ausgabe in der CSV-Datei
         product_price_for_csv = str(product_price).replace(".", ",")
         customer = random.choice(customers)
 
@@ -1031,6 +1032,7 @@ with open(f"event_log_rev{revision_number}.csv", mode="w", newline="") as file:
             if abteilung in ["Qualitätskontrolle", "Warenausgang"]:
                 abteilung_person_zuweisung[abteilung][case_number] = person
             min_cost, max_cost = activity_costs.get(activity, (1, 10))
+            # Zufällige Kosten innerhalb des Kostenrahmens generieren
             cost = round(random.uniform(min_cost, max_cost), 2)
             cost_for_csv = str(cost).replace(".", ",")
             ort = ermittle_ort(activity, case_number)
