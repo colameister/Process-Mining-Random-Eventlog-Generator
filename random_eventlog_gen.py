@@ -934,7 +934,6 @@ aktivitaetsabhaengige_orte = {
 }
 
 
-warenausgabe_zuordnung = {}
 gegenteil_warenausgabe = {"Warenausgabe 1": "Warenausgabe 2", "Warenausgabe 2": "Warenausgabe 1"}
 
 
